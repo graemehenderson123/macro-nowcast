@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.env
+.streamlit/secrets.toml
+*.sqlite
+*.sqlite-journal
+*.png
+dashboard.html
+charts/
+.DS_Store
