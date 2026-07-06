@@ -90,15 +90,18 @@ def _resolve_fetch_ids(specs: list[dict]) -> list[str]:
 
 def build():
     print("[INFLATION] fetching series...")
+    from nowcast_core import get_released_at
     con = init_cache()
 
     fetch_ids = _resolve_fetch_ids(HARD_SERIES + SOFT_SERIES)
     raw: dict[str, pd.Series] = {}
+    released: dict[str, str | None] = {}
     for fid in fetch_ids:
         print(f"  {fid}")
         s = fetch_series(fid, con, required=False)
         if s is not None and not s.empty:
             raw[fid] = s
+            released[fid] = get_released_at(con, fid)
 
     def survives(spec):
         fid = spec.get("source_id", spec["id"])
@@ -150,6 +153,7 @@ def build():
         "hard_specs": hard_specs,
         "soft_specs": soft_specs,
         "raw": raw,
+        "released": released,
         "labels": labels,
     }
     _draw_charts(result)

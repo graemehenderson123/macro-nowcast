@@ -62,13 +62,16 @@ def init_cache() -> sqlite3.Connection:
       series_id TEXT PRIMARY KEY,
       last_fetched TEXT,
       last_obs_date TEXT,
-      status TEXT
+      status TEXT,
+      released_at TEXT   -- FRED series-level last_updated (when the value hit FRED)
     );
     """)
-    # Ensure status column exists on old caches
+    # Ensure columns exist on old caches (schema evolution)
     cols = [r[1] for r in con.execute("PRAGMA table_info(meta)").fetchall()]
     if "status" not in cols:
         con.execute("ALTER TABLE meta ADD COLUMN status TEXT")
+    if "released_at" not in cols:
+        con.execute("ALTER TABLE meta ADD COLUMN released_at TEXT")
     con.commit()
     return con
 
@@ -144,15 +147,37 @@ def fetch_series(series_id: str, con: sqlite3.Connection, start: str = "2005-01-
     rows = [(series_id, o["date"], float(o["value"])) for o in data if o["value"] not in (".", "")]
     if rows:
         con.executemany("INSERT OR REPLACE INTO obs VALUES (?,?,?)", rows)
+
+    # Fetch series-level metadata (last_updated = actual release timestamp)
+    released_at = None
+    try:
+        meta_url = "https://api.stlouisfed.org/fred/series"
+        mr = requests.get(meta_url, params={
+            "series_id": series_id, "api_key": FRED_KEY, "file_type": "json"
+        }, timeout=15)
+        if mr.ok:
+            info = mr.json().get("seriess", [])
+            if info:
+                # e.g. "2026-07-02 08:31:46-05"
+                released_at = info[0].get("last_updated")
+    except requests.RequestException:
+        pass  # non-fatal, released_at just stays None
+
     con.execute(
-        "INSERT OR REPLACE INTO meta VALUES (?,?,?,?)",
+        "INSERT OR REPLACE INTO meta (series_id, last_fetched, last_obs_date, status, released_at) VALUES (?,?,?,?,?)",
         (series_id, dt.datetime.utcnow().isoformat(),
-         rows[-1][1] if rows else last_obs, "ok"),
+         rows[-1][1] if rows else last_obs, "ok", released_at),
     )
     con.commit()
     # small delay to be polite (~120/min limit)
     time.sleep(0.05)
     return load_from_cache()
+
+
+def get_released_at(con: sqlite3.Connection, series_id: str) -> str | None:
+    """Return FRED's last_updated timestamp (release time) for a series, if known."""
+    row = con.execute("SELECT released_at FROM meta WHERE series_id=?", (series_id,)).fetchone()
+    return row[0] if row and row[0] else None
 
 # ---------------------------------------------------------------------------
 def _apply_transform(s: pd.Series, transform: str) -> pd.Series:

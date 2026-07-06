@@ -73,6 +73,40 @@ def _staleness(res: dict, spec: dict) -> str:
     return raw.dropna().index[-1].strftime("%Y-%m-%d")
 
 
+def _released(res: dict, spec: dict) -> str:
+    """When FRED published this value — the real 'freshness' indicator.
+    Distinct from _staleness which is the observation *reference* date."""
+    sid = spec.get("source_id", spec["id"])
+    ts = (res.get("released") or {}).get(sid)
+    if not ts:
+        return "—"
+    # FRED format: '2026-07-02 08:31:46-05'
+    try:
+        # keep the date portion only for the table
+        return ts.split(" ")[0]
+    except Exception:
+        return str(ts)[:10]
+
+
+def _release_age_days(res: dict, spec: dict) -> float:
+    sid = spec.get("source_id", spec["id"])
+    ts = (res.get("released") or {}).get(sid)
+    if not ts:
+        return float("nan")
+    try:
+        # Strip TZ offset from '2026-07-02 08:31:46-05' -> '2026-07-02 08:31:46'
+        core_ts = ts.split("+")[0].split("-")
+        # rejoin YMD-HMS but drop trailing TZ block after the T-H:M:S
+        # simplest: use pandas which handles the format fine
+        parsed = pd.to_datetime(ts, utc=True, errors="coerce")
+        if pd.isna(parsed):
+            return float("nan")
+        now = pd.Timestamp.utcnow()
+        return float((now - parsed).total_seconds() / 86400.0)
+    except Exception:
+        return float("nan")
+
+
 def _movers(res: dict, n: int = 5) -> list[dict]:
     z_now = {sid: _latest(s)[0] for sid, s in res["component_z"].items()}
     z_prev = {sid: _z_4w_ago(s) for sid, s in res["component_z"].items()}
@@ -180,6 +214,7 @@ def _render_components(res: dict, tail_days: int | None, pillar_color: str, key_
         sid = spec["id"]
         zv, _ = _latest(res["component_z"].get(sid, pd.Series(dtype=float)))
         sub = "Hard" if spec in res["hard_specs"] else "Soft"
+        age = _release_age_days(res, spec)
         rows.append({
             "Sub": sub,
             "Series": spec["label"],
@@ -187,20 +222,38 @@ def _render_components(res: dict, tail_days: int | None, pillar_color: str, key_
             "Sign": "+" if spec["sign"] > 0 else "−",
             "Weight": spec.get("weight_norm", 0) * 100,
             "Z": zv,
-            "Last obs": _staleness(res, spec),
+            "Obs date": _staleness(res, spec),
+            "Released": _released(res, spec),
+            "Age (d)": age,
             "_id": sid,
             "_label": spec["label"],
         })
     df = pd.DataFrame(rows)
 
     st.markdown("#### All components")
+    st.caption(
+        "**Obs date** = observation reference (FRED stamps monthly series as first-of-month, e.g. `2026-06-01` for June). "
+        "**Released** = when FRED published it (the actual freshness). "
+        "**Age (d)** = days since release; green ≤ 7d, amber 8-30d, red > 30d."
+    )
     display = df.drop(columns=["_id", "_label"]).copy()
+
+    def _age_style(v):
+        if not isinstance(v, (int, float)) or pd.isna(v):
+            return ""
+        if v <= 7:
+            return "background-color:#d1fae5;color:#065f46;font-weight:600"  # green
+        if v <= 30:
+            return "background-color:#fef3c7;color:#92400e;font-weight:600"  # amber
+        return "background-color:#fee2e2;color:#991b1b;font-weight:600"       # red
+
     st.dataframe(
         display.style
-              .format({"Weight": "{:.1f}%", "Z": "{:+.2f}σ"})
+              .format({"Weight": "{:.1f}%", "Z": "{:+.2f}σ", "Age (d)": "{:.1f}"})
               .map(lambda v: "color:#2c7a7b;font-weight:600" if isinstance(v, (int, float)) and v > 0.25
                             else ("color:#c0392b;font-weight:600" if isinstance(v, (int, float)) and v < -0.25 else ""),
-                   subset=["Z"]),
+                   subset=["Z"])
+              .map(_age_style, subset=["Age (d)"]),
         use_container_width=True,
         hide_index=True,
         height=min(38 * (len(display) + 1) + 10, 420),

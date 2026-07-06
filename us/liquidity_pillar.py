@@ -44,13 +44,16 @@ MKT_SERIES = [
 
 def build():
     print("[LIQUIDITY] fetching series...")
+    from nowcast_core import get_released_at
     con = init_cache()
     raw: dict[str, pd.Series] = {}
+    released: dict[str, str | None] = {}
     for spec in FED_SERIES + MKT_SERIES:
         print(f"  {spec['id']:12}")
         s = fetch_series(spec["id"], con, required=False)
         if s is not None and not s.empty:
             raw[spec["id"]] = s
+            released[spec["id"]] = get_released_at(con, spec["id"])
 
     fed_specs = [s for s in FED_SERIES if s["id"] in raw]
     mkt_specs = [s for s in MKT_SERIES if s["id"] in raw]
@@ -103,6 +106,7 @@ def build():
         "hard_specs": fed_specs,
         "soft_specs": mkt_specs,
         "raw": raw,
+        "released": released,
         "labels": labels,
         "net_fed_liquidity": net_fed,
     }

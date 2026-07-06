@@ -102,20 +102,24 @@ SOFT_SERIES: list[dict] = [
 
 def build():
     print("[GROWTH] fetching series...")
+    from nowcast_core import get_released_at
     con = init_cache()
     hard_raw = {}
     soft_raw = {}
+    released = {}   # series_id -> ISO datetime string (FRED last_updated)
 
     for spec in HARD_SERIES:
         print(f"  [hard] {spec['id']:20} {spec['label']}")
         s = fetch_series(spec["id"], con, required=False)
         if s is not None and not s.empty:
             hard_raw[spec["id"]] = s
+            released[spec["id"]] = get_released_at(con, spec["id"])
     for spec in SOFT_SERIES:
         print(f"  [soft] {spec['id']:20} {spec['label']}")
         s = fetch_series(spec["id"], con, required=False)
         if s is not None and not s.empty:
             soft_raw[spec["id"]] = s
+            released[spec["id"]] = get_released_at(con, spec["id"])
 
     # Keep only specs that survived the fetch
     hard_specs = [s for s in HARD_SERIES if s["id"] in hard_raw]
@@ -160,6 +164,7 @@ def build():
         "hard_specs": hard_specs,
         "soft_specs": soft_specs,
         "raw": {**hard_raw, **soft_raw},
+        "released": released,
         "labels": labels,
     }
     _draw_charts(result)
