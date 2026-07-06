@@ -10,12 +10,15 @@ from typing import Iterable
 
 # ---------------------------------------------------------------------------
 # 5-band gradient for `surprise_score` (in σ, roughly ±3σ range).
+# Thresholds locked by Graeme 6 Jul 2026:
 #
 #   z < -1.5       deep green  (very dovish surprise)
-#   -1.5 ≤ z < -0.5 green       (dovish surprise)
-#   -0.5 ≤ z ≤ 0.5 grey        (neutral)
-#    0.5 < z ≤ 1.5 red         (hawkish surprise)
-#    z > 1.5       deep red    (very hawkish surprise)
+#   -1.5 ≤ z < -1.0 green       (dovish surprise)
+#   -1.0 ≤ z ≤ 1.0 grey         (neutral)
+#    1.0 < z ≤ 1.5 red          (hawkish surprise)
+#    z > 1.5       deep red     (very hawkish surprise)
+#
+# Repricing-risk banner fires when |z| > 1.5 (the "extreme" bands).
 # ---------------------------------------------------------------------------
 BAND_DEEP_DOVE = "#166534"
 BAND_DOVE = "#16a34a"
@@ -31,17 +34,22 @@ CARD_BG_EMPTY = "#f3f4f6"
 CARD_BORDER = "#e5e7eb"
 
 
+# Band thresholds — change here if the calibration ever needs revisiting.
+NEUTRAL_THRESHOLD = 1.0     # |z| ≤ this  → neutral grey
+EXTREME_THRESHOLD = 1.5     # |z| >  this  → deep band (very hawk/dove) + repricing-risk banner
+
+
 def band_color(z: float | None) -> str:
     """Return hex colour for a `surprise_score` in σ."""
     if z is None or (isinstance(z, float) and math.isnan(z)):
         return BAND_NEUTRAL
-    if z < -1.5:
+    if z < -EXTREME_THRESHOLD:
         return BAND_DEEP_DOVE
-    if z < -0.5:
+    if z < -NEUTRAL_THRESHOLD:
         return BAND_DOVE
-    if z <= 0.5:
+    if z <= NEUTRAL_THRESHOLD:
         return BAND_NEUTRAL
-    if z <= 1.5:
+    if z <= EXTREME_THRESHOLD:
         return BAND_HAWK
     return BAND_DEEP_HAWK
 
@@ -49,13 +57,13 @@ def band_color(z: float | None) -> str:
 def band_label(z: float | None) -> str:
     if z is None or (isinstance(z, float) and math.isnan(z)):
         return "no data"
-    if z < -1.5:
+    if z < -EXTREME_THRESHOLD:
         return "very dovish surprise"
-    if z < -0.5:
+    if z < -NEUTRAL_THRESHOLD:
         return "dovish surprise"
-    if z <= 0.5:
+    if z <= NEUTRAL_THRESHOLD:
         return "neutral"
-    if z <= 1.5:
+    if z <= EXTREME_THRESHOLD:
         return "hawkish surprise"
     return "very hawkish surprise"
 

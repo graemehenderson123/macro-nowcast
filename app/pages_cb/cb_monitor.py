@@ -19,6 +19,7 @@ import streamlit as st
 
 from shared.cb_theme import (
     CB_CSS,
+    EXTREME_THRESHOLD,
     band_color,
     band_label,
     commentary_label,
@@ -206,8 +207,8 @@ def _render_live_card(cb: dict, snap: dict) -> None:
                 height=min(38 * (len(df) + 1) + 10, 320),
             )
 
-    # Reprice-risk banner if |surprise| > 1
-    if abs(surprise) > 1.0:
+    # Reprice-risk banner if |surprise| > EXTREME_THRESHOLD (i.e. in the deep bands)
+    if abs(surprise) > EXTREME_THRESHOLD:
         st.markdown(
             "<div class='cb-banner'>⚠ Market repricing risk — surprise magnitude high</div>",
             unsafe_allow_html=True,
@@ -288,8 +289,8 @@ member X sounded more hawkish/dovish than usual", which is where markets
 actually reprice.
 
 **Colour bands.**
-`< −1.5σ` deep green (very dovish) · `−1.5…−0.5` green (dovish) ·
-`−0.5…+0.5` grey (neutral) · `+0.5…+1.5` red (hawkish) · `> +1.5σ` deep red
+`< −1.5σ` deep green (very dovish) · `−1.5…−1.0` green (dovish) ·
+`−1.0…+1.0` grey (neutral) · `+1.0…+1.5` red (hawkish) · `> +1.5σ` deep red
 (very hawkish).
 
 **Direction of travel.** Arrow + `Δ 14d` compare current surprise to
@@ -298,7 +299,7 @@ actually reprice.
 **Absolute score.** The `commentary_score` (unadjusted stance, ±5) — useful
 to know whether the CB is *hawkish at all* vs just hawkish *for them*.
 
-**Banner.** When `|surprise| > 1.0σ` we flag repricing risk — historically
+**Banner.** When `|surprise| > 1.5σ` we flag repricing risk — historically
 where curves and FX pairs have moved most.
             """
         )
@@ -312,7 +313,7 @@ where curves and FX pairs have moved most.
             index=0,
         )
     with c2:
-        only_big = st.toggle("Show only |surprise| > 1σ", value=False)
+        only_big = st.toggle("Show only |surprise| > 1.5σ", value=False)
     with c3:
         if st.button("↻ Refresh", use_container_width=True):
             # bump cache bust so @st.cache_data misses
@@ -334,7 +335,7 @@ where curves and FX pairs have moved most.
         snap = e["snap"]
         if snap is None:
             return False
-        return abs(float(snap.get("surprise_score", 0.0))) > 1.0
+        return abs(float(snap.get("surprise_score", 0.0))) > EXTREME_THRESHOLD
 
     entries = [e for e in entries if _keep(e)]
     entries.sort(key=lambda e: _card_sort_key(e, sort_mode))
