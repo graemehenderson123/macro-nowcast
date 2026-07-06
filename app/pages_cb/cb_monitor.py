@@ -37,16 +37,16 @@ DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 # snapshot file render live; the rest render as placeholders.
 # ---------------------------------------------------------------------------
 CB_REGISTRY: list[dict] = [
-    {"code": "fed",     "label": "FED",       "flag": "🇺🇸", "snapshot": "fed_stance.json", "status": "live"},
-    {"code": "ecb",     "label": "ECB",       "flag": "🇪🇺", "snapshot": None, "status": "soon"},
-    {"code": "boe",     "label": "BOE",       "flag": "🇬🇧", "snapshot": None, "status": "soon"},
-    {"code": "boj",     "label": "BOJ",       "flag": "🇯🇵", "snapshot": None, "status": "soon"},
-    {"code": "rba",     "label": "RBA",       "flag": "🇦🇺", "snapshot": None, "status": "soon"},
-    {"code": "rbnz",    "label": "RBNZ",      "flag": "🇳🇿", "snapshot": None, "status": "soon"},
-    {"code": "boc",     "label": "BOC",       "flag": "🇨🇦", "snapshot": None, "status": "soon"},
-    {"code": "snb",     "label": "SNB",       "flag": "🇨🇭", "snapshot": None, "status": "soon"},
-    {"code": "riksbank","label": "RIKSBANK",  "flag": "🇸🇪", "snapshot": None, "status": "soon"},
-    {"code": "norges",  "label": "NORGES",    "flag": "🇳🇴", "snapshot": None, "status": "soon"},
+    {"code": "fed",     "label": "FED",       "flag": "🇺🇸", "snapshot": "fed_stance.json",      "status": "live"},
+    {"code": "ecb",     "label": "ECB",       "flag": "🇪🇺", "snapshot": "ecb_stance.json",      "status": "live"},
+    {"code": "boe",     "label": "BOE",       "flag": "🇬🇧", "snapshot": "boe_stance.json",      "status": "live"},
+    {"code": "boj",     "label": "BOJ",       "flag": "🇯🇵", "snapshot": "boj_stance.json",      "status": "live"},
+    {"code": "rba",     "label": "RBA",       "flag": "🇦🇺", "snapshot": "rba_stance.json",      "status": "live"},
+    {"code": "rbnz",    "label": "RBNZ",      "flag": "🇳🇿", "snapshot": "rbnz_stance.json",     "status": "live"},
+    {"code": "boc",     "label": "BOC",       "flag": "🇨🇦", "snapshot": "boc_stance.json",      "status": "live"},
+    {"code": "snb",     "label": "SNB",       "flag": "🇨🇭", "snapshot": "snb_stance.json",      "status": "live"},
+    {"code": "riksbank","label": "RIKSBANK",  "flag": "🇸🇪", "snapshot": "riksbank_stance.json", "status": "live"},
+    {"code": "norges",  "label": "NORGES",    "flag": "🇳🇴", "snapshot": "norges_stance.json",   "status": "live"},
 ]
 
 

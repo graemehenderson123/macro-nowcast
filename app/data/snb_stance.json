@@ -1,11 +1,11 @@
 {
-  "cb": "fed",
-  "as_of": "2026-07-06T11:37:50.171452+00:00",
-  "commentary_score": 0.766,
-  "surprise_score": 0.065,
-  "label": "neutral",
-  "n_items_14d": 27,
-  "n_items_total": 57,
+  "cb": "snb",
+  "as_of": "2026-07-06T11:37:50.478637+00:00",
+  "commentary_score": 0.515,
+  "surprise_score": 2.015,
+  "label": "hawkish",
+  "n_items_14d": 2,
+  "n_items_total": 5,
   "history_90d": [
     {
       "date": "2026-04-08",
@@ -351,318 +351,263 @@
     },
     {
       "date": "2026-06-04",
-      "commentary_score": 1.229,
-      "surprise_score": -0.271,
-      "n_items": 2
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-06-05",
-      "commentary_score": 0.601,
-      "surprise_score": 0.154,
-      "n_items": 5
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-06-06",
-      "commentary_score": 0.784,
-      "surprise_score": 0.122,
-      "n_items": 6
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-06-07",
-      "commentary_score": 0.784,
-      "surprise_score": 0.122,
-      "n_items": 6
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-06-08",
-      "commentary_score": 0.784,
-      "surprise_score": 0.122,
-      "n_items": 6
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-06-09",
-      "commentary_score": 0.784,
-      "surprise_score": 0.122,
-      "n_items": 6
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-06-10",
-      "commentary_score": 0.784,
-      "surprise_score": 0.122,
-      "n_items": 6
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-06-11",
-      "commentary_score": 0.784,
-      "surprise_score": 0.122,
-      "n_items": 7
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-06-12",
-      "commentary_score": 0.784,
-      "surprise_score": 0.122,
-      "n_items": 7
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-06-13",
-      "commentary_score": 0.784,
-      "surprise_score": 0.122,
-      "n_items": 7
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-06-14",
-      "commentary_score": 0.784,
-      "surprise_score": 0.122,
-      "n_items": 7
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-06-15",
-      "commentary_score": 0.784,
-      "surprise_score": 0.122,
-      "n_items": 7
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-06-16",
-      "commentary_score": 0.784,
-      "surprise_score": 0.122,
-      "n_items": 7
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-06-17",
-      "commentary_score": 0.784,
-      "surprise_score": 0.122,
-      "n_items": 7
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 0.44,
-      "surprise_score": -0.415,
-      "n_items": 28
+      "commentary_score": 0.276,
+      "surprise_score": 1.776,
+      "n_items": 3
     },
     {
       "date": "2026-06-19",
-      "commentary_score": 0.446,
-      "surprise_score": -0.43,
-      "n_items": 25
+      "commentary_score": 0.276,
+      "surprise_score": 1.776,
+      "n_items": 3
     },
     {
       "date": "2026-06-20",
-      "commentary_score": 0.438,
-      "surprise_score": -0.433,
-      "n_items": 24
+      "commentary_score": 0.276,
+      "surprise_score": 1.776,
+      "n_items": 3
     },
     {
       "date": "2026-06-21",
-      "commentary_score": 0.438,
-      "surprise_score": -0.433,
-      "n_items": 24
+      "commentary_score": 0.276,
+      "surprise_score": 1.776,
+      "n_items": 3
     },
     {
       "date": "2026-06-22",
-      "commentary_score": 0.438,
-      "surprise_score": -0.433,
-      "n_items": 24
+      "commentary_score": 0.276,
+      "surprise_score": 1.776,
+      "n_items": 3
     },
     {
       "date": "2026-06-23",
-      "commentary_score": 0.481,
-      "surprise_score": -0.314,
-      "n_items": 28
+      "commentary_score": 0.276,
+      "surprise_score": 1.776,
+      "n_items": 3
     },
     {
       "date": "2026-06-24",
-      "commentary_score": 0.481,
-      "surprise_score": -0.314,
-      "n_items": 31
+      "commentary_score": 0.394,
+      "surprise_score": 1.894,
+      "n_items": 5
     },
     {
       "date": "2026-06-25",
-      "commentary_score": 0.481,
-      "surprise_score": -0.314,
-      "n_items": 32
+      "commentary_score": 0.394,
+      "surprise_score": 1.894,
+      "n_items": 5
     },
     {
       "date": "2026-06-26",
-      "commentary_score": 0.321,
-      "surprise_score": -0.483,
-      "n_items": 37
+      "commentary_score": 0.394,
+      "surprise_score": 1.894,
+      "n_items": 5
     },
     {
       "date": "2026-06-27",
-      "commentary_score": 0.262,
-      "surprise_score": -0.572,
-      "n_items": 38
+      "commentary_score": 0.394,
+      "surprise_score": 1.894,
+      "n_items": 5
     },
     {
       "date": "2026-06-28",
-      "commentary_score": 0.262,
-      "surprise_score": -0.572,
-      "n_items": 38
+      "commentary_score": 0.394,
+      "surprise_score": 1.894,
+      "n_items": 5
     },
     {
       "date": "2026-06-29",
-      "commentary_score": 0.308,
-      "surprise_score": -0.476,
-      "n_items": 40
+      "commentary_score": 0.394,
+      "surprise_score": 1.894,
+      "n_items": 5
     },
     {
       "date": "2026-06-30",
-      "commentary_score": 0.308,
-      "surprise_score": -0.476,
-      "n_items": 44
+      "commentary_score": 0.394,
+      "surprise_score": 1.894,
+      "n_items": 5
     },
     {
       "date": "2026-07-01",
-      "commentary_score": 0.494,
-      "surprise_score": -0.368,
-      "n_items": 45
+      "commentary_score": 0.394,
+      "surprise_score": 1.894,
+      "n_items": 5
     },
     {
       "date": "2026-07-02",
-      "commentary_score": 0.925,
-      "surprise_score": 0.026,
-      "n_items": 25
+      "commentary_score": 0.515,
+      "surprise_score": 2.015,
+      "n_items": 2
     },
     {
       "date": "2026-07-03",
-      "commentary_score": 0.766,
-      "surprise_score": 0.065,
-      "n_items": 27
+      "commentary_score": 0.515,
+      "surprise_score": 2.015,
+      "n_items": 2
     },
     {
       "date": "2026-07-04",
-      "commentary_score": 0.766,
-      "surprise_score": 0.065,
-      "n_items": 27
+      "commentary_score": 0.515,
+      "surprise_score": 2.015,
+      "n_items": 2
     },
     {
       "date": "2026-07-05",
-      "commentary_score": 0.766,
-      "surprise_score": 0.065,
-      "n_items": 27
+      "commentary_score": 0.515,
+      "surprise_score": 2.015,
+      "n_items": 2
     },
     {
       "date": "2026-07-06",
-      "commentary_score": 0.766,
-      "surprise_score": 0.065,
-      "n_items": 27
+      "commentary_score": 0.515,
+      "surprise_score": 2.015,
+      "n_items": 2
     }
   ],
   "top_movers": [
     {
-      "published_at": "2026-07-01T13:07:00+00:00",
-      "speaker": "Kevin Warsh",
+      "published_at": "2026-06-24T09:28:00+00:00",
+      "speaker": "Petra Tschudin",
       "event_type": "other",
-      "stance": 2.0,
-      "prior": 0.99,
-      "surprise": 1.01,
-      "weight": 0.215,
-      "contribution": 0.216,
-      "phrase": "must think about a new conduct for monetary policy and we'll be charting a new course",
-      "headline": "Fed Chair Warsh says must think about a new conduct for monetary policy and we'll be charting a new course so the Fed can make better decisions"
+      "stance": 1.0,
+      "prior": -1.5,
+      "surprise": 2.5,
+      "weight": 0.063,
+      "contribution": 0.159,
+      "phrase": "medium-term inflation pressures are unchanged",
+      "headline": "SNB's Tschudin reiterates medium-term inflation pressures are unchanged"
     },
     {
-      "published_at": "2026-06-26T15:30:00+00:00",
-      "speaker": "Neel Kashkari",
+      "published_at": "2026-06-24T07:04:00+00:00",
+      "speaker": "Antoine Martin",
       "event_type": "other",
-      "stance": -1.0,
-      "prior": 1.5,
-      "surprise": -2.5,
-      "weight": 0.068,
-      "contribution": -0.17,
-      "phrase": "concerned about inflation, especially in services",
-      "headline": "Fed's Kashkari (2026 voter) says he is concerned about inflation, especially in services; seeing some signs of life in the labour market"
-    },
-    {
-      "published_at": "2026-06-22T20:48:00+00:00",
-      "speaker": "Kevin Warsh",
-      "event_type": "testimony",
       "stance": 0.0,
-      "prior": 0.99,
-      "surprise": -0.99,
-      "weight": 0.117,
-      "contribution": -0.116,
-      "phrase": "[CALENDAR ADDITION] Fed Chair Warsh is to testify at the House Financial Services Committee on July 14th at 10:00EDT/15:00BST",
-      "headline": "[CALENDAR ADDITION] Fed Chair Warsh is to testify at the House Financial Services Committee on July 14th at 10:00EDT/15:00BST"
-    },
-    {
-      "published_at": "2026-06-30T14:51:00+00:00",
-      "speaker": "Beth Hammack",
-      "event_type": "off-the-cuff",
-      "stance": 2.0,
-      "prior": 1.5,
-      "surprise": 0.5,
-      "weight": 0.201,
-      "contribution": 0.101,
-      "phrase": "inflation is still too high, Fed may need to consider rate hikes",
-      "headline": "Fed's Hammack (2026 Voter) says the job market is right around full employment, and growth looks good, speaking on CNBC TV; inflation is still too high, Fed may need to consider rate hikes"
-    },
-    {
-      "published_at": "2026-06-22T21:07:00+00:00",
-      "speaker": "Austan Goolsbee",
-      "event_type": "other",
-      "stance": 3.0,
-      "prior": 0.6,
-      "surprise": 2.4,
-      "weight": 0.042,
-      "contribution": 0.1,
-      "phrase": "inflation is well above target and going the wrong way",
-      "headline": "Fed's Goolsbee (2027 voter) says inflation is well above target and going the wrong way, adds need evidence this inflation is temporary and services inflation is a little disturbing"
+      "prior": -1.5,
+      "surprise": 1.5,
+      "weight": 0.06,
+      "contribution": 0.09,
+      "phrase": "SNB's Martin says there are no plans for a digital CHF",
+      "headline": "SNB's Martin says there are no plans for a digital CHF"
     }
   ],
   "key_comments": [
     {
-      "published_at": "2026-06-17T19:04:00+00:00",
-      "speaker": "Kevin Warsh",
+      "published_at": "2026-06-18T08:00:00+00:00",
+      "speaker": "Martin Schlegel",
       "role": "chair",
-      "lean_prior": "hawk",
-      "voting_2026": true,
-      "event_type": "off-the-cuff",
-      "stance": -1.5,
-      "prior": 0.99,
-      "surprise": -2.49,
-      "phrase": "none of the 19 at the table felt a need to tighten today",
-      "headline": "Fed Chair Warsh (Q&A) says none of the 19 at the table felt a need to tighten today",
-      "importance": 7.98,
-      "reasons": [
-        "Chair spoke",
-        "hawk-lean speaker sounded dovish (surprise -2.49)"
-      ]
-    },
-    {
-      "published_at": "2026-06-17T18:59:00+00:00",
-      "speaker": "Kevin Warsh",
-      "role": "chair",
-      "lean_prior": "hawk",
-      "voting_2026": true,
-      "event_type": "off-the-cuff",
-      "stance": -1.5,
-      "prior": 0.99,
-      "surprise": -2.49,
-      "phrase": "filled with opportunity and risk",
-      "headline": "Fed Chair Warsh (Q&A): Committee spoke on productivity and AI, perhaps it is an important change in the economy, filled with opportunity and risk.",
-      "importance": 7.98,
-      "reasons": [
-        "Chair spoke",
-        "hawk-lean speaker sounded dovish (surprise -2.49)"
-      ]
-    },
-    {
-      "published_at": "2026-06-22T21:07:00+00:00",
-      "speaker": "Austan Goolsbee",
-      "role": "regional_president",
       "lean_prior": "dove",
-      "voting_2026": false,
+      "voting_2026": true,
       "event_type": "other",
-      "stance": 3.0,
-      "prior": 0.6,
-      "surprise": 2.4,
-      "phrase": "inflation is well above target and going the wrong way",
-      "headline": "Fed's Goolsbee (2027 voter) says inflation is well above target and going the wrong way, adds need evidence this inflation is temporary and services inflation is a little disturbing",
-      "importance": 6.3,
+      "stance": 1.5,
+      "prior": -1.5,
+      "surprise": 3.0,
+      "phrase": "Monetary policy continues to have an expansionary effect",
+      "headline": "SNB Chairman Schlegel: Monetary policy continues to have an expansionary effect. Geopolitical uncertainty remains, risks of strong upward pressure on the CHF remains. \"If necessary, we therefore have an increased willing",
+      "importance": 9.0,
       "reasons": [
-        "dove-lean speaker sounded hawkish (surprise +2.40)",
-        "cross-market extreme (|stance| = 3.0)"
+        "Chair spoke",
+        "dove-lean speaker sounded hawkish (surprise +3.00)"
+      ]
+    },
+    {
+      "published_at": "2026-06-24T09:28:00+00:00",
+      "speaker": "Petra Tschudin",
+      "role": "governor",
+      "lean_prior": "dove",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": 1.0,
+      "prior": -1.5,
+      "surprise": 2.5,
+      "phrase": "medium-term inflation pressures are unchanged",
+      "headline": "SNB's Tschudin reiterates medium-term inflation pressures are unchanged",
+      "importance": 5.0,
+      "reasons": [
+        "dove-lean speaker sounded hawkish (surprise +2.50)"
       ]
     }
   ],
