@@ -1,11 +1,11 @@
 {
   "cb": "boj",
-  "as_of": "2026-07-06T11:37:50.308954+00:00",
-  "commentary_score": 1.32,
-  "surprise_score": 0.336,
-  "label": "neutral",
-  "n_items_14d": 3,
-  "n_items_total": 14,
+  "as_of": "2026-07-06T11:53:52.690365+00:00",
+  "commentary_score": 0.196,
+  "surprise_score": -0.821,
+  "label": "lean dovish",
+  "n_items_14d": 4,
+  "n_items_total": 20,
   "history_90d": [
     {
       "date": "2026-04-08",
@@ -381,174 +381,186 @@
     },
     {
       "date": "2026-06-09",
-      "commentary_score": 3.5,
-      "surprise_score": 3.5,
-      "n_items": 1
+      "commentary_score": 3.251,
+      "surprise_score": 3.251,
+      "n_items": 2
     },
     {
       "date": "2026-06-10",
-      "commentary_score": 1.618,
-      "surprise_score": 1.618,
-      "n_items": 3
+      "commentary_score": 2.053,
+      "surprise_score": 2.053,
+      "n_items": 4
     },
     {
       "date": "2026-06-11",
-      "commentary_score": 1.357,
-      "surprise_score": 1.357,
-      "n_items": 4
+      "commentary_score": 1.814,
+      "surprise_score": 1.814,
+      "n_items": 5
     },
     {
       "date": "2026-06-12",
-      "commentary_score": 1.357,
-      "surprise_score": 1.357,
-      "n_items": 4
+      "commentary_score": 1.814,
+      "surprise_score": 1.814,
+      "n_items": 5
     },
     {
       "date": "2026-06-13",
-      "commentary_score": 1.357,
-      "surprise_score": 1.357,
-      "n_items": 4
+      "commentary_score": 1.814,
+      "surprise_score": 1.814,
+      "n_items": 5
     },
     {
       "date": "2026-06-14",
-      "commentary_score": 1.357,
-      "surprise_score": 1.357,
-      "n_items": 4
+      "commentary_score": 1.814,
+      "surprise_score": 1.814,
+      "n_items": 5
     },
     {
       "date": "2026-06-15",
-      "commentary_score": 1.357,
-      "surprise_score": 1.357,
-      "n_items": 4
+      "commentary_score": 1.814,
+      "surprise_score": 1.814,
+      "n_items": 5
     },
     {
       "date": "2026-06-16",
-      "commentary_score": 0.963,
-      "surprise_score": 1.692,
-      "n_items": 6
+      "commentary_score": 1.757,
+      "surprise_score": 2.202,
+      "n_items": 8
     },
     {
       "date": "2026-06-17",
-      "commentary_score": 0.963,
-      "surprise_score": 1.692,
-      "n_items": 6
+      "commentary_score": 1.757,
+      "surprise_score": 2.202,
+      "n_items": 8
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 0.85,
-      "surprise_score": 1.495,
-      "n_items": 7
+      "commentary_score": 1.243,
+      "surprise_score": 0.645,
+      "n_items": 10
     },
     {
       "date": "2026-06-19",
-      "commentary_score": 0.899,
-      "surprise_score": 1.379,
-      "n_items": 9
+      "commentary_score": 0.909,
+      "surprise_score": 0.497,
+      "n_items": 13
     },
     {
       "date": "2026-06-20",
-      "commentary_score": 0.899,
-      "surprise_score": 1.379,
-      "n_items": 9
+      "commentary_score": 0.909,
+      "surprise_score": 0.497,
+      "n_items": 13
     },
     {
       "date": "2026-06-21",
-      "commentary_score": 0.899,
-      "surprise_score": 1.379,
-      "n_items": 9
+      "commentary_score": 0.909,
+      "surprise_score": 0.497,
+      "n_items": 13
     },
     {
       "date": "2026-06-22",
-      "commentary_score": 0.392,
-      "surprise_score": 0.818,
-      "n_items": 10
+      "commentary_score": 0.678,
+      "surprise_score": 0.178,
+      "n_items": 15
     },
     {
       "date": "2026-06-23",
-      "commentary_score": 0.392,
-      "surprise_score": 0.818,
-      "n_items": 10
+      "commentary_score": 0.542,
+      "surprise_score": 0.092,
+      "n_items": 14
     },
     {
       "date": "2026-06-24",
-      "commentary_score": 0.165,
-      "surprise_score": 0.56,
-      "n_items": 9
+      "commentary_score": 0.417,
+      "surprise_score": -0.016,
+      "n_items": 13
     },
     {
       "date": "2026-06-25",
-      "commentary_score": 0.843,
-      "surprise_score": 0.715,
-      "n_items": 10
+      "commentary_score": 0.784,
+      "surprise_score": 0.162,
+      "n_items": 14
     },
     {
       "date": "2026-06-26",
-      "commentary_score": 0.843,
-      "surprise_score": 0.715,
-      "n_items": 10
+      "commentary_score": 0.784,
+      "surprise_score": 0.162,
+      "n_items": 14
     },
     {
       "date": "2026-06-27",
-      "commentary_score": 0.843,
-      "surprise_score": 0.715,
-      "n_items": 10
+      "commentary_score": 0.784,
+      "surprise_score": 0.162,
+      "n_items": 14
     },
     {
       "date": "2026-06-28",
-      "commentary_score": 0.843,
-      "surprise_score": 0.715,
-      "n_items": 10
+      "commentary_score": 0.784,
+      "surprise_score": 0.162,
+      "n_items": 14
     },
     {
       "date": "2026-06-29",
-      "commentary_score": 0.843,
-      "surprise_score": 0.715,
-      "n_items": 10
+      "commentary_score": 0.784,
+      "surprise_score": 0.162,
+      "n_items": 14
     },
     {
       "date": "2026-06-30",
-      "commentary_score": 0.916,
-      "surprise_score": 0.386,
-      "n_items": 8
+      "commentary_score": 0.153,
+      "surprise_score": -0.653,
+      "n_items": 12
     },
     {
       "date": "2026-07-01",
-      "commentary_score": 0.916,
-      "surprise_score": 0.386,
-      "n_items": 8
+      "commentary_score": 0.153,
+      "surprise_score": -0.653,
+      "n_items": 12
     },
     {
       "date": "2026-07-02",
-      "commentary_score": 0.982,
-      "surprise_score": 0.414,
-      "n_items": 7
+      "commentary_score": 0.251,
+      "surprise_score": -0.563,
+      "n_items": 10
     },
     {
       "date": "2026-07-03",
-      "commentary_score": 0.966,
-      "surprise_score": 0.246,
-      "n_items": 5
+      "commentary_score": 0.312,
+      "surprise_score": -0.577,
+      "n_items": 7
     },
     {
       "date": "2026-07-04",
-      "commentary_score": 0.966,
-      "surprise_score": 0.246,
-      "n_items": 5
+      "commentary_score": 0.312,
+      "surprise_score": -0.577,
+      "n_items": 7
     },
     {
       "date": "2026-07-05",
-      "commentary_score": 0.966,
-      "surprise_score": 0.246,
-      "n_items": 5
+      "commentary_score": 0.312,
+      "surprise_score": -0.577,
+      "n_items": 7
     },
     {
       "date": "2026-07-06",
-      "commentary_score": 1.32,
-      "surprise_score": 0.336,
-      "n_items": 3
+      "commentary_score": 0.196,
+      "surprise_score": -0.821,
+      "n_items": 4
     }
   ],
   "top_movers": [
+    {
+      "published_at": "2026-06-30T08:03:00+00:00",
+      "speaker": "BOJ (institutional)",
+      "event_type": "statement",
+      "stance": -1.0,
+      "prior": 1.05,
+      "surprise": -2.05,
+      "weight": 0.245,
+      "contribution": -0.502,
+      "phrase": "uncertainty remains on outlook",
+      "headline": "BoJ's Sato says the de-escalation of the Middle East conflict is a welcoming move but uncertainty remains on outlook"
+    },
     {
       "published_at": "2026-06-25T05:13:00+00:00",
       "speaker": "Naoki Tamura",
@@ -557,7 +569,7 @@
       "prior": 1.5,
       "surprise": 1.5,
       "weight": 0.092,
-      "contribution": 0.138,
+      "contribution": 0.137,
       "phrase": "must increase rates close to neutral to prevent inflation from exceeding the target",
       "headline": "BoJ's Tamura says Japan has already met BoJ's 2% inflation goal and must increase rates close to neutral to prevent inflation from exceeding the target"
     },
@@ -568,8 +580,8 @@
       "stance": -1.0,
       "prior": 0.0,
       "surprise": -1.0,
-      "weight": 0.09,
-      "contribution": -0.09,
+      "weight": 0.089,
+      "contribution": -0.089,
       "phrase": "Japan's economy is recovering moderately albeit with some weakness",
       "headline": "BoJ's Ueda says Japan's economy is recovering moderately albeit with some weakness; Economic growth likely to slow but continue to moderate recovery"
     },
@@ -653,6 +665,7 @@
       "minutes": 0.5,
       "testimony": 0.9,
       "press-conf": 1.0,
+      "statement": 1.0,
       "other": 0.5
     },
     "speaker_weight_scale": "chair 1.0 / VC 0.8 / gov 0.7 / voter 0.6 / non-voter 0.4",

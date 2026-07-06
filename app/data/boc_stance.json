@@ -1,11 +1,11 @@
 {
   "cb": "boc",
-  "as_of": "2026-07-06T11:37:50.430576+00:00",
-  "commentary_score": 0.71,
-  "surprise_score": -0.1,
+  "as_of": "2026-07-06T11:53:52.825864+00:00",
+  "commentary_score": 0.674,
+  "surprise_score": 0.001,
   "label": "neutral",
-  "n_items_14d": 5,
-  "n_items_total": 8,
+  "n_items_14d": 6,
+  "n_items_total": 10,
   "history_90d": [
     {
       "date": "2026-04-08",
@@ -393,159 +393,159 @@
     },
     {
       "date": "2026-06-11",
-      "commentary_score": 0.057,
-      "surprise_score": 0.057,
-      "n_items": 3
+      "commentary_score": 0.671,
+      "surprise_score": 0.671,
+      "n_items": 4
     },
     {
       "date": "2026-06-12",
-      "commentary_score": 0.057,
-      "surprise_score": 0.057,
-      "n_items": 3
+      "commentary_score": 0.671,
+      "surprise_score": 0.671,
+      "n_items": 4
     },
     {
       "date": "2026-06-13",
-      "commentary_score": 0.057,
-      "surprise_score": 0.057,
-      "n_items": 3
+      "commentary_score": 0.671,
+      "surprise_score": 0.671,
+      "n_items": 4
     },
     {
       "date": "2026-06-14",
-      "commentary_score": 0.057,
-      "surprise_score": 0.057,
-      "n_items": 3
+      "commentary_score": 0.671,
+      "surprise_score": 0.671,
+      "n_items": 4
     },
     {
       "date": "2026-06-15",
-      "commentary_score": 0.057,
-      "surprise_score": 0.057,
-      "n_items": 3
+      "commentary_score": 0.671,
+      "surprise_score": 0.671,
+      "n_items": 4
     },
     {
       "date": "2026-06-16",
-      "commentary_score": 0.057,
-      "surprise_score": 0.057,
-      "n_items": 3
+      "commentary_score": 0.671,
+      "surprise_score": 0.671,
+      "n_items": 4
     },
     {
       "date": "2026-06-17",
-      "commentary_score": 0.057,
-      "surprise_score": 0.057,
-      "n_items": 3
+      "commentary_score": 0.671,
+      "surprise_score": 0.671,
+      "n_items": 4
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 0.057,
-      "surprise_score": 0.057,
-      "n_items": 3
+      "commentary_score": 0.671,
+      "surprise_score": 0.671,
+      "n_items": 4
     },
     {
       "date": "2026-06-19",
-      "commentary_score": 0.057,
-      "surprise_score": 0.057,
-      "n_items": 3
+      "commentary_score": 0.671,
+      "surprise_score": 0.671,
+      "n_items": 4
     },
     {
       "date": "2026-06-20",
-      "commentary_score": 0.057,
-      "surprise_score": 0.057,
-      "n_items": 3
+      "commentary_score": 0.671,
+      "surprise_score": 0.671,
+      "n_items": 4
     },
     {
       "date": "2026-06-21",
-      "commentary_score": 0.057,
-      "surprise_score": 0.057,
-      "n_items": 3
+      "commentary_score": 0.671,
+      "surprise_score": 0.671,
+      "n_items": 4
     },
     {
       "date": "2026-06-22",
-      "commentary_score": 0.057,
-      "surprise_score": 0.057,
-      "n_items": 3
+      "commentary_score": 0.671,
+      "surprise_score": 0.671,
+      "n_items": 4
     },
     {
       "date": "2026-06-23",
-      "commentary_score": 0.057,
-      "surprise_score": 0.057,
-      "n_items": 3
+      "commentary_score": 0.671,
+      "surprise_score": 0.671,
+      "n_items": 4
     },
     {
       "date": "2026-06-24",
-      "commentary_score": 0.018,
-      "surprise_score": 0.018,
-      "n_items": 5
+      "commentary_score": 0.301,
+      "surprise_score": 0.301,
+      "n_items": 6
     },
     {
       "date": "2026-06-25",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 2
+      "commentary_score": 0.251,
+      "surprise_score": 0.251,
+      "n_items": 3
     },
     {
       "date": "2026-06-26",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 2
+      "commentary_score": 0.251,
+      "surprise_score": 0.251,
+      "n_items": 3
     },
     {
       "date": "2026-06-27",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 2
+      "commentary_score": 0.251,
+      "surprise_score": 0.251,
+      "n_items": 3
     },
     {
       "date": "2026-06-28",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 2
+      "commentary_score": 0.251,
+      "surprise_score": 0.251,
+      "n_items": 3
     },
     {
       "date": "2026-06-29",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 2
+      "commentary_score": 0.251,
+      "surprise_score": 0.251,
+      "n_items": 3
     },
     {
       "date": "2026-06-30",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 2
+      "commentary_score": 0.251,
+      "surprise_score": 0.251,
+      "n_items": 3
     },
     {
       "date": "2026-07-01",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 2
+      "commentary_score": 0.251,
+      "surprise_score": 0.251,
+      "n_items": 3
     },
     {
       "date": "2026-07-02",
-      "commentary_score": 0.71,
-      "surprise_score": -0.1,
-      "n_items": 5
+      "commentary_score": 0.674,
+      "surprise_score": 0.001,
+      "n_items": 6
     },
     {
       "date": "2026-07-03",
-      "commentary_score": 0.71,
-      "surprise_score": -0.1,
-      "n_items": 5
+      "commentary_score": 0.674,
+      "surprise_score": 0.001,
+      "n_items": 6
     },
     {
       "date": "2026-07-04",
-      "commentary_score": 0.71,
-      "surprise_score": -0.1,
-      "n_items": 5
+      "commentary_score": 0.674,
+      "surprise_score": 0.001,
+      "n_items": 6
     },
     {
       "date": "2026-07-05",
-      "commentary_score": 0.71,
-      "surprise_score": -0.1,
-      "n_items": 5
+      "commentary_score": 0.674,
+      "surprise_score": 0.001,
+      "n_items": 6
     },
     {
       "date": "2026-07-06",
-      "commentary_score": 0.71,
-      "surprise_score": -0.1,
-      "n_items": 5
+      "commentary_score": 0.674,
+      "surprise_score": 0.001,
+      "n_items": 6
     }
   ],
   "top_movers": [
@@ -556,8 +556,8 @@
       "stance": 2.0,
       "prior": 0.81,
       "surprise": 1.19,
-      "weight": 0.246,
-      "contribution": 0.293,
+      "weight": 0.245,
+      "contribution": 0.292,
       "phrase": "inflation expectations are well anchored, we are going to keep them well anchored",
       "headline": "BoC Governor Macklem says inflation expectations are well anchored, we are going to keep them well anchored"
     },
@@ -569,7 +569,7 @@
       "prior": 0.81,
       "surprise": -0.81,
       "weight": 0.154,
-      "contribution": -0.125,
+      "contribution": -0.124,
       "phrase": "BoC Governor Macklem says monthly data can be very volatile and sometimes the market over interprets it",
       "headline": "BoC Governor Macklem says monthly data can be very volatile and sometimes the market over interprets it"
     },
@@ -586,6 +586,18 @@
       "headline": "BoC Governor Macklem says we are comfortable where we are in regards to interest rates"
     },
     {
+      "published_at": "2026-06-24T17:29:00+00:00",
+      "speaker": "BOC (institutional)",
+      "event_type": "statement",
+      "stance": 0.5,
+      "prior": 0.0,
+      "surprise": 0.5,
+      "weight": 0.14,
+      "contribution": 0.07,
+      "phrase": "monetary policy will need to remain nimble",
+      "headline": "BoC MInutes: Agreed that monetary policy will need to remain nimble"
+    },
+    {
       "published_at": "2026-06-23T15:04:00+00:00",
       "speaker": "Tiff Macklem",
       "event_type": "other",
@@ -596,18 +608,6 @@
       "contribution": -0.057,
       "phrase": "BoC Governor Macklem says he worries that too much forward guidance become full precision and can be confusing",
       "headline": "BoC Governor Macklem says he worries that too much forward guidance become full precision and can be confusing"
-    },
-    {
-      "published_at": "2026-06-23T13:25:00+00:00",
-      "speaker": "Tiff Macklem",
-      "event_type": "other",
-      "stance": 0.0,
-      "prior": 0.81,
-      "surprise": -0.81,
-      "weight": 0.07,
-      "contribution": -0.056,
-      "phrase": "BoC Governor Macklem says imbalances are growing as China's outward flow of capital continues and the US has been the largest destination of",
-      "headline": "BoC Governor Macklem says imbalances are growing as China's outward flow of capital continues and the US has been the largest destination of capital"
     }
   ],
   "key_comments": [
@@ -646,6 +646,23 @@
         "Chair spoke",
         "notable move vs own prior (surprise +1.19)"
       ]
+    },
+    {
+      "published_at": "2026-06-24T17:29:00+00:00",
+      "speaker": "BOC (institutional)",
+      "role": "institutional",
+      "lean_prior": "neutral",
+      "voting_2026": true,
+      "event_type": "statement",
+      "stance": 0.5,
+      "prior": 0.0,
+      "surprise": 0.5,
+      "phrase": "monetary policy will need to remain nimble",
+      "headline": "BoC MInutes: Agreed that monetary policy will need to remain nimble",
+      "importance": 2.5,
+      "reasons": [
+        "official CB statement (stance +0.50)"
+      ]
     }
   ],
   "methodology": {
@@ -658,6 +675,7 @@
       "minutes": 0.5,
       "testimony": 0.9,
       "press-conf": 1.0,
+      "statement": 1.0,
       "other": 0.5
     },
     "speaker_weight_scale": "chair 1.0 / VC 0.8 / gov 0.7 / voter 0.6 / non-voter 0.4",

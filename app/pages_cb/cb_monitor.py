@@ -258,6 +258,8 @@ def _card_sort_key(entry: dict, mode: str) -> tuple:
 def _fmt_role(role: str | None, voting: bool | None) -> str:
     if not role:
         return "speaker"
+    if role == "institutional":
+        return "official statement"
     m = {
         "chair": "Chair",
         "vice_chair": "Vice Chair",
@@ -265,6 +267,8 @@ def _fmt_role(role: str | None, voting: bool | None) -> str:
         "governor": "Governor",
         "nyfed_president": "NY Fed President",
         "regional_president": "Regional Fed President",
+        "deputy_governor": "Deputy Governor",
+        "mpc_external": "External MPC Member",
     }
     label = m.get(role, role.replace("_", " ").title())
     if voting is True:

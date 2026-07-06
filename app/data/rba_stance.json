@@ -1,11 +1,11 @@
 {
   "cb": "rba",
-  "as_of": "2026-07-06T11:37:50.353170+00:00",
-  "commentary_score": 3.0,
-  "surprise_score": 3.0,
+  "as_of": "2026-07-06T11:53:52.738307+00:00",
+  "commentary_score": 3.357,
+  "surprise_score": 3.357,
   "label": "hawkish",
-  "n_items_14d": 1,
-  "n_items_total": 5,
+  "n_items_14d": 2,
+  "n_items_total": 7,
   "history_90d": [
     {
       "date": "2026-04-08",
@@ -423,132 +423,144 @@
     },
     {
       "date": "2026-06-16",
-      "commentary_score": 1.077,
-      "surprise_score": -0.281,
-      "n_items": 4
+      "commentary_score": 1.827,
+      "surprise_score": 1.185,
+      "n_items": 5
     },
     {
       "date": "2026-06-17",
-      "commentary_score": 1.077,
-      "surprise_score": -0.281,
-      "n_items": 4
+      "commentary_score": 1.827,
+      "surprise_score": 1.185,
+      "n_items": 5
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 2.0,
-      "surprise_score": 0.5,
-      "n_items": 1
-    },
-    {
-      "date": "2026-06-19",
-      "commentary_score": 2.0,
-      "surprise_score": 0.5,
-      "n_items": 1
-    },
-    {
-      "date": "2026-06-20",
-      "commentary_score": 2.0,
-      "surprise_score": 0.5,
-      "n_items": 1
-    },
-    {
-      "date": "2026-06-21",
-      "commentary_score": 2.0,
-      "surprise_score": 0.5,
-      "n_items": 1
-    },
-    {
-      "date": "2026-06-22",
-      "commentary_score": 2.0,
-      "surprise_score": 0.5,
-      "n_items": 1
-    },
-    {
-      "date": "2026-06-23",
-      "commentary_score": 2.0,
-      "surprise_score": 0.5,
-      "n_items": 1
-    },
-    {
-      "date": "2026-06-24",
-      "commentary_score": 2.0,
-      "surprise_score": 0.5,
-      "n_items": 1
-    },
-    {
-      "date": "2026-06-25",
-      "commentary_score": 2.0,
-      "surprise_score": 0.5,
-      "n_items": 1
-    },
-    {
-      "date": "2026-06-26",
-      "commentary_score": 2.0,
-      "surprise_score": 0.5,
-      "n_items": 1
-    },
-    {
-      "date": "2026-06-27",
-      "commentary_score": 2.0,
-      "surprise_score": 0.5,
-      "n_items": 1
-    },
-    {
-      "date": "2026-06-28",
-      "commentary_score": 2.0,
-      "surprise_score": 0.5,
-      "n_items": 1
-    },
-    {
-      "date": "2026-06-29",
-      "commentary_score": 2.761,
-      "surprise_score": 2.402,
+      "commentary_score": 2.321,
+      "surprise_score": 1.784,
       "n_items": 2
     },
     {
+      "date": "2026-06-19",
+      "commentary_score": 2.321,
+      "surprise_score": 1.784,
+      "n_items": 2
+    },
+    {
+      "date": "2026-06-20",
+      "commentary_score": 2.321,
+      "surprise_score": 1.784,
+      "n_items": 2
+    },
+    {
+      "date": "2026-06-21",
+      "commentary_score": 2.321,
+      "surprise_score": 1.784,
+      "n_items": 2
+    },
+    {
+      "date": "2026-06-22",
+      "commentary_score": 2.321,
+      "surprise_score": 1.784,
+      "n_items": 2
+    },
+    {
+      "date": "2026-06-23",
+      "commentary_score": 2.321,
+      "surprise_score": 1.784,
+      "n_items": 2
+    },
+    {
+      "date": "2026-06-24",
+      "commentary_score": 2.321,
+      "surprise_score": 1.784,
+      "n_items": 2
+    },
+    {
+      "date": "2026-06-25",
+      "commentary_score": 2.321,
+      "surprise_score": 1.784,
+      "n_items": 2
+    },
+    {
+      "date": "2026-06-26",
+      "commentary_score": 2.321,
+      "surprise_score": 1.784,
+      "n_items": 2
+    },
+    {
+      "date": "2026-06-27",
+      "commentary_score": 2.321,
+      "surprise_score": 1.784,
+      "n_items": 2
+    },
+    {
+      "date": "2026-06-28",
+      "commentary_score": 2.321,
+      "surprise_score": 1.784,
+      "n_items": 2
+    },
+    {
+      "date": "2026-06-29",
+      "commentary_score": 2.683,
+      "surprise_score": 2.432,
+      "n_items": 3
+    },
+    {
       "date": "2026-06-30",
-      "commentary_score": 3.0,
-      "surprise_score": 3.0,
-      "n_items": 1
+      "commentary_score": 3.357,
+      "surprise_score": 3.357,
+      "n_items": 2
     },
     {
       "date": "2026-07-01",
-      "commentary_score": 3.0,
-      "surprise_score": 3.0,
-      "n_items": 1
+      "commentary_score": 3.357,
+      "surprise_score": 3.357,
+      "n_items": 2
     },
     {
       "date": "2026-07-02",
-      "commentary_score": 3.0,
-      "surprise_score": 3.0,
-      "n_items": 1
+      "commentary_score": 3.357,
+      "surprise_score": 3.357,
+      "n_items": 2
     },
     {
       "date": "2026-07-03",
-      "commentary_score": 3.0,
-      "surprise_score": 3.0,
-      "n_items": 1
+      "commentary_score": 3.357,
+      "surprise_score": 3.357,
+      "n_items": 2
     },
     {
       "date": "2026-07-04",
-      "commentary_score": 3.0,
-      "surprise_score": 3.0,
-      "n_items": 1
+      "commentary_score": 3.357,
+      "surprise_score": 3.357,
+      "n_items": 2
     },
     {
       "date": "2026-07-05",
-      "commentary_score": 3.0,
-      "surprise_score": 3.0,
-      "n_items": 1
+      "commentary_score": 3.357,
+      "surprise_score": 3.357,
+      "n_items": 2
     },
     {
       "date": "2026-07-06",
-      "commentary_score": 3.0,
-      "surprise_score": 3.0,
-      "n_items": 1
+      "commentary_score": 3.357,
+      "surprise_score": 3.357,
+      "n_items": 2
     }
   ],
   "top_movers": [
+    {
+      "published_at": "2026-06-30T01:30:00+00:00",
+      "speaker": "RBA (institutional)",
+      "event_type": "statement",
+      "stance": 3.5,
+      "prior": 0.0,
+      "surprise": 3.5,
+      "weight": 0.428,
+      "contribution": 1.499,
+      "phrase": "policy needed to remain restrictive and will do what is needed to achieve price stability",
+      "headline": "RBA Minutes from the June meeting stated that policy needed to remain restrictive and will do what is needed to achieve price stability including raising rates if necessary"
+    },
     {
       "published_at": "2026-06-28T23:36:00+00:00",
       "speaker": "Christopher Kent",
@@ -557,12 +569,30 @@
       "prior": 0.0,
       "surprise": 3.0,
       "weight": 0.171,
-      "contribution": 0.514,
+      "contribution": 0.513,
       "phrase": "less tolerance for inflation below target",
       "headline": "RBA Assistant Governor Kent (Financial Markets) says in 'Additional Monetary Policy Tools: Reflections and a New Framework' speech that board may have less tolerance for inflation below target, and RBA may consider using"
     }
   ],
   "key_comments": [
+    {
+      "published_at": "2026-06-30T01:30:00+00:00",
+      "speaker": "RBA (institutional)",
+      "role": "institutional",
+      "lean_prior": "neutral",
+      "voting_2026": true,
+      "event_type": "statement",
+      "stance": 3.5,
+      "prior": 0.0,
+      "surprise": 3.5,
+      "phrase": "policy needed to remain restrictive and will do what is needed to achieve price stability",
+      "headline": "RBA Minutes from the June meeting stated that policy needed to remain restrictive and will do what is needed to achieve price stability including raising rates if necessary",
+      "importance": 5.25,
+      "reasons": [
+        "official CB statement (stance +3.50)",
+        "strong policy signal (|stance| = 3.5)"
+      ]
+    },
     {
       "published_at": "2026-06-28T23:36:00+00:00",
       "speaker": "Christopher Kent",
@@ -609,6 +639,7 @@
       "minutes": 0.5,
       "testimony": 0.9,
       "press-conf": 1.0,
+      "statement": 1.0,
       "other": 0.5
     },
     "speaker_weight_scale": "chair 1.0 / VC 0.8 / gov 0.7 / voter 0.6 / non-voter 0.4",

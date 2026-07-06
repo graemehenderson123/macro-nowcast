@@ -1,11 +1,11 @@
 {
   "cb": "rbnz",
-  "as_of": "2026-07-06T11:37:50.394965+00:00",
+  "as_of": "2026-07-06T11:53:52.782322+00:00",
   "commentary_score": 0.0,
   "surprise_score": 0.0,
   "label": "neutral",
-  "n_items_14d": 0,
-  "n_items_total": 0,
+  "n_items_14d": 1,
+  "n_items_total": 1,
   "history_90d": [
     {
       "date": "2026-04-08",
@@ -521,37 +521,63 @@
       "date": "2026-07-02",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-07-03",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-07-04",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-07-05",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-07-06",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     }
   ],
-  "top_movers": [],
+  "top_movers": [
+    {
+      "published_at": "2026-07-02T04:54:00+00:00",
+      "speaker": "RBNZ (institutional)",
+      "event_type": "statement",
+      "stance": 0.0,
+      "prior": 0.0,
+      "surprise": 0.0,
+      "weight": 0.294,
+      "contribution": 0.0,
+      "phrase": "RBNZ says it is not seeking additional an additional Monetary Policy Committee member, prior to the New Zealand election",
+      "headline": "RBNZ says it is not seeking additional an additional Monetary Policy Committee member, prior to the New Zealand election"
+    }
+  ],
   "key_comments": [],
-  "sparse": true,
   "methodology": {
-    "note": "No individually-attributed speaker headlines found in Newsquawk archive for this CB. Institutional headlines (e.g. 'RBNZ says...') are not currently scored."
+    "commentary_window_days": 14,
+    "surprise_lookback_days": 60,
+    "recency_halflife_days": 7,
+    "event_weights": {
+      "speech": 1.0,
+      "off-the-cuff": 0.75,
+      "minutes": 0.5,
+      "testimony": 0.9,
+      "press-conf": 1.0,
+      "statement": 1.0,
+      "other": 0.5
+    },
+    "speaker_weight_scale": "chair 1.0 / VC 0.8 / gov 0.7 / voter 0.6 / non-voter 0.4",
+    "scale": "-5 (ultra dovish) to +5 (ultra hawkish)",
+    "primary_signal": "surprise_score (stance minus speaker's 60d rolling mean)"
   }
 }

@@ -1,11 +1,11 @@
 {
   "cb": "snb",
-  "as_of": "2026-07-06T11:37:50.478637+00:00",
+  "as_of": "2026-07-06T11:53:52.875224+00:00",
   "commentary_score": 0.515,
   "surprise_score": 2.015,
   "label": "hawkish",
   "n_items_14d": 2,
-  "n_items_total": 5,
+  "n_items_total": 6,
   "history_90d": [
     {
       "date": "2026-04-08",
@@ -435,87 +435,87 @@
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 0.276,
-      "surprise_score": 1.776,
-      "n_items": 3
+      "commentary_score": 1.357,
+      "surprise_score": 2.128,
+      "n_items": 4
     },
     {
       "date": "2026-06-19",
-      "commentary_score": 0.276,
-      "surprise_score": 1.776,
-      "n_items": 3
+      "commentary_score": 1.357,
+      "surprise_score": 2.128,
+      "n_items": 4
     },
     {
       "date": "2026-06-20",
-      "commentary_score": 0.276,
-      "surprise_score": 1.776,
-      "n_items": 3
+      "commentary_score": 1.357,
+      "surprise_score": 2.128,
+      "n_items": 4
     },
     {
       "date": "2026-06-21",
-      "commentary_score": 0.276,
-      "surprise_score": 1.776,
-      "n_items": 3
+      "commentary_score": 1.357,
+      "surprise_score": 2.128,
+      "n_items": 4
     },
     {
       "date": "2026-06-22",
-      "commentary_score": 0.276,
-      "surprise_score": 1.776,
-      "n_items": 3
+      "commentary_score": 1.357,
+      "surprise_score": 2.128,
+      "n_items": 4
     },
     {
       "date": "2026-06-23",
-      "commentary_score": 0.276,
-      "surprise_score": 1.776,
-      "n_items": 3
+      "commentary_score": 1.357,
+      "surprise_score": 2.128,
+      "n_items": 4
     },
     {
       "date": "2026-06-24",
-      "commentary_score": 0.394,
-      "surprise_score": 1.894,
-      "n_items": 5
+      "commentary_score": 1.075,
+      "surprise_score": 2.09,
+      "n_items": 6
     },
     {
       "date": "2026-06-25",
-      "commentary_score": 0.394,
-      "surprise_score": 1.894,
-      "n_items": 5
+      "commentary_score": 1.075,
+      "surprise_score": 2.09,
+      "n_items": 6
     },
     {
       "date": "2026-06-26",
-      "commentary_score": 0.394,
-      "surprise_score": 1.894,
-      "n_items": 5
+      "commentary_score": 1.075,
+      "surprise_score": 2.09,
+      "n_items": 6
     },
     {
       "date": "2026-06-27",
-      "commentary_score": 0.394,
-      "surprise_score": 1.894,
-      "n_items": 5
+      "commentary_score": 1.075,
+      "surprise_score": 2.09,
+      "n_items": 6
     },
     {
       "date": "2026-06-28",
-      "commentary_score": 0.394,
-      "surprise_score": 1.894,
-      "n_items": 5
+      "commentary_score": 1.075,
+      "surprise_score": 2.09,
+      "n_items": 6
     },
     {
       "date": "2026-06-29",
-      "commentary_score": 0.394,
-      "surprise_score": 1.894,
-      "n_items": 5
+      "commentary_score": 1.075,
+      "surprise_score": 2.09,
+      "n_items": 6
     },
     {
       "date": "2026-06-30",
-      "commentary_score": 0.394,
-      "surprise_score": 1.894,
-      "n_items": 5
+      "commentary_score": 1.075,
+      "surprise_score": 2.09,
+      "n_items": 6
     },
     {
       "date": "2026-07-01",
-      "commentary_score": 0.394,
-      "surprise_score": 1.894,
-      "n_items": 5
+      "commentary_score": 1.075,
+      "surprise_score": 2.09,
+      "n_items": 6
     },
     {
       "date": "2026-07-02",
@@ -557,7 +557,7 @@
       "prior": -1.5,
       "surprise": 2.5,
       "weight": 0.063,
-      "contribution": 0.159,
+      "contribution": 0.158,
       "phrase": "medium-term inflation pressures are unchanged",
       "headline": "SNB's Tschudin reiterates medium-term inflation pressures are unchanged"
     },
@@ -609,6 +609,24 @@
       "reasons": [
         "dove-lean speaker sounded hawkish (surprise +2.50)"
       ]
+    },
+    {
+      "published_at": "2026-06-18T07:30:00+00:00",
+      "speaker": "SNB (institutional)",
+      "role": "institutional",
+      "lean_prior": "neutral",
+      "voting_2026": true,
+      "event_type": "statement",
+      "stance": 2.5,
+      "prior": 0.0,
+      "surprise": 2.5,
+      "phrase": "Monetary policy is appropriate to keep inflation within the range consistent with price stability.",
+      "headline": "Swiss SNB Policy Announcement (Jun) 0.00% vs. Exp. 0.00% (Prev. 0.00%); readiness to intervene in FX is higher. Monetary policy is appropriate to keep inflation within the range consistent with price stability.",
+      "importance": 3.75,
+      "reasons": [
+        "official CB statement (stance +2.50)",
+        "strong policy signal (|stance| = 2.5)"
+      ]
     }
   ],
   "methodology": {
@@ -621,6 +639,7 @@
       "minutes": 0.5,
       "testimony": 0.9,
       "press-conf": 1.0,
+      "statement": 1.0,
       "other": 0.5
     },
     "speaker_weight_scale": "chair 1.0 / VC 0.8 / gov 0.7 / voter 0.6 / non-voter 0.4",
