@@ -16,6 +16,7 @@ import shared.engines  # noqa: F401  (side-effect: adds nowcast/us to sys.path)
 os.environ.setdefault("NOWCAST_SKIP_CHARTS", "1")
 
 from shared import charts as C
+from shared import fed_stance as FedStance
 from shared.theme import (
     GLOBAL_CSS, REGIME_COLORS, REGIME_DESCRIPTIONS, TIME_RANGES,
     NAVY, TEAL, BRICK, ORANGE, GREEN,
@@ -407,6 +408,11 @@ def render():
 
     # Regime headline
     _render_regime(regime, g_res, i_res, l_res, tail_days=tail_days)
+
+    st.markdown("---")
+
+    # Fed Policy Stance (hawk/dove monitor)
+    FedStance.render()
 
     st.markdown("---")
 

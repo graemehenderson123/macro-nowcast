@@ -1,0 +1,629 @@
+{
+  "cb": "fed",
+  "as_of": "2026-07-06T10:14:45.027436+00:00",
+  "commentary_score": 0.876,
+  "surprise_score": -0.225,
+  "label": "neutral",
+  "n_items_14d": 27,
+  "n_items_total": 57,
+  "history_90d": [
+    {
+      "date": "2026-04-08",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-04-09",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-04-10",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-04-11",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-04-12",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-04-13",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-04-14",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-04-15",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-04-16",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-04-17",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-04-18",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-04-19",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-04-20",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-04-21",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-04-22",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-04-23",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-04-24",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-04-25",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-04-26",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-04-27",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-04-28",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-04-29",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-04-30",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-01",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-02",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-03",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-04",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-05",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-06",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-07",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-08",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-09",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-10",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-11",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-12",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-13",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-14",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-15",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-16",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-17",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-18",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-19",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-20",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-21",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-22",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-23",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-24",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-25",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-26",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-27",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-28",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-29",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-30",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-31",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-06-01",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-06-02",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-06-03",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-06-04",
+      "commentary_score": 1.229,
+      "surprise_score": -0.001,
+      "n_items": 2
+    },
+    {
+      "date": "2026-06-05",
+      "commentary_score": 0.964,
+      "surprise_score": -0.001,
+      "n_items": 5
+    },
+    {
+      "date": "2026-06-06",
+      "commentary_score": 1.207,
+      "surprise_score": -0.001,
+      "n_items": 6
+    },
+    {
+      "date": "2026-06-07",
+      "commentary_score": 1.207,
+      "surprise_score": -0.001,
+      "n_items": 6
+    },
+    {
+      "date": "2026-06-08",
+      "commentary_score": 1.207,
+      "surprise_score": -0.001,
+      "n_items": 6
+    },
+    {
+      "date": "2026-06-09",
+      "commentary_score": 1.207,
+      "surprise_score": -0.001,
+      "n_items": 6
+    },
+    {
+      "date": "2026-06-10",
+      "commentary_score": 1.207,
+      "surprise_score": -0.001,
+      "n_items": 6
+    },
+    {
+      "date": "2026-06-11",
+      "commentary_score": 0.625,
+      "surprise_score": -0.0,
+      "n_items": 7
+    },
+    {
+      "date": "2026-06-12",
+      "commentary_score": 0.625,
+      "surprise_score": -0.0,
+      "n_items": 7
+    },
+    {
+      "date": "2026-06-13",
+      "commentary_score": 0.625,
+      "surprise_score": -0.0,
+      "n_items": 7
+    },
+    {
+      "date": "2026-06-14",
+      "commentary_score": 0.625,
+      "surprise_score": -0.0,
+      "n_items": 7
+    },
+    {
+      "date": "2026-06-15",
+      "commentary_score": 0.625,
+      "surprise_score": -0.0,
+      "n_items": 7
+    },
+    {
+      "date": "2026-06-16",
+      "commentary_score": 0.625,
+      "surprise_score": -0.0,
+      "n_items": 7
+    },
+    {
+      "date": "2026-06-17",
+      "commentary_score": 0.625,
+      "surprise_score": -0.0,
+      "n_items": 7
+    },
+    {
+      "date": "2026-06-18",
+      "commentary_score": 0.61,
+      "surprise_score": -0.017,
+      "n_items": 28
+    },
+    {
+      "date": "2026-06-19",
+      "commentary_score": 0.609,
+      "surprise_score": -0.017,
+      "n_items": 25
+    },
+    {
+      "date": "2026-06-20",
+      "commentary_score": 0.599,
+      "surprise_score": -0.018,
+      "n_items": 24
+    },
+    {
+      "date": "2026-06-21",
+      "commentary_score": 0.599,
+      "surprise_score": -0.018,
+      "n_items": 24
+    },
+    {
+      "date": "2026-06-22",
+      "commentary_score": 0.599,
+      "surprise_score": -0.018,
+      "n_items": 24
+    },
+    {
+      "date": "2026-06-23",
+      "commentary_score": 0.624,
+      "surprise_score": -0.017,
+      "n_items": 28
+    },
+    {
+      "date": "2026-06-24",
+      "commentary_score": 0.624,
+      "surprise_score": -0.017,
+      "n_items": 31
+    },
+    {
+      "date": "2026-06-25",
+      "commentary_score": 0.641,
+      "surprise_score": -0.001,
+      "n_items": 32
+    },
+    {
+      "date": "2026-06-26",
+      "commentary_score": 0.653,
+      "surprise_score": -0.003,
+      "n_items": 37
+    },
+    {
+      "date": "2026-06-27",
+      "commentary_score": 0.668,
+      "surprise_score": -0.003,
+      "n_items": 38
+    },
+    {
+      "date": "2026-06-28",
+      "commentary_score": 0.668,
+      "surprise_score": -0.003,
+      "n_items": 38
+    },
+    {
+      "date": "2026-06-29",
+      "commentary_score": 0.639,
+      "surprise_score": -0.003,
+      "n_items": 40
+    },
+    {
+      "date": "2026-06-30",
+      "commentary_score": 0.639,
+      "surprise_score": -0.003,
+      "n_items": 44
+    },
+    {
+      "date": "2026-07-01",
+      "commentary_score": 0.674,
+      "surprise_score": -0.051,
+      "n_items": 45
+    },
+    {
+      "date": "2026-07-02",
+      "commentary_score": 0.876,
+      "surprise_score": -0.225,
+      "n_items": 25
+    },
+    {
+      "date": "2026-07-03",
+      "commentary_score": 0.876,
+      "surprise_score": -0.225,
+      "n_items": 27
+    },
+    {
+      "date": "2026-07-04",
+      "commentary_score": 0.876,
+      "surprise_score": -0.225,
+      "n_items": 27
+    },
+    {
+      "date": "2026-07-05",
+      "commentary_score": 0.876,
+      "surprise_score": -0.225,
+      "n_items": 27
+    },
+    {
+      "date": "2026-07-06",
+      "commentary_score": 0.876,
+      "surprise_score": -0.225,
+      "n_items": 27
+    }
+  ],
+  "top_movers": [
+    {
+      "published_at": "2026-06-30T14:51:00+00:00",
+      "speaker": "Beth Hammack",
+      "event_type": "off-the-cuff",
+      "stance": 1.0,
+      "prior": 1.5,
+      "surprise": -0.5,
+      "weight": 0.177,
+      "contribution": -0.089,
+      "phrase": "inflation is still too high, Fed may need to consider rate hikes",
+      "headline": "Fed's Hammack (2026 Voter) says the job market is right around full employment, and growth looks good, speaking on CNBC TV; inflation is still too high, Fed may need to consider rate hikes"
+    },
+    {
+      "published_at": "2026-06-25T18:04:00+00:00",
+      "speaker": "Austan Goolsbee",
+      "event_type": "other",
+      "stance": 1.0,
+      "prior": 1.27,
+      "surprise": -0.27,
+      "weight": 0.049,
+      "contribution": -0.013,
+      "phrase": "inflation going the wrong way, some of that driven by one-and-done",
+      "headline": "Fed's Goolsbee says hard to get throughline on inflation, how persistent or temporary; inflation going the wrong way, some of that driven by one-and-done; inflation a little more disturbing on services side"
+    },
+    {
+      "published_at": "2026-06-22T21:07:00+00:00",
+      "speaker": "Austan Goolsbee",
+      "event_type": "other",
+      "stance": 1.5,
+      "prior": 1.27,
+      "surprise": 0.23,
+      "weight": 0.042,
+      "contribution": 0.01,
+      "phrase": "inflation is well above target and going the wrong way",
+      "headline": "Fed's Goolsbee (2027 voter) says inflation is well above target and going the wrong way, adds need evidence this inflation is temporary and services inflation is a little disturbing"
+    },
+    {
+      "published_at": "2026-06-22T12:15:00+00:00",
+      "speaker": "Kevin Warsh",
+      "event_type": "other",
+      "stance": 0.0,
+      "prior": 0.62,
+      "surprise": -0.62,
+      "weight": 0.0,
+      "contribution": -0.0,
+      "phrase": "US NEC Director Hassett says getting debt-to-GDP down is a high priority; Fed Chair Warsh is not asking the White House for advice",
+      "headline": "US NEC Director Hassett says getting debt-to-GDP down is a high priority; Fed Chair Warsh is not asking the White House for advice"
+    },
+    {
+      "published_at": "2026-06-22T13:00:00+00:00",
+      "speaker": "Christopher Waller",
+      "event_type": "speech",
+      "stance": 0.0,
+      "prior": 0.0,
+      "surprise": 0.0,
+      "weight": 0.0,
+      "contribution": 0.0,
+      "phrase": "Fed's Waller (voter) does not comment on economic or monetary policy outlook in prepared remarks",
+      "headline": "Fed's Waller (voter) does not comment on economic or monetary policy outlook in prepared remarks"
+    }
+  ],
+  "methodology": {
+    "commentary_window_days": 14,
+    "surprise_lookback_days": 60,
+    "recency_halflife_days": 7,
+    "event_weights": {
+      "speech": 1.0,
+      "off-the-cuff": 0.75,
+      "minutes": 0.5,
+      "testimony": 0.9,
+      "press-conf": 1.0,
+      "other": 0.5
+    },
+    "speaker_weight_scale": "chair 1.0 / VC 0.8 / gov 0.7 / NY 0.7 / regional voter 0.6 / non-voter 0.4",
+    "scale": "-5 (ultra dovish) to +5 (ultra hawkish)",
+    "primary_signal": "surprise_score (stance minus speaker's 60d rolling mean)"
+  }
+}
