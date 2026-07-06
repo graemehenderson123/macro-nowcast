@@ -1,11 +1,11 @@
 {
   "cb": "ecb",
-  "as_of": "2026-07-06T15:13:45.833892+00:00",
-  "commentary_score": 0.571,
-  "surprise_score": -0.118,
+  "as_of": "2026-07-06T15:15:33.143200+00:00",
+  "commentary_score": 0.253,
+  "surprise_score": -0.393,
   "label": "neutral",
-  "n_items_14d": 28,
-  "n_items_total": 76,
+  "n_items_14d": 29,
+  "n_items_total": 77,
   "history_90d": [
     {
       "date": "2026-04-08",
@@ -543,12 +543,24 @@
     },
     {
       "date": "2026-07-06",
-      "commentary_score": 0.571,
-      "surprise_score": -0.118,
-      "n_items": 28
+      "commentary_score": 0.253,
+      "surprise_score": -0.393,
+      "n_items": 29
     }
   ],
   "top_movers": [
+    {
+      "published_at": "2026-07-06T15:10:00+00:00",
+      "speaker": "Christine Lagarde",
+      "event_type": "off-the-cuff",
+      "stance": -1.5,
+      "prior": 0.82,
+      "surprise": -2.32,
+      "weight": 0.525,
+      "contribution": -1.217,
+      "phrase": "second round effects not materialized today",
+      "headline": "ECB's Lagarde: SECOND ROUND EFFECTS NOT MATERIALIZED TODAY (Sintra follow-up)"
+    },
     {
       "published_at": "2026-06-30T19:16:00+00:00",
       "speaker": "Martins Kazaks",
@@ -557,7 +569,7 @@
       "prior": 1.5,
       "surprise": -5.0,
       "weight": 0.135,
-      "contribution": -0.674,
+      "contribution": -0.673,
       "phrase": "no need for a forceful inflation response and the urgency of consecutive hikes is significantly lower",
       "headline": "ECB's Kazaks says there is no need for a forceful inflation response and the urgency of consecutive hikes is significantly lower"
     },
@@ -590,24 +602,12 @@
       "speaker": "Christine Lagarde",
       "event_type": "other",
       "stance": -1.0,
-      "prior": 1.05,
-      "surprise": -2.05,
+      "prior": 0.82,
+      "surprise": -1.82,
       "weight": 0.151,
-      "contribution": -0.31,
+      "contribution": -0.275,
       "phrase": "risks to the economy are more balanced than they were a few weeks ago",
       "headline": "ECB President Lagarde says the risks to the economy are more balanced than they were a few weeks ago."
-    },
-    {
-      "published_at": "2026-06-23T08:22:00+00:00",
-      "speaker": "Jos\u00e9 Luis Escriv\u00e1",
-      "event_type": "other",
-      "stance": 1.5,
-      "prior": -1.5,
-      "surprise": 3.0,
-      "weight": 0.056,
-      "contribution": 0.169,
-      "phrase": "service-sector inflation is showing very strong persistence",
-      "headline": "ECB's Escriva says service-sector inflation is showing very strong persistence"
     }
   ],
   "key_comments": [
