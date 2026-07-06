@@ -1,6 +1,6 @@
 {
   "cb": "norges",
-  "as_of": "2026-07-06T15:13:46.187254+00:00",
+  "as_of": "2026-07-06T15:25:06.407249+00:00",
   "commentary_score": 0.0,
   "surprise_score": 0.0,
   "label": "neutral",
@@ -435,86 +435,86 @@
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 2.5,
-      "surprise_score": 2.5,
+      "commentary_score": 3.5,
+      "surprise_score": 2.0,
       "n_items": 1
     },
     {
       "date": "2026-06-19",
-      "commentary_score": 2.5,
-      "surprise_score": 2.5,
+      "commentary_score": 3.5,
+      "surprise_score": 2.0,
       "n_items": 1
     },
     {
       "date": "2026-06-20",
-      "commentary_score": 2.5,
-      "surprise_score": 2.5,
+      "commentary_score": 3.5,
+      "surprise_score": 2.0,
       "n_items": 1
     },
     {
       "date": "2026-06-21",
-      "commentary_score": 2.5,
-      "surprise_score": 2.5,
+      "commentary_score": 3.5,
+      "surprise_score": 2.0,
       "n_items": 1
     },
     {
       "date": "2026-06-22",
-      "commentary_score": 2.5,
-      "surprise_score": 2.5,
+      "commentary_score": 3.5,
+      "surprise_score": 2.0,
       "n_items": 1
     },
     {
       "date": "2026-06-23",
-      "commentary_score": 2.5,
-      "surprise_score": 2.5,
+      "commentary_score": 3.5,
+      "surprise_score": 2.0,
       "n_items": 1
     },
     {
       "date": "2026-06-24",
-      "commentary_score": 2.5,
-      "surprise_score": 2.5,
+      "commentary_score": 3.5,
+      "surprise_score": 2.0,
       "n_items": 1
     },
     {
       "date": "2026-06-25",
-      "commentary_score": 2.5,
-      "surprise_score": 2.5,
+      "commentary_score": 3.5,
+      "surprise_score": 2.0,
       "n_items": 1
     },
     {
       "date": "2026-06-26",
-      "commentary_score": 2.5,
-      "surprise_score": 2.5,
+      "commentary_score": 3.5,
+      "surprise_score": 2.0,
       "n_items": 1
     },
     {
       "date": "2026-06-27",
-      "commentary_score": 2.5,
-      "surprise_score": 2.5,
+      "commentary_score": 3.5,
+      "surprise_score": 2.0,
       "n_items": 1
     },
     {
       "date": "2026-06-28",
-      "commentary_score": 2.5,
-      "surprise_score": 2.5,
+      "commentary_score": 3.5,
+      "surprise_score": 2.0,
       "n_items": 1
     },
     {
       "date": "2026-06-29",
-      "commentary_score": 2.5,
-      "surprise_score": 2.5,
+      "commentary_score": 3.5,
+      "surprise_score": 2.0,
       "n_items": 1
     },
     {
       "date": "2026-06-30",
-      "commentary_score": 2.5,
-      "surprise_score": 2.5,
+      "commentary_score": 3.5,
+      "surprise_score": 2.0,
       "n_items": 1
     },
     {
       "date": "2026-07-01",
-      "commentary_score": 2.5,
-      "surprise_score": 2.5,
+      "commentary_score": 3.5,
+      "surprise_score": 2.0,
       "n_items": 1
     },
     {
@@ -552,20 +552,20 @@
   "key_comments": [
     {
       "published_at": "2026-06-18T08:00:00+00:00",
-      "speaker": "NORGES (institutional)",
-      "role": "institutional",
-      "lean_prior": "neutral",
+      "speaker": "Ida Wolden Bache",
+      "role": "chair",
+      "lean_prior": "hawk",
       "voting_2026": true,
-      "event_type": "statement",
-      "stance": 2.5,
-      "prior": 0.0,
-      "surprise": 2.5,
-      "phrase": "it will likely be necessary to raise the policy rate further",
+      "event_type": "other",
+      "stance": 3.5,
+      "prior": 1.5,
+      "surprise": 2.0,
+      "phrase": "Inflation is too high, and the rapid rise in business costs... will contribute to keeping inflation elevated",
       "headline": "Norges Bank leaves rates unchanged at 4.25%, as expected; it will likely be necessary to raise the policy rate further at one of the forthcoming monetary policy meetings",
-      "importance": 3.75,
+      "importance": 5.25,
       "reasons": [
-        "official CB statement (stance +2.50)",
-        "strong policy signal (|stance| = 2.5)"
+        "Chair spoke",
+        "cross-market extreme (|stance| = 3.5)"
       ]
     }
   ],

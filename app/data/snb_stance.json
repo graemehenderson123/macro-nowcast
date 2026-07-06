@@ -1,6 +1,6 @@
 {
   "cb": "snb",
-  "as_of": "2026-07-06T15:13:46.104481+00:00",
+  "as_of": "2026-07-06T15:25:06.324221+00:00",
   "commentary_score": 0.0,
   "surprise_score": 0.0,
   "label": "neutral",
@@ -435,86 +435,86 @@
     },
     {
       "date": "2026-06-18",
-      "commentary_score": -1.289,
-      "surprise_score": -0.662,
+      "commentary_score": -1.308,
+      "surprise_score": -0.689,
       "n_items": 4
     },
     {
       "date": "2026-06-19",
-      "commentary_score": -1.289,
-      "surprise_score": -0.662,
+      "commentary_score": -1.308,
+      "surprise_score": -0.689,
       "n_items": 4
     },
     {
       "date": "2026-06-20",
-      "commentary_score": -1.289,
-      "surprise_score": -0.662,
+      "commentary_score": -1.308,
+      "surprise_score": -0.689,
       "n_items": 4
     },
     {
       "date": "2026-06-21",
-      "commentary_score": -1.289,
-      "surprise_score": -0.662,
+      "commentary_score": -1.308,
+      "surprise_score": -0.689,
       "n_items": 4
     },
     {
       "date": "2026-06-22",
-      "commentary_score": -1.289,
-      "surprise_score": -0.662,
+      "commentary_score": -1.308,
+      "surprise_score": -0.689,
       "n_items": 4
     },
     {
       "date": "2026-06-23",
-      "commentary_score": -1.289,
-      "surprise_score": -0.662,
+      "commentary_score": -1.308,
+      "surprise_score": -0.689,
       "n_items": 4
     },
     {
       "date": "2026-06-24",
-      "commentary_score": -0.873,
-      "surprise_score": -0.448,
+      "commentary_score": -0.912,
+      "surprise_score": -0.48,
       "n_items": 6
     },
     {
       "date": "2026-06-25",
-      "commentary_score": -0.873,
-      "surprise_score": -0.448,
+      "commentary_score": -0.912,
+      "surprise_score": -0.48,
       "n_items": 6
     },
     {
       "date": "2026-06-26",
-      "commentary_score": -0.873,
-      "surprise_score": -0.448,
+      "commentary_score": -0.912,
+      "surprise_score": -0.48,
       "n_items": 6
     },
     {
       "date": "2026-06-27",
-      "commentary_score": -0.873,
-      "surprise_score": -0.448,
+      "commentary_score": -0.912,
+      "surprise_score": -0.48,
       "n_items": 6
     },
     {
       "date": "2026-06-28",
-      "commentary_score": -0.873,
-      "surprise_score": -0.448,
+      "commentary_score": -0.912,
+      "surprise_score": -0.48,
       "n_items": 6
     },
     {
       "date": "2026-06-29",
-      "commentary_score": -0.873,
-      "surprise_score": -0.448,
+      "commentary_score": -0.912,
+      "surprise_score": -0.48,
       "n_items": 6
     },
     {
       "date": "2026-06-30",
-      "commentary_score": -0.873,
-      "surprise_score": -0.448,
+      "commentary_score": -0.912,
+      "surprise_score": -0.48,
       "n_items": 6
     },
     {
       "date": "2026-07-01",
-      "commentary_score": -0.873,
-      "surprise_score": -0.448,
+      "commentary_score": -0.912,
+      "surprise_score": -0.48,
       "n_items": 6
     },
     {
@@ -558,7 +558,7 @@
       "surprise": 0.0,
       "weight": 0.059,
       "contribution": 0.0,
-      "phrase": "SNB's Martin says there are no plans for a digital CHF",
+      "phrase": "no plans for a digital CHF",
       "headline": "SNB's Martin says there are no plans for a digital CHF"
     },
     {
@@ -570,7 +570,7 @@
       "surprise": 0.0,
       "weight": 0.052,
       "contribution": 0.0,
-      "phrase": "SNB's Tschudin reiterates medium-term inflation pressures are unchanged",
+      "phrase": "medium-term inflation pressures are unchanged",
       "headline": "SNB's Tschudin reiterates medium-term inflation pressures are unchanged"
     }
   ],

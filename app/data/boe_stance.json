@@ -1,8 +1,8 @@
 {
   "cb": "boe",
-  "as_of": "2026-07-06T15:13:45.886043+00:00",
-  "commentary_score": -0.107,
-  "surprise_score": 0.269,
+  "as_of": "2026-07-06T15:25:06.105547+00:00",
+  "commentary_score": -0.224,
+  "surprise_score": 0.211,
   "label": "neutral",
   "n_items_14d": 9,
   "n_items_total": 20,
@@ -435,232 +435,232 @@
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 0.0,
+      "commentary_score": 0.126,
       "surprise_score": 0.0,
       "n_items": 10
     },
     {
       "date": "2026-06-19",
-      "commentary_score": 0.0,
+      "commentary_score": 0.131,
       "surprise_score": 0.0,
       "n_items": 8
     },
     {
       "date": "2026-06-20",
-      "commentary_score": 0.0,
+      "commentary_score": 0.131,
       "surprise_score": 0.0,
       "n_items": 8
     },
     {
       "date": "2026-06-21",
-      "commentary_score": 0.0,
+      "commentary_score": 0.131,
       "surprise_score": 0.0,
       "n_items": 8
     },
     {
       "date": "2026-06-22",
-      "commentary_score": 0.0,
+      "commentary_score": 0.108,
       "surprise_score": 0.0,
       "n_items": 8
     },
     {
       "date": "2026-06-23",
-      "commentary_score": 0.077,
-      "surprise_score": 0.192,
+      "commentary_score": -0.155,
+      "surprise_score": -0.006,
       "n_items": 10
     },
     {
       "date": "2026-06-24",
-      "commentary_score": 0.077,
-      "surprise_score": 0.192,
+      "commentary_score": -0.155,
+      "surprise_score": -0.006,
       "n_items": 10
     },
     {
       "date": "2026-06-25",
-      "commentary_score": 0.077,
-      "surprise_score": 0.192,
+      "commentary_score": -0.155,
+      "surprise_score": -0.006,
       "n_items": 10
     },
     {
       "date": "2026-06-26",
-      "commentary_score": 0.077,
-      "surprise_score": 0.192,
+      "commentary_score": -0.155,
+      "surprise_score": -0.006,
       "n_items": 10
     },
     {
       "date": "2026-06-27",
-      "commentary_score": 0.077,
-      "surprise_score": 0.192,
+      "commentary_score": -0.155,
+      "surprise_score": -0.006,
       "n_items": 10
     },
     {
       "date": "2026-06-28",
-      "commentary_score": 0.077,
-      "surprise_score": 0.192,
+      "commentary_score": -0.155,
+      "surprise_score": -0.006,
       "n_items": 10
     },
     {
       "date": "2026-06-29",
-      "commentary_score": 0.068,
-      "surprise_score": 0.17,
+      "commentary_score": -0.138,
+      "surprise_score": -0.005,
       "n_items": 11
     },
     {
       "date": "2026-06-30",
-      "commentary_score": 0.068,
-      "surprise_score": 0.17,
-      "n_items": 11
+      "commentary_score": -0.116,
+      "surprise_score": -0.004,
+      "n_items": 12
     },
     {
       "date": "2026-07-01",
-      "commentary_score": -0.303,
-      "surprise_score": 0.406,
+      "commentary_score": -0.469,
+      "surprise_score": 0.067,
       "n_items": 14
     },
     {
       "date": "2026-07-02",
-      "commentary_score": 0.092,
-      "surprise_score": 0.761,
+      "commentary_score": -0.264,
+      "surprise_score": 0.249,
       "n_items": 8
     },
     {
       "date": "2026-07-03",
-      "commentary_score": 0.084,
-      "surprise_score": 0.691,
+      "commentary_score": -0.24,
+      "surprise_score": 0.226,
       "n_items": 9
     },
     {
       "date": "2026-07-04",
-      "commentary_score": -0.099,
-      "surprise_score": 0.247,
+      "commentary_score": -0.205,
+      "surprise_score": 0.193,
       "n_items": 10
     },
     {
       "date": "2026-07-05",
-      "commentary_score": -0.099,
-      "surprise_score": 0.247,
+      "commentary_score": -0.205,
+      "surprise_score": 0.193,
       "n_items": 10
     },
     {
       "date": "2026-07-06",
-      "commentary_score": -0.107,
-      "surprise_score": 0.269,
+      "commentary_score": -0.224,
+      "surprise_score": 0.211,
       "n_items": 9
     }
   ],
   "top_movers": [
     {
-      "published_at": "2026-06-30T15:14:00+00:00",
-      "speaker": "Andrew Bailey",
+      "published_at": "2026-07-02T14:00:00+00:00",
+      "speaker": "Catherine Mann",
       "event_type": "other",
-      "stance": 1.0,
-      "prior": -0.8,
-      "surprise": 1.8,
-      "weight": 0.166,
-      "contribution": 0.298,
-      "phrase": "frustrated they are not back at the inflation target",
-      "headline": "BoE Governor Bailey says he is frustrated they are not back at the inflation target"
+      "stance": 2.5,
+      "prior": 1.5,
+      "surprise": 1.0,
+      "weight": 0.161,
+      "contribution": 0.161,
+      "phrase": "prepared to tighten if the inflation outlook deteriorates",
+      "headline": "BoE's Mann: \"I am confident that if outturns \u2013 especially in expectations \u2013 are unfavorable to the underlying inflation process, an activist move can bring inflation expectations and outcomes toward the two percent targe"
     },
     {
       "published_at": "2026-07-01T13:09:00+00:00",
       "speaker": "Andrew Bailey",
       "event_type": "other",
-      "stance": -2.0,
-      "prior": -0.8,
-      "surprise": -1.2,
-      "weight": 0.212,
-      "contribution": -0.254,
-      "phrase": "softening economy and labour market",
+      "stance": -1.0,
+      "prior": -1.5,
+      "surprise": 0.5,
+      "weight": 0.181,
+      "contribution": 0.091,
+      "phrase": "we have a softening economy and labour market",
       "headline": "BoE Governor Bailey says we have a softening economy and labour market and was the reason to not raise rates; focused on the risks of the pass-through of the energy crisis"
-    },
-    {
-      "published_at": "2026-07-02T14:00:00+00:00",
-      "speaker": "Catherine Mann",
-      "event_type": "other",
-      "stance": 3.0,
-      "prior": 1.5,
-      "surprise": 1.5,
-      "weight": 0.161,
-      "contribution": 0.241,
-      "phrase": "an activist move can bring inflation expectations and outcomes toward the two percent target",
-      "headline": "BoE's Mann: \"I am confident that if outturns \u2013 especially in expectations \u2013 are unfavorable to the underlying inflation process, an activist move can bring inflation expectations and outcomes toward the two percent targe"
     },
     {
       "published_at": "2026-06-23T13:18:00+00:00",
       "speaker": "Alan Taylor",
       "event_type": "other",
-      "stance": 1.0,
+      "stance": -2.0,
       "prior": -1.5,
-      "surprise": 2.5,
-      "weight": 0.049,
-      "contribution": 0.123,
-      "phrase": "an extended hold is the appropriate monetary response",
+      "surprise": -0.5,
+      "weight": 0.057,
+      "contribution": -0.029,
+      "phrase": "The domestic economy is weak. The BoE must be ready to cut",
       "headline": "BoE's Taylor says an extended hold is the appropriate monetary response at this point. Bank Rate is 75bps above personal estimate of neutral."
     },
     {
-      "published_at": "2026-07-03T15:46:00+00:00",
-      "speaker": "Andrew Bailey",
+      "published_at": "2026-06-23T15:12:00+00:00",
+      "speaker": "Alan Taylor",
       "event_type": "other",
       "stance": -1.0,
-      "prior": -0.8,
-      "surprise": -0.2,
-      "weight": 0.223,
-      "contribution": -0.045,
-      "phrase": "absent the war, inflation would be at target",
-      "headline": "BoE Governor Bailey says absent the war, inflation would be at target"
+      "prior": -1.5,
+      "surprise": 0.5,
+      "weight": 0.05,
+      "contribution": 0.025,
+      "phrase": "not seen much in terms of 2nd round effects in the UK",
+      "headline": "BoE's Taylor says they have not seen much in terms of 2nd round effects in the UK"
+    },
+    {
+      "published_at": "2026-06-29T05:09:00+00:00",
+      "speaker": "Huw Pill",
+      "event_type": "other",
+      "stance": 0.0,
+      "prior": 1.5,
+      "surprise": 0.0,
+      "weight": 0.084,
+      "contribution": 0.0,
+      "phrase": "BoE's chief economist Pill says the BoE is still experimenting with scenarios and external presentations",
+      "headline": "BoE's chief economist Pill says the BoE is still experimenting with scenarios and external presentations"
     }
   ],
   "key_comments": [
     {
-      "published_at": "2026-06-30T15:14:00+00:00",
+      "published_at": "2026-07-01T13:09:00+00:00",
       "speaker": "Andrew Bailey",
       "role": "chair",
       "lean_prior": "dove",
       "voting_2026": true,
       "event_type": "other",
-      "stance": 1.0,
-      "prior": -0.8,
-      "surprise": 1.8,
-      "phrase": "frustrated they are not back at the inflation target",
-      "headline": "BoE Governor Bailey says he is frustrated they are not back at the inflation target",
-      "importance": 6.6,
+      "stance": -1.0,
+      "prior": -1.5,
+      "surprise": 0.5,
+      "phrase": "we have a softening economy and labour market",
+      "headline": "BoE Governor Bailey says we have a softening economy and labour market and was the reason to not raise rates; focused on the risks of the pass-through of the energy crisis",
+      "importance": 4.0,
       "reasons": [
         "Chair spoke",
-        "dove-lean speaker sounded hawkish (surprise +1.80)"
+        "dove-lean speaker sounded hawkish (surprise +0.50)"
       ]
     },
     {
-      "published_at": "2026-06-23T13:18:00+00:00",
+      "published_at": "2026-07-01T13:32:00+00:00",
+      "speaker": "Andrew Bailey",
+      "role": "chair",
+      "lean_prior": "dove",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": -1.5,
+      "prior": -1.5,
+      "surprise": 0.0,
+      "phrase": "must be careful of getting tied into views and where rates must go",
+      "headline": "BoE Governor Bailey says he is cautious on forward guidance as it is easier to put it in place than to remove it, must be careful of getting tied into views and where rates must go",
+      "importance": 3.0,
+      "reasons": [
+        "Chair spoke"
+      ]
+    },
+    {
+      "published_at": "2026-06-23T15:12:00+00:00",
       "speaker": "Alan Taylor",
       "role": "mpc_external",
       "lean_prior": "dove",
       "voting_2026": true,
       "event_type": "other",
-      "stance": 1.0,
-      "prior": -1.5,
-      "surprise": 2.5,
-      "phrase": "an extended hold is the appropriate monetary response",
-      "headline": "BoE's Taylor says an extended hold is the appropriate monetary response at this point. Bank Rate is 75bps above personal estimate of neutral.",
-      "importance": 5.0,
-      "reasons": [
-        "dove-lean speaker sounded hawkish (surprise +2.50)"
-      ]
-    },
-    {
-      "published_at": "2026-07-03T15:46:00+00:00",
-      "speaker": "Andrew Bailey",
-      "role": "chair",
-      "lean_prior": "dove",
-      "voting_2026": true,
-      "event_type": "other",
       "stance": -1.0,
-      "prior": -0.8,
-      "surprise": -0.2,
-      "phrase": "absent the war, inflation would be at target",
-      "headline": "BoE Governor Bailey says absent the war, inflation would be at target",
-      "importance": 3.0,
+      "prior": -1.5,
+      "surprise": 0.5,
+      "phrase": "not seen much in terms of 2nd round effects in the UK",
+      "headline": "BoE's Taylor says they have not seen much in terms of 2nd round effects in the UK",
+      "importance": 1.0,
       "reasons": [
-        "Chair spoke"
+        "dove-lean speaker sounded hawkish (surprise +0.50)"
       ]
     }
   ],

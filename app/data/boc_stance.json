@@ -1,11 +1,11 @@
 {
   "cb": "boc",
-  "as_of": "2026-07-06T15:13:46.060452+00:00",
-  "commentary_score": 0.674,
-  "surprise_score": 0.435,
+  "as_of": "2026-07-06T15:25:06.279398+00:00",
+  "commentary_score": 0.164,
+  "surprise_score": 0.221,
   "label": "neutral",
   "n_items_14d": 6,
-  "n_items_total": 10,
+  "n_items_total": 11,
   "history_90d": [
     {
       "date": "2026-04-08",
@@ -387,230 +387,248 @@
     },
     {
       "date": "2026-06-10",
-      "commentary_score": 0.671,
-      "surprise_score": 0.671,
-      "n_items": 4
+      "commentary_score": 0.046,
+      "surprise_score": 0.046,
+      "n_items": 5
     },
     {
       "date": "2026-06-11",
-      "commentary_score": 0.671,
-      "surprise_score": 0.671,
-      "n_items": 4
+      "commentary_score": 0.046,
+      "surprise_score": 0.046,
+      "n_items": 5
     },
     {
       "date": "2026-06-12",
-      "commentary_score": 0.671,
-      "surprise_score": 0.671,
-      "n_items": 4
+      "commentary_score": 0.046,
+      "surprise_score": 0.046,
+      "n_items": 5
     },
     {
       "date": "2026-06-13",
-      "commentary_score": 0.671,
-      "surprise_score": 0.671,
-      "n_items": 4
+      "commentary_score": 0.046,
+      "surprise_score": 0.046,
+      "n_items": 5
     },
     {
       "date": "2026-06-14",
-      "commentary_score": 0.671,
-      "surprise_score": 0.671,
-      "n_items": 4
+      "commentary_score": 0.046,
+      "surprise_score": 0.046,
+      "n_items": 5
     },
     {
       "date": "2026-06-15",
-      "commentary_score": 0.671,
-      "surprise_score": 0.671,
-      "n_items": 4
+      "commentary_score": 0.046,
+      "surprise_score": 0.046,
+      "n_items": 5
     },
     {
       "date": "2026-06-16",
-      "commentary_score": 0.671,
-      "surprise_score": 0.671,
-      "n_items": 4
+      "commentary_score": 0.046,
+      "surprise_score": 0.046,
+      "n_items": 5
     },
     {
       "date": "2026-06-17",
-      "commentary_score": 0.671,
-      "surprise_score": 0.671,
-      "n_items": 4
+      "commentary_score": 0.046,
+      "surprise_score": 0.046,
+      "n_items": 5
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 0.671,
-      "surprise_score": 0.671,
-      "n_items": 4
+      "commentary_score": 0.046,
+      "surprise_score": 0.046,
+      "n_items": 5
     },
     {
       "date": "2026-06-19",
-      "commentary_score": 0.671,
-      "surprise_score": 0.671,
-      "n_items": 4
+      "commentary_score": 0.046,
+      "surprise_score": 0.046,
+      "n_items": 5
     },
     {
       "date": "2026-06-20",
-      "commentary_score": 0.671,
-      "surprise_score": 0.671,
-      "n_items": 4
+      "commentary_score": 0.046,
+      "surprise_score": 0.046,
+      "n_items": 5
     },
     {
       "date": "2026-06-21",
-      "commentary_score": 0.671,
-      "surprise_score": 0.671,
-      "n_items": 4
+      "commentary_score": 0.046,
+      "surprise_score": 0.046,
+      "n_items": 5
     },
     {
       "date": "2026-06-22",
-      "commentary_score": 0.671,
-      "surprise_score": 0.671,
-      "n_items": 4
+      "commentary_score": 0.046,
+      "surprise_score": 0.046,
+      "n_items": 5
     },
     {
       "date": "2026-06-23",
-      "commentary_score": 0.301,
-      "surprise_score": 0.301,
-      "n_items": 6
+      "commentary_score": -0.283,
+      "surprise_score": -0.174,
+      "n_items": 7
     },
     {
       "date": "2026-06-24",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
+      "commentary_score": -0.547,
+      "surprise_score": -0.43,
       "n_items": 2
     },
     {
       "date": "2026-06-25",
-      "commentary_score": 0.251,
-      "surprise_score": 0.251,
+      "commentary_score": 0.322,
+      "surprise_score": 0.373,
       "n_items": 3
     },
     {
       "date": "2026-06-26",
-      "commentary_score": 0.251,
-      "surprise_score": 0.251,
+      "commentary_score": 0.322,
+      "surprise_score": 0.373,
       "n_items": 3
     },
     {
       "date": "2026-06-27",
-      "commentary_score": 0.251,
-      "surprise_score": 0.251,
+      "commentary_score": 0.322,
+      "surprise_score": 0.373,
       "n_items": 3
     },
     {
       "date": "2026-06-28",
-      "commentary_score": 0.251,
-      "surprise_score": 0.251,
+      "commentary_score": 0.322,
+      "surprise_score": 0.373,
       "n_items": 3
     },
     {
       "date": "2026-06-29",
-      "commentary_score": 0.251,
-      "surprise_score": 0.251,
+      "commentary_score": 0.322,
+      "surprise_score": 0.373,
       "n_items": 3
     },
     {
       "date": "2026-06-30",
-      "commentary_score": 0.251,
-      "surprise_score": 0.251,
+      "commentary_score": 0.322,
+      "surprise_score": 0.373,
       "n_items": 3
     },
     {
       "date": "2026-07-01",
-      "commentary_score": 0.674,
-      "surprise_score": 0.435,
+      "commentary_score": 0.164,
+      "surprise_score": 0.221,
       "n_items": 6
     },
     {
       "date": "2026-07-02",
-      "commentary_score": 0.674,
-      "surprise_score": 0.435,
+      "commentary_score": 0.164,
+      "surprise_score": 0.221,
       "n_items": 6
     },
     {
       "date": "2026-07-03",
-      "commentary_score": 0.674,
-      "surprise_score": 0.435,
+      "commentary_score": 0.164,
+      "surprise_score": 0.221,
       "n_items": 6
     },
     {
       "date": "2026-07-04",
-      "commentary_score": 0.674,
-      "surprise_score": 0.435,
+      "commentary_score": 0.164,
+      "surprise_score": 0.221,
       "n_items": 6
     },
     {
       "date": "2026-07-05",
-      "commentary_score": 0.674,
-      "surprise_score": 0.435,
+      "commentary_score": 0.164,
+      "surprise_score": 0.221,
       "n_items": 6
     },
     {
       "date": "2026-07-06",
-      "commentary_score": 0.674,
-      "surprise_score": 0.435,
+      "commentary_score": 0.164,
+      "surprise_score": 0.221,
       "n_items": 6
     }
   ],
   "top_movers": [
     {
-      "published_at": "2026-07-01T13:31:00+00:00",
+      "published_at": "2026-07-01T13:12:00+00:00",
       "speaker": "Tiff Macklem",
       "event_type": "other",
-      "stance": 2.0,
-      "prior": 0.81,
-      "surprise": 1.19,
-      "weight": 0.242,
-      "contribution": 0.288,
-      "phrase": "inflation expectations are well anchored, we are going to keep them well anchored",
-      "headline": "BoC Governor Macklem says inflation expectations are well anchored, we are going to keep them well anchored"
+      "stance": 1.0,
+      "prior": -0.1,
+      "surprise": 1.1,
+      "weight": 0.211,
+      "contribution": 0.233,
+      "phrase": "Inflation is clearly above target.",
+      "headline": "BoC Governor Macklem says we are comfortable where we are in regards to interest rates"
     },
     {
       "published_at": "2026-06-24T17:29:00+00:00",
       "speaker": "BOC (institutional)",
       "event_type": "statement",
-      "stance": 0.5,
+      "stance": 1.0,
       "prior": 0.0,
-      "surprise": 0.5,
-      "weight": 0.138,
-      "contribution": 0.069,
-      "phrase": "monetary policy will need to remain nimble",
+      "surprise": 1.0,
+      "weight": 0.194,
+      "contribution": 0.194,
+      "phrase": "Members agreed that monetary policy will need to remain nimble.",
       "headline": "BoC MInutes: Agreed that monetary policy will need to remain nimble"
+    },
+    {
+      "published_at": "2026-07-01T13:31:00+00:00",
+      "speaker": "Tiff Macklem",
+      "event_type": "other",
+      "stance": -1.0,
+      "prior": -0.1,
+      "surprise": -0.9,
+      "weight": 0.181,
+      "contribution": -0.163,
+      "phrase": "A lot of potential to raise productivity growth with AI.",
+      "headline": "BoC Governor Macklem says inflation expectations are well anchored, we are going to keep them well anchored"
+    },
+    {
+      "published_at": "2026-06-23T15:04:00+00:00",
+      "speaker": "Tiff Macklem",
+      "event_type": "other",
+      "stance": -1.0,
+      "prior": -0.1,
+      "surprise": -0.9,
+      "weight": 0.083,
+      "contribution": -0.074,
+      "phrase": "not seeing so far much spreading of higher oil prices to other prices of other goods and services.",
+      "headline": "BoC Governor Macklem says he worries that too much forward guidance become full precision and can be confusing"
     },
     {
       "published_at": "2026-06-23T13:25:00+00:00",
       "speaker": "Tiff Macklem",
       "event_type": "other",
       "stance": 0.0,
-      "prior": 0.81,
+      "prior": -0.1,
       "surprise": 0.0,
       "weight": 0.068,
       "contribution": 0.0,
       "phrase": "BoC Governor Macklem says imbalances are growing as China's outward flow of capital continues and the US has been the largest destination of",
       "headline": "BoC Governor Macklem says imbalances are growing as China's outward flow of capital continues and the US has been the largest destination of capital"
-    },
-    {
-      "published_at": "2026-06-23T15:04:00+00:00",
-      "speaker": "Tiff Macklem",
-      "event_type": "other",
-      "stance": 0.0,
-      "prior": 0.81,
-      "surprise": 0.0,
-      "weight": 0.069,
-      "contribution": 0.0,
-      "phrase": "BoC Governor Macklem says he worries that too much forward guidance become full precision and can be confusing",
-      "headline": "BoC Governor Macklem says he worries that too much forward guidance become full precision and can be confusing"
-    },
-    {
-      "published_at": "2026-07-01T13:12:00+00:00",
-      "speaker": "Tiff Macklem",
-      "event_type": "other",
-      "stance": 0.0,
-      "prior": 0.81,
-      "surprise": 0.0,
-      "weight": 0.151,
-      "contribution": 0.0,
-      "phrase": "BoC Governor Macklem says we are comfortable where we are in regards to interest rates",
-      "headline": "BoC Governor Macklem says we are comfortable where we are in regards to interest rates"
     }
   ],
   "key_comments": [
+    {
+      "published_at": "2026-06-10T13:45:00+00:00",
+      "speaker": "Tiff Macklem",
+      "role": "chair",
+      "lean_prior": "neutral",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": 1.5,
+      "prior": -0.1,
+      "surprise": 1.6,
+      "phrase": "Raising rates to dampen inflation could further slow the economy.",
+      "headline": "BoC's Macklem: Governing Council agreed to look through the war\u2019s near-term impact on inflation but if energy prices stay high, we will not let their effects become broad-based persistent inflation.",
+      "importance": 4.6,
+      "reasons": [
+        "Chair spoke",
+        "notable move vs own prior (surprise +1.60)"
+      ]
+    },
     {
       "published_at": "2026-06-10T14:40:00+00:00",
       "speaker": "Tiff Macklem",
@@ -618,33 +636,15 @@
       "lean_prior": "neutral",
       "voting_2026": true,
       "event_type": "other",
-      "stance": -1.0,
-      "prior": 0.81,
-      "surprise": -1.81,
-      "phrase": "core inflation has ticked down",
+      "stance": -1.5,
+      "prior": -0.1,
+      "surprise": -1.4,
+      "phrase": "Weakness in the Canadian economy tends to put downward pressure on prices.",
       "headline": "BoC Governor Macklem (post-rate policy announcement) says any decision on a possible rate hike is less about a timeline and more about conditions, core inflation has ticked down",
-      "importance": 4.81,
+      "importance": 4.4,
       "reasons": [
         "Chair spoke",
-        "notable move vs own prior (surprise -1.81)"
-      ]
-    },
-    {
-      "published_at": "2026-07-01T13:31:00+00:00",
-      "speaker": "Tiff Macklem",
-      "role": "chair",
-      "lean_prior": "neutral",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": 2.0,
-      "prior": 0.81,
-      "surprise": 1.19,
-      "phrase": "inflation expectations are well anchored, we are going to keep them well anchored",
-      "headline": "BoC Governor Macklem says inflation expectations are well anchored, we are going to keep them well anchored",
-      "importance": 4.19,
-      "reasons": [
-        "Chair spoke",
-        "notable move vs own prior (surprise +1.19)"
+        "notable move vs own prior (surprise -1.40)"
       ]
     },
     {
@@ -654,14 +654,14 @@
       "lean_prior": "neutral",
       "voting_2026": true,
       "event_type": "statement",
-      "stance": 0.5,
+      "stance": 1.0,
       "prior": 0.0,
-      "surprise": 0.5,
-      "phrase": "monetary policy will need to remain nimble",
+      "surprise": 1.0,
+      "phrase": "Members agreed that monetary policy will need to remain nimble.",
       "headline": "BoC MInutes: Agreed that monetary policy will need to remain nimble",
       "importance": 2.5,
       "reasons": [
-        "official CB statement (stance +0.50)"
+        "official CB statement (stance +1.00)"
       ]
     }
   ],
