@@ -1,0 +1,777 @@
+{
+  "cb": "brl",
+  "as_of": "2026-07-06T19:15:44.272456+00:00",
+  "commentary_score": 0.635,
+  "surprise_score": 0.548,
+  "label": "lean hawkish",
+  "n_items_14d": 3,
+  "n_items_total": 45,
+  "history_90d": [
+    {
+      "date": "2026-04-08",
+      "commentary_score": -1.0,
+      "surprise_score": -2.5,
+      "n_items": 2
+    },
+    {
+      "date": "2026-04-09",
+      "commentary_score": -1.0,
+      "surprise_score": -2.5,
+      "n_items": 2
+    },
+    {
+      "date": "2026-04-10",
+      "commentary_score": -1.0,
+      "surprise_score": -2.5,
+      "n_items": 2
+    },
+    {
+      "date": "2026-04-11",
+      "commentary_score": -1.0,
+      "surprise_score": -2.5,
+      "n_items": 2
+    },
+    {
+      "date": "2026-04-12",
+      "commentary_score": -1.0,
+      "surprise_score": -2.5,
+      "n_items": 2
+    },
+    {
+      "date": "2026-04-13",
+      "commentary_score": -1.0,
+      "surprise_score": -2.5,
+      "n_items": 1
+    },
+    {
+      "date": "2026-04-14",
+      "commentary_score": -1.0,
+      "surprise_score": -2.5,
+      "n_items": 1
+    },
+    {
+      "date": "2026-04-15",
+      "commentary_score": -1.419,
+      "surprise_score": -1.662,
+      "n_items": 2
+    },
+    {
+      "date": "2026-04-16",
+      "commentary_score": -1.555,
+      "surprise_score": -1.389,
+      "n_items": 3
+    },
+    {
+      "date": "2026-04-17",
+      "commentary_score": -1.555,
+      "surprise_score": -1.389,
+      "n_items": 3
+    },
+    {
+      "date": "2026-04-18",
+      "commentary_score": -1.555,
+      "surprise_score": -1.389,
+      "n_items": 3
+    },
+    {
+      "date": "2026-04-19",
+      "commentary_score": -1.555,
+      "surprise_score": -1.389,
+      "n_items": 3
+    },
+    {
+      "date": "2026-04-20",
+      "commentary_score": -0.893,
+      "surprise_score": -0.673,
+      "n_items": 3
+    },
+    {
+      "date": "2026-04-21",
+      "commentary_score": -0.893,
+      "surprise_score": -0.673,
+      "n_items": 3
+    },
+    {
+      "date": "2026-04-22",
+      "commentary_score": -0.893,
+      "surprise_score": -0.673,
+      "n_items": 3
+    },
+    {
+      "date": "2026-04-23",
+      "commentary_score": -0.893,
+      "surprise_score": -0.673,
+      "n_items": 3
+    },
+    {
+      "date": "2026-04-24",
+      "commentary_score": -0.893,
+      "surprise_score": -0.673,
+      "n_items": 3
+    },
+    {
+      "date": "2026-04-25",
+      "commentary_score": -0.893,
+      "surprise_score": -0.673,
+      "n_items": 3
+    },
+    {
+      "date": "2026-04-26",
+      "commentary_score": -0.893,
+      "surprise_score": -0.673,
+      "n_items": 3
+    },
+    {
+      "date": "2026-04-27",
+      "commentary_score": -0.893,
+      "surprise_score": -0.673,
+      "n_items": 3
+    },
+    {
+      "date": "2026-04-28",
+      "commentary_score": -0.893,
+      "surprise_score": -0.673,
+      "n_items": 3
+    },
+    {
+      "date": "2026-04-29",
+      "commentary_score": -0.488,
+      "surprise_score": -0.122,
+      "n_items": 2
+    },
+    {
+      "date": "2026-04-30",
+      "commentary_score": -2.007,
+      "surprise_score": -2.007,
+      "n_items": 2
+    },
+    {
+      "date": "2026-05-01",
+      "commentary_score": -2.007,
+      "surprise_score": -2.007,
+      "n_items": 2
+    },
+    {
+      "date": "2026-05-02",
+      "commentary_score": -2.007,
+      "surprise_score": -2.007,
+      "n_items": 2
+    },
+    {
+      "date": "2026-05-03",
+      "commentary_score": -2.007,
+      "surprise_score": -2.007,
+      "n_items": 2
+    },
+    {
+      "date": "2026-05-04",
+      "commentary_score": -2.5,
+      "surprise_score": -2.5,
+      "n_items": 1
+    },
+    {
+      "date": "2026-05-05",
+      "commentary_score": -2.5,
+      "surprise_score": -2.5,
+      "n_items": 1
+    },
+    {
+      "date": "2026-05-06",
+      "commentary_score": -2.5,
+      "surprise_score": -2.5,
+      "n_items": 1
+    },
+    {
+      "date": "2026-05-07",
+      "commentary_score": -2.5,
+      "surprise_score": -2.5,
+      "n_items": 1
+    },
+    {
+      "date": "2026-05-08",
+      "commentary_score": -2.5,
+      "surprise_score": -2.5,
+      "n_items": 1
+    },
+    {
+      "date": "2026-05-09",
+      "commentary_score": -2.5,
+      "surprise_score": -2.5,
+      "n_items": 1
+    },
+    {
+      "date": "2026-05-10",
+      "commentary_score": -2.5,
+      "surprise_score": -2.5,
+      "n_items": 1
+    },
+    {
+      "date": "2026-05-11",
+      "commentary_score": -2.5,
+      "surprise_score": -2.5,
+      "n_items": 1
+    },
+    {
+      "date": "2026-05-12",
+      "commentary_score": -2.5,
+      "surprise_score": -2.5,
+      "n_items": 1
+    },
+    {
+      "date": "2026-05-13",
+      "commentary_score": -1.07,
+      "surprise_score": -1.07,
+      "n_items": 2
+    },
+    {
+      "date": "2026-05-14",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 1
+    },
+    {
+      "date": "2026-05-15",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 1
+    },
+    {
+      "date": "2026-05-16",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 1
+    },
+    {
+      "date": "2026-05-17",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 1
+    },
+    {
+      "date": "2026-05-18",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 2
+    },
+    {
+      "date": "2026-05-19",
+      "commentary_score": 0.284,
+      "surprise_score": 0.932,
+      "n_items": 5
+    },
+    {
+      "date": "2026-05-20",
+      "commentary_score": 0.284,
+      "surprise_score": 0.932,
+      "n_items": 5
+    },
+    {
+      "date": "2026-05-21",
+      "commentary_score": 0.284,
+      "surprise_score": 0.932,
+      "n_items": 5
+    },
+    {
+      "date": "2026-05-22",
+      "commentary_score": 0.284,
+      "surprise_score": 0.932,
+      "n_items": 5
+    },
+    {
+      "date": "2026-05-23",
+      "commentary_score": 0.284,
+      "surprise_score": 0.932,
+      "n_items": 5
+    },
+    {
+      "date": "2026-05-24",
+      "commentary_score": 0.284,
+      "surprise_score": 0.932,
+      "n_items": 5
+    },
+    {
+      "date": "2026-05-25",
+      "commentary_score": 0.284,
+      "surprise_score": 0.932,
+      "n_items": 5
+    },
+    {
+      "date": "2026-05-26",
+      "commentary_score": 0.284,
+      "surprise_score": 0.932,
+      "n_items": 5
+    },
+    {
+      "date": "2026-05-27",
+      "commentary_score": 0.308,
+      "surprise_score": 1.011,
+      "n_items": 4
+    },
+    {
+      "date": "2026-05-28",
+      "commentary_score": 0.308,
+      "surprise_score": 1.011,
+      "n_items": 4
+    },
+    {
+      "date": "2026-05-29",
+      "commentary_score": 0.308,
+      "surprise_score": 0.044,
+      "n_items": 4
+    },
+    {
+      "date": "2026-05-30",
+      "commentary_score": 0.308,
+      "surprise_score": 0.044,
+      "n_items": 4
+    },
+    {
+      "date": "2026-05-31",
+      "commentary_score": 0.308,
+      "surprise_score": 0.044,
+      "n_items": 4
+    },
+    {
+      "date": "2026-06-01",
+      "commentary_score": 0.41,
+      "surprise_score": 0.059,
+      "n_items": 3
+    },
+    {
+      "date": "2026-06-02",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-06-03",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-06-04",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-06-05",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-06-06",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-06-07",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-06-08",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 1
+    },
+    {
+      "date": "2026-06-09",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 1
+    },
+    {
+      "date": "2026-06-10",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 1
+    },
+    {
+      "date": "2026-06-11",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 1
+    },
+    {
+      "date": "2026-06-12",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 1
+    },
+    {
+      "date": "2026-06-13",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 1
+    },
+    {
+      "date": "2026-06-14",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 1
+    },
+    {
+      "date": "2026-06-15",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 2
+    },
+    {
+      "date": "2026-06-16",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 2
+    },
+    {
+      "date": "2026-06-17",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 2
+    },
+    {
+      "date": "2026-06-18",
+      "commentary_score": -1.44,
+      "surprise_score": -0.789,
+      "n_items": 3
+    },
+    {
+      "date": "2026-06-19",
+      "commentary_score": -1.44,
+      "surprise_score": -0.789,
+      "n_items": 3
+    },
+    {
+      "date": "2026-06-20",
+      "commentary_score": -1.44,
+      "surprise_score": -0.789,
+      "n_items": 3
+    },
+    {
+      "date": "2026-06-21",
+      "commentary_score": -1.44,
+      "surprise_score": -0.789,
+      "n_items": 3
+    },
+    {
+      "date": "2026-06-22",
+      "commentary_score": -1.677,
+      "surprise_score": -0.919,
+      "n_items": 2
+    },
+    {
+      "date": "2026-06-23",
+      "commentary_score": -0.076,
+      "surprise_score": 0.357,
+      "n_items": 3
+    },
+    {
+      "date": "2026-06-24",
+      "commentary_score": -0.076,
+      "surprise_score": 0.357,
+      "n_items": 3
+    },
+    {
+      "date": "2026-06-25",
+      "commentary_score": -0.045,
+      "surprise_score": 0.211,
+      "n_items": 5
+    },
+    {
+      "date": "2026-06-26",
+      "commentary_score": -0.045,
+      "surprise_score": 0.211,
+      "n_items": 5
+    },
+    {
+      "date": "2026-06-27",
+      "commentary_score": -0.045,
+      "surprise_score": 0.211,
+      "n_items": 5
+    },
+    {
+      "date": "2026-06-28",
+      "commentary_score": -0.045,
+      "surprise_score": 0.211,
+      "n_items": 5
+    },
+    {
+      "date": "2026-06-29",
+      "commentary_score": -0.05,
+      "surprise_score": -0.162,
+      "n_items": 4
+    },
+    {
+      "date": "2026-06-30",
+      "commentary_score": -0.05,
+      "surprise_score": -0.162,
+      "n_items": 4
+    },
+    {
+      "date": "2026-07-01",
+      "commentary_score": -0.05,
+      "surprise_score": -0.162,
+      "n_items": 4
+    },
+    {
+      "date": "2026-07-02",
+      "commentary_score": 0.635,
+      "surprise_score": 0.548,
+      "n_items": 3
+    },
+    {
+      "date": "2026-07-03",
+      "commentary_score": 0.635,
+      "surprise_score": 0.548,
+      "n_items": 3
+    },
+    {
+      "date": "2026-07-04",
+      "commentary_score": 0.635,
+      "surprise_score": 0.548,
+      "n_items": 3
+    },
+    {
+      "date": "2026-07-05",
+      "commentary_score": 0.635,
+      "surprise_score": 0.548,
+      "n_items": 3
+    },
+    {
+      "date": "2026-07-06",
+      "commentary_score": 0.635,
+      "surprise_score": 0.548,
+      "n_items": 3
+    }
+  ],
+  "top_movers": [
+    {
+      "published_at": "2026-06-23T11:01:00+00:00",
+      "speaker": "BRL (institutional)",
+      "event_type": "statement",
+      "stance": 1.5,
+      "prior": 0.2,
+      "surprise": 1.3,
+      "weight": 0.168,
+      "contribution": 0.218,
+      "phrase": "Upside risks to inflation have increased",
+      "headline": "BCB Minutes: Committee reiterates that the magnitude of the calibration cycle will be adjusted in light of developments in the scenario"
+    },
+    {
+      "published_at": "2026-06-25T11:01:00+00:00",
+      "speaker": "BRL (institutional)",
+      "event_type": "statement",
+      "stance": 0.0,
+      "prior": 0.2,
+      "surprise": 0.0,
+      "weight": 0.146,
+      "contribution": 0.0,
+      "phrase": "BCB 2026 forecasts: GDP +2.0% (prev. 1.6%), Current account balance USD -56bln (prev. USD -58bln); Trade balance USD +79bln (prev. USD +73bl",
+      "headline": "BCB 2026 forecasts: GDP +2.0% (prev. 1.6%), Current account balance USD -56bln (prev. USD -58bln); Trade balance USD +79bln (prev. USD +73bln); bank lending +9.0% (prev. +9.0%)."
+    },
+    {
+      "published_at": "2026-06-25T15:03:00+00:00",
+      "speaker": "Gabriel Galipolo",
+      "event_type": "other",
+      "stance": 0.0,
+      "prior": 1.5,
+      "surprise": 0.0,
+      "weight": 0.083,
+      "contribution": 0.0,
+      "phrase": "there is no change of any kind in monetary policy",
+      "headline": "BCB Chief Galipolo says their communication problem might have been trying to explain too much, rather than a lack of transparency; there is no change of any kind in monetary policy"
+    }
+  ],
+  "key_comments": [
+    {
+      "published_at": "2026-06-17T21:59:00+00:00",
+      "speaker": "BRL (institutional)",
+      "role": "institutional",
+      "lean_prior": "neutral",
+      "voting_2026": true,
+      "event_type": "statement",
+      "stance": -2.5,
+      "prior": 0.2,
+      "surprise": -2.7,
+      "phrase": "Committee reaffirms serenity and cautiousness in the conduction of monetary policy",
+      "headline": "Brazil Central Bank cuts Selic Rate by 25bps to 14.25%, as expected, with the decision unanimous",
+      "importance": 3.75,
+      "reasons": [
+        "official CB statement (stance -2.50)",
+        "strong policy signal (|stance| = 2.5)"
+      ]
+    }
+  ],
+  "speaker_board": {
+    "effective_window_days": 242,
+    "long_window_days": 365,
+    "recent_window_days": 14,
+    "speakers": [
+      {
+        "name": "Gabriel Galipolo",
+        "role": "chair",
+        "voting_2026": true,
+        "lean_prior": "hawk",
+        "weight_speaker": 1.0,
+        "n_long": 7,
+        "mean_long": -0.786,
+        "mean_long_conf_weighted": -0.786,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": -1.5,
+        "last_headline": "BCB President Galipolo says he is concerned that any potential limit on debt growth could lead agents to perceive that debt rollover is impossible, causing significant risk aversion",
+        "last_phrase": "could lead agents to perceive that debt rollover is impossible",
+        "last_published_at": "2026-05-19T14:04:00+00:00"
+      },
+      {
+        "name": "Diogo Guillen",
+        "role": "vice_chair",
+        "voting_2026": true,
+        "lean_prior": "neutral",
+        "weight_speaker": 0.8,
+        "n_long": 1,
+        "mean_long": -1.5,
+        "mean_long_conf_weighted": -1.5,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": -1.5,
+        "last_headline": "BCB's Deputy Governor Guillen says he disagrees with the mechanistic view that is held regarding projections, adding inflation projections are fraught with great uncertainty",
+        "last_phrase": "Continue to want anchored expectations; they reduce disinflation costs.",
+        "last_published_at": "2025-12-18T14:37:00+00:00"
+      },
+      {
+        "name": "Paulo Picchetti",
+        "role": "governor",
+        "voting_2026": true,
+        "lean_prior": "dove",
+        "weight_speaker": 0.7,
+        "n_long": 1,
+        "mean_long": -2.0,
+        "mean_long_conf_weighted": -2.0,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": -2.0,
+        "last_headline": "BCB's Picchetti expects lower growth from cyclical sectors this year; this is a sign monetary policy is working",
+        "last_phrase": "inflation expectations deviating from target in 2027 and 2028",
+        "last_published_at": "2026-04-16T18:16:00+00:00"
+      },
+      {
+        "name": "Ailton de Aquino Santos",
+        "role": "governor",
+        "voting_2026": true,
+        "lean_prior": "neutral",
+        "weight_speaker": 0.7,
+        "n_long": 0,
+        "mean_long": null,
+        "mean_long_conf_weighted": null,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": null,
+        "last_headline": "",
+        "last_phrase": "",
+        "last_published_at": null
+      },
+      {
+        "name": "Gilneu Vivan",
+        "role": "governor",
+        "voting_2026": true,
+        "lean_prior": "neutral",
+        "weight_speaker": 0.7,
+        "n_long": 0,
+        "mean_long": null,
+        "mean_long_conf_weighted": null,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": null,
+        "last_headline": "",
+        "last_phrase": "",
+        "last_published_at": null
+      },
+      {
+        "name": "Izabela Correa",
+        "role": "governor",
+        "voting_2026": true,
+        "lean_prior": "dove",
+        "weight_speaker": 0.7,
+        "n_long": 0,
+        "mean_long": null,
+        "mean_long_conf_weighted": null,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": null,
+        "last_headline": "",
+        "last_phrase": "",
+        "last_published_at": null
+      },
+      {
+        "name": "Nilton David",
+        "role": "governor",
+        "voting_2026": true,
+        "lean_prior": "neutral",
+        "weight_speaker": 0.7,
+        "n_long": 0,
+        "mean_long": null,
+        "mean_long_conf_weighted": null,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": null,
+        "last_headline": "",
+        "last_phrase": "",
+        "last_published_at": null
+      },
+      {
+        "name": "Roberto Campos Neto",
+        "role": "chair",
+        "voting_2026": false,
+        "lean_prior": "hawk",
+        "weight_speaker": 0.4,
+        "n_long": 0,
+        "mean_long": null,
+        "mean_long_conf_weighted": null,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": null,
+        "last_headline": "",
+        "last_phrase": "",
+        "last_published_at": null
+      }
+    ]
+  },
+  "methodology": {
+    "commentary_window_days": 14,
+    "surprise_lookback_days": 60,
+    "recency_halflife_days": 7,
+    "event_weights": {
+      "speech": 1.0,
+      "off-the-cuff": 0.75,
+      "minutes": 0.5,
+      "testimony": 0.9,
+      "press-conf": 1.0,
+      "statement": 1.0,
+      "other": 0.5
+    },
+    "speaker_weight_scale": "chair 1.0 / VC 0.8 / gov 0.7 / voter 0.6 / non-voter 0.4",
+    "scale": "-5 (ultra dovish) to +5 (ultra hawkish)",
+    "primary_signal": "surprise_score (stance minus speaker's 60d rolling mean)"
+  }
+}

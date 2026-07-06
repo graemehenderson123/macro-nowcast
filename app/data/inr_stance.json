@@ -1,0 +1,703 @@
+{
+  "cb": "inr",
+  "as_of": "2026-07-06T19:15:43.203082+00:00",
+  "commentary_score": 0.0,
+  "surprise_score": 0.0,
+  "label": "neutral",
+  "n_items_14d": 0,
+  "n_items_total": 19,
+  "history_90d": [
+    {
+      "date": "2026-04-08",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 1
+    },
+    {
+      "date": "2026-04-09",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 1
+    },
+    {
+      "date": "2026-04-10",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 1
+    },
+    {
+      "date": "2026-04-11",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 1
+    },
+    {
+      "date": "2026-04-12",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 1
+    },
+    {
+      "date": "2026-04-13",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 1
+    },
+    {
+      "date": "2026-04-14",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 1
+    },
+    {
+      "date": "2026-04-15",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 1
+    },
+    {
+      "date": "2026-04-16",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 1
+    },
+    {
+      "date": "2026-04-17",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 1
+    },
+    {
+      "date": "2026-04-18",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 1
+    },
+    {
+      "date": "2026-04-19",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 1
+    },
+    {
+      "date": "2026-04-20",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 1
+    },
+    {
+      "date": "2026-04-21",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 1
+    },
+    {
+      "date": "2026-04-22",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-04-23",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-04-24",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-04-25",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-04-26",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-04-27",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-04-28",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-04-29",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-04-30",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-01",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-02",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-03",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-04",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-05",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-06",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-07",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-08",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-09",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-10",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-11",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-12",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-13",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-14",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-15",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-16",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-17",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-18",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-19",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-20",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-21",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-22",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-23",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-24",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-25",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-26",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-27",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-28",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-29",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-30",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-05-31",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-06-01",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-06-02",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-06-03",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-06-04",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-06-05",
+      "commentary_score": -0.581,
+      "surprise_score": 0.29,
+      "n_items": 2
+    },
+    {
+      "date": "2026-06-06",
+      "commentary_score": -0.581,
+      "surprise_score": 0.29,
+      "n_items": 2
+    },
+    {
+      "date": "2026-06-07",
+      "commentary_score": -0.581,
+      "surprise_score": 0.29,
+      "n_items": 2
+    },
+    {
+      "date": "2026-06-08",
+      "commentary_score": -0.581,
+      "surprise_score": 0.29,
+      "n_items": 2
+    },
+    {
+      "date": "2026-06-09",
+      "commentary_score": -0.581,
+      "surprise_score": 0.29,
+      "n_items": 2
+    },
+    {
+      "date": "2026-06-10",
+      "commentary_score": -0.581,
+      "surprise_score": 0.29,
+      "n_items": 2
+    },
+    {
+      "date": "2026-06-11",
+      "commentary_score": -0.581,
+      "surprise_score": 0.29,
+      "n_items": 2
+    },
+    {
+      "date": "2026-06-12",
+      "commentary_score": -0.581,
+      "surprise_score": 0.29,
+      "n_items": 2
+    },
+    {
+      "date": "2026-06-13",
+      "commentary_score": -0.581,
+      "surprise_score": 0.29,
+      "n_items": 2
+    },
+    {
+      "date": "2026-06-14",
+      "commentary_score": -0.581,
+      "surprise_score": 0.29,
+      "n_items": 2
+    },
+    {
+      "date": "2026-06-15",
+      "commentary_score": -0.581,
+      "surprise_score": 0.29,
+      "n_items": 2
+    },
+    {
+      "date": "2026-06-16",
+      "commentary_score": -0.581,
+      "surprise_score": 0.29,
+      "n_items": 2
+    },
+    {
+      "date": "2026-06-17",
+      "commentary_score": -0.581,
+      "surprise_score": 0.29,
+      "n_items": 2
+    },
+    {
+      "date": "2026-06-18",
+      "commentary_score": -0.581,
+      "surprise_score": 0.29,
+      "n_items": 2
+    },
+    {
+      "date": "2026-06-19",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-06-20",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-06-21",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-06-22",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-06-23",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-06-24",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-06-25",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-06-26",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-06-27",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-06-28",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-06-29",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-06-30",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-07-01",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-07-02",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-07-03",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-07-04",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-07-05",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-07-06",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    }
+  ],
+  "top_movers": [],
+  "key_comments": [],
+  "speaker_board": {
+    "effective_window_days": 244,
+    "long_window_days": 365,
+    "recent_window_days": 14,
+    "speakers": [
+      {
+        "name": "Sanjay Malhotra",
+        "role": "chair",
+        "voting_2026": true,
+        "lean_prior": "dove",
+        "weight_speaker": 1.0,
+        "n_long": 2,
+        "mean_long": -1.5,
+        "mean_long_conf_weighted": -1.5,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": -1.0,
+        "last_headline": "RBI keeps Repurchase Rate unchanged at 5.25%, as expected, via unanimous decision, while policy stance kept at neutral",
+        "last_phrase": "Monetary policy has turned more cautious.",
+        "last_published_at": "2026-06-05T04:30:00+00:00"
+      },
+      {
+        "name": "Ram Singh",
+        "role": "mpc_external",
+        "voting_2026": true,
+        "lean_prior": "neutral",
+        "weight_speaker": 0.6,
+        "n_long": 1,
+        "mean_long": -2.0,
+        "mean_long_conf_weighted": -2.0,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": -2.0,
+        "last_headline": "RBI cuts Repurchase Rate by 25bps to 5.25%, as expected, with the decision unanimous and it maintains neutral stance",
+        "last_phrase": "MPC member Ram Singh wanted the stance to be changed to accommodative from neutral",
+        "last_published_at": "2025-12-05T04:32:00+00:00"
+      },
+      {
+        "name": "Poonam Gupta",
+        "role": "vice_chair",
+        "voting_2026": true,
+        "lean_prior": "dove",
+        "weight_speaker": 0.8,
+        "n_long": 0,
+        "mean_long": null,
+        "mean_long_conf_weighted": null,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": null,
+        "last_headline": "",
+        "last_phrase": "",
+        "last_published_at": null
+      },
+      {
+        "name": "Indranil Bhattacharyya",
+        "role": "governor",
+        "voting_2026": true,
+        "lean_prior": "neutral",
+        "weight_speaker": 0.7,
+        "n_long": 0,
+        "mean_long": null,
+        "mean_long_conf_weighted": null,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": null,
+        "last_headline": "",
+        "last_phrase": "",
+        "last_published_at": null
+      },
+      {
+        "name": "Nagesh Kumar",
+        "role": "mpc_external",
+        "voting_2026": true,
+        "lean_prior": "dove",
+        "weight_speaker": 0.6,
+        "n_long": 0,
+        "mean_long": null,
+        "mean_long_conf_weighted": null,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": null,
+        "last_headline": "",
+        "last_phrase": "",
+        "last_published_at": null
+      },
+      {
+        "name": "Saugata Bhattacharya",
+        "role": "mpc_external",
+        "voting_2026": true,
+        "lean_prior": "neutral",
+        "weight_speaker": 0.6,
+        "n_long": 0,
+        "mean_long": null,
+        "mean_long_conf_weighted": null,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": null,
+        "last_headline": "",
+        "last_phrase": "",
+        "last_published_at": null
+      },
+      {
+        "name": "Shaktikanta Das",
+        "role": "chair",
+        "voting_2026": false,
+        "lean_prior": "neutral",
+        "weight_speaker": 0.4,
+        "n_long": 0,
+        "mean_long": null,
+        "mean_long_conf_weighted": null,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": null,
+        "last_headline": "",
+        "last_phrase": "",
+        "last_published_at": null
+      }
+    ]
+  },
+  "methodology": {
+    "commentary_window_days": 14,
+    "surprise_lookback_days": 60,
+    "recency_halflife_days": 7,
+    "event_weights": {
+      "speech": 1.0,
+      "off-the-cuff": 0.75,
+      "minutes": 0.5,
+      "testimony": 0.9,
+      "press-conf": 1.0,
+      "statement": 1.0,
+      "other": 0.5
+    },
+    "speaker_weight_scale": "chair 1.0 / VC 0.8 / gov 0.7 / voter 0.6 / non-voter 0.4",
+    "scale": "-5 (ultra dovish) to +5 (ultra hawkish)",
+    "primary_signal": "surprise_score (stance minus speaker's 60d rolling mean)"
+  }
+}

@@ -1,7 +1,7 @@
 """Central Bank Stance Monitor — dedicated page.
 
-Grid of one card per central bank. Phase 1 = Fed with real data; the rest
-of G10 render as "Coming soon" placeholders so the roadmap is visible.
+Grid of one card per central bank. Phase 1 = Fed, Phase 2 = full G10,
+Phase 3 (cb-monitor-em-15) = G10 + 15 EM CBs, grouped by region.
 
 Data source: ``app/data/<cb>_stance.json`` snapshots rebuilt nightly by the
 `cb_monitor` backend on the workspace host. Do not fetch anything here.
@@ -36,18 +36,42 @@ DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 # Registry — one entry per CB card. Only entries with ``code`` mapped to a
 # snapshot file render live; the rest render as placeholders.
 # ---------------------------------------------------------------------------
+# Groups (G10 first, then EM by region). Order within each group is
+# adjusted by the sort selector at runtime.
 CB_REGISTRY: list[dict] = [
-    {"code": "fed",     "label": "FED",       "flag": "🇺🇸", "snapshot": "fed_stance.json",      "status": "live"},
-    {"code": "ecb",     "label": "ECB",       "flag": "🇪🇺", "snapshot": "ecb_stance.json",      "status": "live"},
-    {"code": "boe",     "label": "BOE",       "flag": "🇬🇧", "snapshot": "boe_stance.json",      "status": "live"},
-    {"code": "boj",     "label": "BOJ",       "flag": "🇯🇵", "snapshot": "boj_stance.json",      "status": "live"},
-    {"code": "rba",     "label": "RBA",       "flag": "🇦🇺", "snapshot": "rba_stance.json",      "status": "live"},
-    {"code": "rbnz",    "label": "RBNZ",      "flag": "🇳🇿", "snapshot": "rbnz_stance.json",     "status": "live"},
-    {"code": "boc",     "label": "BOC",       "flag": "🇨🇦", "snapshot": "boc_stance.json",      "status": "live"},
-    {"code": "snb",     "label": "SNB",       "flag": "🇨🇭", "snapshot": "snb_stance.json",      "status": "live"},
-    {"code": "riksbank","label": "RIKSBANK",  "flag": "🇸🇪", "snapshot": "riksbank_stance.json", "status": "live"},
-    {"code": "norges",  "label": "NORGES",    "flag": "🇳🇴", "snapshot": "norges_stance.json",   "status": "live"},
+    # ---- G10 ----
+    {"code": "fed",     "label": "FED",       "flag": "🇺🇸", "snapshot": "fed_stance.json",      "status": "live", "group": "G10"},
+    {"code": "ecb",     "label": "ECB",       "flag": "🇪🇺", "snapshot": "ecb_stance.json",      "status": "live", "group": "G10"},
+    {"code": "boe",     "label": "BOE",       "flag": "🇬🇧", "snapshot": "boe_stance.json",      "status": "live", "group": "G10"},
+    {"code": "boj",     "label": "BOJ",       "flag": "🇯🇵", "snapshot": "boj_stance.json",      "status": "live", "group": "G10"},
+    {"code": "rba",     "label": "RBA",       "flag": "🇦🇺", "snapshot": "rba_stance.json",      "status": "live", "group": "G10"},
+    {"code": "rbnz",    "label": "RBNZ",      "flag": "🇳🇿", "snapshot": "rbnz_stance.json",     "status": "live", "group": "G10"},
+    {"code": "boc",     "label": "BOC",       "flag": "🇨🇦", "snapshot": "boc_stance.json",      "status": "live", "group": "G10"},
+    {"code": "snb",     "label": "SNB",       "flag": "🇨🇭", "snapshot": "snb_stance.json",      "status": "live", "group": "G10"},
+    {"code": "riksbank","label": "RIKSBANK",  "flag": "🇸🇪", "snapshot": "riksbank_stance.json", "status": "live", "group": "G10"},
+    {"code": "norges",  "label": "NORGES",    "flag": "🇳🇴", "snapshot": "norges_stance.json",   "status": "live", "group": "G10"},
+    # ---- EM Asia ----
+    {"code": "cnh",     "label": "CNH · PBOC",   "flag": "🇨🇳", "snapshot": "cnh_stance.json",  "status": "live", "group": "EM Asia"},
+    {"code": "krw",     "label": "KRW · BOK",    "flag": "🇰🇷", "snapshot": "krw_stance.json",  "status": "live", "group": "EM Asia"},
+    {"code": "twd",     "label": "TWD · CBC",    "flag": "🇹🇼", "snapshot": "twd_stance.json",  "status": "live", "group": "EM Asia"},
+    {"code": "thb",     "label": "THB · BOT",    "flag": "🇹🇭", "snapshot": "thb_stance.json",  "status": "live", "group": "EM Asia"},
+    {"code": "inr",     "label": "INR · RBI",    "flag": "🇮🇳", "snapshot": "inr_stance.json",  "status": "live", "group": "EM Asia"},
+    {"code": "sgd",     "label": "SGD · MAS",    "flag": "🇸🇬", "snapshot": "sgd_stance.json",  "status": "live", "group": "EM Asia"},
+    # ---- EM CEEMEA ----
+    {"code": "huf",     "label": "HUF · MNB",    "flag": "🇭🇺", "snapshot": "huf_stance.json",  "status": "live", "group": "EM CEEMEA"},
+    {"code": "pln",     "label": "PLN · NBP",    "flag": "🇵🇱", "snapshot": "pln_stance.json",  "status": "live", "group": "EM CEEMEA"},
+    {"code": "czk",     "label": "CZK · CNB",    "flag": "🇨🇿", "snapshot": "czk_stance.json",  "status": "live", "group": "EM CEEMEA"},
+    {"code": "ils",     "label": "ILS · BOI",    "flag": "🇮🇱", "snapshot": "ils_stance.json",  "status": "live", "group": "EM CEEMEA"},
+    {"code": "zar",     "label": "ZAR · SARB",   "flag": "🇿🇦", "snapshot": "zar_stance.json",  "status": "live", "group": "EM CEEMEA"},
+    # ---- EM LatAm ----
+    {"code": "mxn",     "label": "MXN · BANXICO","flag": "🇲🇽", "snapshot": "mxn_stance.json",  "status": "live", "group": "EM LatAm"},
+    {"code": "brl",     "label": "BRL · BCB",    "flag": "🇧🇷", "snapshot": "brl_stance.json",  "status": "live", "group": "EM LatAm"},
+    {"code": "clp",     "label": "CLP · BCCH",   "flag": "🇨🇱", "snapshot": "clp_stance.json",  "status": "live", "group": "EM LatAm"},
+    {"code": "cop",     "label": "COP · BANREP", "flag": "🇨🇴", "snapshot": "cop_stance.json",  "status": "live", "group": "EM LatAm"},
 ]
+
+# Group render order
+GROUP_ORDER = ["G10", "EM Asia", "EM CEEMEA", "EM LatAm"]
 
 
 # ---------------------------------------------------------------------------
@@ -423,7 +447,7 @@ def render() -> None:
     as_of_str = as_of[:16].replace("T", " ") + " UTC" if as_of else "—"
 
     st.caption(
-        f"Speaker-relative hawk/dove tracking across G10 central banks. "
+        f"Speaker-relative hawk/dove tracking across G10 + 15 EM central banks. "
         f"Last updated: **{as_of_str}**"
     )
 
@@ -484,6 +508,10 @@ where curves and FX pairs have moved most.
         snap = None
         if cb.get("snapshot"):
             snap = _load_snapshot(cb["snapshot"], cache_bust)
+        # If snapshot says sparse (zero items ever scored), treat as "coming soon"
+        # to avoid a misleading 0.00σ neutral reading.
+        if snap is not None and snap.get("sparse") and int(snap.get("n_items_total", 0)) == 0:
+            snap = None
         entries.append({"cb": cb, "snap": snap, "_idx": idx})
 
     # Optional filter — only affects live cards; empty stay hidden if toggled
@@ -496,38 +524,64 @@ where curves and FX pairs have moved most.
         return abs(float(snap.get("surprise_score", 0.0))) > EXTREME_THRESHOLD
 
     entries = [e for e in entries if _keep(e)]
-    entries.sort(key=lambda e: _card_sort_key(e, sort_mode))
 
     if not entries:
         st.info("No central banks match the current filter.")
         return
 
-    # --- Grid --------------------------------------------------------------
+    # --- Grid — grouped by G10 / EM Asia / EM CEEMEA / EM LatAm -----------
     # Phone-ish widths get 1 column; wider gets 3.
     # Streamlit doesn't tell us the viewport width; use 3-up desktop layout and
     # rely on the browser wrapping cards vertically on narrow screens.
     per_row = 3
-    for row_start in range(0, len(entries), per_row):
-        row = entries[row_start : row_start + per_row]
-        cols = st.columns(per_row, gap="small")
-        for col, entry in zip(cols, row):
-            with col:
-                cb = entry["cb"]
-                snap = entry["snap"]
-                if snap is None:
-                    _render_empty_card(cb)
-                else:
-                    _render_live_card(cb, snap)
-        # Fill trailing empty slots so the last row keeps consistent width
-        for col in cols[len(row):]:
-            with col:
-                st.markdown("<div style='height:1px'></div>", unsafe_allow_html=True)
+
+    # Group entries and preserve group order.
+    grouped: dict[str, list[dict]] = {g: [] for g in GROUP_ORDER}
+    for e in entries:
+        g = e["cb"].get("group", "Other")
+        grouped.setdefault(g, []).append(e)
+
+    for group_name in list(grouped.keys()):
+        group_entries = grouped[group_name]
+        if not group_entries:
+            continue
+        # Sort within group by the selected mode
+        group_entries.sort(key=lambda e: _card_sort_key(e, sort_mode))
+
+        # Section header (small, styled)
+        st.markdown(
+            f"<div style='margin:20px 0 8px; padding-bottom:4px;"
+            f" border-bottom:1px solid #e5e7eb; color:#374151;"
+            f" font-size:12.5px; font-weight:700;"
+            f" text-transform:uppercase; letter-spacing:0.6px;'>"
+            f"{group_name}"
+            f"<span style='color:#9ca3af; font-weight:500; margin-left:8px;'>"
+            f"· {len(group_entries)} banks</span>"
+            f"</div>",
+            unsafe_allow_html=True,
+        )
+
+        for row_start in range(0, len(group_entries), per_row):
+            row = group_entries[row_start : row_start + per_row]
+            cols = st.columns(per_row, gap="small")
+            for col, entry in zip(cols, row):
+                with col:
+                    cb = entry["cb"]
+                    snap = entry["snap"]
+                    if snap is None:
+                        _render_empty_card(cb)
+                    else:
+                        _render_live_card(cb, snap)
+            # Fill trailing empty slots so the last row keeps consistent width
+            for col in cols[len(row):]:
+                with col:
+                    st.markdown("<div style='height:1px'></div>", unsafe_allow_html=True)
 
     # --- Footer ------------------------------------------------------------
     st.markdown(
         "<div style='color:#9ca3af;font-size:11px;margin-top:24px;'>"
         "Source: Newsquawk speaker headlines, LLM-classified via cb_monitor backend. "
-        "Snapshots rebuilt nightly. Non-Fed CBs on the roadmap — Phase 2."
+        "Snapshots rebuilt nightly. G10 + 15 EM central banks tracked."
         "</div>",
         unsafe_allow_html=True,
     )
