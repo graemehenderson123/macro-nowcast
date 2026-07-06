@@ -1,6 +1,6 @@
 {
   "cb": "boc",
-  "as_of": "2026-07-06T14:59:25.221458+00:00",
+  "as_of": "2026-07-06T15:13:46.060452+00:00",
   "commentary_score": 0.674,
   "surprise_score": 0.435,
   "label": "neutral",
@@ -465,9 +465,9 @@
     },
     {
       "date": "2026-06-23",
-      "commentary_score": 0.416,
-      "surprise_score": 0.416,
-      "n_items": 5
+      "commentary_score": 0.301,
+      "surprise_score": 0.301,
+      "n_items": 6
     },
     {
       "date": "2026-06-24",
@@ -568,7 +568,7 @@
       "stance": 0.5,
       "prior": 0.0,
       "surprise": 0.5,
-      "weight": 0.139,
+      "weight": 0.138,
       "contribution": 0.069,
       "phrase": "monetary policy will need to remain nimble",
       "headline": "BoC MInutes: Agreed that monetary policy will need to remain nimble"
@@ -580,7 +580,7 @@
       "stance": 0.0,
       "prior": 0.81,
       "surprise": 0.0,
-      "weight": 0.069,
+      "weight": 0.068,
       "contribution": 0.0,
       "phrase": "BoC Governor Macklem says imbalances are growing as China's outward flow of capital continues and the US has been the largest destination of",
       "headline": "BoC Governor Macklem says imbalances are growing as China's outward flow of capital continues and the US has been the largest destination of capital"

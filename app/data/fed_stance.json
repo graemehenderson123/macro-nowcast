@@ -1,6 +1,6 @@
 {
   "cb": "fed",
-  "as_of": "2026-07-06T14:59:24.950626+00:00",
+  "as_of": "2026-07-06T15:13:45.785972+00:00",
   "commentary_score": 0.602,
   "surprise_score": 0.144,
   "label": "neutral",
@@ -467,7 +467,7 @@
       "date": "2026-06-23",
       "commentary_score": 0.716,
       "surprise_score": 0.447,
-      "n_items": 34
+      "n_items": 35
     },
     {
       "date": "2026-06-24",
@@ -556,7 +556,7 @@
       "stance": 2.0,
       "prior": 0.99,
       "surprise": 1.01,
-      "weight": 0.212,
+      "weight": 0.211,
       "contribution": 0.213,
       "phrase": "must think about a new conduct for monetary policy and we'll be charting a new course",
       "headline": "Fed Chair Warsh says must think about a new conduct for monetary policy and we'll be charting a new course so the Fed can make better decisions"
@@ -569,7 +569,7 @@
       "prior": 1.5,
       "surprise": -2.5,
       "weight": 0.067,
-      "contribution": -0.168,
+      "contribution": -0.167,
       "phrase": "concerned about inflation, especially in services",
       "headline": "Fed's Kashkari (2026 voter) says he is concerned about inflation, especially in services; seeing some signs of life in the labour market"
     },
@@ -580,7 +580,7 @@
       "stance": 2.0,
       "prior": 1.5,
       "surprise": 0.5,
-      "weight": 0.199,
+      "weight": 0.198,
       "contribution": 0.099,
       "phrase": "inflation is still too high, Fed may need to consider rate hikes",
       "headline": "Fed's Hammack (2026 Voter) says the job market is right around full employment, and growth looks good, speaking on CNBC TV; inflation is still too high, Fed may need to consider rate hikes"

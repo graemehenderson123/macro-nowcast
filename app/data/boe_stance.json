@@ -1,6 +1,6 @@
 {
   "cb": "boe",
-  "as_of": "2026-07-06T14:59:25.046884+00:00",
+  "as_of": "2026-07-06T15:13:45.886043+00:00",
   "commentary_score": -0.107,
   "surprise_score": 0.269,
   "label": "neutral",
@@ -465,9 +465,9 @@
     },
     {
       "date": "2026-06-23",
-      "commentary_score": 0.082,
-      "surprise_score": 0.205,
-      "n_items": 9
+      "commentary_score": 0.077,
+      "surprise_score": 0.192,
+      "n_items": 10
     },
     {
       "date": "2026-06-24",
@@ -604,7 +604,7 @@
       "stance": -1.0,
       "prior": -0.8,
       "surprise": -0.2,
-      "weight": 0.224,
+      "weight": 0.223,
       "contribution": -0.045,
       "phrase": "absent the war, inflation would be at target",
       "headline": "BoE Governor Bailey says absent the war, inflation would be at target"
