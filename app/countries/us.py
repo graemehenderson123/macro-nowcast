@@ -220,23 +220,25 @@ def _render_components(res: dict, tail_days: int | None, pillar_color: str, key_
                     key=f"{key_prefix}_{spec['id']}",
                 )
 
-    with st.expander("Raw underlying series (pre-transform, pre-Z)"):
-        # Series selector
-        options = [(s["label"], s.get("source_id", s["id"])) for s in all_specs]
-        picked = st.multiselect(
-            "Pick series to inspect",
-            [o[0] for o in options],
-            key=f"{key_prefix}_raw_select",
-        )
-        for lbl in picked:
-            fid = dict(options)[lbl]
-            raw = res.get("raw", {}).get(fid)
-            if raw is not None and not raw.empty:
-                st.plotly_chart(
-                    C.raw_series_chart(raw, lbl, color=pillar_color, tail_days=tail_days, height=260),
-                    use_container_width=True,
-                    key=f"{key_prefix}_raw_{fid}",
-                )
+    # Raw underlying series (kept flat — Streamlit forbids nesting expanders,
+            # and this section already lives inside the “All components” expander)
+    st.markdown("---")
+    st.markdown("#### Raw underlying series (pre-transform, pre-Z)")
+    options = [(s["label"], s.get("source_id", s["id"])) for s in all_specs]
+    picked = st.multiselect(
+        "Pick series to inspect",
+        [o[0] for o in options],
+        key=f"{key_prefix}_raw_select",
+    )
+    for lbl in picked:
+        fid = dict(options)[lbl]
+        raw = res.get("raw", {}).get(fid)
+        if raw is not None and not raw.empty:
+            st.plotly_chart(
+                C.raw_series_chart(raw, lbl, color=pillar_color, tail_days=tail_days, height=260),
+                use_container_width=True,
+                key=f"{key_prefix}_raw_{fid}",
+            )
 
 
 def _render_pillar(
