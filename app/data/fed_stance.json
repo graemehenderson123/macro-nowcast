@@ -1,6 +1,6 @@
 {
   "cb": "fed",
-  "as_of": "2026-07-06T10:14:45.027436+00:00",
+  "as_of": "2026-07-06T10:53:18.452329+00:00",
   "commentary_score": 0.876,
   "surprise_score": -0.225,
   "label": "neutral",
@@ -557,7 +557,7 @@
       "prior": 1.5,
       "surprise": -0.5,
       "weight": 0.177,
-      "contribution": -0.089,
+      "contribution": -0.088,
       "phrase": "inflation is still too high, Fed may need to consider rate hikes",
       "headline": "Fed's Hammack (2026 Voter) says the job market is right around full employment, and growth looks good, speaking on CNBC TV; inflation is still too high, Fed may need to consider rate hikes"
     },
@@ -608,6 +608,25 @@
       "contribution": 0.0,
       "phrase": "Fed's Waller (voter) does not comment on economic or monetary policy outlook in prepared remarks",
       "headline": "Fed's Waller (voter) does not comment on economic or monetary policy outlook in prepared remarks"
+    }
+  ],
+  "key_comments": [
+    {
+      "published_at": "2026-06-30T14:51:00+00:00",
+      "speaker": "Beth Hammack",
+      "role": "regional_president",
+      "lean_prior": "hawk",
+      "voting_2026": true,
+      "event_type": "off-the-cuff",
+      "stance": 1.0,
+      "prior": 1.5,
+      "surprise": -0.5,
+      "phrase": "inflation is still too high, Fed may need to consider rate hikes",
+      "headline": "Fed's Hammack (2026 Voter) says the job market is right around full employment, and growth looks good, speaking on CNBC TV; inflation is still too high, Fed may need to consider rate hikes",
+      "importance": 1.0,
+      "reasons": [
+        "hawk-lean speaker sounded dovish (surprise -0.50)"
+      ]
     }
   ],
   "methodology": {

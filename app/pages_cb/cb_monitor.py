@@ -253,6 +253,110 @@ def _card_sort_key(entry: dict, mode: str) -> tuple:
 
 
 # ---------------------------------------------------------------------------
+# Top 3 key comments (cross-CB)
+# ---------------------------------------------------------------------------
+def _fmt_role(role: str | None, voting: bool | None) -> str:
+    if not role:
+        return "speaker"
+    m = {
+        "chair": "Chair",
+        "vice_chair": "Vice Chair",
+        "vice_chair_supervision": "Vice Chair for Supervision",
+        "governor": "Governor",
+        "nyfed_president": "NY Fed President",
+        "regional_president": "Regional Fed President",
+    }
+    label = m.get(role, role.replace("_", " ").title())
+    if voting is True:
+        label += " · voter"
+    elif voting is False and role != "chair":
+        label += " · non-voter"
+    return label
+
+
+def _fmt_relative_time(iso_ts: str) -> str:
+    try:
+        dt = datetime.fromisoformat(iso_ts.replace("Z", "+00:00"))
+    except Exception:
+        return ""
+    delta = datetime.now(timezone.utc) - dt
+    hours = delta.total_seconds() / 3600
+    if hours < 1:
+        return f"{int(delta.total_seconds() / 60)} min ago"
+    if hours < 24:
+        return f"{int(hours)} h ago"
+    days = int(hours / 24)
+    return f"{days} day{'s' if days != 1 else ''} ago"
+
+
+def _render_key_comments(entries: list[dict]) -> None:
+    """Cross-CB ‘Top 3 comments to know’ section. Pulls each snapshot's
+    key_comments, merges globally, sorts by importance, shows the top 3."""
+    merged: list[dict] = []
+    for e in entries:
+        snap = e.get("snap")
+        if not snap:
+            continue
+        cb_label = e["cb"]["label"]
+        for c in snap.get("key_comments", []) or []:
+            merged.append({**c, "_cb": cb_label})
+
+    st.markdown("### 📢 Top 3 comments to know")
+    st.caption(
+        "Ranked by seniority + off-lean surprise + cross-market extremes. "
+        "Trailing 14 days, one item per speaker."
+    )
+
+    if not merged:
+        st.info(
+            "No stand-out comments in the last 14 days across the live CBs. "
+            "Speakers are moving on-trend for their known lean, no seniority "
+            "flags, no cross-market extremes."
+        )
+        return
+
+    # Sort by importance desc, then recency desc
+    merged.sort(
+        key=lambda c: (c.get("importance", 0), c.get("published_at", "")),
+        reverse=True,
+    )
+    top = merged[:3]
+
+    for c in top:
+        stance = float(c.get("stance", 0.0))
+        colour = band_color(stance)   # colour bar reflects THIS comment's stance
+        speaker = c.get("speaker", "—")
+        role_tag = _fmt_role(c.get("role"), c.get("voting_2026"))
+        phrase = c.get("phrase") or ""
+        reasons = c.get("reasons") or []
+        why = " · ".join(reasons) if reasons else "—"
+        when = _fmt_relative_time(c.get("published_at", ""))
+        cb_tag = c.get("_cb", "")
+
+        st.markdown(
+            f"""
+<div style="border-left:5px solid {colour}; background:#fafafa; padding:10px 14px;
+            border-radius:6px; margin:8px 0;">
+  <div style="font-size:13px; color:#111827;">
+    <strong>{speaker}</strong>
+    <span style="color:#6b7280; font-weight:500;"> · {cb_tag} · {role_tag}</span>
+    <span style="color:#9ca3af; float:right; font-size:11px;">{when}</span>
+  </div>
+  <div style="font-style:italic; color:#374151; margin-top:6px; font-size:14px;">
+    “{phrase}”
+  </div>
+  <div style="color:#6b7280; font-size:11px; margin-top:6px;">
+    <strong>Why it matters:</strong> {why}
+    &nbsp;·&nbsp; stance {stance:+.2f}σ (prior {float(c.get('prior',0)):+.2f}σ,
+    surprise {float(c.get('surprise',0)):+.2f}σ)
+  </div>
+</div>
+            """,
+            unsafe_allow_html=True,
+        )
+
+
+# ---------------------------------------------------------------------------
 # Page entry point
 # ---------------------------------------------------------------------------
 def render() -> None:
@@ -337,8 +441,13 @@ where curves and FX pairs have moved most.
             return False
         return abs(float(snap.get("surprise_score", 0.0))) > EXTREME_THRESHOLD
 
+    entries_all = list(entries)   # keep pre-filter list for the key-comments section
     entries = [e for e in entries if _keep(e)]
     entries.sort(key=lambda e: _card_sort_key(e, sort_mode))
+
+    # --- Top 3 comments to know (always uses full unfiltered set) ----------
+    _render_key_comments(entries_all)
+    st.markdown("---")
 
     if not entries:
         st.info("No central banks match the current filter.")
