@@ -4,7 +4,7 @@ US Nowcast — shared core utilities.
 
 Provides:
   - FRED API key loading
-  - SQLite cache (obs + meta) with 24h TTL for reruns
+  - SQLite cache (obs + meta) with configurable TTL for reruns (default 4h)
   - fetch_series() with graceful skip on 404/discontinued series
   - zscore_36m() with transforms level/diff/log-diff/mom/yoy
   - build_pillar() generic weighted composite over a series catalogue
@@ -25,7 +25,10 @@ CHARTS.mkdir(exist_ok=True)
 
 ENV_FILE = ROOT.parent.parent / ".env"
 FRED_URL = "https://api.stlouisfed.org/fred/series/observations"
-CACHE_TTL_SECS = 24 * 3600  # skip re-fetch if fetched within last 24h
+# On Streamlit Cloud we want fresh data quickly after a release drops on FRED.
+# FRED has no meaningful rate-limit, so keep this short. Local batch runs
+# can override via NOWCAST_CACHE_TTL_SECS env var if needed.
+CACHE_TTL_SECS = int(os.environ.get("NOWCAST_CACHE_TTL_SECS", 4 * 3600))  # 4h default
 
 # ---------------------------------------------------------------------------
 def load_fred_key() -> str:

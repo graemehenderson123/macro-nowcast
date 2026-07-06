@@ -314,9 +314,21 @@ def render():
 
         st.markdown("---")
         st.markdown("### Data")
-        force_rebuild = st.button("🔄 Force rebuild from FRED", use_container_width=True)
+        force_rebuild = st.button("🔄 Force rebuild from FRED", use_container_width=True,
+                                   help="Wipes both the in-memory cache AND the on-disk SQLite cache, then re-fetches every series from FRED.")
         if force_rebuild:
+            # 1. Clear Streamlit's in-memory cache
             _build_all.clear()
+            # 2. Wipe the SQLite disk cache so nowcast_core actually re-hits FRED
+            #    (otherwise its own 24h TTL keeps serving stale rows).
+            try:
+                import nowcast_core  # type: ignore
+                db_path = Path(nowcast_core.__file__).parent / "fred_cache.sqlite"
+                if db_path.exists():
+                    db_path.unlink()
+                    st.toast(f"Cleared SQLite cache ({db_path.name}) \u2014 next build will re-hit FRED for every series.", icon="🗑️")
+            except Exception as e:
+                st.warning(f"Could not clear SQLite cache: {e}")
             st.rerun()
 
     # Cache-bust: manual rebuilds clear cache above; otherwise cache handles TTL.
