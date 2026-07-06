@@ -1,6 +1,6 @@
 {
   "cb": "boj",
-  "as_of": "2026-07-06T11:53:52.690365+00:00",
+  "as_of": "2026-07-06T14:59:25.093438+00:00",
   "commentary_score": 0.196,
   "surprise_score": -0.821,
   "label": "lean dovish",
@@ -424,85 +424,85 @@
     {
       "date": "2026-06-16",
       "commentary_score": 1.757,
-      "surprise_score": 2.202,
+      "surprise_score": 2.0,
       "n_items": 8
     },
     {
       "date": "2026-06-17",
       "commentary_score": 1.757,
-      "surprise_score": 2.202,
+      "surprise_score": 2.0,
       "n_items": 8
     },
     {
       "date": "2026-06-18",
       "commentary_score": 1.243,
-      "surprise_score": 0.645,
+      "surprise_score": 0.485,
       "n_items": 10
     },
     {
       "date": "2026-06-19",
       "commentary_score": 0.909,
-      "surprise_score": 0.497,
+      "surprise_score": 0.381,
       "n_items": 13
     },
     {
       "date": "2026-06-20",
       "commentary_score": 0.909,
-      "surprise_score": 0.497,
+      "surprise_score": 0.381,
       "n_items": 13
     },
     {
       "date": "2026-06-21",
       "commentary_score": 0.909,
-      "surprise_score": 0.497,
+      "surprise_score": 0.381,
       "n_items": 13
     },
     {
       "date": "2026-06-22",
       "commentary_score": 0.678,
-      "surprise_score": 0.178,
+      "surprise_score": 0.086,
       "n_items": 15
     },
     {
       "date": "2026-06-23",
       "commentary_score": 0.542,
-      "surprise_score": 0.092,
+      "surprise_score": -0.006,
       "n_items": 14
     },
     {
       "date": "2026-06-24",
       "commentary_score": 0.417,
-      "surprise_score": -0.016,
+      "surprise_score": -0.11,
       "n_items": 13
     },
     {
       "date": "2026-06-25",
       "commentary_score": 0.784,
-      "surprise_score": 0.162,
+      "surprise_score": 0.082,
       "n_items": 14
     },
     {
       "date": "2026-06-26",
       "commentary_score": 0.784,
-      "surprise_score": 0.162,
+      "surprise_score": 0.082,
       "n_items": 14
     },
     {
       "date": "2026-06-27",
       "commentary_score": 0.784,
-      "surprise_score": 0.162,
+      "surprise_score": 0.082,
       "n_items": 14
     },
     {
       "date": "2026-06-28",
       "commentary_score": 0.784,
-      "surprise_score": 0.162,
+      "surprise_score": 0.082,
       "n_items": 14
     },
     {
       "date": "2026-06-29",
       "commentary_score": 0.784,
-      "surprise_score": 0.162,
+      "surprise_score": 0.082,
       "n_items": 14
     },
     {
@@ -556,8 +556,8 @@
       "stance": -1.0,
       "prior": 1.05,
       "surprise": -2.05,
-      "weight": 0.245,
-      "contribution": -0.502,
+      "weight": 0.241,
+      "contribution": -0.495,
       "phrase": "uncertainty remains on outlook",
       "headline": "BoJ's Sato says the de-escalation of the Middle East conflict is a welcoming move but uncertainty remains on outlook"
     },
@@ -568,8 +568,8 @@
       "stance": 3.0,
       "prior": 1.5,
       "surprise": 1.5,
-      "weight": 0.092,
-      "contribution": 0.137,
+      "weight": 0.09,
+      "contribution": 0.136,
       "phrase": "must increase rates close to neutral to prevent inflation from exceeding the target",
       "headline": "BoJ's Tamura says Japan has already met BoJ's 2% inflation goal and must increase rates close to neutral to prevent inflation from exceeding the target"
     },
@@ -580,8 +580,8 @@
       "stance": -1.0,
       "prior": 0.0,
       "surprise": -1.0,
-      "weight": 0.089,
-      "contribution": -0.089,
+      "weight": 0.088,
+      "contribution": -0.088,
       "phrase": "Japan's economy is recovering moderately albeit with some weakness",
       "headline": "BoJ's Ueda says Japan's economy is recovering moderately albeit with some weakness; Economic growth likely to slow but continue to moderate recovery"
     },
@@ -592,7 +592,7 @@
       "stance": 2.0,
       "prior": 1.5,
       "surprise": 0.5,
-      "weight": 0.079,
+      "weight": 0.078,
       "contribution": 0.039,
       "phrase": "important to push the BoJ\u2019s policy rate closer to neutral to avoid being forced to hike rates sharply later",
       "headline": "BoJ Board Member Tamura said it is important to push the BoJ\u2019s policy rate closer to neutral to avoid being forced to hike rates sharply later"

@@ -1,8 +1,8 @@
 {
   "cb": "boe",
-  "as_of": "2026-07-06T11:53:52.634458+00:00",
+  "as_of": "2026-07-06T14:59:25.046884+00:00",
   "commentary_score": -0.107,
-  "surprise_score": 0.092,
+  "surprise_score": 0.269,
   "label": "neutral",
   "n_items_14d": 9,
   "n_items_total": 20,
@@ -358,193 +358,193 @@
     {
       "date": "2026-06-05",
       "commentary_score": 0.0,
-      "surprise_score": 1.5,
-      "n_items": 1
+      "surprise_score": 0.0,
+      "n_items": 2
     },
     {
       "date": "2026-06-06",
       "commentary_score": 0.0,
-      "surprise_score": 1.5,
+      "surprise_score": 0.0,
       "n_items": 2
     },
     {
       "date": "2026-06-07",
       "commentary_score": 0.0,
-      "surprise_score": 1.5,
+      "surprise_score": 0.0,
       "n_items": 2
     },
     {
       "date": "2026-06-08",
       "commentary_score": 0.0,
-      "surprise_score": 1.5,
+      "surprise_score": 0.0,
       "n_items": 3
     },
     {
       "date": "2026-06-09",
       "commentary_score": 0.0,
-      "surprise_score": 1.5,
+      "surprise_score": 0.0,
       "n_items": 3
     },
     {
       "date": "2026-06-10",
       "commentary_score": 0.0,
-      "surprise_score": 1.5,
+      "surprise_score": 0.0,
       "n_items": 3
     },
     {
       "date": "2026-06-11",
       "commentary_score": 0.0,
-      "surprise_score": 1.5,
+      "surprise_score": 0.0,
       "n_items": 3
     },
     {
       "date": "2026-06-12",
       "commentary_score": 0.0,
-      "surprise_score": 1.5,
+      "surprise_score": 0.0,
       "n_items": 3
     },
     {
       "date": "2026-06-13",
       "commentary_score": 0.0,
-      "surprise_score": 1.5,
+      "surprise_score": 0.0,
       "n_items": 3
     },
     {
       "date": "2026-06-14",
       "commentary_score": 0.0,
-      "surprise_score": 1.5,
+      "surprise_score": 0.0,
       "n_items": 3
     },
     {
       "date": "2026-06-15",
       "commentary_score": 0.0,
-      "surprise_score": 1.5,
+      "surprise_score": 0.0,
       "n_items": 3
     },
     {
       "date": "2026-06-16",
       "commentary_score": 0.0,
-      "surprise_score": 1.5,
+      "surprise_score": 0.0,
       "n_items": 3
     },
     {
       "date": "2026-06-17",
       "commentary_score": 0.0,
-      "surprise_score": 1.5,
+      "surprise_score": 0.0,
       "n_items": 3
     },
     {
       "date": "2026-06-18",
       "commentary_score": 0.0,
-      "surprise_score": -0.01,
-      "n_items": 8
+      "surprise_score": 0.0,
+      "n_items": 10
     },
     {
       "date": "2026-06-19",
       "commentary_score": 0.0,
-      "surprise_score": 0.093,
-      "n_items": 9
+      "surprise_score": 0.0,
+      "n_items": 8
     },
     {
       "date": "2026-06-20",
       "commentary_score": 0.0,
-      "surprise_score": 0.072,
+      "surprise_score": 0.0,
       "n_items": 8
     },
     {
       "date": "2026-06-21",
       "commentary_score": 0.0,
-      "surprise_score": 0.072,
+      "surprise_score": 0.0,
       "n_items": 8
     },
     {
       "date": "2026-06-22",
       "commentary_score": 0.0,
-      "surprise_score": 0.034,
+      "surprise_score": 0.0,
       "n_items": 8
     },
     {
       "date": "2026-06-23",
-      "commentary_score": 0.0,
-      "surprise_score": 0.034,
-      "n_items": 8
+      "commentary_score": 0.082,
+      "surprise_score": 0.205,
+      "n_items": 9
     },
     {
       "date": "2026-06-24",
       "commentary_score": 0.077,
-      "surprise_score": 0.318,
+      "surprise_score": 0.192,
       "n_items": 10
     },
     {
       "date": "2026-06-25",
       "commentary_score": 0.077,
-      "surprise_score": 0.318,
+      "surprise_score": 0.192,
       "n_items": 10
     },
     {
       "date": "2026-06-26",
       "commentary_score": 0.077,
-      "surprise_score": 0.318,
+      "surprise_score": 0.192,
       "n_items": 10
     },
     {
       "date": "2026-06-27",
       "commentary_score": 0.077,
-      "surprise_score": 0.318,
+      "surprise_score": 0.192,
       "n_items": 10
     },
     {
       "date": "2026-06-28",
       "commentary_score": 0.077,
-      "surprise_score": 0.318,
+      "surprise_score": 0.192,
       "n_items": 10
     },
     {
       "date": "2026-06-29",
       "commentary_score": 0.068,
-      "surprise_score": 0.108,
+      "surprise_score": 0.17,
       "n_items": 11
     },
     {
       "date": "2026-06-30",
       "commentary_score": 0.068,
-      "surprise_score": 0.108,
+      "surprise_score": 0.17,
       "n_items": 11
     },
     {
       "date": "2026-07-01",
-      "commentary_score": 0.241,
-      "surprise_score": 0.552,
-      "n_items": 12
+      "commentary_score": -0.303,
+      "surprise_score": 0.406,
+      "n_items": 14
     },
     {
       "date": "2026-07-02",
-      "commentary_score": -0.406,
-      "surprise_score": 0.543,
-      "n_items": 9
+      "commentary_score": 0.092,
+      "surprise_score": 0.761,
+      "n_items": 8
     },
     {
       "date": "2026-07-03",
       "commentary_score": 0.084,
-      "surprise_score": 0.496,
+      "surprise_score": 0.691,
       "n_items": 9
     },
     {
       "date": "2026-07-04",
       "commentary_score": -0.099,
-      "surprise_score": 0.084,
+      "surprise_score": 0.247,
       "n_items": 10
     },
     {
       "date": "2026-07-05",
       "commentary_score": -0.099,
-      "surprise_score": 0.084,
+      "surprise_score": 0.247,
       "n_items": 10
     },
     {
       "date": "2026-07-06",
       "commentary_score": -0.107,
-      "surprise_score": 0.092,
+      "surprise_score": 0.269,
       "n_items": 9
     }
   ],
@@ -556,8 +556,8 @@
       "stance": 1.0,
       "prior": -0.8,
       "surprise": 1.8,
-      "weight": 0.168,
-      "contribution": 0.302,
+      "weight": 0.166,
+      "contribution": 0.298,
       "phrase": "frustrated they are not back at the inflation target",
       "headline": "BoE Governor Bailey says he is frustrated they are not back at the inflation target"
     },
@@ -568,8 +568,8 @@
       "stance": -2.0,
       "prior": -0.8,
       "surprise": -1.2,
-      "weight": 0.214,
-      "contribution": -0.257,
+      "weight": 0.212,
+      "contribution": -0.254,
       "phrase": "softening economy and labour market",
       "headline": "BoE Governor Bailey says we have a softening economy and labour market and was the reason to not raise rates; focused on the risks of the pass-through of the energy crisis"
     },
@@ -580,34 +580,34 @@
       "stance": 3.0,
       "prior": 1.5,
       "surprise": 1.5,
-      "weight": 0.163,
-      "contribution": 0.244,
+      "weight": 0.161,
+      "contribution": 0.241,
       "phrase": "an activist move can bring inflation expectations and outcomes toward the two percent target",
       "headline": "BoE's Mann: \"I am confident that if outturns \u2013 especially in expectations \u2013 are unfavorable to the underlying inflation process, an activist move can bring inflation expectations and outcomes toward the two percent targe"
     },
     {
-      "published_at": "2026-07-02T16:18:00+00:00",
-      "speaker": "Catherine Mann",
+      "published_at": "2026-06-23T13:18:00+00:00",
+      "speaker": "Alan Taylor",
       "event_type": "other",
-      "stance": 0.0,
-      "prior": 1.5,
-      "surprise": -1.5,
-      "weight": 0.103,
-      "contribution": -0.154,
-      "phrase": "BoE's Mann says loosening in financial conditions since June will be important for her rate vote at the next meeting",
-      "headline": "BoE's Mann says loosening in financial conditions since June will be important for her rate vote at the next meeting"
+      "stance": 1.0,
+      "prior": -1.5,
+      "surprise": 2.5,
+      "weight": 0.049,
+      "contribution": 0.123,
+      "phrase": "an extended hold is the appropriate monetary response",
+      "headline": "BoE's Taylor says an extended hold is the appropriate monetary response at this point. Bank Rate is 75bps above personal estimate of neutral."
     },
     {
-      "published_at": "2026-06-29T05:09:00+00:00",
-      "speaker": "Huw Pill",
+      "published_at": "2026-07-03T15:46:00+00:00",
+      "speaker": "Andrew Bailey",
       "event_type": "other",
-      "stance": 0.0,
-      "prior": 1.5,
-      "surprise": -1.5,
-      "weight": 0.085,
-      "contribution": -0.128,
-      "phrase": "BoE's chief economist Pill says the BoE is still experimenting with scenarios and external presentations",
-      "headline": "BoE's chief economist Pill says the BoE is still experimenting with scenarios and external presentations"
+      "stance": -1.0,
+      "prior": -0.8,
+      "surprise": -0.2,
+      "weight": 0.224,
+      "contribution": -0.045,
+      "phrase": "absent the war, inflation would be at target",
+      "headline": "BoE Governor Bailey says absent the war, inflation would be at target"
     }
   ],
   "key_comments": [

@@ -1,9 +1,9 @@
 {
   "cb": "snb",
-  "as_of": "2026-07-06T11:53:52.875224+00:00",
-  "commentary_score": 0.515,
-  "surprise_score": 2.015,
-  "label": "hawkish",
+  "as_of": "2026-07-06T14:59:25.267426+00:00",
+  "commentary_score": 0.0,
+  "surprise_score": 0.0,
+  "label": "neutral",
   "n_items_14d": 2,
   "n_items_total": 6,
   "history_90d": [
@@ -435,143 +435,143 @@
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 1.357,
-      "surprise_score": 2.128,
+      "commentary_score": -1.289,
+      "surprise_score": -0.662,
       "n_items": 4
     },
     {
       "date": "2026-06-19",
-      "commentary_score": 1.357,
-      "surprise_score": 2.128,
+      "commentary_score": -1.289,
+      "surprise_score": -0.662,
       "n_items": 4
     },
     {
       "date": "2026-06-20",
-      "commentary_score": 1.357,
-      "surprise_score": 2.128,
+      "commentary_score": -1.289,
+      "surprise_score": -0.662,
       "n_items": 4
     },
     {
       "date": "2026-06-21",
-      "commentary_score": 1.357,
-      "surprise_score": 2.128,
+      "commentary_score": -1.289,
+      "surprise_score": -0.662,
       "n_items": 4
     },
     {
       "date": "2026-06-22",
-      "commentary_score": 1.357,
-      "surprise_score": 2.128,
+      "commentary_score": -1.289,
+      "surprise_score": -0.662,
       "n_items": 4
     },
     {
       "date": "2026-06-23",
-      "commentary_score": 1.357,
-      "surprise_score": 2.128,
+      "commentary_score": -1.289,
+      "surprise_score": -0.662,
       "n_items": 4
     },
     {
       "date": "2026-06-24",
-      "commentary_score": 1.075,
-      "surprise_score": 2.09,
+      "commentary_score": -0.873,
+      "surprise_score": -0.448,
       "n_items": 6
     },
     {
       "date": "2026-06-25",
-      "commentary_score": 1.075,
-      "surprise_score": 2.09,
+      "commentary_score": -0.873,
+      "surprise_score": -0.448,
       "n_items": 6
     },
     {
       "date": "2026-06-26",
-      "commentary_score": 1.075,
-      "surprise_score": 2.09,
+      "commentary_score": -0.873,
+      "surprise_score": -0.448,
       "n_items": 6
     },
     {
       "date": "2026-06-27",
-      "commentary_score": 1.075,
-      "surprise_score": 2.09,
+      "commentary_score": -0.873,
+      "surprise_score": -0.448,
       "n_items": 6
     },
     {
       "date": "2026-06-28",
-      "commentary_score": 1.075,
-      "surprise_score": 2.09,
+      "commentary_score": -0.873,
+      "surprise_score": -0.448,
       "n_items": 6
     },
     {
       "date": "2026-06-29",
-      "commentary_score": 1.075,
-      "surprise_score": 2.09,
+      "commentary_score": -0.873,
+      "surprise_score": -0.448,
       "n_items": 6
     },
     {
       "date": "2026-06-30",
-      "commentary_score": 1.075,
-      "surprise_score": 2.09,
+      "commentary_score": -0.873,
+      "surprise_score": -0.448,
       "n_items": 6
     },
     {
       "date": "2026-07-01",
-      "commentary_score": 1.075,
-      "surprise_score": 2.09,
+      "commentary_score": -0.873,
+      "surprise_score": -0.448,
       "n_items": 6
     },
     {
       "date": "2026-07-02",
-      "commentary_score": 0.515,
-      "surprise_score": 2.015,
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
       "n_items": 2
     },
     {
       "date": "2026-07-03",
-      "commentary_score": 0.515,
-      "surprise_score": 2.015,
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
       "n_items": 2
     },
     {
       "date": "2026-07-04",
-      "commentary_score": 0.515,
-      "surprise_score": 2.015,
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
       "n_items": 2
     },
     {
       "date": "2026-07-05",
-      "commentary_score": 0.515,
-      "surprise_score": 2.015,
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
       "n_items": 2
     },
     {
       "date": "2026-07-06",
-      "commentary_score": 0.515,
-      "surprise_score": 2.015,
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
       "n_items": 2
     }
   ],
   "top_movers": [
-    {
-      "published_at": "2026-06-24T09:28:00+00:00",
-      "speaker": "Petra Tschudin",
-      "event_type": "other",
-      "stance": 1.0,
-      "prior": -1.5,
-      "surprise": 2.5,
-      "weight": 0.063,
-      "contribution": 0.158,
-      "phrase": "medium-term inflation pressures are unchanged",
-      "headline": "SNB's Tschudin reiterates medium-term inflation pressures are unchanged"
-    },
     {
       "published_at": "2026-06-24T07:04:00+00:00",
       "speaker": "Antoine Martin",
       "event_type": "other",
       "stance": 0.0,
       "prior": -1.5,
-      "surprise": 1.5,
-      "weight": 0.06,
-      "contribution": 0.09,
+      "surprise": 0.0,
+      "weight": 0.059,
+      "contribution": 0.0,
       "phrase": "SNB's Martin says there are no plans for a digital CHF",
       "headline": "SNB's Martin says there are no plans for a digital CHF"
+    },
+    {
+      "published_at": "2026-06-24T09:28:00+00:00",
+      "speaker": "Petra Tschudin",
+      "event_type": "other",
+      "stance": 0.0,
+      "prior": -1.5,
+      "surprise": 0.0,
+      "weight": 0.052,
+      "contribution": 0.0,
+      "phrase": "SNB's Tschudin reiterates medium-term inflation pressures are unchanged",
+      "headline": "SNB's Tschudin reiterates medium-term inflation pressures are unchanged"
     }
   ],
   "key_comments": [
@@ -582,32 +582,14 @@
       "lean_prior": "dove",
       "voting_2026": true,
       "event_type": "other",
-      "stance": 1.5,
+      "stance": -1.5,
       "prior": -1.5,
-      "surprise": 3.0,
-      "phrase": "Monetary policy continues to have an expansionary effect",
+      "surprise": 0.0,
+      "phrase": "monetary policy continues to have an expansionary effect",
       "headline": "SNB Chairman Schlegel: Monetary policy continues to have an expansionary effect. Geopolitical uncertainty remains, risks of strong upward pressure on the CHF remains. \"If necessary, we therefore have an increased willing",
-      "importance": 9.0,
+      "importance": 3.0,
       "reasons": [
-        "Chair spoke",
-        "dove-lean speaker sounded hawkish (surprise +3.00)"
-      ]
-    },
-    {
-      "published_at": "2026-06-24T09:28:00+00:00",
-      "speaker": "Petra Tschudin",
-      "role": "governor",
-      "lean_prior": "dove",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": 1.0,
-      "prior": -1.5,
-      "surprise": 2.5,
-      "phrase": "medium-term inflation pressures are unchanged",
-      "headline": "SNB's Tschudin reiterates medium-term inflation pressures are unchanged",
-      "importance": 5.0,
-      "reasons": [
-        "dove-lean speaker sounded hawkish (surprise +2.50)"
+        "Chair spoke"
       ]
     },
     {
@@ -617,15 +599,14 @@
       "lean_prior": "neutral",
       "voting_2026": true,
       "event_type": "statement",
-      "stance": 2.5,
+      "stance": -1.5,
       "prior": 0.0,
-      "surprise": 2.5,
-      "phrase": "Monetary policy is appropriate to keep inflation within the range consistent with price stability.",
+      "surprise": -1.5,
+      "phrase": "readiness to intervene in FX is higher",
       "headline": "Swiss SNB Policy Announcement (Jun) 0.00% vs. Exp. 0.00% (Prev. 0.00%); readiness to intervene in FX is higher. Monetary policy is appropriate to keep inflation within the range consistent with price stability.",
-      "importance": 3.75,
+      "importance": 2.5,
       "reasons": [
-        "official CB statement (stance +2.50)",
-        "strong policy signal (|stance| = 2.5)"
+        "official CB statement (stance -1.50)"
       ]
     }
   ],

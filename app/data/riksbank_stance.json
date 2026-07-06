@@ -1,6 +1,6 @@
 {
   "cb": "riksbank",
-  "as_of": "2026-07-06T11:53:52.917129+00:00",
+  "as_of": "2026-07-06T14:59:25.310860+00:00",
   "commentary_score": 0.0,
   "surprise_score": 0.0,
   "label": "neutral",
@@ -556,7 +556,7 @@
       "stance": 0.0,
       "prior": 0.0,
       "surprise": 0.0,
-      "weight": 0.135,
+      "weight": 0.133,
       "contribution": 0.0,
       "phrase": "Riksbank Minutes (Jun):",
       "headline": "Riksbank Minutes (Jun):"

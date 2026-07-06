@@ -1,6 +1,6 @@
 {
   "cb": "rbnz",
-  "as_of": "2026-07-06T11:53:52.782322+00:00",
+  "as_of": "2026-07-06T14:59:25.180010+00:00",
   "commentary_score": 0.0,
   "surprise_score": 0.0,
   "label": "neutral",
@@ -556,7 +556,7 @@
       "stance": 0.0,
       "prior": 0.0,
       "surprise": 0.0,
-      "weight": 0.294,
+      "weight": 0.29,
       "contribution": 0.0,
       "phrase": "RBNZ says it is not seeking additional an additional Monetary Policy Committee member, prior to the New Zealand election",
       "headline": "RBNZ says it is not seeking additional an additional Monetary Policy Committee member, prior to the New Zealand election"

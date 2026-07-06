@@ -1,10 +1,10 @@
 {
   "cb": "ecb",
-  "as_of": "2026-07-06T11:53:52.568513+00:00",
-  "commentary_score": 0.056,
-  "surprise_score": -0.511,
-  "label": "lean dovish",
-  "n_items_14d": 36,
+  "as_of": "2026-07-06T14:59:24.999065+00:00",
+  "commentary_score": 0.057,
+  "surprise_score": -0.457,
+  "label": "neutral",
+  "n_items_14d": 34,
   "n_items_total": 85,
   "history_90d": [
     {
@@ -393,159 +393,159 @@
     },
     {
       "date": "2026-06-11",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 2
+      "commentary_score": 1.172,
+      "surprise_score": 0.697,
+      "n_items": 22
     },
     {
       "date": "2026-06-12",
-      "commentary_score": 1.323,
-      "surprise_score": -0.552,
-      "n_items": 27
+      "commentary_score": 1.341,
+      "surprise_score": 0.109,
+      "n_items": 28
     },
     {
       "date": "2026-06-13",
       "commentary_score": 1.315,
-      "surprise_score": -0.543,
+      "surprise_score": 0.107,
       "n_items": 29
     },
     {
       "date": "2026-06-14",
       "commentary_score": 1.315,
-      "surprise_score": -0.543,
+      "surprise_score": 0.107,
       "n_items": 29
     },
     {
       "date": "2026-06-15",
       "commentary_score": 1.2,
-      "surprise_score": -0.689,
+      "surprise_score": 0.078,
       "n_items": 34
     },
     {
       "date": "2026-06-16",
-      "commentary_score": 1.172,
-      "surprise_score": -0.639,
-      "n_items": 35
+      "commentary_score": 1.258,
+      "surprise_score": 0.367,
+      "n_items": 37
     },
     {
       "date": "2026-06-17",
-      "commentary_score": 1.231,
-      "surprise_score": -0.285,
-      "n_items": 38
+      "commentary_score": 1.057,
+      "surprise_score": 0.183,
+      "n_items": 40
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 1.013,
-      "surprise_score": -0.242,
-      "n_items": 41
+      "commentary_score": 1.028,
+      "surprise_score": -0.129,
+      "n_items": 42
     },
     {
       "date": "2026-06-19",
       "commentary_score": 1.009,
-      "surprise_score": -0.416,
+      "surprise_score": -0.108,
       "n_items": 46
     },
     {
       "date": "2026-06-20",
       "commentary_score": 1.009,
-      "surprise_score": -0.416,
+      "surprise_score": -0.108,
       "n_items": 46
     },
     {
       "date": "2026-06-21",
       "commentary_score": 1.009,
-      "surprise_score": -0.416,
+      "surprise_score": -0.108,
       "n_items": 46
     },
     {
       "date": "2026-06-22",
-      "commentary_score": 0.953,
-      "surprise_score": -0.426,
-      "n_items": 48
+      "commentary_score": 0.884,
+      "surprise_score": -0.014,
+      "n_items": 50
     },
     {
       "date": "2026-06-23",
-      "commentary_score": 0.916,
-      "surprise_score": -0.358,
-      "n_items": 55
-    },
-    {
-      "date": "2026-06-24",
       "commentary_score": 0.918,
-      "surprise_score": -0.363,
+      "surprise_score": 0.037,
       "n_items": 56
     },
     {
+      "date": "2026-06-24",
+      "commentary_score": 0.896,
+      "surprise_score": 0.036,
+      "n_items": 57
+    },
+    {
       "date": "2026-06-25",
-      "commentary_score": 1.002,
-      "surprise_score": -0.22,
-      "n_items": 58
+      "commentary_score": 0.756,
+      "surprise_score": -0.187,
+      "n_items": 39
     },
     {
       "date": "2026-06-26",
-      "commentary_score": 0.662,
-      "surprise_score": -0.474,
-      "n_items": 34
+      "commentary_score": 0.647,
+      "surprise_score": -0.26,
+      "n_items": 33
     },
     {
       "date": "2026-06-27",
       "commentary_score": 0.652,
-      "surprise_score": -0.471,
+      "surprise_score": -0.262,
       "n_items": 32
     },
     {
       "date": "2026-06-28",
       "commentary_score": 0.652,
-      "surprise_score": -0.471,
+      "surprise_score": -0.262,
       "n_items": 32
     },
     {
       "date": "2026-06-29",
       "commentary_score": 0.556,
-      "surprise_score": -0.555,
+      "surprise_score": -0.404,
       "n_items": 28
     },
     {
       "date": "2026-06-30",
-      "commentary_score": 0.269,
-      "surprise_score": -0.726,
-      "n_items": 32
+      "commentary_score": 0.204,
+      "surprise_score": -0.688,
+      "n_items": 30
     },
     {
       "date": "2026-07-01",
-      "commentary_score": -0.176,
-      "surprise_score": -0.736,
-      "n_items": 38
+      "commentary_score": -0.027,
+      "surprise_score": -0.54,
+      "n_items": 39
     },
     {
       "date": "2026-07-02",
-      "commentary_score": -0.064,
-      "surprise_score": -0.611,
-      "n_items": 38
+      "commentary_score": -0.078,
+      "surprise_score": -0.531,
+      "n_items": 37
     },
     {
       "date": "2026-07-03",
       "commentary_score": 0.007,
-      "surprise_score": -0.561,
+      "surprise_score": -0.482,
       "n_items": 36
     },
     {
       "date": "2026-07-04",
       "commentary_score": 0.067,
-      "surprise_score": -0.484,
+      "surprise_score": -0.407,
       "n_items": 38
     },
     {
       "date": "2026-07-05",
       "commentary_score": 0.067,
-      "surprise_score": -0.484,
+      "surprise_score": -0.407,
       "n_items": 38
     },
     {
       "date": "2026-07-06",
-      "commentary_score": 0.056,
-      "surprise_score": -0.511,
-      "n_items": 36
+      "commentary_score": 0.057,
+      "surprise_score": -0.457,
+      "n_items": 34
     }
   ],
   "top_movers": [
@@ -556,8 +556,8 @@
       "stance": -1.5,
       "prior": 0.61,
       "surprise": -2.11,
-      "weight": 0.337,
-      "contribution": -0.711,
+      "weight": 0.333,
+      "contribution": -0.702,
       "phrase": "rapid oil price retreat eases pressure on ECB to hike",
       "headline": "ECB sources say rapid oil price retreat eases pressure on ECB to hike in July and September is seen as more likely, although a June inflation surprise could reignite talk of a July hike, adds rate hike is not off agenda "
     },
@@ -568,8 +568,8 @@
       "stance": -1.0,
       "prior": 0.61,
       "surprise": -1.61,
-      "weight": 0.372,
-      "contribution": -0.599,
+      "weight": 0.367,
+      "contribution": -0.591,
       "phrase": "ECB should not rush into a further rate hike",
       "headline": "ECB's Demarco says ECB should not rush into a further rate hike after the decline in oil prices, adds central bank can wait until next projections to decide if further hikes are needed"
     },
@@ -580,8 +580,8 @@
       "stance": -1.0,
       "prior": 0.61,
       "surprise": -1.61,
-      "weight": 0.357,
-      "contribution": -0.575,
+      "weight": 0.352,
+      "contribution": -0.568,
       "phrase": "no urgency to hike if energy prices stay subdued",
       "headline": "ECB's Dolenc says uncertainty around Middle East is still elevated, July ECB pause may be appropriate based on current data; no urgency to hike if energy prices stay subdued"
     },
@@ -592,8 +592,8 @@
       "stance": -1.0,
       "prior": 0.61,
       "surprise": -1.61,
-      "weight": 0.304,
-      "contribution": -0.49,
+      "weight": 0.3,
+      "contribution": -0.484,
       "phrase": "have not seen clear evidence of second-round inflation effects",
       "headline": "ECB's Dolenc says if current oil prices hold, ECB may be able to wait until September to decide if more policy steps needed; have not seen clear evidence of second-round inflation effects"
     },
@@ -604,8 +604,8 @@
       "stance": -2.0,
       "prior": 0.55,
       "surprise": -2.55,
-      "weight": 0.144,
-      "contribution": -0.367,
+      "weight": 0.142,
+      "contribution": -0.362,
       "phrase": "the case for further tightening is receding",
       "headline": "ECB's Wunsch tells Econostream that the case for further tightening is receding and any surprise in EZ inflation before the July meeting is more likely to be on the downside,"
     }

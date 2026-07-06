@@ -1,10 +1,10 @@
 {
   "cb": "fed",
-  "as_of": "2026-07-06T11:53:52.519584+00:00",
+  "as_of": "2026-07-06T14:59:24.950626+00:00",
   "commentary_score": 0.602,
-  "surprise_score": 0.051,
+  "surprise_score": 0.144,
   "label": "neutral",
-  "n_items_14d": 29,
+  "n_items_14d": 27,
   "n_items_total": 64,
   "history_90d": [
     {
@@ -352,200 +352,200 @@
     {
       "date": "2026-06-04",
       "commentary_score": 1.229,
-      "surprise_score": -0.271,
+      "surprise_score": 0.307,
       "n_items": 2
     },
     {
       "date": "2026-06-05",
-      "commentary_score": 0.601,
-      "surprise_score": 0.154,
-      "n_items": 5
+      "commentary_score": 0.784,
+      "surprise_score": 0.337,
+      "n_items": 6
     },
     {
       "date": "2026-06-06",
       "commentary_score": 0.784,
-      "surprise_score": 0.122,
+      "surprise_score": 0.337,
       "n_items": 6
     },
     {
       "date": "2026-06-07",
       "commentary_score": 0.784,
-      "surprise_score": 0.122,
+      "surprise_score": 0.337,
       "n_items": 6
     },
     {
       "date": "2026-06-08",
       "commentary_score": 0.784,
-      "surprise_score": 0.122,
+      "surprise_score": 0.337,
       "n_items": 6
     },
     {
       "date": "2026-06-09",
       "commentary_score": 0.784,
-      "surprise_score": 0.122,
+      "surprise_score": 0.337,
       "n_items": 6
     },
     {
       "date": "2026-06-10",
       "commentary_score": 0.784,
-      "surprise_score": 0.122,
+      "surprise_score": 0.337,
       "n_items": 6
     },
     {
       "date": "2026-06-11",
       "commentary_score": 0.784,
-      "surprise_score": 0.122,
+      "surprise_score": 0.337,
       "n_items": 7
     },
     {
       "date": "2026-06-12",
       "commentary_score": 0.784,
-      "surprise_score": 0.122,
+      "surprise_score": 0.337,
       "n_items": 7
     },
     {
       "date": "2026-06-13",
       "commentary_score": 0.784,
-      "surprise_score": 0.122,
+      "surprise_score": 0.337,
       "n_items": 7
     },
     {
       "date": "2026-06-14",
       "commentary_score": 0.784,
-      "surprise_score": 0.122,
+      "surprise_score": 0.337,
       "n_items": 7
     },
     {
       "date": "2026-06-15",
       "commentary_score": 0.784,
-      "surprise_score": 0.122,
+      "surprise_score": 0.337,
       "n_items": 7
     },
     {
       "date": "2026-06-16",
       "commentary_score": 0.784,
-      "surprise_score": 0.122,
+      "surprise_score": 0.337,
       "n_items": 7
     },
     {
       "date": "2026-06-17",
       "commentary_score": 0.784,
-      "surprise_score": 0.122,
+      "surprise_score": 0.337,
       "n_items": 7
     },
     {
       "date": "2026-06-18",
       "commentary_score": 0.761,
-      "surprise_score": 0.144,
+      "surprise_score": 0.408,
       "n_items": 33
     },
     {
       "date": "2026-06-19",
-      "commentary_score": 0.769,
-      "surprise_score": 0.14,
-      "n_items": 30
+      "commentary_score": 0.765,
+      "surprise_score": 0.409,
+      "n_items": 29
     },
     {
       "date": "2026-06-20",
       "commentary_score": 0.765,
-      "surprise_score": 0.141,
+      "surprise_score": 0.409,
       "n_items": 29
     },
     {
       "date": "2026-06-21",
       "commentary_score": 0.765,
-      "surprise_score": 0.141,
+      "surprise_score": 0.409,
       "n_items": 29
     },
     {
       "date": "2026-06-22",
       "commentary_score": 0.765,
-      "surprise_score": 0.141,
-      "n_items": 29
+      "surprise_score": 0.409,
+      "n_items": 31
     },
     {
       "date": "2026-06-23",
-      "commentary_score": 0.767,
-      "surprise_score": 0.177,
-      "n_items": 33
+      "commentary_score": 0.716,
+      "surprise_score": 0.447,
+      "n_items": 34
     },
     {
       "date": "2026-06-24",
       "commentary_score": 0.716,
-      "surprise_score": 0.165,
+      "surprise_score": 0.447,
       "n_items": 38
     },
     {
       "date": "2026-06-25",
       "commentary_score": 0.665,
-      "surprise_score": 0.153,
-      "n_items": 39
+      "surprise_score": 0.415,
+      "n_items": 40
     },
     {
       "date": "2026-06-26",
       "commentary_score": 0.545,
-      "surprise_score": 0.007,
+      "surprise_score": 0.25,
       "n_items": 44
     },
     {
       "date": "2026-06-27",
       "commentary_score": 0.498,
-      "surprise_score": -0.069,
+      "surprise_score": 0.167,
       "n_items": 45
     },
     {
       "date": "2026-06-28",
       "commentary_score": 0.498,
-      "surprise_score": -0.069,
+      "surprise_score": 0.167,
       "n_items": 45
     },
     {
       "date": "2026-06-29",
       "commentary_score": 0.52,
-      "surprise_score": -0.023,
-      "n_items": 47
+      "surprise_score": 0.202,
+      "n_items": 50
     },
     {
       "date": "2026-06-30",
-      "commentary_score": 0.52,
-      "surprise_score": -0.023,
-      "n_items": 51
-    },
-    {
-      "date": "2026-07-01",
       "commentary_score": 0.637,
-      "surprise_score": 0.018,
+      "surprise_score": 0.226,
       "n_items": 52
     },
     {
+      "date": "2026-07-01",
+      "commentary_score": 0.743,
+      "surprise_score": 0.258,
+      "n_items": 53
+    },
+    {
       "date": "2026-07-02",
-      "commentary_score": 0.713,
-      "surprise_score": 0.02,
-      "n_items": 27
+      "commentary_score": 0.602,
+      "surprise_score": 0.144,
+      "n_items": 28
     },
     {
       "date": "2026-07-03",
       "commentary_score": 0.602,
-      "surprise_score": 0.051,
+      "surprise_score": 0.144,
       "n_items": 29
     },
     {
       "date": "2026-07-04",
       "commentary_score": 0.602,
-      "surprise_score": 0.051,
+      "surprise_score": 0.144,
       "n_items": 29
     },
     {
       "date": "2026-07-05",
       "commentary_score": 0.602,
-      "surprise_score": 0.051,
+      "surprise_score": 0.144,
       "n_items": 29
     },
     {
       "date": "2026-07-06",
       "commentary_score": 0.602,
-      "surprise_score": 0.051,
-      "n_items": 29
+      "surprise_score": 0.144,
+      "n_items": 27
     }
   ],
   "top_movers": [
@@ -556,8 +556,8 @@
       "stance": 2.0,
       "prior": 0.99,
       "surprise": 1.01,
-      "weight": 0.214,
-      "contribution": 0.216,
+      "weight": 0.212,
+      "contribution": 0.213,
       "phrase": "must think about a new conduct for monetary policy and we'll be charting a new course",
       "headline": "Fed Chair Warsh says must think about a new conduct for monetary policy and we'll be charting a new course so the Fed can make better decisions"
     },
@@ -568,22 +568,10 @@
       "stance": -1.0,
       "prior": 1.5,
       "surprise": -2.5,
-      "weight": 0.068,
-      "contribution": -0.17,
+      "weight": 0.067,
+      "contribution": -0.168,
       "phrase": "concerned about inflation, especially in services",
       "headline": "Fed's Kashkari (2026 voter) says he is concerned about inflation, especially in services; seeing some signs of life in the labour market"
-    },
-    {
-      "published_at": "2026-06-22T20:48:00+00:00",
-      "speaker": "Kevin Warsh",
-      "event_type": "testimony",
-      "stance": 0.0,
-      "prior": 0.99,
-      "surprise": -0.99,
-      "weight": 0.117,
-      "contribution": -0.116,
-      "phrase": "[CALENDAR ADDITION] Fed Chair Warsh is to testify at the House Financial Services Committee on July 14th at 10:00EDT/15:00BST",
-      "headline": "[CALENDAR ADDITION] Fed Chair Warsh is to testify at the House Financial Services Committee on July 14th at 10:00EDT/15:00BST"
     },
     {
       "published_at": "2026-06-30T14:51:00+00:00",
@@ -592,8 +580,8 @@
       "stance": 2.0,
       "prior": 1.5,
       "surprise": 0.5,
-      "weight": 0.201,
-      "contribution": 0.101,
+      "weight": 0.199,
+      "contribution": 0.099,
       "phrase": "inflation is still too high, Fed may need to consider rate hikes",
       "headline": "Fed's Hammack (2026 Voter) says the job market is right around full employment, and growth looks good, speaking on CNBC TV; inflation is still too high, Fed may need to consider rate hikes"
     },
@@ -604,10 +592,22 @@
       "stance": 3.0,
       "prior": 0.6,
       "surprise": 2.4,
-      "weight": 0.042,
-      "contribution": 0.1,
+      "weight": 0.041,
+      "contribution": 0.098,
       "phrase": "inflation is well above target and going the wrong way",
       "headline": "Fed's Goolsbee (2027 voter) says inflation is well above target and going the wrong way, adds need evidence this inflation is temporary and services inflation is a little disturbing"
+    },
+    {
+      "published_at": "2026-06-28T22:47:00+00:00",
+      "speaker": "Thomas Barkin",
+      "event_type": "off-the-cuff",
+      "stance": 1.0,
+      "prior": 0.0,
+      "surprise": 1.0,
+      "weight": 0.098,
+      "contribution": 0.098,
+      "phrase": "inflation is too high, but sees some signs that price pressures could moderate soon",
+      "headline": "Fed's Barkin (2027 voter) says inflation is too high, but sees some signs that price pressures could moderate soon, according to Bloomberg"
     }
   ],
   "key_comments": [
