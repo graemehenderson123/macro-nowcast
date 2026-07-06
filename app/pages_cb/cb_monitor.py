@@ -212,6 +212,60 @@ def _render_live_card(cb: dict, snap: dict) -> None:
                 height=min(38 * (len(df) + 1) + 10, 320),
             )
 
+    # Speaker Board — per-speaker long-term average stance, sortable
+    board = snap.get("speaker_board") or {}
+    board_speakers = board.get("speakers") or []
+    if board_speakers:
+        eff_days = int(board.get("effective_window_days") or 0)
+        long_days = int(board.get("long_window_days") or 365)
+        recent_days = int(board.get("recent_window_days") or 14)
+        # "long-term" label acknowledges the per-CB backfill window difference.
+        # Fed/ECB/BoE are intentionally 3m; the sparse CBs get the full 12m.
+        if eff_days >= 300:
+            long_lbl = "12m avg"
+        elif eff_days >= 80:
+            long_lbl = "3m avg"
+        else:
+            long_lbl = f"{eff_days}d avg"
+        with st.expander(f"Speaker board ({len(board_speakers)} speakers, {long_lbl})"):
+            st.caption(
+                f"Per-speaker mean stance over the trailing {eff_days} days "
+                f"(cap: {long_days}d, capped by earliest data). "
+                f"'Recent' column is the last {recent_days} days. "
+                "Δ = recent minus long-term. Positive = drifting more hawkish."
+            )
+            rows = []
+            for sp in board_speakers:
+                role = sp.get("role") or ""
+                voting = sp.get("voting_2026")
+                role_str = role.replace("_", " ")
+                if voting is True:
+                    role_str += " · voter"
+                elif voting is False:
+                    role_str += " · non-voter"
+                rows.append({
+                    "Speaker": sp.get("name", ""),
+                    "Role": role_str.strip() or "—",
+                    "Lean": sp.get("lean_prior") or "—",
+                    "N (long)": sp.get("n_long", 0),
+                    long_lbl: sp.get("mean_long_conf_weighted"),
+                    "N (14d)": sp.get("n_recent", 0),
+                    "14d avg": sp.get("mean_recent_conf_weighted"),
+                    "Δ": sp.get("delta"),
+                    "Last stance": sp.get("last_stance"),
+                    "Last quote": (sp.get("last_phrase") or sp.get("last_headline") or "")[:120],
+                })
+            df = pd.DataFrame(rows)
+            fmt = {}
+            for col in (long_lbl, "14d avg", "Δ", "Last stance"):
+                fmt[col] = lambda x: "—" if x is None else f"{x:+.2f}"
+            st.dataframe(
+                df.style.format(fmt, na_rep="—"),
+                use_container_width=True,
+                hide_index=True,
+                height=min(38 * (len(df) + 1) + 10, 400),
+            )
+
     # Reprice-risk banner if |surprise| > EXTREME_THRESHOLD (i.e. in the deep bands)
     if abs(surprise) > EXTREME_THRESHOLD:
         st.markdown(

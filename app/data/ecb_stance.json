@@ -1,613 +1,613 @@
 {
   "cb": "ecb",
-  "as_of": "2026-07-06T15:25:06.058587+00:00",
-  "commentary_score": 0.219,
-  "surprise_score": 0.123,
+  "as_of": "2026-07-06T16:10:26.320486+00:00",
+  "commentary_score": 0.169,
+  "surprise_score": -0.346,
   "label": "neutral",
-  "n_items_14d": 32,
-  "n_items_total": 79,
+  "n_items_14d": 27,
+  "n_items_total": 220,
   "history_90d": [
     {
       "date": "2026-04-08",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -0.058,
+      "surprise_score": -0.015,
+      "n_items": 2
     },
     {
       "date": "2026-04-09",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -0.058,
+      "surprise_score": -0.015,
+      "n_items": 2
     },
     {
       "date": "2026-04-10",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": 1.31,
+      "surprise_score": 1.324,
+      "n_items": 3
     },
     {
       "date": "2026-04-11",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": 1.31,
+      "surprise_score": 1.324,
+      "n_items": 3
     },
     {
       "date": "2026-04-12",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": 1.31,
+      "surprise_score": 1.324,
+      "n_items": 3
     },
     {
       "date": "2026-04-13",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": 0.786,
+      "surprise_score": 0.794,
+      "n_items": 5
     },
     {
       "date": "2026-04-14",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": 0.545,
+      "surprise_score": 0.551,
+      "n_items": 7
     },
     {
       "date": "2026-04-15",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": 0.179,
+      "surprise_score": 0.072,
+      "n_items": 11
     },
     {
       "date": "2026-04-16",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": 0.203,
+      "surprise_score": -0.26,
+      "n_items": 20
     },
     {
       "date": "2026-04-17",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-04-18",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-04-19",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-04-20",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-04-21",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-04-22",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-04-23",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-04-24",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-04-25",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-04-26",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-04-27",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-04-28",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-04-29",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-04-30",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-01",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-02",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-03",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-04",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-05",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-06",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-07",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-08",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-09",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-10",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-11",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-12",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-13",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-14",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-15",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-16",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-17",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-18",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-19",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-20",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-21",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-22",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-23",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-24",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-25",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-26",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-27",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-28",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-29",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-30",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-31",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-06-01",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-06-02",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-06-03",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-06-04",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 1
-    },
-    {
-      "date": "2026-06-05",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 1
-    },
-    {
-      "date": "2026-06-06",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 1
-    },
-    {
-      "date": "2026-06-07",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 1
-    },
-    {
-      "date": "2026-06-08",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 1
-    },
-    {
-      "date": "2026-06-09",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 1
-    },
-    {
-      "date": "2026-06-10",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 1
-    },
-    {
-      "date": "2026-06-11",
-      "commentary_score": 0.456,
-      "surprise_score": 0.24,
+      "commentary_score": 0.124,
+      "surprise_score": -0.096,
       "n_items": 23
     },
     {
-      "date": "2026-06-12",
-      "commentary_score": 0.557,
-      "surprise_score": 0.291,
+      "date": "2026-04-18",
+      "commentary_score": 0.124,
+      "surprise_score": -0.096,
+      "n_items": 23
+    },
+    {
+      "date": "2026-04-19",
+      "commentary_score": 0.124,
+      "surprise_score": -0.096,
+      "n_items": 23
+    },
+    {
+      "date": "2026-04-20",
+      "commentary_score": 0.15,
+      "surprise_score": -0.091,
+      "n_items": 22
+    },
+    {
+      "date": "2026-04-21",
+      "commentary_score": 0.061,
+      "surprise_score": -0.005,
+      "n_items": 23
+    },
+    {
+      "date": "2026-04-22",
+      "commentary_score": -0.141,
+      "surprise_score": -0.276,
       "n_items": 27
     },
     {
-      "date": "2026-06-13",
-      "commentary_score": 0.546,
-      "surprise_score": 0.286,
+      "date": "2026-04-23",
+      "commentary_score": -0.128,
+      "surprise_score": -0.252,
       "n_items": 28
     },
     {
-      "date": "2026-06-14",
-      "commentary_score": 0.546,
-      "surprise_score": 0.286,
+      "date": "2026-04-24",
+      "commentary_score": -0.155,
+      "surprise_score": -0.323,
       "n_items": 28
     },
     {
-      "date": "2026-06-15",
-      "commentary_score": 0.566,
-      "surprise_score": 0.2,
-      "n_items": 32
+      "date": "2026-04-25",
+      "commentary_score": -0.155,
+      "surprise_score": -0.323,
+      "n_items": 28
     },
     {
-      "date": "2026-06-16",
-      "commentary_score": 0.66,
-      "surprise_score": 0.501,
-      "n_items": 35
+      "date": "2026-04-26",
+      "commentary_score": -0.155,
+      "surprise_score": -0.323,
+      "n_items": 28
     },
     {
-      "date": "2026-06-17",
-      "commentary_score": 0.598,
-      "surprise_score": 0.454,
-      "n_items": 37
+      "date": "2026-04-27",
+      "commentary_score": -0.264,
+      "surprise_score": -0.381,
+      "n_items": 27
     },
     {
-      "date": "2026-06-18",
-      "commentary_score": 0.625,
-      "surprise_score": 0.145,
-      "n_items": 38
+      "date": "2026-04-28",
+      "commentary_score": -0.014,
+      "surprise_score": -0.204,
+      "n_items": 27
     },
     {
-      "date": "2026-06-19",
-      "commentary_score": 0.566,
-      "surprise_score": 0.135,
-      "n_items": 42
-    },
-    {
-      "date": "2026-06-20",
-      "commentary_score": 0.566,
-      "surprise_score": 0.135,
-      "n_items": 42
-    },
-    {
-      "date": "2026-06-21",
-      "commentary_score": 0.566,
-      "surprise_score": 0.135,
-      "n_items": 42
-    },
-    {
-      "date": "2026-06-22",
-      "commentary_score": 0.162,
-      "surprise_score": -0.187,
-      "n_items": 46
-    },
-    {
-      "date": "2026-06-23",
-      "commentary_score": 0.149,
+      "date": "2026-04-29",
+      "commentary_score": -0.001,
       "surprise_score": -0.189,
-      "n_items": 52
+      "n_items": 23
     },
     {
-      "date": "2026-06-24",
-      "commentary_score": 0.225,
-      "surprise_score": -0.154,
-      "n_items": 54
+      "date": "2026-04-30",
+      "commentary_score": -0.126,
+      "surprise_score": -0.501,
+      "n_items": 18
     },
     {
-      "date": "2026-06-25",
-      "commentary_score": 0.226,
-      "surprise_score": -0.354,
-      "n_items": 33
+      "date": "2026-05-01",
+      "commentary_score": 0.006,
+      "surprise_score": -0.452,
+      "n_items": 18
     },
     {
-      "date": "2026-06-26",
-      "commentary_score": 0.155,
-      "surprise_score": -0.416,
+      "date": "2026-05-02",
+      "commentary_score": 0.006,
+      "surprise_score": -0.452,
+      "n_items": 18
+    },
+    {
+      "date": "2026-05-03",
+      "commentary_score": 0.006,
+      "surprise_score": -0.452,
+      "n_items": 18
+    },
+    {
+      "date": "2026-05-04",
+      "commentary_score": 0.052,
+      "surprise_score": -0.348,
+      "n_items": 24
+    },
+    {
+      "date": "2026-05-05",
+      "commentary_score": 0.056,
+      "surprise_score": -0.299,
+      "n_items": 25
+    },
+    {
+      "date": "2026-05-06",
+      "commentary_score": 0.012,
+      "surprise_score": -0.244,
+      "n_items": 22
+    },
+    {
+      "date": "2026-05-07",
+      "commentary_score": 0.214,
+      "surprise_score": -0.131,
+      "n_items": 23
+    },
+    {
+      "date": "2026-05-08",
+      "commentary_score": 0.369,
+      "surprise_score": -0.002,
+      "n_items": 26
+    },
+    {
+      "date": "2026-05-09",
+      "commentary_score": 0.519,
+      "surprise_score": 0.028,
+      "n_items": 27
+    },
+    {
+      "date": "2026-05-10",
+      "commentary_score": 0.519,
+      "surprise_score": 0.028,
+      "n_items": 27
+    },
+    {
+      "date": "2026-05-11",
+      "commentary_score": 0.271,
+      "surprise_score": -0.128,
+      "n_items": 27
+    },
+    {
+      "date": "2026-05-12",
+      "commentary_score": 0.069,
+      "surprise_score": -0.346,
+      "n_items": 27
+    },
+    {
+      "date": "2026-05-13",
+      "commentary_score": -0.202,
+      "surprise_score": -0.523,
+      "n_items": 31
+    },
+    {
+      "date": "2026-05-14",
+      "commentary_score": 0.005,
+      "surprise_score": -0.165,
       "n_items": 29
     },
     {
+      "date": "2026-05-15",
+      "commentary_score": -0.02,
+      "surprise_score": -0.146,
+      "n_items": 27
+    },
+    {
+      "date": "2026-05-16",
+      "commentary_score": -0.02,
+      "surprise_score": -0.146,
+      "n_items": 27
+    },
+    {
+      "date": "2026-05-17",
+      "commentary_score": -0.02,
+      "surprise_score": -0.146,
+      "n_items": 27
+    },
+    {
+      "date": "2026-05-18",
+      "commentary_score": -0.044,
+      "surprise_score": -0.158,
+      "n_items": 21
+    },
+    {
+      "date": "2026-05-19",
+      "commentary_score": 0.135,
+      "surprise_score": 0.04,
+      "n_items": 20
+    },
+    {
+      "date": "2026-05-20",
+      "commentary_score": 0.399,
+      "surprise_score": 0.164,
+      "n_items": 20
+    },
+    {
+      "date": "2026-05-21",
+      "commentary_score": 0.445,
+      "surprise_score": 0.247,
+      "n_items": 19
+    },
+    {
+      "date": "2026-05-22",
+      "commentary_score": 0.578,
+      "surprise_score": 0.235,
+      "n_items": 17
+    },
+    {
+      "date": "2026-05-23",
+      "commentary_score": 0.503,
+      "surprise_score": 0.21,
+      "n_items": 16
+    },
+    {
+      "date": "2026-05-24",
+      "commentary_score": 0.503,
+      "surprise_score": 0.21,
+      "n_items": 16
+    },
+    {
+      "date": "2026-05-25",
+      "commentary_score": 0.84,
+      "surprise_score": 0.57,
+      "n_items": 16
+    },
+    {
+      "date": "2026-05-26",
+      "commentary_score": 1.259,
+      "surprise_score": 1.031,
+      "n_items": 17
+    },
+    {
+      "date": "2026-05-27",
+      "commentary_score": 1.495,
+      "surprise_score": 1.275,
+      "n_items": 16
+    },
+    {
+      "date": "2026-05-28",
+      "commentary_score": 1.58,
+      "surprise_score": 1.321,
+      "n_items": 15
+    },
+    {
+      "date": "2026-05-29",
+      "commentary_score": 1.599,
+      "surprise_score": 1.379,
+      "n_items": 16
+    },
+    {
+      "date": "2026-05-30",
+      "commentary_score": 1.599,
+      "surprise_score": 1.379,
+      "n_items": 16
+    },
+    {
+      "date": "2026-05-31",
+      "commentary_score": 1.599,
+      "surprise_score": 1.379,
+      "n_items": 16
+    },
+    {
+      "date": "2026-06-01",
+      "commentary_score": 1.597,
+      "surprise_score": 1.248,
+      "n_items": 18
+    },
+    {
+      "date": "2026-06-02",
+      "commentary_score": 1.44,
+      "surprise_score": 1.112,
+      "n_items": 18
+    },
+    {
+      "date": "2026-06-03",
+      "commentary_score": 1.316,
+      "surprise_score": 1.033,
+      "n_items": 18
+    },
+    {
+      "date": "2026-06-04",
+      "commentary_score": 1.304,
+      "surprise_score": 1.021,
+      "n_items": 17
+    },
+    {
+      "date": "2026-06-05",
+      "commentary_score": 1.299,
+      "surprise_score": 0.998,
+      "n_items": 15
+    },
+    {
+      "date": "2026-06-06",
+      "commentary_score": 1.299,
+      "surprise_score": 0.998,
+      "n_items": 15
+    },
+    {
+      "date": "2026-06-07",
+      "commentary_score": 1.299,
+      "surprise_score": 0.998,
+      "n_items": 15
+    },
+    {
+      "date": "2026-06-08",
+      "commentary_score": 1.274,
+      "surprise_score": 1.009,
+      "n_items": 14
+    },
+    {
+      "date": "2026-06-09",
+      "commentary_score": 1.199,
+      "surprise_score": 1.004,
+      "n_items": 11
+    },
+    {
+      "date": "2026-06-10",
+      "commentary_score": 1.169,
+      "surprise_score": 0.977,
+      "n_items": 8
+    },
+    {
+      "date": "2026-06-11",
+      "commentary_score": 0.499,
+      "surprise_score": 0.181,
+      "n_items": 26
+    },
+    {
+      "date": "2026-06-12",
+      "commentary_score": 0.573,
+      "surprise_score": 0.177,
+      "n_items": 29
+    },
+    {
+      "date": "2026-06-13",
+      "commentary_score": 0.573,
+      "surprise_score": 0.177,
+      "n_items": 29
+    },
+    {
+      "date": "2026-06-14",
+      "commentary_score": 0.573,
+      "surprise_score": 0.164,
+      "n_items": 29
+    },
+    {
+      "date": "2026-06-15",
+      "commentary_score": 0.575,
+      "surprise_score": 0.095,
+      "n_items": 30
+    },
+    {
+      "date": "2026-06-16",
+      "commentary_score": 0.676,
+      "surprise_score": 0.139,
+      "n_items": 31
+    },
+    {
+      "date": "2026-06-17",
+      "commentary_score": 0.615,
+      "surprise_score": 0.116,
+      "n_items": 32
+    },
+    {
+      "date": "2026-06-18",
+      "commentary_score": 0.654,
+      "surprise_score": 0.104,
+      "n_items": 33
+    },
+    {
+      "date": "2026-06-19",
+      "commentary_score": 0.59,
+      "surprise_score": 0.074,
+      "n_items": 36
+    },
+    {
+      "date": "2026-06-20",
+      "commentary_score": 0.59,
+      "surprise_score": 0.073,
+      "n_items": 36
+    },
+    {
+      "date": "2026-06-21",
+      "commentary_score": 0.59,
+      "surprise_score": 0.073,
+      "n_items": 36
+    },
+    {
+      "date": "2026-06-22",
+      "commentary_score": 0.167,
+      "surprise_score": -0.146,
+      "n_items": 40
+    },
+    {
+      "date": "2026-06-23",
+      "commentary_score": 0.153,
+      "surprise_score": -0.172,
+      "n_items": 45
+    },
+    {
+      "date": "2026-06-24",
+      "commentary_score": 0.231,
+      "surprise_score": -0.166,
+      "n_items": 47
+    },
+    {
+      "date": "2026-06-25",
+      "commentary_score": 0.229,
+      "surprise_score": -0.423,
+      "n_items": 29
+    },
+    {
+      "date": "2026-06-26",
+      "commentary_score": 0.159,
+      "surprise_score": -0.485,
+      "n_items": 24
+    },
+    {
       "date": "2026-06-27",
-      "commentary_score": 0.156,
-      "surprise_score": -0.42,
-      "n_items": 28
+      "commentary_score": 0.159,
+      "surprise_score": -0.469,
+      "n_items": 24
     },
     {
       "date": "2026-06-28",
-      "commentary_score": 0.156,
-      "surprise_score": -0.42,
-      "n_items": 28
+      "commentary_score": 0.159,
+      "surprise_score": -0.469,
+      "n_items": 24
     },
     {
       "date": "2026-06-29",
       "commentary_score": -0.056,
-      "surprise_score": -0.568,
-      "n_items": 27
+      "surprise_score": -0.439,
+      "n_items": 24
     },
     {
       "date": "2026-06-30",
       "commentary_score": 0.053,
-      "surprise_score": -0.527,
-      "n_items": 29
+      "surprise_score": -0.483,
+      "n_items": 25
     },
     {
       "date": "2026-07-01",
-      "commentary_score": -0.09,
-      "surprise_score": -0.321,
-      "n_items": 34
+      "commentary_score": -0.091,
+      "surprise_score": -0.447,
+      "n_items": 28
     },
     {
       "date": "2026-07-02",
       "commentary_score": -0.211,
-      "surprise_score": -0.343,
-      "n_items": 33
+      "surprise_score": -0.583,
+      "n_items": 28
     },
     {
       "date": "2026-07-03",
-      "commentary_score": 0.07,
-      "surprise_score": -0.109,
-      "n_items": 34
+      "commentary_score": 0.101,
+      "surprise_score": -0.342,
+      "n_items": 30
     },
     {
       "date": "2026-07-04",
-      "commentary_score": 0.092,
-      "surprise_score": -0.023,
-      "n_items": 36
+      "commentary_score": 0.101,
+      "surprise_score": -0.35,
+      "n_items": 30
     },
     {
       "date": "2026-07-05",
-      "commentary_score": 0.092,
-      "surprise_score": -0.023,
-      "n_items": 36
+      "commentary_score": 0.101,
+      "surprise_score": -0.35,
+      "n_items": 30
     },
     {
       "date": "2026-07-06",
-      "commentary_score": 0.219,
-      "surprise_score": 0.123,
-      "n_items": 32
+      "commentary_score": 0.169,
+      "surprise_score": -0.346,
+      "n_items": 27
     }
   ],
   "top_movers": [
     {
-      "published_at": "2026-07-02T21:08:00+00:00",
-      "speaker": "Christine Lagarde",
-      "event_type": "off-the-cuff",
-      "stance": 1.5,
-      "prior": 0.44,
-      "surprise": 1.06,
-      "weight": 0.31,
-      "contribution": 0.328,
-      "phrase": "confident that they made the right choice regarding the June rate hike",
-      "headline": "ECB published interview with Lagarde by Les Echos conducted on June 24th, which stated that they are are confident that they made the right choice regarding the June rate hike"
+      "published_at": "2026-07-06T15:03:00+00:00",
+      "speaker": "Isabel Schnabel",
+      "event_type": "other",
+      "stance": -1.0,
+      "prior": 1.77,
+      "surprise": -2.77,
+      "weight": 0.209,
+      "contribution": -0.579,
+      "phrase": "Cannot simply look through the shock.",
+      "headline": "ECB's Schnabel says not in a pre-war situation even after fall in oil prices"
     },
     {
       "published_at": "2026-07-01T08:22:00+00:00",
       "speaker": "Pierre Wunsch",
       "event_type": "other",
       "stance": -2.0,
-      "prior": 0.19,
-      "surprise": -2.19,
+      "prior": 0.89,
+      "surprise": -2.89,
       "weight": 0.142,
-      "contribution": -0.311,
+      "contribution": -0.41,
       "phrase": "the case for further tightening is receding",
       "headline": "ECB's Wunsch tells Econostream that the case for further tightening is receding and any surprise in EZ inflation before the July meeting is more likely to be on the downside,"
     },
     {
-      "published_at": "2026-06-29T18:58:00+00:00",
-      "speaker": "Christine Lagarde",
+      "published_at": "2026-07-01T17:38:00+00:00",
+      "speaker": "Yannis Stournaras",
       "event_type": "other",
-      "stance": 2.0,
-      "prior": 0.44,
-      "surprise": 1.56,
-      "weight": 0.178,
-      "contribution": 0.277,
-      "phrase": "we are more likely to face shocks in the coming years that push inflation away from target",
-      "headline": "ECB's Lagarde says we are more likely to face shocks in the coming years that push inflation away from target"
+      "stance": -2.0,
+      "prior": 1.0,
+      "surprise": -3.0,
+      "weight": 0.129,
+      "contribution": -0.386,
+      "phrase": "maybe good to stay where we are for some time",
+      "headline": "ECB's Stournaras says maybe good to stay where we are for some time and doesn't think anything will happen in July"
     },
     {
-      "published_at": "2026-07-02T16:40:00+00:00",
-      "speaker": "Christine Lagarde",
+      "published_at": "2026-07-03T15:49:00+00:00",
+      "speaker": "Joachim Nagel",
       "event_type": "other",
+      "stance": -1.5,
+      "prior": 1.01,
+      "surprise": -2.51,
+      "weight": 0.134,
+      "contribution": -0.335,
+      "phrase": "The ECB should be vigilant and keep optionality.",
+      "headline": "ECB's Nagel says Germany took a very important step forward on reforms"
+    },
+    {
+      "published_at": "2026-07-02T21:08:00+00:00",
+      "speaker": "Christine Lagarde",
+      "event_type": "off-the-cuff",
       "stance": 1.5,
-      "prior": 0.44,
-      "surprise": 1.06,
-      "weight": 0.237,
-      "contribution": 0.251,
-      "phrase": "certain the ECB made the right decision raising rates in June",
-      "headline": "ECB President Lagarde says she is certain the ECB made the right decision raising rates in June"
-    },
-    {
-      "published_at": "2026-07-03T15:39:00+00:00",
-      "speaker": "Gabriel Makhlouf",
-      "event_type": "other",
-      "stance": 2.0,
-      "prior": 0.95,
-      "surprise": 1.05,
-      "weight": 0.156,
-      "contribution": 0.164,
-      "phrase": "ECB is determined to achieve 2% inflation",
-      "headline": "ECB's Makhlouf says ECB is determined to achieve 2% inflation"
+      "prior": 0.53,
+      "surprise": 0.97,
+      "weight": 0.309,
+      "contribution": 0.301,
+      "phrase": "confident that they made the right choice regarding the June rate hike",
+      "headline": "ECB published interview with Lagarde by Les Echos conducted on June 24th, which stated that they are are confident that they made the right choice regarding the June rate hike"
     }
   ],
   "key_comments": [
@@ -619,14 +619,14 @@
       "voting_2026": true,
       "event_type": "other",
       "stance": 2.0,
-      "prior": 0.44,
-      "surprise": 1.56,
+      "prior": 0.53,
+      "surprise": 1.47,
       "phrase": "we are more likely to face shocks in the coming years that push inflation away from target",
       "headline": "ECB's Lagarde says we are more likely to face shocks in the coming years that push inflation away from target",
-      "importance": 6.12,
+      "importance": 5.94,
       "reasons": [
         "Chair spoke",
-        "dove-lean speaker sounded hawkish (surprise +1.56)"
+        "dove-lean speaker sounded hawkish (surprise +1.47)"
       ]
     },
     {
@@ -637,14 +637,14 @@
       "voting_2026": true,
       "event_type": "off-the-cuff",
       "stance": 2.0,
-      "prior": 0.44,
-      "surprise": 1.56,
+      "prior": 0.53,
+      "surprise": 1.47,
       "phrase": "if we were not taking this very obvious policy decision, we\u2019d be north of our inflation target",
       "headline": "ECB President Lagarde (Q&A) says decision was unanimous to raise rates",
-      "importance": 6.12,
+      "importance": 5.94,
       "reasons": [
         "Chair spoke",
-        "dove-lean speaker sounded hawkish (surprise +1.56)"
+        "dove-lean speaker sounded hawkish (surprise +1.47)"
       ]
     },
     {
@@ -655,16 +655,311 @@
       "voting_2026": true,
       "event_type": "other",
       "stance": -2.0,
-      "prior": 0.19,
-      "surprise": -2.19,
+      "prior": 0.89,
+      "surprise": -2.89,
       "phrase": "the case for further tightening is receding",
       "headline": "ECB's Wunsch tells Econostream that the case for further tightening is receding and any surprise in EZ inflation before the July meeting is more likely to be on the downside,",
-      "importance": 4.38,
+      "importance": 5.78,
       "reasons": [
-        "hawk-lean speaker sounded dovish (surprise -2.19)"
+        "hawk-lean speaker sounded dovish (surprise -2.89)"
       ]
     }
   ],
+  "speaker_board": {
+    "effective_window_days": 91,
+    "long_window_days": 365,
+    "recent_window_days": 14,
+    "speakers": [
+      {
+        "name": "Peter Kazimir",
+        "role": "regional_president",
+        "voting_2026": true,
+        "lean_prior": "hawk",
+        "weight_speaker": 0.6,
+        "n_long": 4,
+        "mean_long": 2.0,
+        "mean_long_conf_weighted": 2.111,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": 2.0,
+        "last_headline": "ECB's Kazimir says it is increasingly evident that monetary policy has more work to do, not comfortable with outlook for core inflation above 2% even with more tightening",
+        "last_phrase": "monetary policy has more work to do",
+        "last_published_at": "2026-06-15T09:00:00+00:00"
+      },
+      {
+        "name": "Fabio Panetta",
+        "role": "regional_president",
+        "voting_2026": true,
+        "lean_prior": "dove",
+        "weight_speaker": 0.6,
+        "n_long": 1,
+        "mean_long": 2.0,
+        "mean_long_conf_weighted": 2.0,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": 2.0,
+        "last_headline": "ECB\u2019s Panetta says medium-term inflation expectations remain firmly anchored to target",
+        "last_phrase": "ECB will act in a timely and measured manner to stop the energy shock from turning into persistent inflation",
+        "last_published_at": "2026-05-29T08:30:00+00:00"
+      },
+      {
+        "name": "Isabel Schnabel",
+        "role": "governor",
+        "voting_2026": true,
+        "lean_prior": "hawk",
+        "weight_speaker": 0.7,
+        "n_long": 8,
+        "mean_long": 1.25,
+        "mean_long_conf_weighted": 1.483,
+        "n_recent": 3,
+        "mean_recent": 1.0,
+        "mean_recent_conf_weighted": 1.182,
+        "delta": -0.301,
+        "last_stance": -1.0,
+        "last_headline": "ECB's Schnabel says not in a pre-war situation even after fall in oil prices",
+        "last_phrase": "Cannot simply look through the shock.",
+        "last_published_at": "2026-07-06T15:03:00+00:00"
+      },
+      {
+        "name": "Joachim Nagel",
+        "role": "regional_president",
+        "voting_2026": true,
+        "lean_prior": "hawk",
+        "weight_speaker": 0.6,
+        "n_long": 11,
+        "mean_long": 1.045,
+        "mean_long_conf_weighted": 1.24,
+        "n_recent": 2,
+        "mean_recent": -1.25,
+        "mean_recent_conf_weighted": -1.231,
+        "delta": -2.47,
+        "last_stance": -1.5,
+        "last_headline": "ECB's Nagel says Germany took a very important step forward on reforms",
+        "last_phrase": "The ECB should be vigilant and keep optionality.",
+        "last_published_at": "2026-07-03T15:49:00+00:00"
+      },
+      {
+        "name": "Philip Lane",
+        "role": "chief_economist",
+        "voting_2026": true,
+        "lean_prior": "dove",
+        "weight_speaker": 0.8,
+        "n_long": 8,
+        "mean_long": 0.875,
+        "mean_long_conf_weighted": 1.212,
+        "n_recent": 2,
+        "mean_recent": 0.25,
+        "mean_recent_conf_weighted": 0.458,
+        "delta": -0.753,
+        "last_stance": -1.0,
+        "last_headline": "ECB's Lane says he is seeing some upward momentum in wages",
+        "last_phrase": "seeing some upward momentum in wages",
+        "last_published_at": "2026-06-23T09:39:00+00:00"
+      },
+      {
+        "name": "Madis Muller",
+        "role": "regional_president",
+        "voting_2026": true,
+        "lean_prior": "hawk",
+        "weight_speaker": 0.6,
+        "n_long": 3,
+        "mean_long": 1.0,
+        "mean_long_conf_weighted": 1.167,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": 2.0,
+        "last_headline": "ECB's Muller sees a good case for June rate hike due to recent surge in energy prices",
+        "last_phrase": "good case for June rate hike",
+        "last_published_at": "2026-05-22T15:29:00+00:00"
+      },
+      {
+        "name": "Pierre Wunsch",
+        "role": "regional_president",
+        "voting_2026": true,
+        "lean_prior": "hawk",
+        "weight_speaker": 0.6,
+        "n_long": 5,
+        "mean_long": 1.2,
+        "mean_long_conf_weighted": 1.088,
+        "n_recent": 2,
+        "mean_recent": -0.5,
+        "mean_recent_conf_weighted": -0.714,
+        "delta": -1.803,
+        "last_stance": -2.0,
+        "last_headline": "ECB's Wunsch tells Econostream that the case for further tightening is receding and any surprise in EZ inflation before the July meeting is more likely to be on the downside,",
+        "last_phrase": "the case for further tightening is receding",
+        "last_published_at": "2026-07-01T08:22:00+00:00"
+      },
+      {
+        "name": "Christine Lagarde",
+        "role": "chair",
+        "voting_2026": true,
+        "lean_prior": "dove",
+        "weight_speaker": 1.0,
+        "n_long": 23,
+        "mean_long": 0.5,
+        "mean_long_conf_weighted": 0.549,
+        "n_recent": 4,
+        "mean_recent": 1.5,
+        "mean_recent_conf_weighted": 1.5,
+        "delta": 0.951,
+        "last_stance": 1.5,
+        "last_headline": "ECB published interview with Lagarde by Les Echos conducted on June 24th, which stated that they are are confident that they made the right choice regarding the June rate hike",
+        "last_phrase": "confident that they made the right choice regarding the June rate hike",
+        "last_published_at": "2026-07-02T21:08:00+00:00"
+      },
+      {
+        "name": "Olli Rehn",
+        "role": "regional_president",
+        "voting_2026": true,
+        "lean_prior": "neutral",
+        "weight_speaker": 0.6,
+        "n_long": 5,
+        "mean_long": 0.5,
+        "mean_long_conf_weighted": 0.483,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": 1.0,
+        "last_headline": "ECB's Rehn says the rate hike will help prevent inflation spillovers",
+        "last_phrase": "rate hike will help prevent inflation spillovers",
+        "last_published_at": "2026-06-12T08:02:00+00:00"
+      },
+      {
+        "name": "Gabriel Makhlouf",
+        "role": "regional_president",
+        "voting_2026": true,
+        "lean_prior": "neutral",
+        "weight_speaker": 0.6,
+        "n_long": 5,
+        "mean_long": 0.1,
+        "mean_long_conf_weighted": 0.258,
+        "n_recent": 1,
+        "mean_recent": 2.0,
+        "mean_recent_conf_weighted": 2.0,
+        "delta": 1.742,
+        "last_stance": 2.0,
+        "last_headline": "ECB's Makhlouf says ECB is determined to achieve 2% inflation",
+        "last_phrase": "ECB is determined to achieve 2% inflation",
+        "last_published_at": "2026-07-03T15:39:00+00:00"
+      },
+      {
+        "name": "Yannis Stournaras",
+        "role": "regional_president",
+        "voting_2026": true,
+        "lean_prior": "dove",
+        "weight_speaker": 0.6,
+        "n_long": 5,
+        "mean_long": -0.1,
+        "mean_long_conf_weighted": -0.059,
+        "n_recent": 1,
+        "mean_recent": -2.0,
+        "mean_recent_conf_weighted": -2.0,
+        "delta": -1.941,
+        "last_stance": -2.0,
+        "last_headline": "ECB's Stournaras says maybe good to stay where we are for some time and doesn't think anything will happen in July",
+        "last_phrase": "maybe good to stay where we are for some time",
+        "last_published_at": "2026-07-01T17:38:00+00:00"
+      },
+      {
+        "name": "Fran\u00e7ois Villeroy de Galhau",
+        "role": "regional_president",
+        "voting_2026": true,
+        "lean_prior": "neutral",
+        "weight_speaker": 0.6,
+        "n_long": 4,
+        "mean_long": -0.375,
+        "mean_long_conf_weighted": -0.18,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": -1.0,
+        "last_headline": "ECB's Villeroy says Bank of France estimates for French Economic growth in 2026 will be revised down, in view of bad Q1 surprise",
+        "last_phrase": "growth estimates should remain positive in most scenarios",
+        "last_published_at": "2026-06-01T06:30:00+00:00"
+      },
+      {
+        "name": "Gediminas Simkus",
+        "role": "regional_president",
+        "voting_2026": true,
+        "lean_prior": "hawk",
+        "weight_speaker": 0.6,
+        "n_long": 2,
+        "mean_long": -0.25,
+        "mean_long_conf_weighted": -0.25,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": 1.0,
+        "last_headline": "ECB's Simkus says in September, will have new projections for a broader assessment of economy; downplays economic impact of 25bp, even of 50bp of tightening over course of 2026",
+        "last_phrase": "describes near term moves as an 'insurance hike'",
+        "last_published_at": "2026-05-29T09:54:00+00:00"
+      },
+      {
+        "name": "Martins Kazaks",
+        "role": "regional_president",
+        "voting_2026": true,
+        "lean_prior": "hawk",
+        "weight_speaker": 0.6,
+        "n_long": 7,
+        "mean_long": -0.357,
+        "mean_long_conf_weighted": -0.489,
+        "n_recent": 2,
+        "mean_recent": -2.0,
+        "mean_recent_conf_weighted": -2.0,
+        "delta": -1.511,
+        "last_stance": -2.0,
+        "last_headline": "ECB's Kazaks says there is no need for a forceful inflation response and the urgency of consecutive hikes is significantly lower",
+        "last_phrase": "no need for a forceful inflation response",
+        "last_published_at": "2026-06-30T19:16:00+00:00"
+      },
+      {
+        "name": "Jos\u00e9 Luis Escriv\u00e1",
+        "role": "regional_president",
+        "voting_2026": true,
+        "lean_prior": "dove",
+        "weight_speaker": 0.6,
+        "n_long": 4,
+        "mean_long": -1.25,
+        "mean_long_conf_weighted": -1.261,
+        "n_recent": 1,
+        "mean_recent": -1.0,
+        "mean_recent_conf_weighted": -1.0,
+        "delta": 0.261,
+        "last_stance": -1.0,
+        "last_headline": "ECB's Escriva says service-sector inflation is showing very strong persistence",
+        "last_phrase": "",
+        "last_published_at": "2026-06-23T08:22:00+00:00"
+      },
+      {
+        "name": "Piero Cipollone",
+        "role": "governor",
+        "voting_2026": true,
+        "lean_prior": "dove",
+        "weight_speaker": 0.7,
+        "n_long": 1,
+        "mean_long": -2.0,
+        "mean_long_conf_weighted": -2.0,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": -2.0,
+        "last_headline": "ECB's Cipollone says the EZ inflation trend is moving towards adverse",
+        "last_phrase": "EZ inflation trend is moving towards adverse",
+        "last_published_at": "2026-05-06T08:36:00+00:00"
+      }
+    ]
+  },
   "methodology": {
     "commentary_window_days": 14,
     "surprise_lookback_days": 60,

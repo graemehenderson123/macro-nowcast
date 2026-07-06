@@ -1,554 +1,566 @@
 {
   "cb": "boj",
-  "as_of": "2026-07-06T15:25:06.151682+00:00",
+  "as_of": "2026-07-06T16:10:26.420394+00:00",
   "commentary_score": 1.14,
-  "surprise_score": 0.157,
+  "surprise_score": -0.148,
   "label": "neutral",
   "n_items_14d": 3,
-  "n_items_total": 19,
+  "n_items_total": 173,
   "history_90d": [
     {
       "date": "2026-04-08",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -0.162,
+      "surprise_score": 0.008,
+      "n_items": 5
     },
     {
       "date": "2026-04-09",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -0.678,
+      "surprise_score": -0.543,
+      "n_items": 5
     },
     {
       "date": "2026-04-10",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -0.809,
+      "surprise_score": -0.685,
+      "n_items": 5
     },
     {
       "date": "2026-04-11",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -0.809,
+      "surprise_score": -0.685,
+      "n_items": 5
     },
     {
       "date": "2026-04-12",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -0.809,
+      "surprise_score": -0.685,
+      "n_items": 5
     },
     {
       "date": "2026-04-13",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -0.699,
+      "surprise_score": -0.626,
+      "n_items": 5
     },
     {
       "date": "2026-04-14",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -0.699,
+      "surprise_score": -0.626,
+      "n_items": 5
     },
     {
       "date": "2026-04-15",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-04-16",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-04-17",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-04-18",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-04-19",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-04-20",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-04-21",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-04-22",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-04-23",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-04-24",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-04-25",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-04-26",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-04-27",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-04-28",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-04-29",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-04-30",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-01",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-02",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-03",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-04",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-05",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-06",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-07",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-08",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-09",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-10",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-11",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-12",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-13",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-14",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-15",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-16",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-17",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-18",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-19",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-20",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-21",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-22",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-23",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-24",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-25",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-26",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-27",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-28",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-29",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-30",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-05-31",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-06-01",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-06-02",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-06-03",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-06-04",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-06-05",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-06-06",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-06-07",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-06-08",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 1
-    },
-    {
-      "date": "2026-06-09",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 1
-    },
-    {
-      "date": "2026-06-10",
-      "commentary_score": 0.776,
-      "surprise_score": 0.776,
-      "n_items": 3
-    },
-    {
-      "date": "2026-06-11",
-      "commentary_score": 0.647,
-      "surprise_score": 0.647,
+      "commentary_score": -0.636,
+      "surprise_score": -0.675,
       "n_items": 4
     },
     {
-      "date": "2026-06-12",
-      "commentary_score": 0.548,
-      "surprise_score": 0.548,
+      "date": "2026-04-16",
+      "commentary_score": -0.636,
+      "surprise_score": -0.675,
+      "n_items": 4
+    },
+    {
+      "date": "2026-04-17",
+      "commentary_score": -0.762,
+      "surprise_score": -0.746,
       "n_items": 5
+    },
+    {
+      "date": "2026-04-18",
+      "commentary_score": -0.762,
+      "surprise_score": -0.746,
+      "n_items": 5
+    },
+    {
+      "date": "2026-04-19",
+      "commentary_score": -0.762,
+      "surprise_score": -0.864,
+      "n_items": 5
+    },
+    {
+      "date": "2026-04-20",
+      "commentary_score": -0.709,
+      "surprise_score": -0.834,
+      "n_items": 4
+    },
+    {
+      "date": "2026-04-21",
+      "commentary_score": -0.709,
+      "surprise_score": -0.834,
+      "n_items": 4
+    },
+    {
+      "date": "2026-04-22",
+      "commentary_score": -0.709,
+      "surprise_score": -0.834,
+      "n_items": 4
+    },
+    {
+      "date": "2026-04-23",
+      "commentary_score": -0.397,
+      "surprise_score": -0.517,
+      "n_items": 3
+    },
+    {
+      "date": "2026-04-24",
+      "commentary_score": -0.269,
+      "surprise_score": -0.414,
+      "n_items": 2
+    },
+    {
+      "date": "2026-04-25",
+      "commentary_score": -0.269,
+      "surprise_score": -0.59,
+      "n_items": 2
+    },
+    {
+      "date": "2026-04-26",
+      "commentary_score": -0.269,
+      "surprise_score": -0.809,
+      "n_items": 2
+    },
+    {
+      "date": "2026-04-27",
+      "commentary_score": -1.0,
+      "surprise_score": -1.384,
+      "n_items": 1
+    },
+    {
+      "date": "2026-04-28",
+      "commentary_score": -0.256,
+      "surprise_score": -0.15,
+      "n_items": 9
+    },
+    {
+      "date": "2026-04-29",
+      "commentary_score": -0.256,
+      "surprise_score": -0.15,
+      "n_items": 9
+    },
+    {
+      "date": "2026-04-30",
+      "commentary_score": -0.005,
+      "surprise_score": 0.08,
+      "n_items": 10
+    },
+    {
+      "date": "2026-05-01",
+      "commentary_score": 0.026,
+      "surprise_score": 0.108,
+      "n_items": 9
+    },
+    {
+      "date": "2026-05-02",
+      "commentary_score": 0.026,
+      "surprise_score": 0.108,
+      "n_items": 9
+    },
+    {
+      "date": "2026-05-03",
+      "commentary_score": 0.026,
+      "surprise_score": 0.236,
+      "n_items": 9
+    },
+    {
+      "date": "2026-05-04",
+      "commentary_score": 0.026,
+      "surprise_score": 0.236,
+      "n_items": 9
+    },
+    {
+      "date": "2026-05-05",
+      "commentary_score": 0.026,
+      "surprise_score": 0.236,
+      "n_items": 9
+    },
+    {
+      "date": "2026-05-06",
+      "commentary_score": 0.026,
+      "surprise_score": 0.236,
+      "n_items": 9
+    },
+    {
+      "date": "2026-05-07",
+      "commentary_score": 0.306,
+      "surprise_score": 0.139,
+      "n_items": 10
+    },
+    {
+      "date": "2026-05-08",
+      "commentary_score": 0.306,
+      "surprise_score": 0.139,
+      "n_items": 10
+    },
+    {
+      "date": "2026-05-09",
+      "commentary_score": 0.306,
+      "surprise_score": 0.139,
+      "n_items": 10
+    },
+    {
+      "date": "2026-05-10",
+      "commentary_score": 0.306,
+      "surprise_score": 0.139,
+      "n_items": 10
+    },
+    {
+      "date": "2026-05-11",
+      "commentary_score": 0.306,
+      "surprise_score": 0.139,
+      "n_items": 10
+    },
+    {
+      "date": "2026-05-12",
+      "commentary_score": 1.082,
+      "surprise_score": 0.333,
+      "n_items": 4
+    },
+    {
+      "date": "2026-05-13",
+      "commentary_score": 1.082,
+      "surprise_score": 0.333,
+      "n_items": 4
+    },
+    {
+      "date": "2026-05-14",
+      "commentary_score": 1.628,
+      "surprise_score": 1.074,
+      "n_items": 4
+    },
+    {
+      "date": "2026-05-15",
+      "commentary_score": 1.628,
+      "surprise_score": 1.074,
+      "n_items": 4
+    },
+    {
+      "date": "2026-05-16",
+      "commentary_score": 1.628,
+      "surprise_score": 1.108,
+      "n_items": 4
+    },
+    {
+      "date": "2026-05-17",
+      "commentary_score": 1.628,
+      "surprise_score": 1.108,
+      "n_items": 4
+    },
+    {
+      "date": "2026-05-18",
+      "commentary_score": 1.628,
+      "surprise_score": 1.108,
+      "n_items": 4
+    },
+    {
+      "date": "2026-05-19",
+      "commentary_score": 1.591,
+      "surprise_score": 1.33,
+      "n_items": 5
+    },
+    {
+      "date": "2026-05-20",
+      "commentary_score": 1.591,
+      "surprise_score": 1.33,
+      "n_items": 5
+    },
+    {
+      "date": "2026-05-21",
+      "commentary_score": 1.859,
+      "surprise_score": 1.776,
+      "n_items": 6
+    },
+    {
+      "date": "2026-05-22",
+      "commentary_score": 1.859,
+      "surprise_score": 1.776,
+      "n_items": 6
+    },
+    {
+      "date": "2026-05-23",
+      "commentary_score": 1.859,
+      "surprise_score": 1.818,
+      "n_items": 6
+    },
+    {
+      "date": "2026-05-24",
+      "commentary_score": 1.859,
+      "surprise_score": 1.818,
+      "n_items": 6
+    },
+    {
+      "date": "2026-05-25",
+      "commentary_score": 1.859,
+      "surprise_score": 1.818,
+      "n_items": 6
+    },
+    {
+      "date": "2026-05-26",
+      "commentary_score": 2.121,
+      "surprise_score": 2.245,
+      "n_items": 5
+    },
+    {
+      "date": "2026-05-27",
+      "commentary_score": 2.08,
+      "surprise_score": 2.236,
+      "n_items": 6
+    },
+    {
+      "date": "2026-05-28",
+      "commentary_score": 1.745,
+      "surprise_score": 1.894,
+      "n_items": 6
+    },
+    {
+      "date": "2026-05-29",
+      "commentary_score": 1.745,
+      "surprise_score": 1.894,
+      "n_items": 6
+    },
+    {
+      "date": "2026-05-30",
+      "commentary_score": 1.745,
+      "surprise_score": 1.894,
+      "n_items": 6
+    },
+    {
+      "date": "2026-05-31",
+      "commentary_score": 1.745,
+      "surprise_score": 1.894,
+      "n_items": 6
+    },
+    {
+      "date": "2026-06-01",
+      "commentary_score": 1.745,
+      "surprise_score": 1.894,
+      "n_items": 6
+    },
+    {
+      "date": "2026-06-02",
+      "commentary_score": 0.209,
+      "surprise_score": 0.089,
+      "n_items": 6
+    },
+    {
+      "date": "2026-06-03",
+      "commentary_score": 0.543,
+      "surprise_score": 0.445,
+      "n_items": 7
+    },
+    {
+      "date": "2026-06-04",
+      "commentary_score": 0.395,
+      "surprise_score": 0.288,
+      "n_items": 5
+    },
+    {
+      "date": "2026-06-05",
+      "commentary_score": 0.395,
+      "surprise_score": 0.18,
+      "n_items": 5
+    },
+    {
+      "date": "2026-06-06",
+      "commentary_score": 0.395,
+      "surprise_score": 0.18,
+      "n_items": 5
+    },
+    {
+      "date": "2026-06-07",
+      "commentary_score": 0.395,
+      "surprise_score": 0.18,
+      "n_items": 5
+    },
+    {
+      "date": "2026-06-08",
+      "commentary_score": 0.239,
+      "surprise_score": 0.061,
+      "n_items": 6
+    },
+    {
+      "date": "2026-06-09",
+      "commentary_score": 0.143,
+      "surprise_score": -0.044,
+      "n_items": 5
+    },
+    {
+      "date": "2026-06-10",
+      "commentary_score": 0.556,
+      "surprise_score": 0.376,
+      "n_items": 6
+    },
+    {
+      "date": "2026-06-11",
+      "commentary_score": 0.469,
+      "surprise_score": 0.312,
+      "n_items": 6
+    },
+    {
+      "date": "2026-06-12",
+      "commentary_score": 0.41,
+      "surprise_score": 0.292,
+      "n_items": 7
     },
     {
       "date": "2026-06-13",
-      "commentary_score": 0.548,
-      "surprise_score": 0.548,
-      "n_items": 5
+      "commentary_score": 0.41,
+      "surprise_score": 0.292,
+      "n_items": 7
     },
     {
       "date": "2026-06-14",
-      "commentary_score": 0.548,
-      "surprise_score": 0.548,
-      "n_items": 5
+      "commentary_score": 0.41,
+      "surprise_score": 0.292,
+      "n_items": 7
     },
     {
       "date": "2026-06-15",
-      "commentary_score": 0.548,
-      "surprise_score": 0.548,
-      "n_items": 5
+      "commentary_score": 0.41,
+      "surprise_score": 0.292,
+      "n_items": 7
     },
     {
       "date": "2026-06-16",
-      "commentary_score": 1.03,
-      "surprise_score": 1.834,
-      "n_items": 8
+      "commentary_score": 1.049,
+      "surprise_score": 1.776,
+      "n_items": 9
     },
     {
       "date": "2026-06-17",
       "commentary_score": 1.03,
-      "surprise_score": 1.834,
+      "surprise_score": 1.797,
       "n_items": 8
     },
     {
       "date": "2026-06-18",
       "commentary_score": 0.434,
-      "surprise_score": 1.013,
+      "surprise_score": 0.933,
       "n_items": 10
     },
     {
       "date": "2026-06-19",
       "commentary_score": 0.431,
-      "surprise_score": 0.844,
+      "surprise_score": 0.787,
       "n_items": 13
     },
     {
       "date": "2026-06-20",
       "commentary_score": 0.431,
-      "surprise_score": 0.844,
+      "surprise_score": 0.787,
       "n_items": 13
     },
     {
       "date": "2026-06-21",
       "commentary_score": 0.431,
-      "surprise_score": 0.844,
+      "surprise_score": 0.787,
       "n_items": 13
     },
     {
       "date": "2026-06-22",
       "commentary_score": 0.135,
-      "surprise_score": 0.445,
+      "surprise_score": 0.354,
       "n_items": 15
     },
     {
       "date": "2026-06-23",
       "commentary_score": 0.135,
-      "surprise_score": 0.445,
+      "surprise_score": 0.354,
       "n_items": 15
     },
     {
       "date": "2026-06-24",
       "commentary_score": -0.072,
-      "surprise_score": 0.232,
+      "surprise_score": 0.143,
       "n_items": 14
     },
     {
       "date": "2026-06-25",
       "commentary_score": 0.334,
-      "surprise_score": 0.329,
+      "surprise_score": 0.254,
       "n_items": 15
     },
     {
       "date": "2026-06-26",
       "commentary_score": 0.342,
-      "surprise_score": 0.337,
+      "surprise_score": 0.26,
       "n_items": 14
     },
     {
       "date": "2026-06-27",
       "commentary_score": 0.342,
-      "surprise_score": 0.337,
+      "surprise_score": 0.189,
       "n_items": 14
     },
     {
       "date": "2026-06-28",
       "commentary_score": 0.342,
-      "surprise_score": 0.337,
+      "surprise_score": 0.189,
       "n_items": 14
     },
     {
       "date": "2026-06-29",
       "commentary_score": 0.342,
-      "surprise_score": 0.337,
+      "surprise_score": 0.206,
       "n_items": 14
     },
     {
       "date": "2026-06-30",
       "commentary_score": 0.108,
-      "surprise_score": -0.217,
+      "surprise_score": -0.376,
       "n_items": 11
     },
     {
       "date": "2026-07-01",
       "commentary_score": 0.108,
-      "surprise_score": -0.217,
+      "surprise_score": -0.376,
       "n_items": 11
     },
     {
       "date": "2026-07-02",
       "commentary_score": 0.327,
-      "surprise_score": -0.056,
+      "surprise_score": -0.234,
       "n_items": 9
     },
     {
       "date": "2026-07-03",
       "commentary_score": 0.293,
-      "surprise_score": -0.228,
+      "surprise_score": -0.437,
       "n_items": 6
     },
     {
       "date": "2026-07-04",
       "commentary_score": 0.293,
-      "surprise_score": -0.228,
+      "surprise_score": -0.437,
       "n_items": 6
     },
     {
       "date": "2026-07-05",
       "commentary_score": 0.293,
-      "surprise_score": -0.228,
+      "surprise_score": -0.437,
       "n_items": 6
     },
     {
       "date": "2026-07-06",
       "commentary_score": 1.14,
-      "surprise_score": 0.157,
+      "surprise_score": -0.148,
       "n_items": 3
     }
   ],
   "top_movers": [
+    {
+      "published_at": "2026-06-24T06:41:00+00:00",
+      "speaker": "Kazuo Ueda",
+      "event_type": "other",
+      "stance": -1.0,
+      "prior": 0.88,
+      "surprise": -1.88,
+      "weight": 0.088,
+      "contribution": -0.166,
+      "phrase": "Financial environment remains accommodative after recent rate hike.",
+      "headline": "BoJ's Ueda says Japan's economy is recovering moderately albeit with some weakness; Economic growth likely to slow but continue to moderate recovery"
+    },
     {
       "published_at": "2026-06-25T01:10:00+00:00",
       "speaker": "Naoki Tamura",
@@ -562,18 +574,6 @@
       "headline": "BoJ Board Member Tamura said it is important to push the BoJ\u2019s policy rate closer to neutral to avoid being forced to hike rates sharply later"
     },
     {
-      "published_at": "2026-06-24T06:41:00+00:00",
-      "speaker": "Kazuo Ueda",
-      "event_type": "other",
-      "stance": -1.0,
-      "prior": 0.0,
-      "surprise": -1.0,
-      "weight": 0.088,
-      "contribution": -0.088,
-      "phrase": "Financial environment remains accommodative after recent rate hike.",
-      "headline": "BoJ's Ueda says Japan's economy is recovering moderately albeit with some weakness; Economic growth likely to slow but continue to moderate recovery"
-    },
-    {
       "published_at": "2026-06-25T05:13:00+00:00",
       "speaker": "Naoki Tamura",
       "event_type": "other",
@@ -581,7 +581,7 @@
       "prior": 1.5,
       "surprise": 0.5,
       "weight": 0.079,
-      "contribution": 0.04,
+      "contribution": 0.039,
       "phrase": "If risk of inflation overshoot materialises, we may need to accelerate the pace of rate hikes.",
       "headline": "BoJ's Tamura says Japan has already met BoJ's 2% inflation goal and must increase rates close to neutral to prevent inflation from exceeding the target"
     }
@@ -642,6 +642,175 @@
       ]
     }
   ],
+  "speaker_board": {
+    "effective_window_days": 243,
+    "long_window_days": 365,
+    "recent_window_days": 14,
+    "speakers": [
+      {
+        "name": "Junko Koeda",
+        "role": "governor",
+        "voting_2026": true,
+        "lean_prior": "neutral",
+        "weight_speaker": 0.7,
+        "n_long": 4,
+        "mean_long": 1.875,
+        "mean_long_conf_weighted": 1.942,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": 1.0,
+        "last_headline": "BoJ's Koeda sees the neutral rate above 1%, estimates it between 1.1% to 2.5%",
+        "last_phrase": "neutral rate above 1%, estimates it between 1.1% to 2.5%",
+        "last_published_at": "2026-05-21T06:19:00+00:00"
+      },
+      {
+        "name": "Hajime Takata",
+        "role": "governor",
+        "voting_2026": true,
+        "lean_prior": "hawk",
+        "weight_speaker": 0.7,
+        "n_long": 3,
+        "mean_long": 1.667,
+        "mean_long_conf_weighted": 1.667,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": 1.5,
+        "last_headline": "Bank of Japan keeps short-term interest rate unchanged at 0.75%, as expected, with decision made by 8-1 vote as Takata dissented and voted for a 25bps hike",
+        "last_phrase": "Will continue to raise policy rates if the economy and prices move in line with its forecasts",
+        "last_published_at": "2026-03-19T02:46:00+00:00"
+      },
+      {
+        "name": "Kazuyuki Masu",
+        "role": "governor",
+        "voting_2026": true,
+        "lean_prior": "neutral",
+        "weight_speaker": 0.7,
+        "n_long": 3,
+        "mean_long": 1.167,
+        "mean_long_conf_weighted": 1.381,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": 3.5,
+        "last_headline": "BoJ's Masu says need to raise rate at earliest stage possible, adds due attention should be paid to whether inflation triggered by the Yen's depreciation may raise people's inflation expectations and,",
+        "last_phrase": "BoJ will continue to raise rates in response to economic, price, financial developments.",
+        "last_published_at": "2026-05-14T04:03:00+00:00"
+      },
+      {
+        "name": "Naoki Tamura",
+        "role": "governor",
+        "voting_2026": true,
+        "lean_prior": "hawk",
+        "weight_speaker": 0.7,
+        "n_long": 3,
+        "mean_long": 1.167,
+        "mean_long_conf_weighted": 1.333,
+        "n_recent": 2,
+        "mean_recent": 2.25,
+        "mean_recent_conf_weighted": 2.267,
+        "delta": 0.933,
+        "last_stance": 2.0,
+        "last_headline": "BoJ's Tamura says Japan has already met BoJ's 2% inflation goal and must increase rates close to neutral to prevent inflation from exceeding the target",
+        "last_phrase": "If risk of inflation overshoot materialises, we may need to accelerate the pace of rate hikes.",
+        "last_published_at": "2026-06-25T05:13:00+00:00"
+      },
+      {
+        "name": "Junko Nakagawa",
+        "role": "governor",
+        "voting_2026": true,
+        "lean_prior": "neutral",
+        "weight_speaker": 0.7,
+        "n_long": 3,
+        "mean_long": 1.0,
+        "mean_long_conf_weighted": 1.214,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": 3.0,
+        "last_headline": "BoJ maintains its short-term interest rate at 0.75%, as expected; vote split 6-3 to hold (exp. near-unanimous); Nakagawa, Takata and Tamura voted to hike by 25bps to 1.0%",
+        "last_phrase": "risks to prices skewed to the upside",
+        "last_published_at": "2026-04-28T03:04:00+00:00"
+      },
+      {
+        "name": "Toichiro Asada",
+        "role": "governor",
+        "voting_2026": true,
+        "lean_prior": "dove",
+        "weight_speaker": 0.7,
+        "n_long": 2,
+        "mean_long": 0.75,
+        "mean_long_conf_weighted": 1.071,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": 3.0,
+        "last_headline": "BoJ hikes short-term interest rates by 25bps to 1.00%, as expected, while it pauses tapering of bond buys in which it will keep monthly pace of JGB buying at around JPY 2tln from April 2027",
+        "last_phrase": "Will continue to raise the policy rate in response to developments in economic activity, prices and financial conditions.",
+        "last_published_at": "2026-06-16T03:19:00+00:00"
+      },
+      {
+        "name": "Shinichi Uchida",
+        "role": "vice_chair",
+        "voting_2026": true,
+        "lean_prior": "dove",
+        "weight_speaker": 0.8,
+        "n_long": 2,
+        "mean_long": 1.0,
+        "mean_long_conf_weighted": 1.0,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": 1.0,
+        "last_headline": "BoJ Deputy Governor Uchida (post-policy press conference) says the primary difference between April and June is the reduced risk on the economy",
+        "last_phrase": "Today's decision took into account the risk of having to raise rates by a large margin if policy adjustment is delayed.",
+        "last_published_at": "2026-06-16T07:11:00+00:00"
+      },
+      {
+        "name": "Kazuo Ueda",
+        "role": "chair",
+        "voting_2026": true,
+        "lean_prior": "neutral",
+        "weight_speaker": 1.0,
+        "n_long": 48,
+        "mean_long": 0.448,
+        "mean_long_conf_weighted": 0.478,
+        "n_recent": 1,
+        "mean_recent": -1.0,
+        "mean_recent_conf_weighted": -1.0,
+        "delta": -1.478,
+        "last_stance": -1.0,
+        "last_headline": "BoJ's Ueda says Japan's economy is recovering moderately albeit with some weakness; Economic growth likely to slow but continue to moderate recovery",
+        "last_phrase": "Financial environment remains accommodative after recent rate hike.",
+        "last_published_at": "2026-06-24T06:41:00+00:00"
+      },
+      {
+        "name": "Ryozo Himino",
+        "role": "vice_chair",
+        "voting_2026": true,
+        "lean_prior": "neutral",
+        "weight_speaker": 0.8,
+        "n_long": 6,
+        "mean_long": -0.083,
+        "mean_long_conf_weighted": -0.213,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": -2.0,
+        "last_headline": "BoJ Deputy Governor Himino says takes some time for policy to have an impact on the economy",
+        "last_phrase": "Accommodative conditions are expected to continue.",
+        "last_published_at": "2026-06-22T00:25:00+00:00"
+      }
+    ]
+  },
   "methodology": {
     "commentary_window_days": 14,
     "surprise_lookback_days": 60,
