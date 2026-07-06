@@ -171,19 +171,11 @@ def _render_live_card(cb: dict, snap: dict) -> None:
         unsafe_allow_html=True,
     )
 
-    # Top 2 movers
-    if movers:
-        top2 = movers[:2]
-        mover_html = ""
-        for m in top2:
-            speaker = m.get("speaker", "—")
-            phrase = truncate(m.get("phrase", "") or "", 60)
-            mover_html += (
-                f"<div class='cb-mover'>▸ <span class='sp'>{speaker}</span>: "
-                f"<span style='color:#4b5563;'>{phrase}</span></div>"
-            )
-        st.markdown(mover_html, unsafe_allow_html=True)
+    # Top 3 comments (per-CB, importance-ranked — not just biggest movers)
+    _render_key_comments_for_cb(snap, k=3)
 
+    # Full movers table available in an expander below
+    if movers:
         with st.expander(f"View all movers ({len(movers)})"):
             rows = []
             for m in movers:
@@ -293,64 +285,45 @@ def _fmt_relative_time(iso_ts: str) -> str:
     return f"{days} day{'s' if days != 1 else ''} ago"
 
 
-def _render_key_comments(entries: list[dict]) -> None:
-    """Cross-CB ‘Top 3 comments to know’ section. Pulls each snapshot's
-    key_comments, merges globally, sorts by importance, shows the top 3."""
-    merged: list[dict] = []
-    for e in entries:
-        snap = e.get("snap")
-        if not snap:
-            continue
-        cb_label = e["cb"]["label"]
-        for c in snap.get("key_comments", []) or []:
-            merged.append({**c, "_cb": cb_label})
-
-    st.markdown("### 📢 Top 3 comments to know")
-    st.caption(
-        "Ranked by seniority + off-lean surprise + cross-market extremes. "
-        "Trailing 14 days, one item per speaker."
-    )
-
-    if not merged:
-        st.info(
-            "No stand-out comments in the last 14 days across the live CBs. "
-            "Speakers are moving on-trend for their known lean, no seniority "
-            "flags, no cross-market extremes."
+def _render_key_comments_for_cb(snap: dict, k: int = 3) -> None:
+    """Render the top-k key_comments for a single CB inside its card.
+    Same visual language as before (coloured left bar, italic quote, why-line)
+    just scoped to one CB."""
+    kc = snap.get("key_comments") or []
+    st.markdown("<div style='margin-top:14px; font-size:12px; font-weight:700; "
+                "color:#374151; text-transform:uppercase; letter-spacing:0.4px;'>"
+                f"Top {k} comments</div>", unsafe_allow_html=True)
+    if not kc:
+        st.markdown(
+            "<div style='color:#9ca3af; font-size:12px; margin-top:6px;'>"
+            "No stand-out comments in the trailing 30 days."
+            "</div>",
+            unsafe_allow_html=True,
         )
         return
-
-    # Sort by importance desc, then recency desc
-    merged.sort(
-        key=lambda c: (c.get("importance", 0), c.get("published_at", "")),
-        reverse=True,
-    )
-    top = merged[:3]
-
-    for c in top:
+    for c in kc[:k]:
         stance = float(c.get("stance", 0.0))
-        colour = band_color(stance)   # colour bar reflects THIS comment's stance
+        colour = band_color(stance)
         speaker = c.get("speaker", "—")
         role_tag = _fmt_role(c.get("role"), c.get("voting_2026"))
         phrase = c.get("phrase") or ""
         reasons = c.get("reasons") or []
         why = " · ".join(reasons) if reasons else "—"
         when = _fmt_relative_time(c.get("published_at", ""))
-        cb_tag = c.get("_cb", "")
-
         st.markdown(
             f"""
-<div style="border-left:5px solid {colour}; background:#fafafa; padding:10px 14px;
-            border-radius:6px; margin:8px 0;">
-  <div style="font-size:13px; color:#111827;">
+<div style="border-left:4px solid {colour}; background:#fafafa; padding:8px 10px;
+            border-radius:4px; margin:6px 0;">
+  <div style="font-size:12px; color:#111827;">
     <strong>{speaker}</strong>
-    <span style="color:#6b7280; font-weight:500;"> · {cb_tag} · {role_tag}</span>
+    <span style="color:#6b7280; font-weight:500;"> · {role_tag}</span>
     <span style="color:#9ca3af; float:right; font-size:11px;">{when}</span>
   </div>
-  <div style="font-style:italic; color:#374151; margin-top:6px; font-size:14px;">
+  <div style="font-style:italic; color:#374151; margin-top:4px; font-size:12.5px; line-height:1.35;">
     “{phrase}”
   </div>
-  <div style="color:#6b7280; font-size:11px; margin-top:6px;">
-    <strong>Why it matters:</strong> {why}
+  <div style="color:#6b7280; font-size:10.5px; margin-top:4px; line-height:1.3;">
+    <strong>Why:</strong> {why}
     &nbsp;·&nbsp; stance {stance:+.2f}σ (prior {float(c.get('prior',0)):+.2f}σ,
     surprise {float(c.get('surprise',0)):+.2f}σ)
   </div>
@@ -445,13 +418,8 @@ where curves and FX pairs have moved most.
             return False
         return abs(float(snap.get("surprise_score", 0.0))) > EXTREME_THRESHOLD
 
-    entries_all = list(entries)   # keep pre-filter list for the key-comments section
     entries = [e for e in entries if _keep(e)]
     entries.sort(key=lambda e: _card_sort_key(e, sort_mode))
-
-    # --- Top 3 comments to know (always uses full unfiltered set) ----------
-    _render_key_comments(entries_all)
-    st.markdown("---")
 
     if not entries:
         st.info("No central banks match the current filter.")
