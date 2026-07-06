@@ -1,6 +1,6 @@
 {
   "cb": "rbnz",
-  "as_of": "2026-07-06T16:10:26.510031+00:00",
+  "as_of": "2026-07-06T16:16:10.585764+00:00",
   "commentary_score": 0.0,
   "surprise_score": 0.0,
   "label": "neutral",
@@ -639,6 +639,42 @@
         "last_headline": "RBNZ Chief Economist Paul Conway urged New Zealand's government to pursue structural reforms to lift productivity, saying monetary policy can\u2019t solve the cost-of-living crisis alone",
         "last_phrase": "monetary policy can\u2019t solve the cost-of-living crisis alone",
         "last_published_at": "2026-03-25T00:29:00+00:00"
+      },
+      {
+        "name": "Caroline Saunders",
+        "role": "mpc_external",
+        "voting_2026": true,
+        "lean_prior": "neutral",
+        "weight_speaker": 0.6,
+        "n_long": 0,
+        "mean_long": null,
+        "mean_long_conf_weighted": null,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": null,
+        "last_headline": "",
+        "last_phrase": "",
+        "last_published_at": null
+      },
+      {
+        "name": "Peter Harris",
+        "role": "mpc_external",
+        "voting_2026": true,
+        "lean_prior": "neutral",
+        "weight_speaker": 0.6,
+        "n_long": 0,
+        "mean_long": null,
+        "mean_long_conf_weighted": null,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": null,
+        "last_headline": "",
+        "last_phrase": "",
+        "last_published_at": null
       }
     ]
   },

@@ -1,6 +1,6 @@
 {
   "cb": "boe",
-  "as_of": "2026-07-06T16:10:26.371035+00:00",
+  "as_of": "2026-07-06T16:16:10.432064+00:00",
   "commentary_score": -0.224,
   "surprise_score": 0.1,
   "label": "neutral",
@@ -793,6 +793,42 @@
         "last_headline": "BoE's Taylor says they have not seen much in terms of 2nd round effects in the UK",
         "last_phrase": "not seen much in terms of 2nd round effects in the UK",
         "last_published_at": "2026-06-23T15:12:00+00:00"
+      },
+      {
+        "name": "Dave Ramsden",
+        "role": "vice_chair",
+        "voting_2026": true,
+        "lean_prior": "dove",
+        "weight_speaker": 0.8,
+        "n_long": 0,
+        "mean_long": null,
+        "mean_long_conf_weighted": null,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": null,
+        "last_headline": "",
+        "last_phrase": "",
+        "last_published_at": null
+      },
+      {
+        "name": "Swati Dhingra",
+        "role": "mpc_external",
+        "voting_2026": true,
+        "lean_prior": "dove",
+        "weight_speaker": 0.6,
+        "n_long": 0,
+        "mean_long": null,
+        "mean_long_conf_weighted": null,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": null,
+        "last_headline": "",
+        "last_phrase": "",
+        "last_published_at": null
       }
     ]
   },

@@ -227,12 +227,14 @@ def _render_live_card(cb: dict, snap: dict) -> None:
             long_lbl = "3m avg"
         else:
             long_lbl = f"{eff_days}d avg"
-        with st.expander(f"Speaker board ({len(board_speakers)} speakers, {long_lbl})"):
+        n_active = sum(1 for s in board_speakers if (s.get("n_long") or 0) > 0)
+        with st.expander(f"Speaker board ({n_active} active / {len(board_speakers)} on roster, {long_lbl})"):
             st.caption(
                 f"Per-speaker mean stance over the trailing {eff_days} days "
                 f"(cap: {long_days}d, capped by earliest data). "
                 f"'Recent' column is the last {recent_days} days. "
-                "Δ = recent minus long-term. Positive = drifting more hawkish."
+                "Δ = recent minus long-term. Positive = drifting more hawkish. "
+                "Rows prefixed with · are speakers with no scored policy items in the window."
             )
             rows = []
             for sp in board_speakers:
@@ -243,8 +245,13 @@ def _render_live_card(cb: dict, snap: dict) -> None:
                     role_str += " · voter"
                 elif voting is False:
                     role_str += " · non-voter"
+                # Mark silent speakers (no scored items in window) with a leading dot
+                # so the human eye can spot them in the table.
+                name = sp.get("name", "")
+                if (sp.get("n_long") or 0) == 0:
+                    name = f"· {name}"
                 rows.append({
-                    "Speaker": sp.get("name", ""),
+                    "Speaker": name,
                     "Role": role_str.strip() or "—",
                     "Lean": sp.get("lean_prior") or "—",
                     "N (long)": sp.get("n_long", 0),

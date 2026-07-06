@@ -1,6 +1,6 @@
 {
   "cb": "fed",
-  "as_of": "2026-07-06T16:10:26.264857+00:00",
+  "as_of": "2026-07-06T16:16:10.321035+00:00",
   "commentary_score": 0.241,
   "surprise_score": -0.159,
   "label": "neutral",
@@ -557,7 +557,7 @@
       "prior": 1.8,
       "surprise": -2.8,
       "weight": 0.122,
-      "contribution": -0.343,
+      "contribution": -0.342,
       "phrase": "Philly Fed Nonmanufacturing Business Outlook Survey (June 2026): General Business Activity (Region): -25.8 (exp. -16.0, prev. -23.6)",
       "headline": "Philly Fed Nonmanufacturing Business Outlook Survey (June 2026): General Business Activity (Region): -25.8 (exp. -16.0, prev. -23.6)"
     },
@@ -605,7 +605,7 @@
       "prior": 0.8,
       "surprise": 0.7,
       "weight": 0.173,
-      "contribution": 0.121,
+      "contribution": 0.12,
       "phrase": "Fed may need to consider rate hikes",
       "headline": "Fed's Hammack (2026 Voter) says the job market is right around full employment, and growth looks good, speaking on CNBC TV; inflation is still too high, Fed may need to consider rate hikes"
     }
@@ -994,6 +994,24 @@
         "last_headline": "Fed's Daly (2027 voter) says AI investment shock has people wondering if it will be inflationary",
         "last_phrase": "monetary policy is slightly restrictive",
         "last_published_at": "2026-07-02T12:04:00+00:00"
+      },
+      {
+        "name": "Raphael Bostic",
+        "role": "regional_president",
+        "voting_2026": false,
+        "lean_prior": "neutral",
+        "weight_speaker": 0.4,
+        "n_long": 0,
+        "mean_long": null,
+        "mean_long_conf_weighted": null,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
+        "last_stance": null,
+        "last_headline": "",
+        "last_phrase": "",
+        "last_published_at": null
       }
     ]
   },
