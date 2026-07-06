@@ -1,8 +1,8 @@
 {
   "cb": "fed",
-  "as_of": "2026-07-06T10:53:18.452329+00:00",
-  "commentary_score": 0.876,
-  "surprise_score": -0.225,
+  "as_of": "2026-07-06T11:00:47.885084+00:00",
+  "commentary_score": 0.211,
+  "surprise_score": -0.03,
   "label": "neutral",
   "n_items_14d": 27,
   "n_items_total": 57,
@@ -435,120 +435,144 @@
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 0.61,
-      "surprise_score": -0.017,
+      "commentary_score": 0.387,
+      "surprise_score": -0.043,
       "n_items": 28
     },
     {
       "date": "2026-06-19",
-      "commentary_score": 0.609,
-      "surprise_score": -0.017,
+      "commentary_score": 0.384,
+      "surprise_score": -0.044,
       "n_items": 25
     },
     {
       "date": "2026-06-20",
-      "commentary_score": 0.599,
-      "surprise_score": -0.018,
+      "commentary_score": 0.373,
+      "surprise_score": -0.044,
       "n_items": 24
     },
     {
       "date": "2026-06-21",
-      "commentary_score": 0.599,
-      "surprise_score": -0.018,
+      "commentary_score": 0.373,
+      "surprise_score": -0.044,
       "n_items": 24
     },
     {
       "date": "2026-06-22",
-      "commentary_score": 0.599,
-      "surprise_score": -0.018,
+      "commentary_score": 0.373,
+      "surprise_score": -0.044,
       "n_items": 24
     },
     {
       "date": "2026-06-23",
-      "commentary_score": 0.624,
-      "surprise_score": -0.017,
+      "commentary_score": 0.378,
+      "surprise_score": -0.051,
       "n_items": 28
     },
     {
       "date": "2026-06-24",
-      "commentary_score": 0.624,
-      "surprise_score": -0.017,
+      "commentary_score": 0.336,
+      "surprise_score": -0.056,
       "n_items": 31
     },
     {
       "date": "2026-06-25",
-      "commentary_score": 0.641,
-      "surprise_score": -0.001,
+      "commentary_score": 0.316,
+      "surprise_score": -0.049,
       "n_items": 32
     },
     {
       "date": "2026-06-26",
-      "commentary_score": 0.653,
-      "surprise_score": -0.003,
+      "commentary_score": 0.241,
+      "surprise_score": -0.067,
       "n_items": 37
     },
     {
       "date": "2026-06-27",
-      "commentary_score": 0.668,
-      "surprise_score": -0.003,
+      "commentary_score": 0.209,
+      "surprise_score": -0.065,
       "n_items": 38
     },
     {
       "date": "2026-06-28",
-      "commentary_score": 0.668,
-      "surprise_score": -0.003,
+      "commentary_score": 0.209,
+      "surprise_score": -0.065,
       "n_items": 38
     },
     {
       "date": "2026-06-29",
-      "commentary_score": 0.639,
-      "surprise_score": -0.003,
+      "commentary_score": 0.171,
+      "surprise_score": -0.063,
       "n_items": 40
     },
     {
       "date": "2026-06-30",
-      "commentary_score": 0.639,
-      "surprise_score": -0.003,
+      "commentary_score": 0.151,
+      "surprise_score": -0.056,
       "n_items": 44
     },
     {
       "date": "2026-07-01",
-      "commentary_score": 0.674,
-      "surprise_score": -0.051,
+      "commentary_score": 0.197,
+      "surprise_score": -0.08,
       "n_items": 45
     },
     {
       "date": "2026-07-02",
-      "commentary_score": 0.876,
-      "surprise_score": -0.225,
+      "commentary_score": 0.252,
+      "surprise_score": -0.008,
       "n_items": 25
     },
     {
       "date": "2026-07-03",
-      "commentary_score": 0.876,
-      "surprise_score": -0.225,
+      "commentary_score": 0.211,
+      "surprise_score": -0.03,
       "n_items": 27
     },
     {
       "date": "2026-07-04",
-      "commentary_score": 0.876,
-      "surprise_score": -0.225,
+      "commentary_score": 0.211,
+      "surprise_score": -0.03,
       "n_items": 27
     },
     {
       "date": "2026-07-05",
-      "commentary_score": 0.876,
-      "surprise_score": -0.225,
+      "commentary_score": 0.211,
+      "surprise_score": -0.03,
       "n_items": 27
     },
     {
       "date": "2026-07-06",
-      "commentary_score": 0.876,
-      "surprise_score": -0.225,
+      "commentary_score": 0.211,
+      "surprise_score": -0.03,
       "n_items": 27
     }
   ],
   "top_movers": [
+    {
+      "published_at": "2026-07-01T13:07:00+00:00",
+      "speaker": "Kevin Warsh",
+      "event_type": "other",
+      "stance": 2.0,
+      "prior": 0.41,
+      "surprise": 1.59,
+      "weight": 0.215,
+      "contribution": 0.342,
+      "phrase": "must think about a new conduct for monetary policy and we'll be charting a new course",
+      "headline": "Fed Chair Warsh says must think about a new conduct for monetary policy and we'll be charting a new course so the Fed can make better decisions"
+    },
+    {
+      "published_at": "2026-06-22T21:07:00+00:00",
+      "speaker": "Austan Goolsbee",
+      "event_type": "other",
+      "stance": 3.0,
+      "prior": 0.6,
+      "surprise": 2.4,
+      "weight": 0.042,
+      "contribution": 0.1,
+      "phrase": "inflation is well above target and going the wrong way",
+      "headline": "Fed's Goolsbee (2027 voter) says inflation is well above target and going the wrong way, adds need evidence this inflation is temporary and services inflation is a little disturbing"
+    },
     {
       "published_at": "2026-06-30T14:51:00+00:00",
       "speaker": "Beth Hammack",
@@ -562,70 +586,84 @@
       "headline": "Fed's Hammack (2026 Voter) says the job market is right around full employment, and growth looks good, speaking on CNBC TV; inflation is still too high, Fed may need to consider rate hikes"
     },
     {
+      "published_at": "2026-06-25T23:07:00+00:00",
+      "speaker": "Austan Goolsbee",
+      "event_type": "other",
+      "stance": -1.0,
+      "prior": 0.6,
+      "surprise": -1.6,
+      "weight": 0.042,
+      "contribution": -0.068,
+      "phrase": "US labor market has remained stable for over a year",
+      "headline": "Fed's Goolsbee (2027 voter) says US labor market has remained stable for over a year, with hiring and layoffs muted due to elevated uncertainty"
+    },
+    {
       "published_at": "2026-06-25T18:04:00+00:00",
       "speaker": "Austan Goolsbee",
       "event_type": "other",
-      "stance": 1.0,
-      "prior": 1.27,
-      "surprise": -0.27,
-      "weight": 0.049,
-      "contribution": -0.013,
-      "phrase": "inflation going the wrong way, some of that driven by one-and-done",
-      "headline": "Fed's Goolsbee says hard to get throughline on inflation, how persistent or temporary; inflation going the wrong way, some of that driven by one-and-done; inflation a little more disturbing on services side"
-    },
-    {
-      "published_at": "2026-06-22T21:07:00+00:00",
-      "speaker": "Austan Goolsbee",
-      "event_type": "other",
-      "stance": 1.5,
-      "prior": 1.27,
-      "surprise": 0.23,
+      "stance": -1.0,
+      "prior": 0.6,
+      "surprise": -1.6,
       "weight": 0.042,
-      "contribution": 0.01,
-      "phrase": "inflation is well above target and going the wrong way",
-      "headline": "Fed's Goolsbee (2027 voter) says inflation is well above target and going the wrong way, adds need evidence this inflation is temporary and services inflation is a little disturbing"
-    },
-    {
-      "published_at": "2026-06-22T12:15:00+00:00",
-      "speaker": "Kevin Warsh",
-      "event_type": "other",
-      "stance": 0.0,
-      "prior": 0.62,
-      "surprise": -0.62,
-      "weight": 0.0,
-      "contribution": -0.0,
-      "phrase": "US NEC Director Hassett says getting debt-to-GDP down is a high priority; Fed Chair Warsh is not asking the White House for advice",
-      "headline": "US NEC Director Hassett says getting debt-to-GDP down is a high priority; Fed Chair Warsh is not asking the White House for advice"
-    },
-    {
-      "published_at": "2026-06-22T13:00:00+00:00",
-      "speaker": "Christopher Waller",
-      "event_type": "speech",
-      "stance": 0.0,
-      "prior": 0.0,
-      "surprise": 0.0,
-      "weight": 0.0,
-      "contribution": 0.0,
-      "phrase": "Fed's Waller (voter) does not comment on economic or monetary policy outlook in prepared remarks",
-      "headline": "Fed's Waller (voter) does not comment on economic or monetary policy outlook in prepared remarks"
+      "contribution": -0.067,
+      "phrase": "inflation going the wrong way",
+      "headline": "Fed's Goolsbee says hard to get throughline on inflation, how persistent or temporary; inflation going the wrong way, some of that driven by one-and-done; inflation a little more disturbing on services side"
     }
   ],
   "key_comments": [
     {
-      "published_at": "2026-06-30T14:51:00+00:00",
-      "speaker": "Beth Hammack",
-      "role": "regional_president",
+      "published_at": "2026-06-17T19:04:00+00:00",
+      "speaker": "Kevin Warsh",
+      "role": "chair",
       "lean_prior": "hawk",
       "voting_2026": true,
       "event_type": "off-the-cuff",
-      "stance": 1.0,
-      "prior": 1.5,
-      "surprise": -0.5,
-      "phrase": "inflation is still too high, Fed may need to consider rate hikes",
-      "headline": "Fed's Hammack (2026 Voter) says the job market is right around full employment, and growth looks good, speaking on CNBC TV; inflation is still too high, Fed may need to consider rate hikes",
-      "importance": 1.0,
+      "stance": -3.0,
+      "prior": 0.41,
+      "surprise": -3.41,
+      "phrase": "none of the 19 at the table felt a need to tighten today",
+      "headline": "Fed Chair Warsh (Q&A) says none of the 19 at the table felt a need to tighten today",
+      "importance": 11.32,
       "reasons": [
-        "hawk-lean speaker sounded dovish (surprise -0.50)"
+        "Chair spoke",
+        "hawk-lean speaker sounded dovish (surprise -3.41)",
+        "cross-market extreme (|stance| = 3.0)"
+      ]
+    },
+    {
+      "published_at": "2026-06-22T21:07:00+00:00",
+      "speaker": "Austan Goolsbee",
+      "role": "regional_president",
+      "lean_prior": "dove",
+      "voting_2026": false,
+      "event_type": "other",
+      "stance": 3.0,
+      "prior": 0.6,
+      "surprise": 2.4,
+      "phrase": "inflation is well above target and going the wrong way",
+      "headline": "Fed's Goolsbee (2027 voter) says inflation is well above target and going the wrong way, adds need evidence this inflation is temporary and services inflation is a little disturbing",
+      "importance": 6.3,
+      "reasons": [
+        "dove-lean speaker sounded hawkish (surprise +2.40)",
+        "cross-market extreme (|stance| = 3.0)"
+      ]
+    },
+    {
+      "published_at": "2026-06-17T19:12:00+00:00",
+      "speaker": "Kevin Warsh",
+      "role": "chair",
+      "lean_prior": "hawk",
+      "voting_2026": true,
+      "event_type": "off-the-cuff",
+      "stance": -1.0,
+      "prior": 0.41,
+      "surprise": -1.41,
+      "phrase": "some thought it was trending better than that",
+      "headline": "Fed Chair Warsh (Q&A): Committee thought labour market were stable, some thought it was trending better than that; trends matter more than data points",
+      "importance": 5.82,
+      "reasons": [
+        "Chair spoke",
+        "hawk-lean speaker sounded dovish (surprise -1.41)"
       ]
     }
   ],
