@@ -1,8 +1,10 @@
-"""Macro Nowcast — entry point.
+"""Macro Nowcast — entry point (multipage via st.navigation).
 
-Country-agnostic scaffolding: each country lives in ``countries/<code>.py``
-and exposes ``render()``. This entry point wires them into a sidebar picker
-plus a top-of-page selector for touch devices.
+Two top-level pages:
+  1. 📈 Macro Nowcast — the existing country-selector nowcast.
+  2. 🦅🕊️ CB Stance Monitor — dedicated central-bank hawk/dove dashboard.
+
+Auth (password gate) and FRED key wiring run once for both pages.
 """
 from __future__ import annotations
 import os
@@ -27,7 +29,7 @@ st.set_page_config(
 )
 
 # ---------------------------------------------------------------------------
-# FRED key: pull from Streamlit secrets if available, else keep env / .env fallback.
+# FRED key: pull from Streamlit secrets if available, else env / .env fallback.
 # ---------------------------------------------------------------------------
 try:
     if "FRED_API_KEY" in st.secrets:
@@ -71,7 +73,7 @@ if not _password_ok():
     st.stop()
 
 # ---------------------------------------------------------------------------
-# Country registry
+# Country registry (Nowcast page only)
 # ---------------------------------------------------------------------------
 COUNTRIES = [
     {"code": "US", "label": "🇺🇸 United States", "status": "live"},
@@ -82,27 +84,61 @@ COUNTRIES = [
     {"code": "AU", "label": "🇦🇺 Australia",       "status": "soon", "source": "ABS + RBA"},
 ]
 
-# ---------------------------------------------------------------------------
-# Sidebar country picker
-# ---------------------------------------------------------------------------
-with st.sidebar:
-    st.markdown("## 📈 Macro Nowcast")
-    st.caption("G10 macro nowcast — pillars, regime, drill-down.")
-    labels = [c["label"] + ("" if c["status"] == "live" else "  · soon") for c in COUNTRIES]
-    codes  = [c["code"] for c in COUNTRIES]
-    picked_label = st.radio("Country", labels, index=0)
-    picked = codes[labels.index(picked_label)]
 
 # ---------------------------------------------------------------------------
-# Dispatch
+# Page callables
 # ---------------------------------------------------------------------------
-country = next(c for c in COUNTRIES if c["code"] == picked)
-st.title(f"{country['label']} — Macro Nowcast")
+def _nowcast_page() -> None:
+    """Existing macro-nowcast surface with country picker in the sidebar."""
+    with st.sidebar:
+        st.markdown("## 📈 Macro Nowcast")
+        st.caption("G10 macro nowcast — pillars, regime, drill-down.")
+        labels = [c["label"] + ("" if c["status"] == "live" else "  · soon") for c in COUNTRIES]
+        codes  = [c["code"] for c in COUNTRIES]
+        picked_label = st.radio("Country", labels, index=0, key="_nowcast_country")
+        picked = codes[labels.index(picked_label)]
 
-if country["status"] == "live":
-    if picked == "US":
-        from countries import us
-        us.render()
-else:
-    from countries import coming_soon
-    coming_soon.render(country["code"], country.get("source", "TBD"))
+    country = next(c for c in COUNTRIES if c["code"] == picked)
+    st.title(f"{country['label']} — Macro Nowcast")
+
+    if country["status"] == "live":
+        if picked == "US":
+            from countries import us
+            us.render()
+    else:
+        from countries import coming_soon
+        coming_soon.render(country["code"], country.get("source", "TBD"))
+
+
+def _cb_monitor_page() -> None:
+    """Dedicated Central Bank Stance Monitor."""
+    with st.sidebar:
+        st.markdown("## 🦅🕊️ CB Monitor")
+        st.caption("Speaker-relative hawk/dove tracking. Phase 1: Fed live.")
+    from pages_cb import cb_monitor
+    cb_monitor.render()
+
+
+# ---------------------------------------------------------------------------
+# Nav — prefer new st.navigation (>= 1.36). Fall back to top-level tabs.
+# ---------------------------------------------------------------------------
+def _run_with_navigation() -> bool:
+    try:
+        nav = st.navigation(
+            [
+                st.Page(_nowcast_page,    title="Macro Nowcast",       icon="📈", default=True),
+                st.Page(_cb_monitor_page, title="CB Stance Monitor",   icon="🦅"),
+            ]
+        )
+    except Exception:
+        return False
+    nav.run()
+    return True
+
+
+if not _run_with_navigation():
+    tab1, tab2 = st.tabs(["📈 Macro Nowcast", "🦅🕊️ CB Stance Monitor"])
+    with tab1:
+        _nowcast_page()
+    with tab2:
+        _cb_monitor_page()
