@@ -135,6 +135,16 @@ def _render_live_card(cb: dict, snap: dict) -> None:
     delta_14d = _fourteen_day_delta(history)
     arrow, arrow_col, arrow_pt = direction_arrow(delta_14d)
 
+    # Confidence badge — how much data is actually behind the headline number.
+    # Below 5 items in 14d we mark it "low", 5-9 "medium", 10+ "high".
+    # Colouring is grey — informational, not directional.
+    if n14 < 5:
+        conf_label, conf_bg, conf_fg = f"low conviction · n={n14}", "#fee2e2", "#991b1b"
+    elif n14 < 10:
+        conf_label, conf_bg, conf_fg = f"medium conviction · n={n14}", "#fef3c7", "#92400e"
+    else:
+        conf_label, conf_bg, conf_fg = f"high conviction · n={n14}", "#dcfce7", "#166534"
+
     # Header row (name + arrow)
     st.markdown(
         f"""
@@ -145,6 +155,9 @@ def _render_live_card(cb: dict, snap: dict) -> None:
   </div>
   <div class='cb-big' style='color:{colour};'>{surprise:+.2f}σ</div>
   <div class='cb-band-label' style='color:{colour};'>{b_label}</div>
+  <div style='display:inline-block; margin-top:4px; padding:2px 8px; border-radius:10px;
+              background:{conf_bg}; color:{conf_fg}; font-size:10.5px; font-weight:600;
+              text-transform:uppercase; letter-spacing:0.4px;'>{conf_label}</div>
 </div>
 """,
         unsafe_allow_html=True,
@@ -379,6 +392,9 @@ actually reprice.
 
 **Absolute score.** The `commentary_score` (unadjusted stance, ±5) — useful
 to know whether the CB is *hawkish at all* vs just hawkish *for them*.
+
+**Conviction badge.** Small tag under the headline number, showing `n` — the number of policy-relevant items scored in the last 14 days.
+`n < 5` low (red), `5-9` medium (amber), `10+` high (green). Treat sparse-CB headline numbers with more caution — the signal is directionally real but sample-size limited.
 
 **Banner.** When `|surprise| > 1.5σ` we flag repricing risk — historically
 where curves and FX pairs have moved most.
