@@ -1,109 +1,109 @@
 {
   "cb": "zar",
-  "as_of": "2026-07-07T13:02:49.607137+00:00",
+  "as_of": "2026-07-07T15:20:54.134906+00:00",
   "commentary_score": 0.0,
   "surprise_score": 0.0,
   "label": "neutral",
   "n_items_14d": 0,
   "n_items_window": 0,
-  "commentary_window_days": 14,
+  "commentary_window_days": 30,
   "n_items_total": 7,
   "history_90d": [
     {
       "date": "2026-04-09",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -1.5,
+      "surprise_score": -1.5,
+      "n_items": 1
     },
     {
       "date": "2026-04-10",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -1.5,
+      "surprise_score": -1.5,
+      "n_items": 1
     },
     {
       "date": "2026-04-11",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -1.5,
+      "surprise_score": -1.5,
+      "n_items": 1
     },
     {
       "date": "2026-04-12",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -1.5,
+      "surprise_score": -1.5,
+      "n_items": 1
     },
     {
       "date": "2026-04-13",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -1.5,
+      "surprise_score": -1.5,
+      "n_items": 1
     },
     {
       "date": "2026-04-14",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -1.5,
+      "surprise_score": -1.5,
+      "n_items": 1
     },
     {
       "date": "2026-04-15",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -1.5,
+      "surprise_score": -1.5,
+      "n_items": 1
     },
     {
       "date": "2026-04-16",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -1.5,
+      "surprise_score": -1.5,
+      "n_items": 1
     },
     {
       "date": "2026-04-17",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -1.5,
+      "surprise_score": -1.5,
+      "n_items": 1
     },
     {
       "date": "2026-04-18",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -1.5,
+      "surprise_score": -1.5,
+      "n_items": 1
     },
     {
       "date": "2026-04-19",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -1.5,
+      "surprise_score": -1.5,
+      "n_items": 1
     },
     {
       "date": "2026-04-20",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -1.5,
+      "surprise_score": -1.5,
+      "n_items": 1
     },
     {
       "date": "2026-04-21",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -1.5,
+      "surprise_score": -1.5,
+      "n_items": 1
     },
     {
       "date": "2026-04-22",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -1.5,
+      "surprise_score": -1.5,
+      "n_items": 1
     },
     {
       "date": "2026-04-23",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -1.5,
+      "surprise_score": -1.5,
+      "n_items": 1
     },
     {
       "date": "2026-04-24",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -1.5,
+      "surprise_score": -1.5,
+      "n_items": 1
     },
     {
       "date": "2026-04-25",
@@ -251,99 +251,99 @@
     },
     {
       "date": "2026-05-19",
-      "commentary_score": 0.0,
+      "commentary_score": 1.5,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-05-20",
-      "commentary_score": 0.0,
+      "commentary_score": 1.5,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-05-21",
-      "commentary_score": 0.0,
+      "commentary_score": 1.5,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-05-22",
-      "commentary_score": 0.0,
+      "commentary_score": 1.5,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-05-23",
-      "commentary_score": 0.0,
+      "commentary_score": 1.5,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-05-24",
-      "commentary_score": 0.0,
+      "commentary_score": 1.5,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-05-25",
-      "commentary_score": 0.0,
+      "commentary_score": 1.5,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-05-26",
-      "commentary_score": 0.0,
+      "commentary_score": 1.5,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-05-27",
-      "commentary_score": 0.0,
+      "commentary_score": 1.5,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-05-28",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": 2.457,
+      "surprise_score": 2.393,
+      "n_items": 2
     },
     {
       "date": "2026-05-29",
-      "commentary_score": 2.5,
-      "surprise_score": 2.5,
-      "n_items": 1
+      "commentary_score": 2.457,
+      "surprise_score": 2.393,
+      "n_items": 2
     },
     {
       "date": "2026-05-30",
-      "commentary_score": 2.5,
-      "surprise_score": 2.5,
-      "n_items": 1
+      "commentary_score": 2.457,
+      "surprise_score": 2.393,
+      "n_items": 2
     },
     {
       "date": "2026-05-31",
-      "commentary_score": 2.5,
-      "surprise_score": 2.5,
-      "n_items": 1
+      "commentary_score": 2.457,
+      "surprise_score": 2.393,
+      "n_items": 2
     },
     {
       "date": "2026-06-01",
-      "commentary_score": 2.5,
-      "surprise_score": 2.5,
-      "n_items": 1
+      "commentary_score": 2.457,
+      "surprise_score": 2.393,
+      "n_items": 2
     },
     {
       "date": "2026-06-02",
-      "commentary_score": 2.5,
-      "surprise_score": 2.5,
-      "n_items": 1
+      "commentary_score": 2.457,
+      "surprise_score": 2.393,
+      "n_items": 2
     },
     {
       "date": "2026-06-03",
-      "commentary_score": 2.5,
-      "surprise_score": 2.5,
-      "n_items": 1
+      "commentary_score": 2.457,
+      "surprise_score": 2.393,
+      "n_items": 2
     },
     {
       "date": "2026-06-04",
@@ -395,93 +395,93 @@
     },
     {
       "date": "2026-06-12",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": 2.5,
+      "surprise_score": 2.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-13",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": 2.5,
+      "surprise_score": 2.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-14",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": 2.5,
+      "surprise_score": 2.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-15",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": 2.5,
+      "surprise_score": 2.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-16",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": 2.5,
+      "surprise_score": 2.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-17",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": 2.5,
+      "surprise_score": 2.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": 2.5,
+      "surprise_score": 2.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-19",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": 2.5,
+      "surprise_score": 2.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-20",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": 2.5,
+      "surprise_score": 2.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-21",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": 2.5,
+      "surprise_score": 2.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-22",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": 2.5,
+      "surprise_score": 2.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-23",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": 2.5,
+      "surprise_score": 2.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-24",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": 2.5,
+      "surprise_score": 2.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-25",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": 2.5,
+      "surprise_score": 2.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-26",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": 2.5,
+      "surprise_score": 2.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-27",
@@ -650,17 +650,32 @@
     ]
   },
   "methodology": {
-    "commentary_window_days": 14,
+    "commentary_window_days": 30,
     "commentary_window_days_default": 14,
     "commentary_window_days_low_cadence": 30,
     "low_cadence_cbs": [
       "boc",
       "boj",
+      "brl",
+      "clp",
+      "cnh",
+      "cop",
+      "czk",
+      "huf",
+      "ils",
+      "inr",
+      "krw",
+      "mxn",
       "norges",
+      "pln",
       "rba",
       "rbnz",
       "riksbank",
-      "snb"
+      "sgd",
+      "snb",
+      "thb",
+      "twd",
+      "zar"
     ],
     "surprise_lookback_days": 60,
     "recency_halflife_days": 7,

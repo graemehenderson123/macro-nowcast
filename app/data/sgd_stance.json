@@ -1,12 +1,12 @@
 {
   "cb": "sgd",
-  "as_of": "2026-07-07T13:02:49.215253+00:00",
+  "as_of": "2026-07-07T15:20:53.460890+00:00",
   "commentary_score": 0.0,
   "surprise_score": 0.0,
   "label": "neutral",
-  "n_items_14d": 0,
-  "n_items_window": 0,
-  "commentary_window_days": 14,
+  "n_items_14d": 1,
+  "n_items_window": 1,
+  "commentary_window_days": 30,
   "n_items_total": 4,
   "history_90d": [
     {
@@ -511,46 +511,59 @@
       "date": "2026-07-01",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-07-02",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-07-03",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-07-04",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-07-05",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-07-06",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-07-07",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     }
   ],
-  "top_movers": [],
+  "top_movers": [
+    {
+      "published_at": "2026-06-17T04:04:00+00:00",
+      "speaker": "SGD (institutional)",
+      "event_type": "statement",
+      "stance": 0.0,
+      "prior": 0.0,
+      "surprise": 0.0,
+      "weight": 0.059,
+      "contribution": 0.0,
+      "phrase": "economists trim Singapore 2026 GDP growth forecasts to 3.5%",
+      "headline": "MAS survey of professional forecasters show economists trim Singapore 2026 GDP growth forecasts to 3.5% from 3.6%"
+    }
+  ],
   "key_comments": [],
   "speaker_board": {
     "effective_window_days": 202,
@@ -632,17 +645,32 @@
     ]
   },
   "methodology": {
-    "commentary_window_days": 14,
+    "commentary_window_days": 30,
     "commentary_window_days_default": 14,
     "commentary_window_days_low_cadence": 30,
     "low_cadence_cbs": [
       "boc",
       "boj",
+      "brl",
+      "clp",
+      "cnh",
+      "cop",
+      "czk",
+      "huf",
+      "ils",
+      "inr",
+      "krw",
+      "mxn",
       "norges",
+      "pln",
       "rba",
       "rbnz",
       "riksbank",
-      "snb"
+      "sgd",
+      "snb",
+      "thb",
+      "twd",
+      "zar"
     ],
     "surprise_lookback_days": 60,
     "recency_halflife_days": 7,

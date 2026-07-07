@@ -1,67 +1,67 @@
 {
   "cb": "twd",
-  "as_of": "2026-07-07T13:02:48.976550+00:00",
+  "as_of": "2026-07-07T15:20:53.058008+00:00",
   "commentary_score": 0.0,
   "surprise_score": 0.0,
   "label": "neutral",
-  "n_items_14d": 0,
-  "n_items_window": 0,
-  "commentary_window_days": 14,
+  "n_items_14d": 1,
+  "n_items_window": 1,
+  "commentary_window_days": 30,
   "n_items_total": 2,
   "history_90d": [
     {
       "date": "2026-04-09",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-04-10",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-04-11",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-04-12",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-04-13",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-04-14",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-04-15",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-04-16",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-04-17",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-04-18",
@@ -517,40 +517,53 @@
       "date": "2026-07-02",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-07-03",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-07-04",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-07-05",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-07-06",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-07-07",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     }
   ],
-  "top_movers": [],
+  "top_movers": [
+    {
+      "published_at": "2026-06-18T08:30:00+00:00",
+      "speaker": "TWD (institutional)",
+      "event_type": "statement",
+      "stance": 0.0,
+      "prior": 0.0,
+      "surprise": 0.0,
+      "weight": 0.107,
+      "contribution": 0.0,
+      "phrase": "Taiwan Central Bank leaves its benchmark interest rate unchanged at 2.00%, as expected",
+      "headline": "Taiwan Central Bank leaves its benchmark interest rate unchanged at 2.00%, as expected"
+    }
+  ],
   "key_comments": [],
   "speaker_board": {
     "effective_window_days": 110,
@@ -614,17 +627,32 @@
     ]
   },
   "methodology": {
-    "commentary_window_days": 14,
+    "commentary_window_days": 30,
     "commentary_window_days_default": 14,
     "commentary_window_days_low_cadence": 30,
     "low_cadence_cbs": [
       "boc",
       "boj",
+      "brl",
+      "clp",
+      "cnh",
+      "cop",
+      "czk",
+      "huf",
+      "ils",
+      "inr",
+      "krw",
+      "mxn",
       "norges",
+      "pln",
       "rba",
       "rbnz",
       "riksbank",
-      "snb"
+      "sgd",
+      "snb",
+      "thb",
+      "twd",
+      "zar"
     ],
     "surprise_lookback_days": 60,
     "recency_halflife_days": 7,

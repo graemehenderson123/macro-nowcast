@@ -1,12 +1,12 @@
 {
   "cb": "ils",
-  "as_of": "2026-07-07T13:02:49.529146+00:00",
+  "as_of": "2026-07-07T15:20:54.001360+00:00",
   "commentary_score": 0.0,
   "surprise_score": 0.0,
   "label": "neutral",
   "n_items_14d": 0,
   "n_items_window": 0,
-  "commentary_window_days": 14,
+  "commentary_window_days": 30,
   "n_items_total": 4,
   "history_90d": [
     {
@@ -419,99 +419,99 @@
     },
     {
       "date": "2026-06-16",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -2.0,
+      "surprise_score": -3.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-17",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -2.0,
+      "surprise_score": -3.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -2.0,
+      "surprise_score": -3.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-19",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -2.0,
+      "surprise_score": -3.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-20",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -2.0,
+      "surprise_score": -3.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-21",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -2.0,
+      "surprise_score": -3.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-22",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -2.0,
+      "surprise_score": -3.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-23",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -2.0,
+      "surprise_score": -3.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-24",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -2.0,
+      "surprise_score": -3.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-25",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -2.0,
+      "surprise_score": -3.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-26",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -2.0,
+      "surprise_score": -3.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-27",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -2.0,
+      "surprise_score": -3.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-28",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -2.0,
+      "surprise_score": -3.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-29",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -2.0,
+      "surprise_score": -3.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-30",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -2.0,
+      "surprise_score": -3.5,
+      "n_items": 1
     },
     {
       "date": "2026-07-01",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -2.0,
+      "surprise_score": -3.5,
+      "n_items": 1
     },
     {
       "date": "2026-07-02",
@@ -668,17 +668,32 @@
     ]
   },
   "methodology": {
-    "commentary_window_days": 14,
+    "commentary_window_days": 30,
     "commentary_window_days_default": 14,
     "commentary_window_days_low_cadence": 30,
     "low_cadence_cbs": [
       "boc",
       "boj",
+      "brl",
+      "clp",
+      "cnh",
+      "cop",
+      "czk",
+      "huf",
+      "ils",
+      "inr",
+      "krw",
+      "mxn",
       "norges",
+      "pln",
       "rba",
       "rbnz",
       "riksbank",
-      "snb"
+      "sgd",
+      "snb",
+      "thb",
+      "twd",
+      "zar"
     ],
     "surprise_lookback_days": 60,
     "recency_halflife_days": 7,
