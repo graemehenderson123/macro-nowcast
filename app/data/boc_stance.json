@@ -1,18 +1,12 @@
 {
   "cb": "boc",
-  "as_of": "2026-07-06T16:16:10.629481+00:00",
+  "as_of": "2026-07-07T04:41:52.107349+00:00",
   "commentary_score": 0.191,
   "surprise_score": 0.257,
   "label": "neutral",
   "n_items_14d": 5,
   "n_items_total": 61,
   "history_90d": [
-    {
-      "date": "2026-04-08",
-      "commentary_score": -1.598,
-      "surprise_score": -1.598,
-      "n_items": 2
-    },
     {
       "date": "2026-04-09",
       "commentary_score": -1.598,
@@ -136,8 +130,8 @@
     {
       "date": "2026-04-29",
       "commentary_score": 1.5,
-      "surprise_score": 1.188,
-      "n_items": 5
+      "surprise_score": 1.396,
+      "n_items": 1
     },
     {
       "date": "2026-04-30",
@@ -160,7 +154,7 @@
     {
       "date": "2026-05-03",
       "commentary_score": 1.5,
-      "surprise_score": 0.943,
+      "surprise_score": 1.198,
       "n_items": 4
     },
     {
@@ -219,9 +213,9 @@
     },
     {
       "date": "2026-05-13",
-      "commentary_score": 1.676,
-      "surprise_score": 0.653,
-      "n_items": 3
+      "commentary_score": 1.571,
+      "surprise_score": 0.717,
+      "n_items": 7
     },
     {
       "date": "2026-05-14",
@@ -244,7 +238,7 @@
     {
       "date": "2026-05-17",
       "commentary_score": 2.415,
-      "surprise_score": 1.202,
+      "surprise_score": 1.648,
       "n_items": 4
     },
     {
@@ -297,9 +291,9 @@
     },
     {
       "date": "2026-05-26",
-      "commentary_score": 0.102,
-      "surprise_score": -0.383,
-      "n_items": 2
+      "commentary_score": 3.0,
+      "surprise_score": 1.846,
+      "n_items": 1
     },
     {
       "date": "2026-05-27",
@@ -381,15 +375,15 @@
     },
     {
       "date": "2026-06-09",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 1
+      "commentary_score": -0.726,
+      "surprise_score": -0.726,
+      "n_items": 2
     },
     {
       "date": "2026-06-10",
-      "commentary_score": 0.049,
-      "surprise_score": -0.597,
-      "n_items": 5
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 1
     },
     {
       "date": "2026-06-11",
@@ -465,15 +459,15 @@
     },
     {
       "date": "2026-06-23",
-      "commentary_score": -0.3,
-      "surprise_score": -0.819,
-      "n_items": 6
+      "commentary_score": 0.052,
+      "surprise_score": -0.614,
+      "n_items": 4
     },
     {
       "date": "2026-06-24",
-      "commentary_score": -0.547,
-      "surprise_score": -1.071,
-      "n_items": 2
+      "commentary_score": -0.3,
+      "surprise_score": -0.819,
+      "n_items": 6
     },
     {
       "date": "2026-06-25",
@@ -496,7 +490,7 @@
     {
       "date": "2026-06-28",
       "commentary_score": 0.322,
-      "surprise_score": 0.142,
+      "surprise_score": -0.865,
       "n_items": 3
     },
     {
@@ -513,9 +507,9 @@
     },
     {
       "date": "2026-07-01",
-      "commentary_score": 0.191,
-      "surprise_score": -0.172,
-      "n_items": 5
+      "commentary_score": 0.322,
+      "surprise_score": 0.142,
+      "n_items": 3
     },
     {
       "date": "2026-07-02",
@@ -546,6 +540,12 @@
       "commentary_score": 0.191,
       "surprise_score": 0.257,
       "n_items": 5
+    },
+    {
+      "date": "2026-07-07",
+      "commentary_score": 0.191,
+      "surprise_score": 0.257,
+      "n_items": 5
     }
   ],
   "top_movers": [
@@ -556,8 +556,8 @@
       "stance": 1.0,
       "prior": -0.1,
       "surprise": 1.1,
-      "weight": 0.211,
-      "contribution": 0.232,
+      "weight": 0.2,
+      "contribution": 0.221,
       "phrase": "Inflation is clearly above target.",
       "headline": "BoC Governor Macklem says we are comfortable where we are in regards to interest rates"
     },
@@ -568,8 +568,8 @@
       "stance": 1.0,
       "prior": 0.0,
       "surprise": 1.0,
-      "weight": 0.193,
-      "contribution": 0.193,
+      "weight": 0.183,
+      "contribution": 0.183,
       "phrase": "Members agreed that monetary policy will need to remain nimble.",
       "headline": "BoC MInutes: Agreed that monetary policy will need to remain nimble"
     },
@@ -580,8 +580,8 @@
       "stance": -1.0,
       "prior": -0.1,
       "surprise": -0.9,
-      "weight": 0.181,
-      "contribution": -0.162,
+      "weight": 0.172,
+      "contribution": -0.154,
       "phrase": "A lot of potential to raise productivity growth with AI.",
       "headline": "BoC Governor Macklem says inflation expectations are well anchored, we are going to keep them well anchored"
     },
@@ -592,8 +592,8 @@
       "stance": -1.0,
       "prior": -0.1,
       "surprise": -0.9,
-      "weight": 0.082,
-      "contribution": -0.074,
+      "weight": 0.078,
+      "contribution": -0.07,
       "phrase": "not seeing so far much spreading of higher oil prices to other prices of other goods and services.",
       "headline": "BoC Governor Macklem says he worries that too much forward guidance become full precision and can be confusing"
     },
@@ -604,7 +604,7 @@
       "stance": 0.0,
       "prior": -0.1,
       "surprise": 0.0,
-      "weight": 0.068,
+      "weight": 0.065,
       "contribution": 0.0,
       "phrase": "BoC Governor Macklem says imbalances are growing as China's outward flow of capital continues and the US has been the largest destination of",
       "headline": "BoC Governor Macklem says imbalances are growing as China's outward flow of capital continues and the US has been the largest destination of capital"

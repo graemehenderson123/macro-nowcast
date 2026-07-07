@@ -1,18 +1,12 @@
 {
   "cb": "pln",
-  "as_of": "2026-07-06T19:15:43.603020+00:00",
+  "as_of": "2026-07-07T04:41:52.964206+00:00",
   "commentary_score": 0.0,
   "surprise_score": 0.0,
   "label": "neutral",
   "n_items_14d": 0,
   "n_items_total": 32,
   "history_90d": [
-    {
-      "date": "2026-04-08",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
     {
       "date": "2026-04-09",
       "commentary_score": 0.0,
@@ -41,7 +35,7 @@
       "date": "2026-04-13",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 1
+      "n_items": 0
     },
     {
       "date": "2026-04-14",
@@ -125,7 +119,7 @@
       "date": "2026-04-27",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-04-28",
@@ -185,7 +179,7 @@
       "date": "2026-05-07",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 1
+      "n_items": 0
     },
     {
       "date": "2026-05-08",
@@ -219,9 +213,9 @@
     },
     {
       "date": "2026-05-13",
-      "commentary_score": 0.563,
-      "surprise_score": 0.563,
-      "n_items": 2
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 1
     },
     {
       "date": "2026-05-14",
@@ -267,9 +261,9 @@
     },
     {
       "date": "2026-05-21",
-      "commentary_score": 1.0,
-      "surprise_score": 1.0,
-      "n_items": 1
+      "commentary_score": 0.563,
+      "surprise_score": 0.563,
+      "n_items": 2
     },
     {
       "date": "2026-05-22",
@@ -303,9 +297,9 @@
     },
     {
       "date": "2026-05-27",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": 1.0,
+      "surprise_score": 1.0,
+      "n_items": 1
     },
     {
       "date": "2026-05-28",
@@ -345,9 +339,9 @@
     },
     {
       "date": "2026-06-03",
-      "commentary_score": -0.546,
-      "surprise_score": 0.273,
-      "n_items": 2
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-06-04",
@@ -381,9 +375,9 @@
     },
     {
       "date": "2026-06-09",
-      "commentary_score": -0.712,
-      "surprise_score": -0.194,
-      "n_items": 3
+      "commentary_score": -0.546,
+      "surprise_score": 0.273,
+      "n_items": 2
     },
     {
       "date": "2026-06-10",
@@ -417,9 +411,9 @@
     },
     {
       "date": "2026-06-15",
-      "commentary_score": -1.061,
-      "surprise_score": -1.435,
-      "n_items": 4
+      "commentary_score": -0.712,
+      "surprise_score": -0.194,
+      "n_items": 3
     },
     {
       "date": "2026-06-16",
@@ -429,15 +423,15 @@
     },
     {
       "date": "2026-06-17",
-      "commentary_score": -1.342,
-      "surprise_score": -2.368,
-      "n_items": 2
+      "commentary_score": -1.061,
+      "surprise_score": -1.435,
+      "n_items": 4
     },
     {
       "date": "2026-06-18",
-      "commentary_score": -0.761,
-      "surprise_score": -1.342,
-      "n_items": 3
+      "commentary_score": -1.342,
+      "surprise_score": -2.368,
+      "n_items": 2
     },
     {
       "date": "2026-06-19",
@@ -465,9 +459,9 @@
     },
     {
       "date": "2026-06-23",
-      "commentary_score": -0.708,
-      "surprise_score": -1.417,
-      "n_items": 2
+      "commentary_score": -0.761,
+      "surprise_score": -1.342,
+      "n_items": 3
     },
     {
       "date": "2026-06-24",
@@ -501,9 +495,9 @@
     },
     {
       "date": "2026-06-29",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 1
+      "commentary_score": -0.708,
+      "surprise_score": -1.417,
+      "n_items": 2
     },
     {
       "date": "2026-06-30",
@@ -521,7 +515,7 @@
       "date": "2026-07-02",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-07-03",
@@ -543,6 +537,12 @@
     },
     {
       "date": "2026-07-06",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-07-07",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
       "n_items": 0

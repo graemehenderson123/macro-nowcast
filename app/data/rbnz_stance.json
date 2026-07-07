@@ -1,18 +1,12 @@
 {
   "cb": "rbnz",
-  "as_of": "2026-07-06T16:16:10.585764+00:00",
+  "as_of": "2026-07-07T04:41:52.029081+00:00",
   "commentary_score": 0.0,
   "surprise_score": 0.0,
   "label": "neutral",
   "n_items_14d": 1,
   "n_items_total": 20,
   "history_90d": [
-    {
-      "date": "2026-04-08",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
     {
       "date": "2026-04-09",
       "commentary_score": 0.0,
@@ -521,7 +515,7 @@
       "date": "2026-07-02",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 1
+      "n_items": 0
     },
     {
       "date": "2026-07-03",
@@ -546,6 +540,12 @@
       "commentary_score": 0.0,
       "surprise_score": 0.0,
       "n_items": 1
+    },
+    {
+      "date": "2026-07-07",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 1
     }
   ],
   "top_movers": [
@@ -556,7 +556,7 @@
       "stance": 0.0,
       "prior": 0.0,
       "surprise": 0.0,
-      "weight": 0.289,
+      "weight": 0.275,
       "contribution": 0.0,
       "phrase": "RBNZ says it is not seeking additional an additional Monetary Policy Committee member, prior to the New Zealand election",
       "headline": "RBNZ says it is not seeking additional an additional Monetary Policy Committee member, prior to the New Zealand election"
@@ -564,7 +564,7 @@
   ],
   "key_comments": [],
   "speaker_board": {
-    "effective_window_days": 242,
+    "effective_window_days": 243,
     "long_window_days": 365,
     "recent_window_days": 14,
     "speakers": [

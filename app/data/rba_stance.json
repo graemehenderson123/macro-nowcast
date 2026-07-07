@@ -1,18 +1,12 @@
 {
   "cb": "rba",
-  "as_of": "2026-07-06T16:16:10.540001+00:00",
+  "as_of": "2026-07-07T04:41:51.950431+00:00",
   "commentary_score": 3.039,
   "surprise_score": 0.458,
   "label": "neutral",
   "n_items_14d": 2,
   "n_items_total": 45,
   "history_90d": [
-    {
-      "date": "2026-04-08",
-      "commentary_score": 3.5,
-      "surprise_score": 0.63,
-      "n_items": 1
-    },
     {
       "date": "2026-04-09",
       "commentary_score": 3.5,
@@ -351,9 +345,9 @@
     },
     {
       "date": "2026-06-04",
-      "commentary_score": 1.393,
-      "surprise_score": 0.48,
-      "n_items": 4
+      "commentary_score": 2.0,
+      "surprise_score": 2.0,
+      "n_items": 1
     },
     {
       "date": "2026-06-05",
@@ -423,9 +417,9 @@
     },
     {
       "date": "2026-06-16",
-      "commentary_score": 2.554,
-      "surprise_score": 2.049,
-      "n_items": 5
+      "commentary_score": 2.887,
+      "surprise_score": 2.577,
+      "n_items": 4
     },
     {
       "date": "2026-06-17",
@@ -435,9 +429,9 @@
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 2.895,
-      "surprise_score": 2.51,
-      "n_items": 2
+      "commentary_score": 2.554,
+      "surprise_score": 2.049,
+      "n_items": 5
     },
     {
       "date": "2026-06-19",
@@ -507,9 +501,9 @@
     },
     {
       "date": "2026-06-30",
-      "commentary_score": 3.039,
-      "surprise_score": 0.458,
-      "n_items": 2
+      "commentary_score": 2.905,
+      "surprise_score": 0.438,
+      "n_items": 3
     },
     {
       "date": "2026-07-01",
@@ -546,6 +540,12 @@
       "commentary_score": 3.039,
       "surprise_score": 0.458,
       "n_items": 2
+    },
+    {
+      "date": "2026-07-07",
+      "commentary_score": 3.039,
+      "surprise_score": 0.458,
+      "n_items": 2
     }
   ],
   "top_movers": [
@@ -556,8 +556,8 @@
       "stance": 1.5,
       "prior": 0.0,
       "surprise": 1.5,
-      "weight": 0.112,
-      "contribution": 0.168,
+      "weight": 0.106,
+      "contribution": 0.16,
       "phrase": "may consider using tools earlier, front load support",
       "headline": "RBA Assistant Governor Kent (Financial Markets) says in 'Additional Monetary Policy Tools: Reflections and a New Framework' speech that board may have less tolerance for inflation below target, and RBA may consider using"
     },
@@ -568,8 +568,8 @@
       "stance": 3.5,
       "prior": 3.35,
       "surprise": 0.15,
-      "weight": 0.374,
-      "contribution": 0.055,
+      "weight": 0.355,
+      "contribution": 0.052,
       "phrase": "will do what is needed to achieve price stability including raising rates if necessary",
       "headline": "RBA Minutes from the June meeting stated that policy needed to remain restrictive and will do what is needed to achieve price stability including raising rates if necessary"
     }
@@ -629,7 +629,7 @@
     }
   ],
   "speaker_board": {
-    "effective_window_days": 244,
+    "effective_window_days": 245,
     "long_window_days": 365,
     "recent_window_days": 14,
     "speakers": [

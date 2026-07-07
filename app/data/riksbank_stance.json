@@ -1,18 +1,12 @@
 {
   "cb": "riksbank",
-  "as_of": "2026-07-06T16:16:10.721469+00:00",
+  "as_of": "2026-07-07T04:41:52.270699+00:00",
   "commentary_score": 1.0,
   "surprise_score": 1.0,
   "label": "lean hawkish",
   "n_items_14d": 1,
   "n_items_total": 33,
   "history_90d": [
-    {
-      "date": "2026-04-08",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 1
-    },
     {
       "date": "2026-04-09",
       "commentary_score": 0.0,
@@ -47,7 +41,7 @@
       "date": "2026-04-14",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-04-15",
@@ -57,15 +51,15 @@
     },
     {
       "date": "2026-04-16",
-      "commentary_score": -1.0,
-      "surprise_score": -2.5,
-      "n_items": 1
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-04-17",
-      "commentary_score": -0.264,
-      "surprise_score": -0.661,
-      "n_items": 2
+      "commentary_score": -1.0,
+      "surprise_score": -2.5,
+      "n_items": 1
     },
     {
       "date": "2026-04-18",
@@ -81,9 +75,9 @@
     },
     {
       "date": "2026-04-20",
-      "commentary_score": -0.76,
-      "surprise_score": -0.388,
-      "n_items": 3
+      "commentary_score": -0.264,
+      "surprise_score": -0.661,
+      "n_items": 2
     },
     {
       "date": "2026-04-21",
@@ -93,9 +87,9 @@
     },
     {
       "date": "2026-04-22",
-      "commentary_score": -0.178,
-      "surprise_score": 0.281,
-      "n_items": 4
+      "commentary_score": -0.76,
+      "surprise_score": -0.388,
+      "n_items": 3
     },
     {
       "date": "2026-04-23",
@@ -118,7 +112,7 @@
     {
       "date": "2026-04-26",
       "commentary_score": -0.178,
-      "surprise_score": 0.286,
+      "surprise_score": 0.281,
       "n_items": 4
     },
     {
@@ -141,20 +135,20 @@
     },
     {
       "date": "2026-04-30",
+      "commentary_score": -0.178,
+      "surprise_score": 0.286,
+      "n_items": 4
+    },
+    {
+      "date": "2026-05-01",
       "commentary_score": -0.081,
       "surprise_score": 0.616,
       "n_items": 3
     },
     {
-      "date": "2026-05-01",
-      "commentary_score": -0.12,
-      "surprise_score": 0.92,
-      "n_items": 2
-    },
-    {
       "date": "2026-05-02",
       "commentary_score": -0.12,
-      "surprise_score": -0.12,
+      "surprise_score": 0.92,
       "n_items": 2
     },
     {
@@ -165,9 +159,9 @@
     },
     {
       "date": "2026-05-04",
-      "commentary_score": 1.0,
-      "surprise_score": 1.0,
-      "n_items": 1
+      "commentary_score": -0.12,
+      "surprise_score": -0.12,
+      "n_items": 2
     },
     {
       "date": "2026-05-05",
@@ -177,15 +171,15 @@
     },
     {
       "date": "2026-05-06",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": 1.0,
+      "surprise_score": 1.0,
+      "n_items": 1
     },
     {
       "date": "2026-05-07",
-      "commentary_score": -0.662,
-      "surprise_score": -0.489,
-      "n_items": 3
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-05-08",
@@ -219,9 +213,9 @@
     },
     {
       "date": "2026-05-13",
-      "commentary_score": -0.126,
-      "surprise_score": 0.092,
-      "n_items": 4
+      "commentary_score": -0.662,
+      "surprise_score": -0.489,
+      "n_items": 3
     },
     {
       "date": "2026-05-14",
@@ -255,9 +249,9 @@
     },
     {
       "date": "2026-05-19",
-      "commentary_score": 0.199,
-      "surprise_score": 0.355,
-      "n_items": 5
+      "commentary_score": -0.126,
+      "surprise_score": 0.092,
+      "n_items": 4
     },
     {
       "date": "2026-05-20",
@@ -267,9 +261,9 @@
     },
     {
       "date": "2026-05-21",
-      "commentary_score": 1.0,
-      "surprise_score": 1.214,
-      "n_items": 2
+      "commentary_score": 0.199,
+      "surprise_score": 0.355,
+      "n_items": 5
     },
     {
       "date": "2026-05-22",
@@ -286,7 +280,7 @@
     {
       "date": "2026-05-24",
       "commentary_score": 1.0,
-      "surprise_score": 1.018,
+      "surprise_score": 1.214,
       "n_items": 2
     },
     {
@@ -304,8 +298,8 @@
     {
       "date": "2026-05-27",
       "commentary_score": 1.0,
-      "surprise_score": 1.0,
-      "n_items": 1
+      "surprise_score": 1.018,
+      "n_items": 2
     },
     {
       "date": "2026-05-28",
@@ -315,9 +309,9 @@
     },
     {
       "date": "2026-05-29",
-      "commentary_score": 0.167,
-      "surprise_score": 0.167,
-      "n_items": 2
+      "commentary_score": 1.0,
+      "surprise_score": 1.0,
+      "n_items": 1
     },
     {
       "date": "2026-05-30",
@@ -339,9 +333,9 @@
     },
     {
       "date": "2026-06-02",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 1
+      "commentary_score": 0.167,
+      "surprise_score": 0.167,
+      "n_items": 2
     },
     {
       "date": "2026-06-03",
@@ -351,9 +345,9 @@
     },
     {
       "date": "2026-06-04",
-      "commentary_score": -0.881,
-      "surprise_score": -0.663,
-      "n_items": 2
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 1
     },
     {
       "date": "2026-06-05",
@@ -399,9 +393,9 @@
     },
     {
       "date": "2026-06-12",
-      "commentary_score": -1.5,
-      "surprise_score": -1.129,
-      "n_items": 1
+      "commentary_score": -0.881,
+      "surprise_score": -0.663,
+      "n_items": 2
     },
     {
       "date": "2026-06-13",
@@ -429,15 +423,15 @@
     },
     {
       "date": "2026-06-17",
-      "commentary_score": 1.142,
-      "surprise_score": 1.186,
-      "n_items": 2
+      "commentary_score": -1.5,
+      "surprise_score": -1.129,
+      "n_items": 1
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 1.5,
-      "surprise_score": 1.5,
-      "n_items": 1
+      "commentary_score": 1.142,
+      "surprise_score": 1.186,
+      "n_items": 2
     },
     {
       "date": "2026-06-19",
@@ -471,9 +465,9 @@
     },
     {
       "date": "2026-06-24",
-      "commentary_score": 1.316,
-      "surprise_score": 1.316,
-      "n_items": 2
+      "commentary_score": 1.5,
+      "surprise_score": 1.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-25",
@@ -513,9 +507,9 @@
     },
     {
       "date": "2026-07-01",
-      "commentary_score": 1.0,
-      "surprise_score": 1.0,
-      "n_items": 1
+      "commentary_score": 1.316,
+      "surprise_score": 1.316,
+      "n_items": 2
     },
     {
       "date": "2026-07-02",
@@ -546,6 +540,12 @@
       "commentary_score": 1.0,
       "surprise_score": 1.0,
       "n_items": 1
+    },
+    {
+      "date": "2026-07-07",
+      "commentary_score": 1.0,
+      "surprise_score": 1.0,
+      "n_items": 1
     }
   ],
   "top_movers": [
@@ -556,8 +556,8 @@
       "stance": 1.0,
       "prior": 0.0,
       "surprise": 1.0,
-      "weight": 0.062,
-      "contribution": 0.062,
+      "weight": 0.059,
+      "contribution": 0.059,
       "phrase": "the risk outlook becomes more balanced",
       "headline": "Riksbank Minutes (Jun):"
     }

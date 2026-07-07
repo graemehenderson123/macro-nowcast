@@ -1,6 +1,6 @@
 {
   "cb": "boj",
-  "as_of": "2026-07-06T16:16:10.492108+00:00",
+  "as_of": "2026-07-07T04:41:51.866892+00:00",
   "commentary_score": 1.14,
   "surprise_score": -0.148,
   "label": "neutral",
@@ -8,22 +8,16 @@
   "n_items_total": 173,
   "history_90d": [
     {
-      "date": "2026-04-08",
-      "commentary_score": -0.162,
-      "surprise_score": 0.008,
-      "n_items": 5
-    },
-    {
       "date": "2026-04-09",
-      "commentary_score": -0.678,
-      "surprise_score": -0.543,
-      "n_items": 5
+      "commentary_score": -0.175,
+      "surprise_score": 0.009,
+      "n_items": 4
     },
     {
       "date": "2026-04-10",
-      "commentary_score": -0.809,
-      "surprise_score": -0.685,
-      "n_items": 5
+      "commentary_score": -0.732,
+      "surprise_score": -0.619,
+      "n_items": 6
     },
     {
       "date": "2026-04-11",
@@ -39,9 +33,9 @@
     },
     {
       "date": "2026-04-13",
-      "commentary_score": -0.699,
-      "surprise_score": -0.626,
-      "n_items": 5
+      "commentary_score": -1.366,
+      "surprise_score": -1.211,
+      "n_items": 4
     },
     {
       "date": "2026-04-14",
@@ -51,9 +45,9 @@
     },
     {
       "date": "2026-04-15",
-      "commentary_score": -0.636,
-      "surprise_score": -0.675,
-      "n_items": 4
+      "commentary_score": -0.699,
+      "surprise_score": -0.626,
+      "n_items": 5
     },
     {
       "date": "2026-04-16",
@@ -76,14 +70,14 @@
     {
       "date": "2026-04-19",
       "commentary_score": -0.762,
-      "surprise_score": -0.864,
+      "surprise_score": -0.746,
       "n_items": 5
     },
     {
       "date": "2026-04-20",
-      "commentary_score": -0.709,
-      "surprise_score": -0.834,
-      "n_items": 4
+      "commentary_score": -0.762,
+      "surprise_score": -0.864,
+      "n_items": 5
     },
     {
       "date": "2026-04-21",
@@ -99,9 +93,9 @@
     },
     {
       "date": "2026-04-23",
-      "commentary_score": -0.397,
-      "surprise_score": -0.517,
-      "n_items": 3
+      "commentary_score": -0.709,
+      "surprise_score": -0.834,
+      "n_items": 4
     },
     {
       "date": "2026-04-24",
@@ -112,7 +106,7 @@
     {
       "date": "2026-04-25",
       "commentary_score": -0.269,
-      "surprise_score": -0.59,
+      "surprise_score": -0.414,
       "n_items": 2
     },
     {
@@ -123,15 +117,15 @@
     },
     {
       "date": "2026-04-27",
-      "commentary_score": -1.0,
-      "surprise_score": -1.384,
-      "n_items": 1
+      "commentary_score": -0.269,
+      "surprise_score": -0.652,
+      "n_items": 2
     },
     {
       "date": "2026-04-28",
-      "commentary_score": -0.256,
-      "surprise_score": -0.15,
-      "n_items": 9
+      "commentary_score": 0.893,
+      "surprise_score": 0.847,
+      "n_items": 3
     },
     {
       "date": "2026-04-29",
@@ -141,9 +135,9 @@
     },
     {
       "date": "2026-04-30",
-      "commentary_score": -0.005,
-      "surprise_score": 0.08,
-      "n_items": 10
+      "commentary_score": -0.256,
+      "surprise_score": -0.15,
+      "n_items": 9
     },
     {
       "date": "2026-05-01",
@@ -160,7 +154,7 @@
     {
       "date": "2026-05-03",
       "commentary_score": 0.026,
-      "surprise_score": 0.236,
+      "surprise_score": 0.108,
       "n_items": 9
     },
     {
@@ -213,9 +207,9 @@
     },
     {
       "date": "2026-05-12",
-      "commentary_score": 1.082,
-      "surprise_score": 0.333,
-      "n_items": 4
+      "commentary_score": 0.879,
+      "surprise_score": 0.267,
+      "n_items": 9
     },
     {
       "date": "2026-05-13",
@@ -225,9 +219,9 @@
     },
     {
       "date": "2026-05-14",
-      "commentary_score": 1.628,
-      "surprise_score": 1.074,
-      "n_items": 4
+      "commentary_score": 1.567,
+      "surprise_score": 0.968,
+      "n_items": 5
     },
     {
       "date": "2026-05-15",
@@ -255,9 +249,9 @@
     },
     {
       "date": "2026-05-19",
-      "commentary_score": 1.591,
-      "surprise_score": 1.33,
-      "n_items": 5
+      "commentary_score": 1.628,
+      "surprise_score": 1.108,
+      "n_items": 4
     },
     {
       "date": "2026-05-20",
@@ -267,9 +261,9 @@
     },
     {
       "date": "2026-05-21",
-      "commentary_score": 1.859,
-      "surprise_score": 1.776,
-      "n_items": 6
+      "commentary_score": 2.011,
+      "surprise_score": 1.914,
+      "n_items": 5
     },
     {
       "date": "2026-05-22",
@@ -280,7 +274,7 @@
     {
       "date": "2026-05-23",
       "commentary_score": 1.859,
-      "surprise_score": 1.818,
+      "surprise_score": 1.776,
       "n_items": 6
     },
     {
@@ -297,9 +291,9 @@
     },
     {
       "date": "2026-05-26",
-      "commentary_score": 2.121,
-      "surprise_score": 2.245,
-      "n_items": 5
+      "commentary_score": 1.874,
+      "surprise_score": 2.034,
+      "n_items": 6
     },
     {
       "date": "2026-05-27",
@@ -339,26 +333,26 @@
     },
     {
       "date": "2026-06-02",
+      "commentary_score": 0.293,
+      "surprise_score": 0.197,
+      "n_items": 7
+    },
+    {
+      "date": "2026-06-03",
       "commentary_score": 0.209,
       "surprise_score": 0.089,
       "n_items": 6
     },
     {
-      "date": "2026-06-03",
-      "commentary_score": 0.543,
-      "surprise_score": 0.445,
-      "n_items": 7
-    },
-    {
       "date": "2026-06-04",
-      "commentary_score": 0.395,
-      "surprise_score": 0.288,
-      "n_items": 5
+      "commentary_score": 0.418,
+      "surprise_score": 0.314,
+      "n_items": 6
     },
     {
       "date": "2026-06-05",
       "commentary_score": 0.395,
-      "surprise_score": 0.18,
+      "surprise_score": 0.288,
       "n_items": 5
     },
     {
@@ -375,9 +369,9 @@
     },
     {
       "date": "2026-06-08",
-      "commentary_score": 0.239,
-      "surprise_score": 0.061,
-      "n_items": 6
+      "commentary_score": 0.395,
+      "surprise_score": 0.18,
+      "n_items": 5
     },
     {
       "date": "2026-06-09",
@@ -387,9 +381,9 @@
     },
     {
       "date": "2026-06-10",
-      "commentary_score": 0.556,
-      "surprise_score": 0.376,
-      "n_items": 6
+      "commentary_score": -0.034,
+      "surprise_score": -0.234,
+      "n_items": 4
     },
     {
       "date": "2026-06-11",
@@ -400,7 +394,7 @@
     {
       "date": "2026-06-12",
       "commentary_score": 0.41,
-      "surprise_score": 0.292,
+      "surprise_score": 0.273,
       "n_items": 7
     },
     {
@@ -423,27 +417,27 @@
     },
     {
       "date": "2026-06-16",
+      "commentary_score": 1.081,
+      "surprise_score": 1.294,
+      "n_items": 7
+    },
+    {
+      "date": "2026-06-17",
       "commentary_score": 1.049,
       "surprise_score": 1.776,
       "n_items": 9
     },
     {
-      "date": "2026-06-17",
-      "commentary_score": 1.03,
-      "surprise_score": 1.797,
-      "n_items": 8
-    },
-    {
       "date": "2026-06-18",
-      "commentary_score": 0.434,
-      "surprise_score": 0.933,
-      "n_items": 10
+      "commentary_score": 0.933,
+      "surprise_score": 1.628,
+      "n_items": 9
     },
     {
       "date": "2026-06-19",
-      "commentary_score": 0.431,
-      "surprise_score": 0.787,
-      "n_items": 13
+      "commentary_score": 0.466,
+      "surprise_score": 0.851,
+      "n_items": 12
     },
     {
       "date": "2026-06-20",
@@ -459,9 +453,9 @@
     },
     {
       "date": "2026-06-22",
-      "commentary_score": 0.135,
-      "surprise_score": 0.354,
-      "n_items": 15
+      "commentary_score": 0.13,
+      "surprise_score": 0.342,
+      "n_items": 16
     },
     {
       "date": "2026-06-23",
@@ -471,15 +465,15 @@
     },
     {
       "date": "2026-06-24",
-      "commentary_score": -0.072,
-      "surprise_score": 0.143,
-      "n_items": 14
+      "commentary_score": 0.135,
+      "surprise_score": 0.354,
+      "n_items": 15
     },
     {
       "date": "2026-06-25",
-      "commentary_score": 0.334,
-      "surprise_score": 0.254,
-      "n_items": 15
+      "commentary_score": 0.185,
+      "surprise_score": 0.232,
+      "n_items": 14
     },
     {
       "date": "2026-06-26",
@@ -490,7 +484,7 @@
     {
       "date": "2026-06-27",
       "commentary_score": 0.342,
-      "surprise_score": 0.189,
+      "surprise_score": 0.26,
       "n_items": 14
     },
     {
@@ -502,14 +496,14 @@
     {
       "date": "2026-06-29",
       "commentary_score": 0.342,
-      "surprise_score": 0.206,
+      "surprise_score": 0.189,
       "n_items": 14
     },
     {
       "date": "2026-06-30",
-      "commentary_score": 0.108,
-      "surprise_score": -0.376,
-      "n_items": 11
+      "commentary_score": 0.234,
+      "surprise_score": 0.031,
+      "n_items": 13
     },
     {
       "date": "2026-07-01",
@@ -519,15 +513,15 @@
     },
     {
       "date": "2026-07-02",
-      "commentary_score": 0.327,
-      "surprise_score": -0.234,
-      "n_items": 9
+      "commentary_score": 0.112,
+      "surprise_score": -0.392,
+      "n_items": 10
     },
     {
       "date": "2026-07-03",
-      "commentary_score": 0.293,
-      "surprise_score": -0.437,
-      "n_items": 6
+      "commentary_score": 0.268,
+      "surprise_score": -0.4,
+      "n_items": 7
     },
     {
       "date": "2026-07-04",
@@ -546,6 +540,12 @@
       "commentary_score": 1.14,
       "surprise_score": -0.148,
       "n_items": 3
+    },
+    {
+      "date": "2026-07-07",
+      "commentary_score": 1.14,
+      "surprise_score": -0.148,
+      "n_items": 3
     }
   ],
   "top_movers": [
@@ -556,8 +556,8 @@
       "stance": -1.0,
       "prior": 0.88,
       "surprise": -1.88,
-      "weight": 0.088,
-      "contribution": -0.166,
+      "weight": 0.083,
+      "contribution": -0.157,
       "phrase": "Financial environment remains accommodative after recent rate hike.",
       "headline": "BoJ's Ueda says Japan's economy is recovering moderately albeit with some weakness; Economic growth likely to slow but continue to moderate recovery"
     },
@@ -568,8 +568,8 @@
       "stance": 2.5,
       "prior": 1.5,
       "surprise": 1.0,
-      "weight": 0.089,
-      "contribution": 0.089,
+      "weight": 0.084,
+      "contribution": 0.084,
       "phrase": "BoJ should not hesitate to speed up rate hikes or raise rates by a larger amount.",
       "headline": "BoJ Board Member Tamura said it is important to push the BoJ\u2019s policy rate closer to neutral to avoid being forced to hike rates sharply later"
     },
@@ -580,8 +580,8 @@
       "stance": 2.0,
       "prior": 1.5,
       "surprise": 0.5,
-      "weight": 0.079,
-      "contribution": 0.039,
+      "weight": 0.075,
+      "contribution": 0.037,
       "phrase": "If risk of inflation overshoot materialises, we may need to accelerate the pace of rate hikes.",
       "headline": "BoJ's Tamura says Japan has already met BoJ's 2% inflation goal and must increase rates close to neutral to prevent inflation from exceeding the target"
     }
@@ -643,7 +643,7 @@
     }
   ],
   "speaker_board": {
-    "effective_window_days": 243,
+    "effective_window_days": 244,
     "long_window_days": 365,
     "recent_window_days": 14,
     "speakers": [

@@ -1,6 +1,6 @@
 {
   "cb": "norges",
-  "as_of": "2026-07-06T16:16:10.764548+00:00",
+  "as_of": "2026-07-07T04:41:52.349038+00:00",
   "commentary_score": 0.0,
   "surprise_score": 0.0,
   "label": "neutral",
@@ -8,16 +8,10 @@
   "n_items_total": 19,
   "history_90d": [
     {
-      "date": "2026-04-08",
+      "date": "2026-04-09",
       "commentary_score": 3.0,
       "surprise_score": 1.5,
       "n_items": 1
-    },
-    {
-      "date": "2026-04-09",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
     },
     {
       "date": "2026-04-10",
@@ -51,9 +45,9 @@
     },
     {
       "date": "2026-04-15",
-      "commentary_score": 1.0,
-      "surprise_score": -0.5,
-      "n_items": 1
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-04-16",
@@ -135,9 +129,9 @@
     },
     {
       "date": "2026-04-29",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": 1.0,
+      "surprise_score": -0.5,
+      "n_items": 1
     },
     {
       "date": "2026-04-30",
@@ -183,15 +177,15 @@
     },
     {
       "date": "2026-05-07",
-      "commentary_score": 1.882,
-      "surprise_score": 0.518,
-      "n_items": 2
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-05-08",
-      "commentary_score": 0.936,
-      "surprise_score": -0.23,
-      "n_items": 3
+      "commentary_score": 1.882,
+      "surprise_score": 0.518,
+      "n_items": 2
     },
     {
       "date": "2026-05-09",
@@ -267,15 +261,15 @@
     },
     {
       "date": "2026-05-21",
-      "commentary_score": -1.5,
-      "surprise_score": -3.385,
-      "n_items": 1
+      "commentary_score": 0.936,
+      "surprise_score": -0.23,
+      "n_items": 3
     },
     {
       "date": "2026-05-22",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -1.5,
+      "surprise_score": -3.385,
+      "n_items": 1
     },
     {
       "date": "2026-05-23",
@@ -435,9 +429,9 @@
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 3.5,
-      "surprise_score": 1.182,
-      "n_items": 1
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-06-19",
@@ -519,9 +513,9 @@
     },
     {
       "date": "2026-07-02",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": 3.5,
+      "surprise_score": 1.182,
+      "n_items": 1
     },
     {
       "date": "2026-07-03",
@@ -543,6 +537,12 @@
     },
     {
       "date": "2026-07-06",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-07-07",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
       "n_items": 0
