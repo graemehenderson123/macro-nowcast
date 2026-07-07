@@ -149,7 +149,11 @@ def _sparkline(history: list[dict], colour: str) -> go.Figure:
 def _render_live_card(cb: dict, snap: dict) -> None:
     surprise = float(snap.get("surprise_score", 0.0))
     commentary = float(snap.get("commentary_score", 0.0))
-    n14 = int(snap.get("n_items_14d", 0))
+    # Per-CB recent window (14d default; 30d for low-cadence CBs like RBA,
+    # BoJ, BoC, SNB, RBNZ, Riksbank, Norges). Fall back to 14 if the field is
+    # missing from an older snapshot.
+    window_days = int(snap.get("commentary_window_days", 14))
+    n_win = int(snap.get("n_items_window", snap.get("n_items_14d", 0)))
     history = snap.get("history_90d", [])
     movers = snap.get("top_movers", [])
 
@@ -160,14 +164,20 @@ def _render_live_card(cb: dict, snap: dict) -> None:
     arrow, arrow_col, arrow_pt = direction_arrow(delta_14d)
 
     # Confidence badge — how much data is actually behind the headline number.
-    # Below 5 items in 14d we mark it "low", 5-9 "medium", 10+ "high".
-    # Colouring is grey — informational, not directional.
-    if n14 < 5:
-        conf_label, conf_bg, conf_fg = f"low conviction · n={n14}", "#fee2e2", "#991b1b"
-    elif n14 < 10:
-        conf_label, conf_bg, conf_fg = f"medium conviction · n={n14}", "#fef3c7", "#92400e"
+    # Thresholds are relative to the CB's window (14d or 30d):
+    #   14d window: <5 low, 5-9 medium, 10+ high
+    #   30d window: <6 low, 6-14 medium, 15+ high (roughly 2x the 14d bar
+    #     because we've doubled the sampling window)
+    if window_days >= 30:
+        low_thr, med_thr = 6, 15
     else:
-        conf_label, conf_bg, conf_fg = f"high conviction · n={n14}", "#dcfce7", "#166534"
+        low_thr, med_thr = 5, 10
+    if n_win < low_thr:
+        conf_label, conf_bg, conf_fg = f"low conviction · n={n_win}", "#fee2e2", "#991b1b"
+    elif n_win < med_thr:
+        conf_label, conf_bg, conf_fg = f"medium conviction · n={n_win}", "#fef3c7", "#92400e"
+    else:
+        conf_label, conf_bg, conf_fg = f"high conviction · n={n_win}", "#dcfce7", "#166534"
 
     # Header row (name + arrow)
     st.markdown(
@@ -196,7 +206,9 @@ def _render_live_card(cb: dict, snap: dict) -> None:
             key=f"spark_{cb['code']}",
         )
 
-    # Direction of travel + absolute score
+    # Direction of travel + absolute score. Δ14d is always 14 days regardless
+    # of the commentary window — we always want a 2-week direction-of-travel
+    # arrow for consistency across the grid.
     if delta_14d is not None:
         delta_txt = f"Δ 14d: {delta_14d:+.2f}σ ({delta_phrase(delta_14d)})"
     else:
@@ -204,7 +216,7 @@ def _render_live_card(cb: dict, snap: dict) -> None:
     st.markdown(
         f"<div class='cb-delta'>{delta_txt}</div>"
         f"<div class='cb-absolute'>Commentary: {commentary:+.2f} "
-        f"({commentary_label(commentary)}) · {n14} items 14d</div>",
+        f"({commentary_label(commentary)}) · {n_win} items {window_days}d</div>",
         unsafe_allow_html=True,
     )
 
@@ -460,7 +472,11 @@ def render() -> None:
 
 - **Speaker weight:** Chair 1.0 → Vice/Deputy 0.7 → Voting member 0.6 → Non-voter 0.4.
 - **Event weight:** Prepared speech 1.0 → Off-the-cuff 0.75 → Minutes 0.5.
-- **Recency:** 7-day exponential half-life over the trailing 14 days.
+- **Recency:** 7-day exponential half-life over the trailing 14 days for
+  high-cadence CBs (Fed, ECB, BoE), or 30 days for low-cadence CBs
+  (BoJ, RBA, RBNZ, BoC, SNB, Riksbank, Norges) where a 14d window would be
+  dominated by n=1-2 items. The recent window used for each card is
+  printed after the commentary score as `· N items Xd`.
 
 **Big number.** The `surprise_score` (in σ) — current stance vs each speaker's
 own 60-day rolling mean. This is the *primary* trading signal: it flags "Fed
@@ -478,8 +494,10 @@ actually reprice.
 **Absolute score.** The `commentary_score` (unadjusted stance, ±5) — useful
 to know whether the CB is *hawkish at all* vs just hawkish *for them*.
 
-**Conviction badge.** Small tag under the headline number, showing `n` — the number of policy-relevant items scored in the last 14 days.
-`n < 5` low (red), `5-9` medium (amber), `10+` high (green). Treat sparse-CB headline numbers with more caution — the signal is directionally real but sample-size limited.
+**Conviction badge.** Small tag under the headline number, showing `n` — the number of policy-relevant items scored in the CB's recent window (14d or 30d, see Recency above).
+14d CBs: `n < 5` low (red), `5-9` medium (amber), `10+` high (green).
+30d CBs: `n < 6` low (red), `6-14` medium (amber), `15+` high (green).
+Treat sparse-CB headline numbers with more caution — the signal is directionally real but sample-size limited.
 
 **Banner.** When `|surprise| > 1.5σ` we flag repricing risk — historically
 where curves and FX pairs have moved most.
