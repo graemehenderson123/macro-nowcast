@@ -1,10 +1,12 @@
 {
   "cb": "inr",
-  "as_of": "2026-07-07T04:41:52.730513+00:00",
+  "as_of": "2026-07-07T13:02:49.132985+00:00",
   "commentary_score": 0.0,
   "surprise_score": 0.0,
   "label": "neutral",
   "n_items_14d": 0,
+  "n_items_window": 0,
+  "commentary_window_days": 14,
   "n_items_total": 19,
   "history_90d": [
     {
@@ -351,9 +353,9 @@
     },
     {
       "date": "2026-06-05",
-      "commentary_score": -1.0,
-      "surprise_score": 0.5,
-      "n_items": 1
+      "commentary_score": -0.581,
+      "surprise_score": 0.29,
+      "n_items": 2
     },
     {
       "date": "2026-06-06",
@@ -437,7 +439,7 @@
       "date": "2026-06-19",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 1
+      "n_items": 0
     },
     {
       "date": "2026-06-20",
@@ -551,7 +553,7 @@
   "top_movers": [],
   "key_comments": [],
   "speaker_board": {
-    "effective_window_days": 244,
+    "effective_window_days": 245,
     "long_window_days": 365,
     "recent_window_days": 14,
     "speakers": [
@@ -685,6 +687,17 @@
   },
   "methodology": {
     "commentary_window_days": 14,
+    "commentary_window_days_default": 14,
+    "commentary_window_days_low_cadence": 30,
+    "low_cadence_cbs": [
+      "boc",
+      "boj",
+      "norges",
+      "rba",
+      "rbnz",
+      "riksbank",
+      "snb"
+    ],
     "surprise_lookback_days": 60,
     "recency_halflife_days": 7,
     "event_weights": {

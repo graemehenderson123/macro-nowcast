@@ -1,6 +1,6 @@
 {
   "cb": "norges",
-  "as_of": "2026-07-07T10:44:43.505001+00:00",
+  "as_of": "2026-07-07T13:02:48.736088+00:00",
   "commentary_score": 3.5,
   "surprise_score": 2.0,
   "label": "hawkish",
@@ -559,7 +559,7 @@
       "prior": 1.5,
       "surprise": 2.0,
       "weight": 0.06,
-      "contribution": 0.121,
+      "contribution": 0.119,
       "phrase": "Inflation is too high, and the rapid rise in business costs... will contribute to keeping inflation elevated",
       "headline": "Norges Bank leaves rates unchanged at 4.25%, as expected; it will likely be necessary to raise the policy rate further at one of the forthcoming monetary policy meetings"
     }

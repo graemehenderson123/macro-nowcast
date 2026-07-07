@@ -1,6 +1,6 @@
 {
   "cb": "boj",
-  "as_of": "2026-07-07T10:44:42.666844+00:00",
+  "as_of": "2026-07-07T13:02:48.241511+00:00",
   "commentary_score": 0.369,
   "surprise_score": 0.215,
   "label": "neutral",
@@ -559,7 +559,7 @@
       "prior": 0.31,
       "surprise": -2.31,
       "weight": 0.069,
-      "contribution": -0.16,
+      "contribution": -0.159,
       "phrase": "Accommodative conditions are expected to continue.",
       "headline": "BoJ Deputy Governor Himino says takes some time for policy to have an impact on the economy"
     },
@@ -571,7 +571,7 @@
       "prior": 0.88,
       "surprise": -1.88,
       "weight": 0.081,
-      "contribution": -0.153,
+      "contribution": -0.152,
       "phrase": "Financial environment remains accommodative after recent rate hike.",
       "headline": "BoJ's Ueda says Japan's economy is recovering moderately albeit with some weakness; Economic growth likely to slow but continue to moderate recovery"
     },
@@ -583,7 +583,7 @@
       "prior": -1.5,
       "surprise": 4.5,
       "weight": 0.034,
-      "contribution": 0.153,
+      "contribution": 0.151,
       "phrase": "Will continue to raise the policy rate in response to developments in economic activity, prices and financial conditions.",
       "headline": "BoJ hikes short-term interest rates by 25bps to 1.00%, as expected, while it pauses tapering of bond buys in which it will keep monthly pace of JGB buying at around JPY 2tln from April 2027"
     },
@@ -595,7 +595,7 @@
       "prior": -1.5,
       "surprise": 2.5,
       "weight": 0.059,
-      "contribution": 0.148,
+      "contribution": 0.146,
       "phrase": "Today's decision took into account the risk of having to raise rates by a large margin if policy adjustment is delayed.",
       "headline": "BoJ Deputy Governor Uchida (post-policy press conference) says the primary difference between April and June is the reduced risk on the economy"
     },
@@ -606,8 +606,8 @@
       "stance": 1.0,
       "prior": -1.5,
       "surprise": 2.5,
-      "weight": 0.059,
-      "contribution": 0.147,
+      "weight": 0.058,
+      "contribution": 0.146,
       "phrase": "Will continue to raise the policy rate in response to developments in economic activity, prices and financial conditions.",
       "headline": "BoJ Deputy Governor Uchida (post-policy press conference) says Japan's economy has moderately recovered, although some weakness have been seen in part"
     }

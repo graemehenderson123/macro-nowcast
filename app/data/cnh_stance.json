@@ -1,11 +1,13 @@
 {
   "cb": "cnh",
-  "as_of": "2026-07-07T04:41:52.425472+00:00",
-  "commentary_score": 0.0,
+  "as_of": "2026-07-07T13:02:48.814504+00:00",
+  "commentary_score": -1.5,
   "surprise_score": 0.0,
   "label": "neutral",
-  "n_items_14d": 0,
-  "n_items_total": 5,
+  "n_items_14d": 1,
+  "n_items_window": 1,
+  "commentary_window_days": 14,
+  "n_items_total": 6,
   "history_90d": [
     {
       "date": "2026-04-09",
@@ -543,13 +545,44 @@
     },
     {
       "date": "2026-07-07",
-      "commentary_score": 0.0,
+      "commentary_score": -1.5,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     }
   ],
-  "top_movers": [],
-  "key_comments": [],
+  "top_movers": [
+    {
+      "published_at": "2026-07-07T01:14:00+00:00",
+      "speaker": "Pan Gongsheng",
+      "event_type": "other",
+      "stance": -1.5,
+      "prior": -1.5,
+      "surprise": 0.0,
+      "weight": 0.381,
+      "contribution": 0.0,
+      "phrase": "monetary policy maintains a supportive stance",
+      "headline": "PBoC Governor Pan says monetary policy maintains a supportive stance, will be increasing the southbound bond connect quota to CNY 800bln from CNY 500bln"
+    }
+  ],
+  "key_comments": [
+    {
+      "published_at": "2026-07-07T01:14:00+00:00",
+      "speaker": "Pan Gongsheng",
+      "role": "chair",
+      "lean_prior": "dove",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": -1.5,
+      "prior": -1.5,
+      "surprise": 0.0,
+      "phrase": "monetary policy maintains a supportive stance",
+      "headline": "PBoC Governor Pan says monetary policy maintains a supportive stance, will be increasing the southbound bond connect quota to CNY 800bln from CNY 500bln",
+      "importance": 3.0,
+      "reasons": [
+        "Chair spoke"
+      ]
+    }
+  ],
   "speaker_board": {
     "effective_window_days": 215,
     "long_window_days": 365,
@@ -561,17 +594,17 @@
         "voting_2026": true,
         "lean_prior": "dove",
         "weight_speaker": 1.0,
-        "n_long": 1,
-        "mean_long": -2.0,
-        "mean_long_conf_weighted": -2.0,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": -2.0,
-        "last_headline": "PBoC Governor Pan says China has room this year to cut RRR and interest rates, pledging flexible use of tools",
-        "last_phrase": "China has room this year to cut RRR and interest rates",
-        "last_published_at": "2026-01-22T09:35:00+00:00"
+        "n_long": 2,
+        "mean_long": -1.75,
+        "mean_long_conf_weighted": -1.733,
+        "n_recent": 1,
+        "mean_recent": -1.5,
+        "mean_recent_conf_weighted": -1.5,
+        "delta": 0.233,
+        "last_stance": -1.5,
+        "last_headline": "PBoC Governor Pan says monetary policy maintains a supportive stance, will be increasing the southbound bond connect quota to CNY 800bln from CNY 500bln",
+        "last_phrase": "monetary policy maintains a supportive stance",
+        "last_published_at": "2026-07-07T01:14:00+00:00"
       },
       {
         "name": "Xuan Changneng",
@@ -649,6 +682,17 @@
   },
   "methodology": {
     "commentary_window_days": 14,
+    "commentary_window_days_default": 14,
+    "commentary_window_days_low_cadence": 30,
+    "low_cadence_cbs": [
+      "boc",
+      "boj",
+      "norges",
+      "rba",
+      "rbnz",
+      "riksbank",
+      "snb"
+    ],
     "surprise_lookback_days": 60,
     "recency_halflife_days": 7,
     "event_weights": {

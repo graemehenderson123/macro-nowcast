@@ -1,17 +1,19 @@
 {
   "cb": "czk",
-  "as_of": "2026-07-07T04:41:53.049014+00:00",
+  "as_of": "2026-07-07T13:02:49.450486+00:00",
   "commentary_score": 0.0,
   "surprise_score": 0.0,
   "label": "neutral",
   "n_items_14d": 0,
+  "n_items_window": 0,
+  "commentary_window_days": 14,
   "n_items_total": 38,
   "history_90d": [
     {
       "date": "2026-04-09",
-      "commentary_score": 2.0,
-      "surprise_score": 3.5,
-      "n_items": 1
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-04-10",
@@ -59,7 +61,7 @@
       "date": "2026-04-17",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-04-18",
@@ -81,9 +83,9 @@
     },
     {
       "date": "2026-04-21",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 1
+      "commentary_score": -0.672,
+      "surprise_score": -1.681,
+      "n_items": 2
     },
     {
       "date": "2026-04-22",
@@ -123,9 +125,9 @@
     },
     {
       "date": "2026-04-28",
-      "commentary_score": -0.672,
-      "surprise_score": -1.681,
-      "n_items": 2
+      "commentary_score": -0.317,
+      "surprise_score": -0.793,
+      "n_items": 3
     },
     {
       "date": "2026-04-29",
@@ -141,9 +143,9 @@
     },
     {
       "date": "2026-05-01",
-      "commentary_score": -0.215,
-      "surprise_score": -0.537,
-      "n_items": 4
+      "commentary_score": -0.24,
+      "surprise_score": -0.6,
+      "n_items": 3
     },
     {
       "date": "2026-05-02",
@@ -159,15 +161,15 @@
     },
     {
       "date": "2026-05-04",
-      "commentary_score": -0.24,
-      "surprise_score": -0.6,
-      "n_items": 3
-    },
-    {
-      "date": "2026-05-05",
       "commentary_score": 0.41,
       "surprise_score": 1.026,
       "n_items": 4
+    },
+    {
+      "date": "2026-05-05",
+      "commentary_score": 0.592,
+      "surprise_score": 1.48,
+      "n_items": 3
     },
     {
       "date": "2026-05-06",
@@ -177,9 +179,9 @@
     },
     {
       "date": "2026-05-07",
-      "commentary_score": 0.592,
-      "surprise_score": 1.48,
-      "n_items": 3
+      "commentary_score": 0.873,
+      "surprise_score": 1.048,
+      "n_items": 5
     },
     {
       "date": "2026-05-08",
@@ -201,21 +203,21 @@
     },
     {
       "date": "2026-05-11",
-      "commentary_score": 0.873,
-      "surprise_score": 1.048,
-      "n_items": 5
-    },
-    {
-      "date": "2026-05-12",
       "commentary_score": 0.582,
       "surprise_score": 0.698,
       "n_items": 7
     },
     {
+      "date": "2026-05-12",
+      "commentary_score": 0.599,
+      "surprise_score": 0.719,
+      "n_items": 6
+    },
+    {
       "date": "2026-05-13",
-      "commentary_score": 0.615,
-      "surprise_score": 0.738,
-      "n_items": 5
+      "commentary_score": 0.876,
+      "surprise_score": 0.963,
+      "n_items": 6
     },
     {
       "date": "2026-05-14",
@@ -225,9 +227,9 @@
     },
     {
       "date": "2026-05-15",
-      "commentary_score": 0.876,
-      "surprise_score": 0.963,
-      "n_items": 6
+      "commentary_score": 1.266,
+      "surprise_score": 0.783,
+      "n_items": 7
     },
     {
       "date": "2026-05-16",
@@ -243,9 +245,9 @@
     },
     {
       "date": "2026-05-18",
-      "commentary_score": 1.266,
-      "surprise_score": 0.783,
-      "n_items": 7
+      "commentary_score": 1.279,
+      "surprise_score": 0.876,
+      "n_items": 6
     },
     {
       "date": "2026-05-19",
@@ -261,9 +263,9 @@
     },
     {
       "date": "2026-05-21",
-      "commentary_score": 1.279,
-      "surprise_score": 0.876,
-      "n_items": 6
+      "commentary_score": 1.454,
+      "surprise_score": 0.841,
+      "n_items": 4
     },
     {
       "date": "2026-05-22",
@@ -285,9 +287,9 @@
     },
     {
       "date": "2026-05-25",
-      "commentary_score": 1.454,
-      "surprise_score": 0.841,
-      "n_items": 4
+      "commentary_score": 2.148,
+      "surprise_score": 2.797,
+      "n_items": 2
     },
     {
       "date": "2026-05-26",
@@ -297,9 +299,9 @@
     },
     {
       "date": "2026-05-27",
-      "commentary_score": 2.148,
-      "surprise_score": 2.797,
-      "n_items": 2
+      "commentary_score": 3.0,
+      "surprise_score": 4.5,
+      "n_items": 1
     },
     {
       "date": "2026-05-28",
@@ -309,9 +311,9 @@
     },
     {
       "date": "2026-05-29",
-      "commentary_score": 3.0,
-      "surprise_score": 4.5,
-      "n_items": 1
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-05-30",
@@ -381,9 +383,9 @@
     },
     {
       "date": "2026-06-10",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": 1.0,
+      "surprise_score": -0.548,
+      "n_items": 1
     },
     {
       "date": "2026-06-11",
@@ -429,9 +431,9 @@
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 1.0,
-      "surprise_score": -0.548,
-      "n_items": 1
+      "commentary_score": 1.612,
+      "surprise_score": 0.162,
+      "n_items": 4
     },
     {
       "date": "2026-06-19",
@@ -465,9 +467,9 @@
     },
     {
       "date": "2026-06-24",
-      "commentary_score": 1.598,
-      "surprise_score": 0.086,
-      "n_items": 5
+      "commentary_score": 1.665,
+      "surprise_score": 0.189,
+      "n_items": 4
     },
     {
       "date": "2026-06-25",
@@ -513,9 +515,9 @@
     },
     {
       "date": "2026-07-02",
-      "commentary_score": 1.665,
-      "surprise_score": 0.189,
-      "n_items": 4
+      "commentary_score": 1.5,
+      "surprise_score": -0.45,
+      "n_items": 1
     },
     {
       "date": "2026-07-03",
@@ -722,6 +724,17 @@
   },
   "methodology": {
     "commentary_window_days": 14,
+    "commentary_window_days_default": 14,
+    "commentary_window_days_low_cadence": 30,
+    "low_cadence_cbs": [
+      "boc",
+      "boj",
+      "norges",
+      "rba",
+      "rbnz",
+      "riksbank",
+      "snb"
+    ],
     "surprise_lookback_days": 60,
     "recency_halflife_days": 7,
     "event_weights": {

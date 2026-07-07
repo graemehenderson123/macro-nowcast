@@ -1,6 +1,6 @@
 {
   "cb": "snb",
-  "as_of": "2026-07-07T10:44:43.232959+00:00",
+  "as_of": "2026-07-07T13:02:48.574705+00:00",
   "commentary_score": -0.912,
   "surprise_score": 0.0,
   "label": "neutral",
@@ -101,9 +101,9 @@
     },
     {
       "date": "2026-04-24",
-      "commentary_score": -1.308,
-      "surprise_score": -0.296,
-      "n_items": 5
+      "commentary_score": -1.113,
+      "surprise_score": -0.252,
+      "n_items": 6
     },
     {
       "date": "2026-04-25",
@@ -281,9 +281,9 @@
     },
     {
       "date": "2026-05-24",
-      "commentary_score": -1.468,
-      "surprise_score": -1.359,
-      "n_items": 3
+      "commentary_score": -1.5,
+      "surprise_score": -1.389,
+      "n_items": 2
     },
     {
       "date": "2026-05-25",
@@ -305,9 +305,9 @@
     },
     {
       "date": "2026-05-28",
-      "commentary_score": -0.957,
-      "surprise_score": -0.886,
-      "n_items": 3
+      "commentary_score": -0.682,
+      "surprise_score": -0.632,
+      "n_items": 4
     },
     {
       "date": "2026-05-29",
@@ -335,9 +335,9 @@
     },
     {
       "date": "2026-06-02",
-      "commentary_score": -0.682,
-      "surprise_score": -0.632,
-      "n_items": 4
+      "commentary_score": -1.153,
+      "surprise_score": 0.0,
+      "n_items": 5
     },
     {
       "date": "2026-06-03",
@@ -485,9 +485,9 @@
     },
     {
       "date": "2026-06-27",
-      "commentary_score": -0.957,
+      "commentary_score": -0.969,
       "surprise_score": 0.0,
-      "n_items": 9
+      "n_items": 8
     },
     {
       "date": "2026-06-28",
@@ -515,9 +515,9 @@
     },
     {
       "date": "2026-07-02",
-      "commentary_score": -0.969,
+      "commentary_score": -0.935,
       "surprise_score": 0.0,
-      "n_items": 8
+      "n_items": 7
     },
     {
       "date": "2026-07-03",
@@ -558,7 +558,7 @@
       "stance": -1.5,
       "prior": -1.5,
       "surprise": 0.0,
-      "weight": 0.108,
+      "weight": 0.107,
       "contribution": 0.0,
       "phrase": "readiness to intervene in FX is higher",
       "headline": "Swiss SNB Policy Announcement (Jun) 0.00% vs. Exp. 0.00% (Prev. 0.00%); readiness to intervene in FX is higher. Monetary policy is appropriate to keep inflation within the range consistent with price stability."

@@ -1,10 +1,12 @@
 {
   "cb": "ils",
-  "as_of": "2026-07-07T04:41:53.129175+00:00",
+  "as_of": "2026-07-07T13:02:49.529146+00:00",
   "commentary_score": 0.0,
   "surprise_score": 0.0,
   "label": "neutral",
   "n_items_14d": 0,
+  "n_items_window": 0,
+  "commentary_window_days": 14,
   "n_items_total": 4,
   "history_90d": [
     {
@@ -333,9 +335,9 @@
     },
     {
       "date": "2026-06-02",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -2.0,
+      "surprise_score": -3.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-03",
@@ -417,9 +419,9 @@
     },
     {
       "date": "2026-06-16",
-      "commentary_score": -2.0,
-      "surprise_score": -3.5,
-      "n_items": 1
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-06-17",
@@ -667,6 +669,17 @@
   },
   "methodology": {
     "commentary_window_days": 14,
+    "commentary_window_days_default": 14,
+    "commentary_window_days_low_cadence": 30,
+    "low_cadence_cbs": [
+      "boc",
+      "boj",
+      "norges",
+      "rba",
+      "rbnz",
+      "riksbank",
+      "snb"
+    ],
     "surprise_lookback_days": 60,
     "recency_halflife_days": 7,
     "event_weights": {

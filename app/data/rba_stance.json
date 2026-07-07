@@ -1,6 +1,6 @@
 {
   "cb": "rba",
-  "as_of": "2026-07-07T10:44:42.809307+00:00",
+  "as_of": "2026-07-07T13:02:48.327545+00:00",
   "commentary_score": 3.005,
   "surprise_score": 0.389,
   "label": "neutral",
@@ -558,8 +558,8 @@
       "stance": 1.5,
       "prior": 0.0,
       "surprise": 1.5,
-      "weight": 0.104,
-      "contribution": 0.156,
+      "weight": 0.103,
+      "contribution": 0.154,
       "phrase": "may consider using tools earlier, front load support",
       "headline": "RBA Assistant Governor Kent (Financial Markets) says in 'Additional Monetary Policy Tools: Reflections and a New Framework' speech that board may have less tolerance for inflation below target, and RBA may consider using"
     },
@@ -570,8 +570,8 @@
       "stance": 3.5,
       "prior": 3.35,
       "surprise": 0.15,
-      "weight": 0.347,
-      "contribution": 0.051,
+      "weight": 0.343,
+      "contribution": 0.05,
       "phrase": "will do what is needed to achieve price stability including raising rates if necessary",
       "headline": "RBA Minutes from the June meeting stated that policy needed to remain restrictive and will do what is needed to achieve price stability including raising rates if necessary"
     },
@@ -582,7 +582,7 @@
       "stance": 3.5,
       "prior": 3.35,
       "surprise": 0.15,
-      "weight": 0.099,
+      "weight": 0.098,
       "contribution": 0.014,
       "phrase": "potential further hikes if necessary citing persistent inflation",
       "headline": "RBA keeps the Cash Rate unchanged at 4.35%, as expected, but warned of potential further hikes if necessary citing persistent inflation and oil supply disruptions"
@@ -594,7 +594,7 @@
       "stance": 1.5,
       "prior": 1.27,
       "surprise": 0.23,
-      "weight": 0.043,
+      "weight": 0.042,
       "contribution": 0.01,
       "phrase": "cannot rule out that we might have to do more on rates",
       "headline": "RBA Governor Bullock says inflation remains too high; It's too early to say if cooling housing market will help on policy"
