@@ -1,8 +1,8 @@
 {
   "cb": "fed",
-  "as_of": "2026-07-07T04:41:51.593478+00:00",
-  "commentary_score": 0.227,
-  "surprise_score": -0.188,
+  "as_of": "2026-07-07T09:40:35.938765+00:00",
+  "commentary_score": 0.331,
+  "surprise_score": -0.278,
   "label": "neutral",
   "n_items_14d": 28,
   "n_items_total": 879,
@@ -75,8 +75,8 @@
     },
     {
       "date": "2026-04-20",
-      "commentary_score": -0.955,
-      "surprise_score": 0.095,
+      "commentary_score": -1.265,
+      "surprise_score": -0.005,
       "n_items": 26
     },
     {
@@ -159,9 +159,9 @@
     },
     {
       "date": "2026-05-04",
-      "commentary_score": 0.706,
-      "surprise_score": 0.747,
-      "n_items": 33
+      "commentary_score": 0.795,
+      "surprise_score": 0.827,
+      "n_items": 32
     },
     {
       "date": "2026-05-05",
@@ -297,9 +297,9 @@
     },
     {
       "date": "2026-05-27",
-      "commentary_score": 1.761,
-      "surprise_score": 0.842,
-      "n_items": 17
+      "commentary_score": 1.735,
+      "surprise_score": 0.689,
+      "n_items": 18
     },
     {
       "date": "2026-05-28",
@@ -309,9 +309,9 @@
     },
     {
       "date": "2026-05-29",
-      "commentary_score": 2.173,
-      "surprise_score": 1.467,
-      "n_items": 18
+      "commentary_score": 2.108,
+      "surprise_score": 1.348,
+      "n_items": 19
     },
     {
       "date": "2026-05-30",
@@ -381,9 +381,9 @@
     },
     {
       "date": "2026-06-10",
-      "commentary_score": 0.764,
-      "surprise_score": 0.255,
-      "n_items": 28
+      "commentary_score": 0.744,
+      "surprise_score": 0.285,
+      "n_items": 27
     },
     {
       "date": "2026-06-11",
@@ -393,9 +393,9 @@
     },
     {
       "date": "2026-06-12",
-      "commentary_score": 0.556,
-      "surprise_score": 0.011,
-      "n_items": 20
+      "commentary_score": 0.544,
+      "surprise_score": 0.049,
+      "n_items": 19
     },
     {
       "date": "2026-06-13",
@@ -436,7 +436,7 @@
     {
       "date": "2026-06-19",
       "commentary_score": 1.923,
-      "surprise_score": 0.927,
+      "surprise_score": 0.84,
       "n_items": 22
     },
     {
@@ -477,9 +477,9 @@
     },
     {
       "date": "2026-06-26",
-      "commentary_score": 1.385,
-      "surprise_score": 0.285,
-      "n_items": 29
+      "commentary_score": 1.305,
+      "surprise_score": 0.268,
+      "n_items": 30
     },
     {
       "date": "2026-06-27",
@@ -495,9 +495,9 @@
     },
     {
       "date": "2026-06-29",
-      "commentary_score": 1.287,
-      "surprise_score": 0.265,
-      "n_items": 32
+      "commentary_score": 1.228,
+      "surprise_score": 0.253,
+      "n_items": 33
     },
     {
       "date": "2026-06-30",
@@ -543,8 +543,8 @@
     },
     {
       "date": "2026-07-07",
-      "commentary_score": 0.227,
-      "surprise_score": -0.188,
+      "commentary_score": 0.331,
+      "surprise_score": -0.278,
       "n_items": 28
     }
   ],
@@ -556,10 +556,22 @@
       "stance": -1.0,
       "prior": 1.8,
       "surprise": -2.8,
-      "weight": 0.116,
-      "contribution": -0.325,
+      "weight": 0.114,
+      "contribution": -0.319,
       "phrase": "Philly Fed Nonmanufacturing Business Outlook Survey (June 2026): General Business Activity (Region): -25.8 (exp. -16.0, prev. -23.6)",
       "headline": "Philly Fed Nonmanufacturing Business Outlook Survey (June 2026): General Business Activity (Region): -25.8 (exp. -16.0, prev. -23.6)"
+    },
+    {
+      "published_at": "2026-07-06T15:44:00+00:00",
+      "speaker": "Christopher Waller",
+      "event_type": "other",
+      "stance": 1.5,
+      "prior": 2.8,
+      "surprise": -1.3,
+      "weight": 0.228,
+      "contribution": -0.296,
+      "phrase": "inflation has been taking off, which changes how you think about policy",
+      "headline": "Fed's Waller (voter) says Fed policymakers have always been committed to 2% inflation and it is a credible pledge"
     },
     {
       "published_at": "2026-06-24T00:07:00+00:00",
@@ -568,8 +580,8 @@
       "stance": -1.5,
       "prior": 1.47,
       "surprise": -2.97,
-      "weight": 0.081,
-      "contribution": -0.241,
+      "weight": 0.08,
+      "contribution": -0.236,
       "phrase": "the US housing issue will take lower rates and more supply",
       "headline": "US Treasury Secretary Bessent says inflation will return to the target and he is confident Fed Chair Warsh will optimise path for the economy"
     },
@@ -580,8 +592,8 @@
       "stance": 0.5,
       "prior": 1.47,
       "surprise": -0.97,
-      "weight": 0.147,
-      "contribution": -0.142,
+      "weight": 0.144,
+      "contribution": -0.139,
       "phrase": "TREASURY WRAP: T-NOTE FUTURES (M5) SETTLE 10 TICKS LOWER AT 109-18+",
       "headline": "TREASURY WRAP: T-NOTE FUTURES (M5) SETTLE 10 TICKS LOWER AT 109-18+"
     },
@@ -592,22 +604,10 @@
       "stance": 1.5,
       "prior": 0.0,
       "surprise": 1.5,
-      "weight": 0.079,
-      "contribution": 0.119,
+      "weight": 0.078,
+      "contribution": 0.117,
       "phrase": "Imperative\u2019 Fed get inflation back to 2% target",
       "headline": "Fed's Williams pushes back hitting 2% inflation target from 2027 to 2028"
-    },
-    {
-      "published_at": "2026-06-25T23:07:00+00:00",
-      "speaker": "Austan Goolsbee",
-      "event_type": "other",
-      "stance": -1.5,
-      "prior": 0.46,
-      "surprise": -1.96,
-      "weight": 0.039,
-      "contribution": -0.077,
-      "phrase": "labor market has remained stable for over a year",
-      "headline": "Fed's Goolsbee (2027 voter) says US labor market has remained stable for over a year, with hiring and layoffs muted due to elevated uncertainty"
     }
   ],
   "key_comments": [
@@ -965,17 +965,17 @@
         "voting_2026": true,
         "lean_prior": "hawk",
         "weight_speaker": 0.7,
-        "n_long": 15,
-        "mean_long": -1.0,
-        "mean_long_conf_weighted": -0.962,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": 3.5,
-        "last_headline": "TREASURY WRAP: T-NOTE FUTURES (M6) SETTLE HALF A TICK HIGHER AT 109-08",
-        "last_phrase": "Labour market is in balance and no longer the chief concern in determining path of policy",
-        "last_published_at": "2026-05-22T19:35:00+00:00"
+        "n_long": 16,
+        "mean_long": -0.844,
+        "mean_long_conf_weighted": -0.81,
+        "n_recent": 1,
+        "mean_recent": 1.5,
+        "mean_recent_conf_weighted": 1.5,
+        "delta": 2.31,
+        "last_stance": 1.5,
+        "last_headline": "Fed's Waller (voter) says Fed policymakers have always been committed to 2% inflation and it is a credible pledge",
+        "last_phrase": "inflation has been taking off, which changes how you think about policy",
+        "last_published_at": "2026-07-06T15:44:00+00:00"
       },
       {
         "name": "Mary Daly",
