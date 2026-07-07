@@ -34,13 +34,40 @@ CARD_BG_EMPTY = "#f3f4f6"
 CARD_BORDER = "#e5e7eb"
 
 
-# Band thresholds — change here if the calibration ever needs revisiting.
-NEUTRAL_THRESHOLD = 1.0     # |z| ≤ this  → neutral grey
-EXTREME_THRESHOLD = 1.5     # |z| >  this  → deep band (very hawk/dove) + repricing-risk banner
+# ---------------------------------------------------------------------------
+# SURPRISE bands (secondary metric) — z-score of stance vs speaker's 60d prior.
+# These drive the secondary/momentum readout, NOT the headline card colour.
+# Repricing-risk banner fires when |z| > 1.5 (the "extreme" bands).
+# ---------------------------------------------------------------------------
+NEUTRAL_THRESHOLD = 1.0     # |z| ≤ this  → neutral grey (surprise-scale)
+EXTREME_THRESHOLD = 1.5     # |z| >  this  → deep band + repricing-risk banner
+
+# ---------------------------------------------------------------------------
+# COMMENTARY bands (PRIMARY metric, Graeme's 7 Jul spec) — raw stance in the
+# recent window on the −5…+5 scale. This is what drives the headline card
+# colour and label. Answers "is this CB objectively hawkish/dovish right now?"
+# regardless of whether the market was expecting it.
+#
+#   score < -2.0       deep green    very dovish
+#   -2.0 ≤ score < -0.75 green         dovish
+#   -0.75 ≤ score ≤ 0.75 grey          neutral
+#    0.75 < score ≤ 2.0  red           hawkish
+#    score > 2.0        deep red      very hawkish
+#
+# Thresholds calibrated to observed distribution across G10 CBs on Jul 2026
+# data: Fed +0.33, ECB +0.17, BoE -0.22, BoJ +0.37, BoC +0.17, SNB -0.91,
+# RBA +3.00, Riksbank +1.32, Norges +3.50. So >2 catches only the genuinely
+# stand-out hawks (RBA, Norges), 0.75-2.0 catches the mild hawks (Riksbank),
+# and the neutral band covers the majors that are essentially on hold.
+# ---------------------------------------------------------------------------
+COMMENTARY_NEUTRAL_THRESHOLD = 0.75
+COMMENTARY_EXTREME_THRESHOLD = 2.0
 
 
 def band_color(z: float | None) -> str:
-    """Return hex colour for a `surprise_score` in σ."""
+    """Colour for the `surprise_score` — secondary metric only. Kept for
+    charts / delta arrows / etc. For the headline card colour, use
+    ``commentary_color`` instead."""
     if z is None or (isinstance(z, float) and math.isnan(z)):
         return BAND_NEUTRAL
     if z < -EXTREME_THRESHOLD:
@@ -68,19 +95,44 @@ def band_label(z: float | None) -> str:
     return "very hawkish surprise"
 
 
-def commentary_label(score: float | None) -> str:
-    """Human-friendly label for the absolute commentary score (−5…+5)."""
+def commentary_color(score: float | None) -> str:
+    """Primary headline colour — driven by raw commentary_score.
+
+    This is the objective "is this CB hawkish or dovish right now" reading.
+    Doesn't move around when nothing new has been said.
+    """
+    if score is None or (isinstance(score, float) and math.isnan(score)):
+        return BAND_NEUTRAL
+    if score < -COMMENTARY_EXTREME_THRESHOLD:
+        return BAND_DEEP_DOVE
+    if score < -COMMENTARY_NEUTRAL_THRESHOLD:
+        return BAND_DOVE
+    if score <= COMMENTARY_NEUTRAL_THRESHOLD:
+        return BAND_NEUTRAL
+    if score <= COMMENTARY_EXTREME_THRESHOLD:
+        return BAND_HAWK
+    return BAND_DEEP_HAWK
+
+
+def commentary_band_label(score: float | None) -> str:
+    """Big band label under the headline number, driven by commentary_score."""
     if score is None or (isinstance(score, float) and math.isnan(score)):
         return "no data"
-    if score >= 2.0:
-        return "hawkish"
-    if score >= 0.5:
-        return "lean hawkish"
-    if score > -0.5:
+    if score < -COMMENTARY_EXTREME_THRESHOLD:
+        return "very dovish"
+    if score < -COMMENTARY_NEUTRAL_THRESHOLD:
+        return "dovish"
+    if score <= COMMENTARY_NEUTRAL_THRESHOLD:
         return "neutral"
-    if score > -2.0:
-        return "lean dovish"
-    return "dovish"
+    if score <= COMMENTARY_EXTREME_THRESHOLD:
+        return "hawkish"
+    return "very hawkish"
+
+
+def commentary_label(score: float | None) -> str:
+    """Legacy short-form label kept for backwards compat in inline captions.
+    Prefer ``commentary_band_label`` for the big card label."""
+    return commentary_band_label(score)
 
 
 def direction_arrow(delta: float | None) -> tuple[str, str, int]:
@@ -150,6 +202,11 @@ CB_CSS = """
     font-size: 13px; font-weight: 600;
     text-transform: uppercase; letter-spacing: 0.5px;
     margin-top: 2px;
+  }
+  .cb-card .cb-sub-metric {
+    font-size: 11.5px; font-weight: 500;
+    margin-top: 6px; opacity: 0.85;
+    letter-spacing: 0.2px;
   }
   .cb-card .cb-meta {
     color: #6b7280; font-size: 12px; margin-top: 6px;

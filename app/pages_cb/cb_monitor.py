@@ -22,6 +22,8 @@ from shared.cb_theme import (
     EXTREME_THRESHOLD,
     band_color,
     band_label,
+    commentary_band_label,
+    commentary_color,
     commentary_label,
     delta_phrase,
     direction_arrow,
@@ -157,8 +159,15 @@ def _render_live_card(cb: dict, snap: dict) -> None:
     history = snap.get("history_90d", [])
     movers = snap.get("top_movers", [])
 
-    colour = band_color(surprise)
-    b_label = band_label(surprise)
+    # PRIMARY headline: commentary (objective hawk/dove level).
+    # SECONDARY readout: surprise (time-decayed momentum / market repricing).
+    # Colour band is driven by commentary so the card doesn't change colour
+    # when nothing new has been said.
+    colour = commentary_color(commentary)
+    band_lbl = commentary_band_label(commentary)
+    # Kept for the amber "repricing risk" banner + secondary surprise line.
+    surprise_colour = band_color(surprise)
+    surprise_lbl = band_label(surprise)
 
     delta_14d = _fourteen_day_delta(history)
     arrow, arrow_col, arrow_pt = direction_arrow(delta_14d)
@@ -180,6 +189,9 @@ def _render_live_card(cb: dict, snap: dict) -> None:
         conf_label, conf_bg, conf_fg = f"high conviction · n={n_win}", "#dcfce7", "#166534"
 
     # Header row (name + arrow)
+    #   BIG NUMBER   = commentary_score (e.g. "+3.00")   — objective stance
+    #   BAND LABEL   = commentary_band_label            — hawkish / dovish / etc
+    #   SUB-LINE     = surprise_score in σ               — secondary momentum
     st.markdown(
         f"""
 <div class='cb-card'>
@@ -187,8 +199,11 @@ def _render_live_card(cb: dict, snap: dict) -> None:
     <span class='cb-name'>{cb['flag']} {cb['label']}</span>
     <span class='cb-arrow' style='color:{arrow_col}; font-size:{arrow_pt}px;'>{arrow}</span>
   </div>
-  <div class='cb-big' style='color:{colour};'>{surprise:+.2f}σ</div>
-  <div class='cb-band-label' style='color:{colour};'>{b_label}</div>
+  <div class='cb-big' style='color:{colour};'>{commentary:+.2f}</div>
+  <div class='cb-band-label' style='color:{colour};'>{band_lbl}</div>
+  <div class='cb-sub-metric' style='color:{surprise_colour};'>
+    Surprise vs prior: <b>{surprise:+.2f}σ</b> · <span style='opacity:0.9'>{surprise_lbl}</span>
+  </div>
   <div style='display:inline-block; margin-top:4px; padding:2px 8px; border-radius:10px;
               background:{conf_bg}; color:{conf_fg}; font-size:10.5px; font-weight:600;
               text-transform:uppercase; letter-spacing:0.4px;'>{conf_label}</div>
@@ -206,17 +221,17 @@ def _render_live_card(cb: dict, snap: dict) -> None:
             key=f"spark_{cb['code']}",
         )
 
-    # Direction of travel + absolute score. Δ14d is always 14 days regardless
-    # of the commentary window — we always want a 2-week direction-of-travel
-    # arrow for consistency across the grid.
+    # Momentum + sample-size footer under the sparkline.
+    #   Δ14d = surprise-score delta over the last 14 days (always 14d for
+    #     cross-CB comparability, regardless of the CB's recent window).
+    #   Sample-size line reports how many items and over how many days.
     if delta_14d is not None:
-        delta_txt = f"Δ 14d: {delta_14d:+.2f}σ ({delta_phrase(delta_14d)})"
+        delta_txt = f"Δ 14d surprise: {delta_14d:+.2f}σ ({delta_phrase(delta_14d)})"
     else:
-        delta_txt = "Δ 14d: —"
+        delta_txt = "Δ 14d surprise: —"
     st.markdown(
         f"<div class='cb-delta'>{delta_txt}</div>"
-        f"<div class='cb-absolute'>Commentary: {commentary:+.2f} "
-        f"({commentary_label(commentary)}) · {n_win} items {window_days}d</div>",
+        f"<div class='cb-absolute'>{n_win} items in last {window_days} days</div>",
         unsafe_allow_html=True,
     )
 
@@ -343,8 +358,12 @@ def _card_sort_key(entry: dict, mode: str) -> tuple:
         return (1, entry["_idx"])
 
     surprise = float(snap.get("surprise_score", 0.0))
+    commentary = float(snap.get("commentary_score", 0.0))
     delta = _fourteen_day_delta(snap.get("history_90d", [])) or 0.0
 
+    if mode == "Hawkishness (commentary)":
+        # Most hawkish first — primary use case for the at-a-glance grid
+        return (0, -commentary)
     if mode == "Surprise magnitude":
         return (0, -abs(surprise))
     if mode == "Direction of travel":
@@ -478,21 +497,29 @@ def render() -> None:
   dominated by n=1-2 items. The recent window used for each card is
   printed after the commentary score as `· N items Xd`.
 
-**Big number.** The `surprise_score` (in σ) — current stance vs each speaker's
-own 60-day rolling mean. This is the *primary* trading signal: it flags "Fed
-member X sounded more hawkish/dovish than usual", which is where markets
-actually reprice.
+**Big headline number.** The `commentary_score` (raw stance, −5 to +5) —
+the objective *how hawkish/dovish is this CB right now* reading based on
+what its speakers actually said in the recent window. This is the primary
+at-a-glance metric. It does **not** move when nothing new is said.
 
-**Colour bands.**
-`< −1.5σ` deep green (very dovish) · `−1.5…−1.0` green (dovish) ·
-`−1.0…+1.0` grey (neutral) · `+1.0…+1.5` red (hawkish) · `> +1.5σ` deep red
-(very hawkish).
+**Card colour bands (commentary-driven).**
+`< −2.0` deep green (very dovish) · `−2.0…−0.75` green (dovish) ·
+`−0.75…+0.75` grey (neutral) · `+0.75…+2.0` red (hawkish) ·
+`> +2.0` deep red (very hawkish).
 
-**Direction of travel.** Arrow + `Δ 14d` compare current surprise to
-14 days ago. Rising = drifting more hawkish; falling = drifting more dovish.
+**Secondary readout — surprise vs prior.** Underneath the big number:
+`surprise_score` in σ = current stance minus each speaker's own 60-day
+rolling mean. This is the *momentum / market repricing* signal — it flags
+"Fed member X sounded more hawkish/dovish than usual", which is where
+curves actually move. It **can drift over time** even when nothing new is
+said, as older items time-decay out of the prior window.
+`< −1.5σ` very dovish surprise · `−1.5…−1.0` dovish surprise ·
+`−1.0…+1.0` neutral · `+1.0…+1.5` hawkish surprise · `> +1.5σ` very
+hawkish surprise.
 
-**Absolute score.** The `commentary_score` (unadjusted stance, ±5) — useful
-to know whether the CB is *hawkish at all* vs just hawkish *for them*.
+**Direction of travel.** Arrow + `Δ 14d surprise` compare current surprise
+to 14 days ago. Rising = drifting more hawkish; falling = drifting more
+dovish.
 
 **Conviction badge.** Small tag under the headline number, showing `n` — the number of policy-relevant items scored in the CB's recent window (14d or 30d, see Recency above).
 14d CBs: `n < 5` low (red), `5-9` medium (amber), `10+` high (green).
@@ -500,7 +527,8 @@ to know whether the CB is *hawkish at all* vs just hawkish *for them*.
 Treat sparse-CB headline numbers with more caution — the signal is directionally real but sample-size limited.
 
 **Banner.** When `|surprise| > 1.5σ` we flag repricing risk — historically
-where curves and FX pairs have moved most.
+where curves and FX pairs have moved most. (This still uses surprise, not
+commentary — by design, since a repricing signal *is* about surprise.)
             """
         )
 
@@ -509,7 +537,12 @@ where curves and FX pairs have moved most.
     with c1:
         sort_mode = st.selectbox(
             "Sort by",
-            ["Surprise magnitude", "Direction of travel", "Alphabetical"],
+            [
+                "Hawkishness (commentary)",
+                "Surprise magnitude",
+                "Direction of travel",
+                "Alphabetical",
+            ],
             index=0,
         )
     with c2:
