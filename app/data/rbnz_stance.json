@@ -1,6 +1,6 @@
 {
   "cb": "rbnz",
-  "as_of": "2026-07-07T13:02:48.409064+00:00",
+  "as_of": "2026-07-08T04:31:55.229020+00:00",
   "commentary_score": 0.0,
   "surprise_score": 0.0,
   "label": "neutral",
@@ -9,12 +9,6 @@
   "commentary_window_days": 30,
   "n_items_total": 20,
   "history_90d": [
-    {
-      "date": "2026-04-09",
-      "commentary_score": -1.0,
-      "surprise_score": -1.0,
-      "n_items": 1
-    },
     {
       "date": "2026-04-10",
       "commentary_score": -1.0,
@@ -517,7 +511,7 @@
       "date": "2026-07-02",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 1
+      "n_items": 0
     },
     {
       "date": "2026-07-03",
@@ -548,6 +542,12 @@
       "commentary_score": 0.0,
       "surprise_score": 0.0,
       "n_items": 1
+    },
+    {
+      "date": "2026-07-08",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 1
     }
   ],
   "top_movers": [
@@ -558,7 +558,7 @@
       "stance": 0.0,
       "prior": 0.0,
       "surprise": 0.0,
-      "weight": 0.265,
+      "weight": 0.249,
       "contribution": 0.0,
       "phrase": "RBNZ says it is not seeking additional an additional Monetary Policy Committee member, prior to the New Zealand election",
       "headline": "RBNZ says it is not seeking additional an additional Monetary Policy Committee member, prior to the New Zealand election"
@@ -566,7 +566,7 @@
   ],
   "key_comments": [],
   "speaker_board": {
-    "effective_window_days": 243,
+    "effective_window_days": 244,
     "long_window_days": 365,
     "recent_window_days": 14,
     "speakers": [
@@ -687,11 +687,26 @@
     "low_cadence_cbs": [
       "boc",
       "boj",
+      "brl",
+      "clp",
+      "cnh",
+      "cop",
+      "czk",
+      "huf",
+      "ils",
+      "inr",
+      "krw",
+      "mxn",
       "norges",
+      "pln",
       "rba",
       "rbnz",
       "riksbank",
-      "snb"
+      "sgd",
+      "snb",
+      "thb",
+      "twd",
+      "zar"
     ],
     "surprise_lookback_days": 60,
     "recency_halflife_days": 7,

@@ -1,6 +1,6 @@
 {
   "cb": "pln",
-  "as_of": "2026-07-07T15:20:53.725322+00:00",
+  "as_of": "2026-07-08T04:31:56.166641+00:00",
   "commentary_score": -0.761,
   "surprise_score": -1.342,
   "label": "lean dovish",
@@ -10,34 +10,28 @@
   "n_items_total": 32,
   "history_90d": [
     {
-      "date": "2026-04-09",
+      "date": "2026-04-10",
       "commentary_score": -0.114,
       "surprise_score": -0.114,
       "n_items": 6
     },
     {
-      "date": "2026-04-10",
+      "date": "2026-04-11",
       "commentary_score": -0.131,
       "surprise_score": -0.131,
       "n_items": 5
     },
     {
-      "date": "2026-04-11",
+      "date": "2026-04-12",
       "commentary_score": -0.162,
       "surprise_score": -0.162,
       "n_items": 3
     },
     {
-      "date": "2026-04-12",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 2
-    },
-    {
       "date": "2026-04-13",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 3
+      "n_items": 2
     },
     {
       "date": "2026-04-14",
@@ -67,7 +61,7 @@
       "date": "2026-04-18",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 2
+      "n_items": 3
     },
     {
       "date": "2026-04-19",
@@ -91,7 +85,7 @@
       "date": "2026-04-22",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 1
+      "n_items": 2
     },
     {
       "date": "2026-04-23",
@@ -181,7 +175,7 @@
       "date": "2026-05-07",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 2
+      "n_items": 1
     },
     {
       "date": "2026-05-08",
@@ -215,8 +209,8 @@
     },
     {
       "date": "2026-05-13",
-      "commentary_score": 0.563,
-      "surprise_score": 0.563,
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
       "n_items": 2
     },
     {
@@ -341,9 +335,9 @@
     },
     {
       "date": "2026-06-03",
-      "commentary_score": -0.471,
-      "surprise_score": 0.292,
-      "n_items": 4
+      "commentary_score": 0.563,
+      "surprise_score": 0.563,
+      "n_items": 2
     },
     {
       "date": "2026-06-04",
@@ -359,9 +353,9 @@
     },
     {
       "date": "2026-06-06",
-      "commentary_score": -0.485,
-      "surprise_score": 0.301,
-      "n_items": 3
+      "commentary_score": -0.471,
+      "surprise_score": 0.292,
+      "n_items": 4
     },
     {
       "date": "2026-06-07",
@@ -377,9 +371,9 @@
     },
     {
       "date": "2026-06-09",
-      "commentary_score": -0.669,
-      "surprise_score": -0.164,
-      "n_items": 4
+      "commentary_score": -0.485,
+      "surprise_score": 0.301,
+      "n_items": 3
     },
     {
       "date": "2026-06-10",
@@ -395,9 +389,9 @@
     },
     {
       "date": "2026-06-12",
-      "commentary_score": -0.712,
-      "surprise_score": -0.194,
-      "n_items": 3
+      "commentary_score": -0.669,
+      "surprise_score": -0.164,
+      "n_items": 4
     },
     {
       "date": "2026-06-13",
@@ -413,9 +407,9 @@
     },
     {
       "date": "2026-06-15",
-      "commentary_score": -1.061,
-      "surprise_score": -1.435,
-      "n_items": 4
+      "commentary_score": -0.712,
+      "surprise_score": -0.194,
+      "n_items": 3
     },
     {
       "date": "2026-06-16",
@@ -431,9 +425,9 @@
     },
     {
       "date": "2026-06-18",
-      "commentary_score": -0.71,
-      "surprise_score": -0.961,
-      "n_items": 5
+      "commentary_score": -1.061,
+      "surprise_score": -1.435,
+      "n_items": 4
     },
     {
       "date": "2026-06-19",
@@ -521,9 +515,9 @@
     },
     {
       "date": "2026-07-03",
-      "commentary_score": -0.761,
-      "surprise_score": -1.342,
-      "n_items": 3
+      "commentary_score": -0.71,
+      "surprise_score": -0.961,
+      "n_items": 5
     },
     {
       "date": "2026-07-04",
@@ -548,6 +542,12 @@
       "commentary_score": -0.761,
       "surprise_score": -1.342,
       "n_items": 3
+    },
+    {
+      "date": "2026-07-08",
+      "commentary_score": -0.761,
+      "surprise_score": -1.342,
+      "n_items": 3
     }
   ],
   "top_movers": [
@@ -558,8 +558,8 @@
       "stance": -1.5,
       "prior": 1.5,
       "surprise": -3.0,
-      "weight": 0.024,
-      "contribution": -0.071,
+      "weight": 0.022,
+      "contribution": -0.067,
       "phrase": "MPC is less inclined to hike rates than a month ago",
       "headline": "NBP's Kotecki says the MPC is less inclined to hike rates than a month ago, it is too early to signal a rate cut and rates are likely to remain on hold for the rest of 2026 and perhaps until March 2027"
     },
@@ -570,8 +570,8 @@
       "stance": -1.0,
       "prior": 0.0,
       "surprise": -1.0,
-      "weight": 0.011,
-      "contribution": -0.011,
+      "weight": 0.01,
+      "contribution": -0.01,
       "phrase": "cuts more likely than hikes now",
       "headline": "NBP's Maslowska says rate hike still an option, but less likely; cuts more likely than hikes now"
     },
@@ -582,7 +582,7 @@
       "stance": 0.0,
       "prior": 0.0,
       "surprise": 0.0,
-      "weight": 0.026,
+      "weight": 0.025,
       "contribution": 0.0,
       "phrase": "monetary policy to remain stable in the coming months",
       "headline": "NBP's Duda says the base scenario is for monetary policy to remain stable in the coming months"

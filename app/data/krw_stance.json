@@ -1,6 +1,6 @@
 {
   "cb": "krw",
-  "as_of": "2026-07-07T15:20:52.925045+00:00",
+  "as_of": "2026-07-08T04:31:55.705330+00:00",
   "commentary_score": -0.756,
   "surprise_score": -0.897,
   "label": "lean dovish",
@@ -9,12 +9,6 @@
   "commentary_window_days": 30,
   "n_items_total": 27,
   "history_90d": [
-    {
-      "date": "2026-04-09",
-      "commentary_score": -0.909,
-      "surprise_score": -0.909,
-      "n_items": 4
-    },
     {
       "date": "2026-04-10",
       "commentary_score": -0.585,
@@ -137,9 +131,9 @@
     },
     {
       "date": "2026-04-30",
-      "commentary_score": -0.626,
-      "surprise_score": -0.626,
-      "n_items": 3
+      "commentary_score": -0.564,
+      "surprise_score": -0.564,
+      "n_items": 4
     },
     {
       "date": "2026-05-01",
@@ -548,6 +542,12 @@
       "commentary_score": -0.756,
       "surprise_score": -0.897,
       "n_items": 3
+    },
+    {
+      "date": "2026-07-08",
+      "commentary_score": -0.756,
+      "surprise_score": -0.897,
+      "n_items": 3
     }
   ],
   "top_movers": [
@@ -558,8 +558,8 @@
       "stance": -1.0,
       "prior": 0.0,
       "surprise": -1.0,
-      "weight": 0.309,
-      "contribution": -0.309,
+      "weight": 0.293,
+      "contribution": -0.293,
       "phrase": "expects inflation to remain high for some time",
       "headline": "BoK says July CPI inflation is to ease from June's but expects inflation to remain high for some time"
     },
@@ -570,8 +570,8 @@
       "stance": -1.0,
       "prior": 0.0,
       "surprise": -1.0,
-      "weight": 0.118,
-      "contribution": -0.118,
+      "weight": 0.111,
+      "contribution": -0.111,
       "phrase": "warns of household debt and leverage",
       "headline": "Bank of Korea Board Member Hwang warns of household debt and leverage"
     },
@@ -582,8 +582,8 @@
       "stance": 3.0,
       "prior": 2.32,
       "surprise": 0.68,
-      "weight": 0.028,
-      "contribution": 0.019,
+      "weight": 0.026,
+      "contribution": 0.018,
       "phrase": "interest rates need to be raised before its too late",
       "headline": "BoK Governor Shin says interest rates need to be raised before its too late and inflation is to exceed target for a considerable period of time"
     }
@@ -627,7 +627,7 @@
     }
   ],
   "speaker_board": {
-    "effective_window_days": 222,
+    "effective_window_days": 223,
     "long_window_days": 365,
     "recent_window_days": 14,
     "speakers": [
