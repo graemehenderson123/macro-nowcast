@@ -1,13 +1,13 @@
 {
   "cb": "rbnz",
-  "as_of": "2026-07-08T04:31:55.229020+00:00",
-  "commentary_score": 0.0,
-  "surprise_score": 0.0,
-  "label": "neutral",
-  "n_items_14d": 1,
-  "n_items_window": 1,
+  "as_of": "2026-07-08T13:04:53.845961+00:00",
+  "commentary_score": -1.072,
+  "surprise_score": -1.072,
+  "label": "lean dovish",
+  "n_items_14d": 2,
+  "n_items_window": 2,
   "commentary_window_days": 30,
-  "n_items_total": 20,
+  "n_items_total": 21,
   "history_90d": [
     {
       "date": "2026-04-10",
@@ -511,7 +511,7 @@
       "date": "2026-07-02",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-07-03",
@@ -545,12 +545,24 @@
     },
     {
       "date": "2026-07-08",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 1
+      "commentary_score": -1.072,
+      "surprise_score": -1.072,
+      "n_items": 2
     }
   ],
   "top_movers": [
+    {
+      "published_at": "2026-07-08T02:00:00+00:00",
+      "speaker": "RBNZ (institutional)",
+      "event_type": "statement",
+      "stance": -1.5,
+      "prior": 0.0,
+      "surprise": -1.5,
+      "weight": 0.602,
+      "contribution": -0.903,
+      "phrase": "current OCR is accommodative and that further reduction in monetary stimulus is likely to be required",
+      "headline": "The RBNZ hikes the OCR by 25bps to 2.50%, as expected; some further reduction in monetary stimulus is likely to be required to return inflation to the 2% target mid-point"
+    },
     {
       "published_at": "2026-07-02T04:54:00+00:00",
       "speaker": "RBNZ (institutional)",
@@ -558,13 +570,31 @@
       "stance": 0.0,
       "prior": 0.0,
       "surprise": 0.0,
-      "weight": 0.249,
+      "weight": 0.24,
       "contribution": 0.0,
       "phrase": "RBNZ says it is not seeking additional an additional Monetary Policy Committee member, prior to the New Zealand election",
       "headline": "RBNZ says it is not seeking additional an additional Monetary Policy Committee member, prior to the New Zealand election"
     }
   ],
-  "key_comments": [],
+  "key_comments": [
+    {
+      "published_at": "2026-07-08T02:00:00+00:00",
+      "speaker": "RBNZ (institutional)",
+      "role": "institutional",
+      "lean_prior": "neutral",
+      "voting_2026": true,
+      "event_type": "statement",
+      "stance": -1.5,
+      "prior": 0.0,
+      "surprise": -1.5,
+      "phrase": "current OCR is accommodative and that further reduction in monetary stimulus is likely to be required",
+      "headline": "The RBNZ hikes the OCR by 25bps to 2.50%, as expected; some further reduction in monetary stimulus is likely to be required to return inflation to the 2% target mid-point",
+      "importance": 2.5,
+      "reasons": [
+        "official CB statement (stance -1.50)"
+      ]
+    }
+  ],
   "speaker_board": {
     "effective_window_days": 244,
     "long_window_days": 365,

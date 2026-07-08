@@ -1,6 +1,6 @@
 {
   "cb": "inr",
-  "as_of": "2026-07-08T04:31:55.934551+00:00",
+  "as_of": "2026-07-08T13:04:54.567432+00:00",
   "commentary_score": 0.0,
   "surprise_score": 0.0,
   "label": "neutral",
@@ -181,7 +181,7 @@
       "date": "2026-05-08",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 1
+      "n_items": 0
     },
     {
       "date": "2026-05-09",
@@ -347,9 +347,9 @@
     },
     {
       "date": "2026-06-05",
-      "commentary_score": -1.0,
-      "surprise_score": 0.5,
-      "n_items": 1
+      "commentary_score": -0.581,
+      "surprise_score": 0.29,
+      "n_items": 2
     },
     {
       "date": "2026-06-06",
@@ -529,7 +529,7 @@
       "date": "2026-07-05",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 1
+      "n_items": 0
     },
     {
       "date": "2026-07-06",
@@ -553,7 +553,7 @@
   "top_movers": [],
   "key_comments": [],
   "speaker_board": {
-    "effective_window_days": 245,
+    "effective_window_days": 246,
     "long_window_days": 365,
     "recent_window_days": 14,
     "speakers": [
