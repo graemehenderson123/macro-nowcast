@@ -1,6 +1,6 @@
 {
   "cb": "rbnz",
-  "as_of": "2026-07-09T04:33:04.022851+00:00",
+  "as_of": "2026-07-09T13:03:01.767514+00:00",
   "commentary_score": -1.072,
   "surprise_score": -1.072,
   "label": "lean dovish",
@@ -505,7 +505,7 @@
       "date": "2026-07-02",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-07-03",
@@ -558,8 +558,8 @@
       "stance": -1.5,
       "prior": 0.0,
       "surprise": -1.5,
-      "weight": 0.565,
-      "contribution": -0.847,
+      "weight": 0.545,
+      "contribution": -0.818,
       "phrase": "current OCR is accommodative and that further reduction in monetary stimulus is likely to be required",
       "headline": "The RBNZ hikes the OCR by 25bps to 2.50%, as expected; some further reduction in monetary stimulus is likely to be required to return inflation to the 2% target mid-point"
     },
@@ -570,7 +570,7 @@
       "stance": 0.0,
       "prior": 0.0,
       "surprise": 0.0,
-      "weight": 0.225,
+      "weight": 0.218,
       "contribution": 0.0,
       "phrase": "RBNZ says it is not seeking additional an additional Monetary Policy Committee member, prior to the New Zealand election",
       "headline": "RBNZ says it is not seeking additional an additional Monetary Policy Committee member, prior to the New Zealand election"

@@ -1,6 +1,6 @@
 {
   "cb": "cnh",
-  "as_of": "2026-07-09T04:33:04.426290+00:00",
+  "as_of": "2026-07-09T13:03:02.175651+00:00",
   "commentary_score": -1.5,
   "surprise_score": 0.0,
   "label": "neutral",
@@ -558,7 +558,7 @@
       "stance": -1.5,
       "prior": -1.5,
       "surprise": 0.0,
-      "weight": 0.324,
+      "weight": 0.313,
       "contribution": 0.0,
       "phrase": "monetary policy maintains a supportive stance",
       "headline": "PBoC Governor Pan says monetary policy maintains a supportive stance, will be increasing the southbound bond connect quota to CNY 800bln from CNY 500bln"

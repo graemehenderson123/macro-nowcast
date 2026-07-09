@@ -1,25 +1,25 @@
 {
   "cb": "pln",
-  "as_of": "2026-07-09T04:33:04.971473+00:00",
-  "commentary_score": -0.761,
-  "surprise_score": -1.342,
+  "as_of": "2026-07-09T13:03:02.729879+00:00",
+  "commentary_score": -0.708,
+  "surprise_score": -1.417,
   "label": "lean dovish",
-  "n_items_14d": 3,
-  "n_items_window": 3,
+  "n_items_14d": 2,
+  "n_items_window": 2,
   "commentary_window_days": 30,
   "n_items_total": 32,
   "history_90d": [
     {
       "date": "2026-04-11",
-      "commentary_score": -0.131,
-      "surprise_score": -0.131,
-      "n_items": 5
-    },
-    {
-      "date": "2026-04-12",
       "commentary_score": -0.162,
       "surprise_score": -0.162,
       "n_items": 3
+    },
+    {
+      "date": "2026-04-12",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 2
     },
     {
       "date": "2026-04-13",
@@ -55,7 +55,7 @@
       "date": "2026-04-18",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 3
+      "n_items": 2
     },
     {
       "date": "2026-04-19",
@@ -79,7 +79,7 @@
       "date": "2026-04-22",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 2
+      "n_items": 1
     },
     {
       "date": "2026-04-23",
@@ -203,9 +203,9 @@
     },
     {
       "date": "2026-05-13",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 2
+      "commentary_score": 0.55,
+      "surprise_score": 0.55,
+      "n_items": 3
     },
     {
       "date": "2026-05-14",
@@ -365,9 +365,9 @@
     },
     {
       "date": "2026-06-09",
-      "commentary_score": -0.485,
-      "surprise_score": 0.301,
-      "n_items": 3
+      "commentary_score": -0.669,
+      "surprise_score": -0.164,
+      "n_items": 4
     },
     {
       "date": "2026-06-10",
@@ -383,9 +383,9 @@
     },
     {
       "date": "2026-06-12",
-      "commentary_score": -0.669,
-      "surprise_score": -0.164,
-      "n_items": 4
+      "commentary_score": -0.712,
+      "surprise_score": -0.194,
+      "n_items": 3
     },
     {
       "date": "2026-06-13",
@@ -419,9 +419,9 @@
     },
     {
       "date": "2026-06-18",
-      "commentary_score": -1.061,
-      "surprise_score": -1.435,
-      "n_items": 4
+      "commentary_score": -0.71,
+      "surprise_score": -0.961,
+      "n_items": 5
     },
     {
       "date": "2026-06-19",
@@ -545,9 +545,9 @@
     },
     {
       "date": "2026-07-09",
-      "commentary_score": -0.761,
-      "surprise_score": -1.342,
-      "n_items": 3
+      "commentary_score": -0.708,
+      "surprise_score": -1.417,
+      "n_items": 2
     }
   ],
   "top_movers": [
@@ -559,21 +559,9 @@
       "prior": 1.5,
       "surprise": -3.0,
       "weight": 0.02,
-      "contribution": -0.061,
+      "contribution": -0.059,
       "phrase": "MPC is less inclined to hike rates than a month ago",
       "headline": "NBP's Kotecki says the MPC is less inclined to hike rates than a month ago, it is too early to signal a rate cut and rates are likely to remain on hold for the rest of 2026 and perhaps until March 2027"
-    },
-    {
-      "published_at": "2026-06-09T07:25:00+00:00",
-      "speaker": "Gabriela Maslowska",
-      "event_type": "other",
-      "stance": -1.0,
-      "prior": 0.0,
-      "surprise": -1.0,
-      "weight": 0.009,
-      "contribution": -0.009,
-      "phrase": "cuts more likely than hikes now",
-      "headline": "NBP's Maslowska says rate hike still an option, but less likely; cuts more likely than hikes now"
     },
     {
       "published_at": "2026-06-18T05:26:00+00:00",
@@ -582,7 +570,7 @@
       "stance": 0.0,
       "prior": 0.0,
       "surprise": 0.0,
-      "weight": 0.023,
+      "weight": 0.022,
       "contribution": 0.0,
       "phrase": "monetary policy to remain stable in the coming months",
       "headline": "NBP's Duda says the base scenario is for monetary policy to remain stable in the coming months"
@@ -604,23 +592,6 @@
       "importance": 6.0,
       "reasons": [
         "hawk-lean speaker sounded dovish (surprise -3.00)"
-      ]
-    },
-    {
-      "published_at": "2026-06-09T07:25:00+00:00",
-      "speaker": "Gabriela Maslowska",
-      "role": "mpc_external",
-      "lean_prior": "neutral",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": -1.0,
-      "prior": 0.0,
-      "surprise": -1.0,
-      "phrase": "cuts more likely than hikes now",
-      "headline": "NBP's Maslowska says rate hike still an option, but less likely; cuts more likely than hikes now",
-      "importance": 1.0,
-      "reasons": [
-        "notable move vs own prior (surprise -1.00)"
       ]
     }
   ],

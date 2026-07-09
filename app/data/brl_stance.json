@@ -1,6 +1,6 @@
 {
   "cb": "brl",
-  "as_of": "2026-07-09T04:33:05.358839+00:00",
+  "as_of": "2026-07-09T13:03:03.125614+00:00",
   "commentary_score": -0.045,
   "surprise_score": -0.146,
   "label": "neutral",
@@ -65,9 +65,9 @@
     },
     {
       "date": "2026-04-20",
-      "commentary_score": -1.523,
-      "surprise_score": -1.453,
-      "n_items": 4
+      "commentary_score": -0.904,
+      "surprise_score": -0.862,
+      "n_items": 5
     },
     {
       "date": "2026-04-21",
@@ -119,9 +119,9 @@
     },
     {
       "date": "2026-04-29",
-      "commentary_score": -0.904,
-      "surprise_score": -0.862,
-      "n_items": 5
+      "commentary_score": -0.9,
+      "surprise_score": -0.804,
+      "n_items": 4
     },
     {
       "date": "2026-04-30",
@@ -203,9 +203,9 @@
     },
     {
       "date": "2026-05-13",
-      "commentary_score": -1.935,
-      "surprise_score": -1.858,
-      "n_items": 4
+      "commentary_score": -1.036,
+      "surprise_score": -0.995,
+      "n_items": 5
     },
     {
       "date": "2026-05-14",
@@ -233,21 +233,21 @@
     },
     {
       "date": "2026-05-18",
-      "commentary_score": -0.968,
-      "surprise_score": -0.968,
-      "n_items": 3
-    },
-    {
-      "date": "2026-05-19",
       "commentary_score": -0.384,
       "surprise_score": -0.384,
       "n_items": 4
     },
     {
+      "date": "2026-05-19",
+      "commentary_score": 0.769,
+      "surprise_score": 1.191,
+      "n_items": 5
+    },
+    {
       "date": "2026-05-20",
-      "commentary_score": 0.13,
-      "surprise_score": 0.774,
-      "n_items": 7
+      "commentary_score": 0.131,
+      "surprise_score": 0.785,
+      "n_items": 6
     },
     {
       "date": "2026-05-21",
@@ -300,7 +300,7 @@
     {
       "date": "2026-05-29",
       "commentary_score": 0.131,
-      "surprise_score": 0.785,
+      "surprise_score": -0.057,
       "n_items": 6
     },
     {
@@ -359,9 +359,9 @@
     },
     {
       "date": "2026-06-08",
-      "commentary_score": 0.284,
-      "surprise_score": 0.041,
-      "n_items": 5
+      "commentary_score": 0.101,
+      "surprise_score": 0.014,
+      "n_items": 6
     },
     {
       "date": "2026-06-09",
@@ -383,9 +383,9 @@
     },
     {
       "date": "2026-06-12",
-      "commentary_score": 0.101,
-      "surprise_score": 0.014,
-      "n_items": 6
+      "commentary_score": 0.103,
+      "surprise_score": 0.015,
+      "n_items": 5
     },
     {
       "date": "2026-06-13",
@@ -401,9 +401,9 @@
     },
     {
       "date": "2026-06-15",
-      "commentary_score": 0.103,
-      "surprise_score": -0.082,
-      "n_items": 5
+      "commentary_score": 0.044,
+      "surprise_score": -0.035,
+      "n_items": 6
     },
     {
       "date": "2026-06-16",
@@ -413,15 +413,15 @@
     },
     {
       "date": "2026-06-17",
-      "commentary_score": 0.044,
-      "surprise_score": -0.035,
-      "n_items": 6
+      "commentary_score": 0.046,
+      "surprise_score": -0.036,
+      "n_items": 5
     },
     {
       "date": "2026-06-18",
-      "commentary_score": -1.346,
-      "surprise_score": -0.736,
-      "n_items": 6
+      "commentary_score": -1.435,
+      "surprise_score": -0.839,
+      "n_items": 5
     },
     {
       "date": "2026-06-19",
@@ -449,9 +449,9 @@
     },
     {
       "date": "2026-06-23",
-      "commentary_score": -1.44,
-      "surprise_score": -0.789,
-      "n_items": 3
+      "commentary_score": -0.07,
+      "surprise_score": 0.33,
+      "n_items": 4
     },
     {
       "date": "2026-06-24",
@@ -461,9 +461,9 @@
     },
     {
       "date": "2026-06-25",
-      "commentary_score": -0.07,
-      "surprise_score": 0.33,
-      "n_items": 4
+      "commentary_score": -0.05,
+      "surprise_score": 0.234,
+      "n_items": 5
     },
     {
       "date": "2026-06-26",
@@ -539,9 +539,9 @@
     },
     {
       "date": "2026-07-08",
-      "commentary_score": -0.043,
-      "surprise_score": -0.14,
-      "n_items": 6
+      "commentary_score": -0.045,
+      "surprise_score": -0.146,
+      "n_items": 5
     },
     {
       "date": "2026-07-09",
@@ -558,8 +558,8 @@
       "stance": -2.5,
       "prior": 0.2,
       "surprise": -2.7,
-      "weight": 0.088,
-      "contribution": -0.237,
+      "weight": 0.085,
+      "contribution": -0.229,
       "phrase": "Committee reaffirms serenity and cautiousness in the conduction of monetary policy",
       "headline": "Brazil Central Bank cuts Selic Rate by 25bps to 14.25%, as expected, with the decision unanimous"
     },
@@ -570,8 +570,8 @@
       "stance": 1.5,
       "prior": 0.2,
       "surprise": 1.3,
-      "weight": 0.133,
-      "contribution": 0.172,
+      "weight": 0.128,
+      "contribution": 0.166,
       "phrase": "Upside risks to inflation have increased",
       "headline": "BCB Minutes: Committee reiterates that the magnitude of the calibration cycle will be adjusted in light of developments in the scenario"
     },
@@ -582,7 +582,7 @@
       "stance": 0.0,
       "prior": 0.2,
       "surprise": 0.0,
-      "weight": 0.043,
+      "weight": 0.042,
       "contribution": 0.0,
       "phrase": "BCB Focus Market Survey: 2026 Selic rate view 13.75% (prev. 13.50%), 2027 Selic rate view 12% (prev. 11.50%)",
       "headline": "BCB Focus Market Survey: 2026 Selic rate view 13.75% (prev. 13.50%), 2027 Selic rate view 12% (prev. 11.50%)"
@@ -594,7 +594,7 @@
       "stance": 0.0,
       "prior": 0.2,
       "surprise": 0.0,
-      "weight": 0.116,
+      "weight": 0.112,
       "contribution": 0.0,
       "phrase": "BCB 2026 forecasts: GDP +2.0% (prev. 1.6%), Current account balance USD -56bln (prev. USD -58bln); Trade balance USD +79bln (prev. USD +73bl",
       "headline": "BCB 2026 forecasts: GDP +2.0% (prev. 1.6%), Current account balance USD -56bln (prev. USD -58bln); Trade balance USD +79bln (prev. USD +73bln); bank lending +9.0% (prev. +9.0%)."
@@ -606,7 +606,7 @@
       "stance": 0.0,
       "prior": 1.5,
       "surprise": 0.0,
-      "weight": 0.065,
+      "weight": 0.063,
       "contribution": 0.0,
       "phrase": "there is no change of any kind in monetary policy",
       "headline": "BCB Chief Galipolo says their communication problem might have been trying to explain too much, rather than a lack of transparency; there is no change of any kind in monetary policy"

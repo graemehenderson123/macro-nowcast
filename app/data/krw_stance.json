@@ -1,13 +1,13 @@
 {
   "cb": "krw",
-  "as_of": "2026-07-09T04:33:04.503966+00:00",
-  "commentary_score": -0.756,
-  "surprise_score": -0.897,
-  "label": "lean dovish",
-  "n_items_14d": 3,
-  "n_items_window": 3,
+  "as_of": "2026-07-09T13:03:02.254413+00:00",
+  "commentary_score": 0.895,
+  "surprise_score": 0.022,
+  "label": "neutral",
+  "n_items_14d": 6,
+  "n_items_window": 6,
   "commentary_window_days": 30,
-  "n_items_total": 27,
+  "n_items_total": 30,
   "history_90d": [
     {
       "date": "2026-04-11",
@@ -125,9 +125,9 @@
     },
     {
       "date": "2026-04-30",
-      "commentary_score": -0.564,
-      "surprise_score": -0.564,
-      "n_items": 4
+      "commentary_score": -0.626,
+      "surprise_score": -0.626,
+      "n_items": 3
     },
     {
       "date": "2026-05-01",
@@ -545,33 +545,57 @@
     },
     {
       "date": "2026-07-09",
-      "commentary_score": -0.756,
-      "surprise_score": -0.897,
-      "n_items": 3
+      "commentary_score": 0.895,
+      "surprise_score": 0.022,
+      "n_items": 6
     }
   ],
   "top_movers": [
+    {
+      "published_at": "2026-07-09T01:01:00+00:00",
+      "speaker": "KRW (institutional)",
+      "event_type": "statement",
+      "stance": 2.0,
+      "prior": 0.68,
+      "surprise": 1.32,
+      "weight": 0.599,
+      "contribution": 0.791,
+      "phrase": "inflation seen exceeding target with demand-side pressure growing gradually",
+      "headline": "BoK says KRW weakness is sharper than other major currencies, will continue making market stabilising efforts, inflation seen exceeding target with demand-side pressure growing gradually"
+    },
     {
       "published_at": "2026-07-02T00:21:00+00:00",
       "speaker": "KRW (institutional)",
       "event_type": "statement",
       "stance": -1.0,
-      "prior": 0.0,
-      "surprise": -1.0,
-      "weight": 0.265,
-      "contribution": -0.265,
+      "prior": 0.68,
+      "surprise": -1.68,
+      "weight": 0.256,
+      "contribution": -0.43,
       "phrase": "expects inflation to remain high for some time",
       "headline": "BoK says July CPI inflation is to ease from June's but expects inflation to remain high for some time"
+    },
+    {
+      "published_at": "2026-07-09T01:26:00+00:00",
+      "speaker": "Shin Hyun Song",
+      "event_type": "other",
+      "stance": 1.5,
+      "prior": 2.14,
+      "surprise": -0.64,
+      "weight": 0.286,
+      "contribution": -0.184,
+      "phrase": "interest rates need to be raised at an appropriate time",
+      "headline": "BoK Governor Shin says interest rates need to be raised at an appropriate time"
     },
     {
       "published_at": "2026-06-24T02:01:00+00:00",
       "speaker": "KRW (institutional)",
       "event_type": "statement",
       "stance": -1.0,
-      "prior": 0.0,
-      "surprise": -1.0,
-      "weight": 0.101,
-      "contribution": -0.101,
+      "prior": 0.68,
+      "surprise": -1.68,
+      "weight": 0.097,
+      "contribution": -0.164,
       "phrase": "warns of household debt and leverage",
       "headline": "Bank of Korea Board Member Hwang warns of household debt and leverage"
     },
@@ -580,10 +604,10 @@
       "speaker": "Shin Hyun Song",
       "event_type": "other",
       "stance": 3.0,
-      "prior": 2.32,
-      "surprise": 0.68,
-      "weight": 0.024,
-      "contribution": 0.016,
+      "prior": 2.14,
+      "surprise": 0.86,
+      "weight": 0.023,
+      "contribution": 0.02,
       "phrase": "interest rates need to be raised before its too late",
       "headline": "BoK Governor Shin says interest rates need to be raised before its too late and inflation is to exceed target for a considerable period of time"
     }
@@ -597,32 +621,51 @@
       "voting_2026": true,
       "event_type": "other",
       "stance": 3.0,
-      "prior": 2.32,
-      "surprise": 0.68,
+      "prior": 2.14,
+      "surprise": 0.86,
       "phrase": "interest rates need to be raised before its too late",
       "headline": "BoK Governor Shin says interest rates need to be raised before its too late and inflation is to exceed target for a considerable period of time",
-      "importance": 5.18,
+      "importance": 5.36,
       "reasons": [
         "Chair spoke",
-        "notable move vs own prior (surprise +0.68)",
+        "notable move vs own prior (surprise +0.86)",
         "cross-market extreme (|stance| = 3.0)"
       ]
     },
     {
-      "published_at": "2026-07-02T00:21:00+00:00",
+      "published_at": "2026-07-09T01:26:00+00:00",
+      "speaker": "Shin Hyun Song",
+      "role": "chair",
+      "lean_prior": "neutral",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": 1.5,
+      "prior": 2.14,
+      "surprise": -0.64,
+      "phrase": "interest rates need to be raised at an appropriate time",
+      "headline": "BoK Governor Shin says interest rates need to be raised at an appropriate time",
+      "importance": 3.64,
+      "reasons": [
+        "Chair spoke",
+        "notable move vs own prior (surprise -0.64)"
+      ]
+    },
+    {
+      "published_at": "2026-07-09T01:01:00+00:00",
       "speaker": "KRW (institutional)",
       "role": "institutional",
       "lean_prior": "neutral",
       "voting_2026": true,
       "event_type": "statement",
-      "stance": -1.0,
-      "prior": 0.0,
-      "surprise": -1.0,
-      "phrase": "expects inflation to remain high for some time",
-      "headline": "BoK says July CPI inflation is to ease from June's but expects inflation to remain high for some time",
-      "importance": 2.5,
+      "stance": 2.0,
+      "prior": 0.68,
+      "surprise": 1.32,
+      "phrase": "inflation seen exceeding target with demand-side pressure growing gradually",
+      "headline": "BoK says KRW weakness is sharper than other major currencies, will continue making market stabilising efforts, inflation seen exceeding target with demand-side pressure growing gradually",
+      "importance": 3.0,
       "reasons": [
-        "official CB statement (stance -1.00)"
+        "official CB statement (stance +2.00)",
+        "strong policy signal (|stance| = 2.0)"
       ]
     }
   ],
@@ -637,17 +680,17 @@
         "voting_2026": true,
         "lean_prior": "neutral",
         "weight_speaker": 1.0,
-        "n_long": 3,
-        "mean_long": 2.333,
-        "mean_long_conf_weighted": 2.318,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": 3.0,
-        "last_headline": "BoK Governor Shin says interest rates need to be raised before its too late and inflation is to exceed target for a considerable period of time",
-        "last_phrase": "interest rates need to be raised before its too late",
-        "last_published_at": "2026-06-12T01:01:00+00:00"
+        "n_long": 4,
+        "mean_long": 2.125,
+        "mean_long_conf_weighted": 2.143,
+        "n_recent": 1,
+        "mean_recent": 1.5,
+        "mean_recent_conf_weighted": 1.5,
+        "delta": -0.643,
+        "last_stance": 1.5,
+        "last_headline": "BoK Governor Shin says interest rates need to be raised at an appropriate time",
+        "last_phrase": "interest rates need to be raised at an appropriate time",
+        "last_published_at": "2026-07-09T01:26:00+00:00"
       },
       {
         "name": "Rhee Chang-yong",
