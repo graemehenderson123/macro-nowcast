@@ -1,6 +1,6 @@
 {
   "cb": "rba",
-  "as_of": "2026-07-10T10:42:19.177562+00:00",
+  "as_of": "2026-07-10T13:02:50.041801+00:00",
   "commentary_score": 2.502,
   "surprise_score": 0.76,
   "label": "lean hawkish",
@@ -558,8 +558,8 @@
       "stance": 1.5,
       "prior": 0.0,
       "surprise": 1.5,
-      "weight": 0.221,
-      "contribution": 0.331,
+      "weight": 0.219,
+      "contribution": 0.328,
       "phrase": "Monetary policy can potentially limit the indirect and second-round effects.",
       "headline": "RBA Assistant Governor Hunter says the Board will act as needed to ensure inflation returns to target and the labour market to sustainable full employment"
     },
@@ -570,8 +570,8 @@
       "stance": 1.5,
       "prior": 0.0,
       "surprise": 1.5,
-      "weight": 0.077,
-      "contribution": 0.116,
+      "weight": 0.076,
+      "contribution": 0.115,
       "phrase": "may consider using tools earlier, front load support",
       "headline": "RBA Assistant Governor Kent (Financial Markets) says in 'Additional Monetary Policy Tools: Reflections and a New Framework' speech that board may have less tolerance for inflation below target, and RBA may consider using"
     },
@@ -582,8 +582,8 @@
       "stance": 3.5,
       "prior": 3.35,
       "surprise": 0.15,
-      "weight": 0.258,
-      "contribution": 0.038,
+      "weight": 0.255,
+      "contribution": 0.037,
       "phrase": "will do what is needed to achieve price stability including raising rates if necessary",
       "headline": "RBA Minutes from the June meeting stated that policy needed to remain restrictive and will do what is needed to achieve price stability including raising rates if necessary"
     },

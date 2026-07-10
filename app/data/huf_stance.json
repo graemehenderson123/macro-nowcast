@@ -1,6 +1,6 @@
 {
   "cb": "huf",
-  "as_of": "2026-07-10T10:42:20.157174+00:00",
+  "as_of": "2026-07-10T13:02:51.016960+00:00",
   "commentary_score": -2.0,
   "surprise_score": -2.0,
   "label": "dovish",
@@ -558,8 +558,8 @@
       "stance": -2.0,
       "prior": 0.0,
       "surprise": -2.0,
-      "weight": 0.101,
-      "contribution": -0.203,
+      "weight": 0.1,
+      "contribution": -0.201,
       "phrase": "room for further interest rate cuts throughout the summer",
       "headline": "MNB sees room for further interest rate cuts throughout the summer if favourable conditions persist"
     }

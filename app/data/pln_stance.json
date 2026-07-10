@@ -1,19 +1,19 @@
 {
   "cb": "pln",
-  "as_of": "2026-07-10T10:42:20.236946+00:00",
-  "commentary_score": -0.708,
-  "surprise_score": -1.417,
-  "label": "lean dovish",
-  "n_items_14d": 2,
-  "n_items_window": 2,
+  "as_of": "2026-07-10T13:02:51.095947+00:00",
+  "commentary_score": -2.542,
+  "surprise_score": -2.114,
+  "label": "dovish",
+  "n_items_14d": 4,
+  "n_items_window": 4,
   "commentary_window_days": 30,
-  "n_items_total": 32,
+  "n_items_total": 35,
   "history_90d": [
     {
       "date": "2026-04-12",
-      "commentary_score": -0.162,
-      "surprise_score": -0.162,
-      "n_items": 3
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 2
     },
     {
       "date": "2026-04-13",
@@ -545,12 +545,36 @@
     },
     {
       "date": "2026-07-10",
-      "commentary_score": -0.708,
-      "surprise_score": -1.417,
-      "n_items": 2
+      "commentary_score": -2.542,
+      "surprise_score": -2.114,
+      "n_items": 4
     }
   ],
   "top_movers": [
+    {
+      "published_at": "2026-07-10T12:12:00+00:00",
+      "speaker": "Ludwik Kotecki",
+      "event_type": "other",
+      "stance": -2.0,
+      "prior": 1.5,
+      "surprise": -3.5,
+      "weight": 0.179,
+      "contribution": -0.628,
+      "phrase": "grounds to consider rate cuts later this year",
+      "headline": "NBP's Kotecki says there are grounds to consider rate cuts later this year"
+    },
+    {
+      "published_at": "2026-07-09T13:15:00+00:00",
+      "speaker": "Adam Glapinski",
+      "event_type": "other",
+      "stance": -3.0,
+      "prior": -1.5,
+      "surprise": -1.5,
+      "weight": 0.363,
+      "contribution": -0.544,
+      "phrase": "think a rate cut this year is likely",
+      "headline": "NBP Governor Glapinski says level of rates is appropriate; think a rate cut this year is likely; not worried about PLN FX level"
+    },
     {
       "published_at": "2026-06-15T13:12:00+00:00",
       "speaker": "Ludwik Kotecki",
@@ -559,7 +583,7 @@
       "prior": 1.5,
       "surprise": -3.0,
       "weight": 0.018,
-      "contribution": -0.054,
+      "contribution": -0.053,
       "phrase": "MPC is less inclined to hike rates than a month ago",
       "headline": "NBP's Kotecki says the MPC is less inclined to hike rates than a month ago, it is too early to signal a rate cut and rates are likely to remain on hold for the rest of 2026 and perhaps until March 2027"
     },
@@ -578,20 +602,38 @@
   ],
   "key_comments": [
     {
-      "published_at": "2026-06-15T13:12:00+00:00",
+      "published_at": "2026-07-10T12:12:00+00:00",
       "speaker": "Ludwik Kotecki",
       "role": "mpc_external",
       "lean_prior": "hawk",
       "voting_2026": true,
       "event_type": "other",
-      "stance": -1.5,
+      "stance": -2.0,
       "prior": 1.5,
-      "surprise": -3.0,
-      "phrase": "MPC is less inclined to hike rates than a month ago",
-      "headline": "NBP's Kotecki says the MPC is less inclined to hike rates than a month ago, it is too early to signal a rate cut and rates are likely to remain on hold for the rest of 2026 and perhaps until March 2027",
-      "importance": 6.0,
+      "surprise": -3.5,
+      "phrase": "grounds to consider rate cuts later this year",
+      "headline": "NBP's Kotecki says there are grounds to consider rate cuts later this year",
+      "importance": 7.0,
       "reasons": [
-        "hawk-lean speaker sounded dovish (surprise -3.00)"
+        "hawk-lean speaker sounded dovish (surprise -3.50)"
+      ]
+    },
+    {
+      "published_at": "2026-07-09T13:15:00+00:00",
+      "speaker": "Adam Glapinski",
+      "role": "chair",
+      "lean_prior": "dove",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": -3.0,
+      "prior": -1.5,
+      "surprise": -1.5,
+      "phrase": "think a rate cut this year is likely",
+      "headline": "NBP Governor Glapinski says level of rates is appropriate; think a rate cut this year is likely; not worried about PLN FX level",
+      "importance": 4.5,
+      "reasons": [
+        "Chair spoke",
+        "cross-market extreme (|stance| = 3.0)"
       ]
     }
   ],
@@ -673,24 +715,6 @@
         "last_published_at": "2026-02-17T10:22:00+00:00"
       },
       {
-        "name": "Adam Glapinski",
-        "role": "chair",
-        "voting_2026": true,
-        "lean_prior": "dove",
-        "weight_speaker": 1.0,
-        "n_long": 6,
-        "mean_long": -1.25,
-        "mean_long_conf_weighted": -1.278,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": -1.0,
-        "last_headline": "NBP Governor Glapinski says inflation is under control with the inflation shock being smaller than it seemed initially; the zloty is stable",
-        "last_phrase": "likelihood of hikes fell",
-        "last_published_at": "2026-06-03T13:16:00+00:00"
-      },
-      {
         "name": "Wieslaw Janczyk",
         "role": "mpc_external",
         "voting_2026": true,
@@ -709,22 +733,40 @@
         "last_published_at": "2025-11-17T12:27:00+00:00"
       },
       {
+        "name": "Adam Glapinski",
+        "role": "chair",
+        "voting_2026": true,
+        "lean_prior": "dove",
+        "weight_speaker": 1.0,
+        "n_long": 7,
+        "mean_long": -1.5,
+        "mean_long_conf_weighted": -1.591,
+        "n_recent": 1,
+        "mean_recent": -3.0,
+        "mean_recent_conf_weighted": -3.0,
+        "delta": -1.409,
+        "last_stance": -3.0,
+        "last_headline": "NBP Governor Glapinski says level of rates is appropriate; think a rate cut this year is likely; not worried about PLN FX level",
+        "last_phrase": "think a rate cut this year is likely",
+        "last_published_at": "2026-07-09T13:15:00+00:00"
+      },
+      {
         "name": "Ludwik Kotecki",
         "role": "mpc_external",
         "voting_2026": true,
         "lean_prior": "hawk",
         "weight_speaker": 0.6,
-        "n_long": 6,
-        "mean_long": -1.5,
-        "mean_long_conf_weighted": -1.542,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": -1.5,
-        "last_headline": "NBP's Kotecki says the MPC is less inclined to hike rates than a month ago, it is too early to signal a rate cut and rates are likely to remain on hold for the rest of 2026 and perhaps until March 202",
-        "last_phrase": "MPC is less inclined to hike rates than a month ago",
-        "last_published_at": "2026-06-15T13:12:00+00:00"
+        "n_long": 7,
+        "mean_long": -1.571,
+        "mean_long_conf_weighted": -1.607,
+        "n_recent": 1,
+        "mean_recent": -2.0,
+        "mean_recent_conf_weighted": -2.0,
+        "delta": -0.393,
+        "last_stance": -2.0,
+        "last_headline": "NBP's Kotecki says there are grounds to consider rate cuts later this year",
+        "last_phrase": "grounds to consider rate cuts later this year",
+        "last_published_at": "2026-07-10T12:12:00+00:00"
       },
       {
         "name": "Joanna Tyrowicz",

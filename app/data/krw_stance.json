@@ -1,6 +1,6 @@
 {
   "cb": "krw",
-  "as_of": "2026-07-10T10:42:19.753707+00:00",
+  "as_of": "2026-07-10T13:02:50.617237+00:00",
   "commentary_score": 0.895,
   "surprise_score": 0.022,
   "label": "neutral",
@@ -558,8 +558,8 @@
       "stance": 2.0,
       "prior": 0.68,
       "surprise": 1.32,
-      "weight": 0.548,
-      "contribution": 0.724,
+      "weight": 0.543,
+      "contribution": 0.717,
       "phrase": "inflation seen exceeding target with demand-side pressure growing gradually",
       "headline": "BoK says KRW weakness is sharper than other major currencies, will continue making market stabilising efforts, inflation seen exceeding target with demand-side pressure growing gradually"
     },
@@ -570,8 +570,8 @@
       "stance": -1.0,
       "prior": 0.68,
       "surprise": -1.68,
-      "weight": 0.234,
-      "contribution": -0.394,
+      "weight": 0.232,
+      "contribution": -0.39,
       "phrase": "expects inflation to remain high for some time",
       "headline": "BoK says July CPI inflation is to ease from June's but expects inflation to remain high for some time"
     },
@@ -582,8 +582,8 @@
       "stance": 1.5,
       "prior": 2.14,
       "surprise": -0.64,
-      "weight": 0.262,
-      "contribution": -0.168,
+      "weight": 0.259,
+      "contribution": -0.167,
       "phrase": "interest rates need to be raised at an appropriate time",
       "headline": "BoK Governor Shin says interest rates need to be raised at an appropriate time"
     },
@@ -594,8 +594,8 @@
       "stance": -1.0,
       "prior": 0.68,
       "surprise": -1.68,
-      "weight": 0.089,
-      "contribution": -0.15,
+      "weight": 0.088,
+      "contribution": -0.148,
       "phrase": "warns of household debt and leverage",
       "headline": "Bank of Korea Board Member Hwang warns of household debt and leverage"
     },

@@ -1,6 +1,6 @@
 {
   "cb": "boj",
-  "as_of": "2026-07-10T10:42:19.093338+00:00",
+  "as_of": "2026-07-10T13:02:49.955030+00:00",
   "commentary_score": -0.638,
   "surprise_score": -0.597,
   "label": "lean dovish",
@@ -558,8 +558,8 @@
       "stance": -3.0,
       "prior": -0.41,
       "surprise": -2.59,
-      "weight": 0.218,
-      "contribution": -0.564,
+      "weight": 0.215,
+      "contribution": -0.558,
       "phrase": "a rate hike could slow the economy",
       "headline": "BoJ's Asada says a rate hike could slow the economy"
     },
@@ -570,8 +570,8 @@
       "stance": -1.5,
       "prior": -0.41,
       "surprise": -1.09,
-      "weight": 0.159,
-      "contribution": -0.173,
+      "weight": 0.157,
+      "contribution": -0.172,
       "phrase": "the inflation target must be met with support from rising demand and wages, prior to a rate hike",
       "headline": "BoJ's Asada says the inflation target must be met with support from rising demand and wages, prior to a rate hike. Not against hikes, future decision on the assessment of conditions."
     },
@@ -582,8 +582,8 @@
       "stance": -2.0,
       "prior": 0.31,
       "surprise": -2.31,
-      "weight": 0.052,
-      "contribution": -0.119,
+      "weight": 0.051,
+      "contribution": -0.118,
       "phrase": "Accommodative conditions are expected to continue.",
       "headline": "BoJ Deputy Governor Himino says takes some time for policy to have an impact on the economy"
     },
@@ -594,8 +594,8 @@
       "stance": -1.0,
       "prior": 0.88,
       "surprise": -1.88,
-      "weight": 0.061,
-      "contribution": -0.114,
+      "weight": 0.06,
+      "contribution": -0.113,
       "phrase": "Financial environment remains accommodative after recent rate hike.",
       "headline": "BoJ's Ueda says Japan's economy is recovering moderately albeit with some weakness; Economic growth likely to slow but continue to moderate recovery"
     },
@@ -607,7 +607,7 @@
       "prior": -1.5,
       "surprise": 2.5,
       "weight": 0.044,
-      "contribution": 0.11,
+      "contribution": 0.109,
       "phrase": "Today's decision took into account the risk of having to raise rates by a large margin if policy adjustment is delayed.",
       "headline": "BoJ Deputy Governor Uchida (post-policy press conference) says the primary difference between April and June is the reduced risk on the economy"
     }
