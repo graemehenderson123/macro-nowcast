@@ -46,7 +46,31 @@ def load_fred_key() -> str:
         "FRED_API_KEY not found — set the env var or add it to .env"
     )
 
-FRED_KEY = load_fred_key()
+
+# ---------------------------------------------------------------------------
+# Lazy `FRED_KEY` access.
+#
+# Historically this module resolved `FRED_KEY = load_fred_key()` at import
+# time, which meant any consumer of the module — including pages that don't
+# need FRED at all (e.g. the CB Stance Monitor page) — would crash the whole
+# Streamlit app on import if the key was missing. That took down the entire
+# multipage nav.
+#
+# Switch to module-level __getattr__ so `FRED_KEY` is resolved only when
+# actually read. Downstream code that references `FRED_KEY` continues to work
+# unchanged; the RuntimeError is only raised if a codepath that actually needs
+# FRED is executed.
+# ---------------------------------------------------------------------------
+_FRED_KEY_CACHE: str | None = None
+
+
+def __getattr__(name: str):
+    global _FRED_KEY_CACHE
+    if name == "FRED_KEY":
+        if _FRED_KEY_CACHE is None:
+            _FRED_KEY_CACHE = load_fred_key()
+        return _FRED_KEY_CACHE
+    raise AttributeError(f"module {__name__!r} has no attribute {name!r}")
 
 # ---------------------------------------------------------------------------
 def init_cache() -> sqlite3.Connection:
