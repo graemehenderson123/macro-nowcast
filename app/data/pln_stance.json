@@ -1,6 +1,6 @@
 {
   "cb": "pln",
-  "as_of": "2026-07-10T04:32:33.899106+00:00",
+  "as_of": "2026-07-10T10:42:20.236946+00:00",
   "commentary_score": -0.708,
   "surprise_score": -1.417,
   "label": "lean dovish",
@@ -49,7 +49,7 @@
       "date": "2026-04-18",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 3
+      "n_items": 2
     },
     {
       "date": "2026-04-19",
@@ -73,7 +73,7 @@
       "date": "2026-04-22",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 2
+      "n_items": 1
     },
     {
       "date": "2026-04-23",
@@ -197,9 +197,9 @@
     },
     {
       "date": "2026-05-13",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 2
+      "commentary_score": 0.55,
+      "surprise_score": 0.55,
+      "n_items": 3
     },
     {
       "date": "2026-05-14",
@@ -359,9 +359,9 @@
     },
     {
       "date": "2026-06-09",
-      "commentary_score": -0.485,
-      "surprise_score": 0.301,
-      "n_items": 3
+      "commentary_score": -0.669,
+      "surprise_score": -0.164,
+      "n_items": 4
     },
     {
       "date": "2026-06-10",
@@ -377,9 +377,9 @@
     },
     {
       "date": "2026-06-12",
-      "commentary_score": -0.669,
-      "surprise_score": -0.164,
-      "n_items": 4
+      "commentary_score": -0.712,
+      "surprise_score": -0.194,
+      "n_items": 3
     },
     {
       "date": "2026-06-13",
@@ -413,9 +413,9 @@
     },
     {
       "date": "2026-06-18",
-      "commentary_score": -1.061,
-      "surprise_score": -1.435,
-      "n_items": 4
+      "commentary_score": -0.71,
+      "surprise_score": -0.961,
+      "n_items": 5
     },
     {
       "date": "2026-06-19",
@@ -539,9 +539,9 @@
     },
     {
       "date": "2026-07-09",
-      "commentary_score": -0.761,
-      "surprise_score": -1.342,
-      "n_items": 3
+      "commentary_score": -0.708,
+      "surprise_score": -1.417,
+      "n_items": 2
     },
     {
       "date": "2026-07-10",
@@ -559,7 +559,7 @@
       "prior": 1.5,
       "surprise": -3.0,
       "weight": 0.018,
-      "contribution": -0.055,
+      "contribution": -0.054,
       "phrase": "MPC is less inclined to hike rates than a month ago",
       "headline": "NBP's Kotecki says the MPC is less inclined to hike rates than a month ago, it is too early to signal a rate cut and rates are likely to remain on hold for the rest of 2026 and perhaps until March 2027"
     },

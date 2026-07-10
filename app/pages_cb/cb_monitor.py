@@ -235,8 +235,10 @@ def _render_live_card(cb: dict, snap: dict) -> None:
         unsafe_allow_html=True,
     )
 
-    # Top 3 comments (per-CB, importance-ranked — not just biggest movers)
-    _render_key_comments_for_cb(snap, k=3)
+    # Top 5 comments (per-CB, importance-ranked — not just biggest movers).
+    # Order is chronological (most recent first) inside build_stance.key_comments,
+    # so the renderer just walks the list in the order the snapshot provides.
+    _render_key_comments_for_cb(snap, k=5)
 
     # Full movers table available in an expander below
     if movers:
@@ -414,7 +416,7 @@ def _fmt_relative_time(iso_ts: str) -> str:
     return f"{days} day{'s' if days != 1 else ''} ago"
 
 
-def _render_key_comments_for_cb(snap: dict, k: int = 3) -> None:
+def _render_key_comments_for_cb(snap: dict, k: int = 5) -> None:
     """Render the top-k key_comments for a single CB inside its card.
     Same visual language as before (coloured left bar, italic quote, why-line)
     just scoped to one CB."""

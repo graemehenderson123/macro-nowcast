@@ -1,6 +1,6 @@
 {
   "cb": "huf",
-  "as_of": "2026-07-10T04:32:33.820026+00:00",
+  "as_of": "2026-07-10T10:42:20.157174+00:00",
   "commentary_score": -2.0,
   "surprise_score": -2.0,
   "label": "dovish",
@@ -119,9 +119,9 @@
     },
     {
       "date": "2026-04-30",
-      "commentary_score": 0.0,
+      "commentary_score": 1.5,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-05-01",
@@ -299,9 +299,9 @@
     },
     {
       "date": "2026-05-30",
-      "commentary_score": 0.14,
+      "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 2
+      "n_items": 1
     },
     {
       "date": "2026-05-31",
@@ -558,8 +558,8 @@
       "stance": -2.0,
       "prior": 0.0,
       "surprise": -2.0,
-      "weight": 0.104,
-      "contribution": -0.208,
+      "weight": 0.101,
+      "contribution": -0.203,
       "phrase": "room for further interest rate cuts throughout the summer",
       "headline": "MNB sees room for further interest rate cuts throughout the summer if favourable conditions persist"
     }

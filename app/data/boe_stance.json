@@ -1,6 +1,6 @@
 {
   "cb": "boe",
-  "as_of": "2026-07-10T04:32:32.672212+00:00",
+  "as_of": "2026-07-10T10:42:19.005979+00:00",
   "commentary_score": -0.047,
   "surprise_score": 0.047,
   "label": "neutral",
@@ -23,15 +23,15 @@
     },
     {
       "date": "2026-04-14",
-      "commentary_score": -0.941,
-      "surprise_score": -0.142,
-      "n_items": 6
+      "commentary_score": -0.656,
+      "surprise_score": -0.195,
+      "n_items": 7
     },
     {
       "date": "2026-04-15",
-      "commentary_score": 0.149,
-      "surprise_score": 0.629,
-      "n_items": 10
+      "commentary_score": 0.159,
+      "surprise_score": 0.67,
+      "n_items": 9
     },
     {
       "date": "2026-04-16",
@@ -71,15 +71,15 @@
     },
     {
       "date": "2026-04-22",
-      "commentary_score": -0.057,
-      "surprise_score": 0.475,
-      "n_items": 9
-    },
-    {
-      "date": "2026-04-23",
       "commentary_score": -0.201,
       "surprise_score": 0.249,
       "n_items": 10
+    },
+    {
+      "date": "2026-04-23",
+      "commentary_score": -0.157,
+      "surprise_score": 0.25,
+      "n_items": 9
     },
     {
       "date": "2026-04-24",
@@ -107,9 +107,9 @@
     },
     {
       "date": "2026-04-28",
-      "commentary_score": -0.078,
-      "surprise_score": 0.123,
-      "n_items": 8
+      "commentary_score": -0.147,
+      "surprise_score": 0.163,
+      "n_items": 7
     },
     {
       "date": "2026-04-29",
@@ -155,9 +155,9 @@
     },
     {
       "date": "2026-05-06",
-      "commentary_score": -0.314,
-      "surprise_score": 0.104,
-      "n_items": 19
+      "commentary_score": -0.305,
+      "surprise_score": 0.119,
+      "n_items": 18
     },
     {
       "date": "2026-05-07",
@@ -227,9 +227,9 @@
     },
     {
       "date": "2026-05-18",
-      "commentary_score": -0.365,
-      "surprise_score": -0.995,
-      "n_items": 3
+      "commentary_score": -0.493,
+      "surprise_score": -0.824,
+      "n_items": 4
     },
     {
       "date": "2026-05-19",
@@ -270,7 +270,7 @@
     {
       "date": "2026-05-25",
       "commentary_score": -1.166,
-      "surprise_score": -0.307,
+      "surprise_score": -0.293,
       "n_items": 12
     },
     {
@@ -287,15 +287,15 @@
     },
     {
       "date": "2026-05-28",
-      "commentary_score": -1.132,
-      "surprise_score": -0.348,
-      "n_items": 11
+      "commentary_score": -0.971,
+      "surprise_score": -0.298,
+      "n_items": 12
     },
     {
       "date": "2026-05-29",
-      "commentary_score": -1.111,
-      "surprise_score": -0.367,
-      "n_items": 11
+      "commentary_score": -1.089,
+      "surprise_score": -0.286,
+      "n_items": 12
     },
     {
       "date": "2026-05-30",
@@ -311,9 +311,9 @@
     },
     {
       "date": "2026-06-01",
-      "commentary_score": -0.925,
-      "surprise_score": -0.283,
-      "n_items": 12
+      "commentary_score": -0.923,
+      "surprise_score": -0.214,
+      "n_items": 11
     },
     {
       "date": "2026-06-02",
@@ -353,9 +353,9 @@
     },
     {
       "date": "2026-06-08",
-      "commentary_score": -0.043,
-      "surprise_score": 0.293,
-      "n_items": 8
+      "commentary_score": -0.038,
+      "surprise_score": 0.255,
+      "n_items": 9
     },
     {
       "date": "2026-06-09",
@@ -371,15 +371,15 @@
     },
     {
       "date": "2026-06-11",
-      "commentary_score": -0.038,
-      "surprise_score": 0.255,
-      "n_items": 9
-    },
-    {
-      "date": "2026-06-12",
       "commentary_score": -0.04,
       "surprise_score": 0.271,
       "n_items": 8
+    },
+    {
+      "date": "2026-06-12",
+      "commentary_score": 0.071,
+      "surprise_score": 0.302,
+      "n_items": 7
     },
     {
       "date": "2026-06-13",
@@ -437,8 +437,8 @@
     },
     {
       "date": "2026-06-22",
-      "commentary_score": 0.131,
-      "surprise_score": 0.015,
+      "commentary_score": 0.108,
+      "surprise_score": 0.012,
       "n_items": 8
     },
     {
@@ -479,9 +479,9 @@
     },
     {
       "date": "2026-06-29",
-      "commentary_score": -0.155,
-      "surprise_score": 0.037,
-      "n_items": 10
+      "commentary_score": -0.138,
+      "surprise_score": 0.033,
+      "n_items": 11
     },
     {
       "date": "2026-06-30",
@@ -521,15 +521,15 @@
     },
     {
       "date": "2026-07-06",
-      "commentary_score": -0.205,
-      "surprise_score": 0.091,
-      "n_items": 10
-    },
-    {
-      "date": "2026-07-07",
       "commentary_score": -0.224,
       "surprise_score": 0.1,
       "n_items": 9
+    },
+    {
+      "date": "2026-07-07",
+      "commentary_score": -0.136,
+      "surprise_score": 0.061,
+      "n_items": 11
     },
     {
       "date": "2026-07-08",
@@ -558,8 +558,8 @@
       "stance": 2.5,
       "prior": 1.5,
       "surprise": 1.0,
-      "weight": 0.113,
-      "contribution": 0.113,
+      "weight": 0.11,
+      "contribution": 0.11,
       "phrase": "prepared to tighten if the inflation outlook deteriorates",
       "headline": "BoE's Mann: \"I am confident that if outturns \u2013 especially in expectations \u2013 are unfavorable to the underlying inflation process, an activist move can bring inflation expectations and outcomes toward the two percent targe"
     },
@@ -570,8 +570,8 @@
       "stance": -1.5,
       "prior": -1.11,
       "surprise": -0.39,
-      "weight": 0.149,
-      "contribution": -0.058,
+      "weight": 0.145,
+      "contribution": -0.056,
       "phrase": "must be careful of getting tied into views and where rates must go",
       "headline": "BoE Governor Bailey says he is cautious on forward guidance as it is easier to put it in place than to remove it, must be careful of getting tied into views and where rates must go"
     },
@@ -582,7 +582,7 @@
       "stance": -1.0,
       "prior": -1.11,
       "surprise": 0.11,
-      "weight": 0.127,
+      "weight": 0.124,
       "contribution": 0.014,
       "phrase": "we have a softening economy and labour market",
       "headline": "BoE Governor Bailey says we have a softening economy and labour market and was the reason to not raise rates; focused on the risks of the pass-through of the energy crisis"
@@ -594,7 +594,7 @@
       "stance": 0.0,
       "prior": 1.5,
       "surprise": 0.0,
-      "weight": 0.059,
+      "weight": 0.058,
       "contribution": 0.0,
       "phrase": "BoE's chief economist Pill says the BoE is still experimenting with scenarios and external presentations",
       "headline": "BoE's chief economist Pill says the BoE is still experimenting with scenarios and external presentations"
@@ -606,13 +606,30 @@
       "stance": 0.0,
       "prior": -1.11,
       "surprise": 0.0,
-      "weight": 0.097,
+      "weight": 0.095,
       "contribution": 0.0,
       "phrase": "BoE Governor Bailey says he is frustrated they are not back at the inflation target",
       "headline": "BoE Governor Bailey says he is frustrated they are not back at the inflation target"
     }
   ],
   "key_comments": [
+    {
+      "published_at": "2026-07-02T14:00:00+00:00",
+      "speaker": "Catherine Mann",
+      "role": "mpc_external",
+      "lean_prior": "hawk",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": 2.5,
+      "prior": 1.5,
+      "surprise": 1.0,
+      "phrase": "prepared to tighten if the inflation outlook deteriorates",
+      "headline": "BoE's Mann: \"I am confident that if outturns \u2013 especially in expectations \u2013 are unfavorable to the underlying inflation process, an activist move can bring inflation expectations and outcomes toward the two percent targe",
+      "importance": 0.75,
+      "reasons": [
+        "cross-market extreme (|stance| = 2.5)"
+      ]
+    },
     {
       "published_at": "2026-07-01T13:32:00+00:00",
       "speaker": "Andrew Bailey",

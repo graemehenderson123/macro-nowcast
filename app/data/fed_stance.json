@@ -1,11 +1,11 @@
 {
   "cb": "fed",
-  "as_of": "2026-07-10T04:32:32.480831+00:00",
-  "commentary_score": 0.899,
-  "surprise_score": 0.057,
+  "as_of": "2026-07-10T10:42:18.821658+00:00",
+  "commentary_score": 0.928,
+  "surprise_score": 0.059,
   "label": "neutral",
-  "n_items_14d": 24,
-  "n_items_window": 24,
+  "n_items_14d": 23,
+  "n_items_window": 23,
   "commentary_window_days": 14,
   "n_items_total": 886,
   "history_90d": [
@@ -59,8 +59,8 @@
     },
     {
       "date": "2026-04-20",
-      "commentary_score": -0.955,
-      "surprise_score": 0.095,
+      "commentary_score": -1.265,
+      "surprise_score": -0.005,
       "n_items": 26
     },
     {
@@ -138,14 +138,14 @@
     {
       "date": "2026-05-03",
       "commentary_score": 0.706,
-      "surprise_score": 0.808,
+      "surprise_score": 0.766,
       "n_items": 33
     },
     {
       "date": "2026-05-04",
-      "commentary_score": 0.706,
-      "surprise_score": 0.747,
-      "n_items": 33
+      "commentary_score": 0.795,
+      "surprise_score": 0.827,
+      "n_items": 32
     },
     {
       "date": "2026-05-05",
@@ -281,9 +281,9 @@
     },
     {
       "date": "2026-05-27",
-      "commentary_score": 1.761,
-      "surprise_score": 0.842,
-      "n_items": 17
+      "commentary_score": 1.735,
+      "surprise_score": 0.689,
+      "n_items": 18
     },
     {
       "date": "2026-05-28",
@@ -293,9 +293,9 @@
     },
     {
       "date": "2026-05-29",
-      "commentary_score": 2.173,
-      "surprise_score": 1.467,
-      "n_items": 18
+      "commentary_score": 2.159,
+      "surprise_score": 1.306,
+      "n_items": 20
     },
     {
       "date": "2026-05-30",
@@ -365,9 +365,9 @@
     },
     {
       "date": "2026-06-10",
-      "commentary_score": 0.764,
-      "surprise_score": 0.255,
-      "n_items": 28
+      "commentary_score": 0.744,
+      "surprise_score": 0.285,
+      "n_items": 27
     },
     {
       "date": "2026-06-11",
@@ -377,9 +377,9 @@
     },
     {
       "date": "2026-06-12",
-      "commentary_score": 0.556,
-      "surprise_score": 0.011,
-      "n_items": 20
+      "commentary_score": 0.467,
+      "surprise_score": 0.035,
+      "n_items": 18
     },
     {
       "date": "2026-06-13",
@@ -420,7 +420,7 @@
     {
       "date": "2026-06-19",
       "commentary_score": 1.923,
-      "surprise_score": 0.927,
+      "surprise_score": 0.84,
       "n_items": 22
     },
     {
@@ -461,9 +461,9 @@
     },
     {
       "date": "2026-06-26",
-      "commentary_score": 1.385,
-      "surprise_score": 0.285,
-      "n_items": 29
+      "commentary_score": 1.305,
+      "surprise_score": 0.268,
+      "n_items": 30
     },
     {
       "date": "2026-06-27",
@@ -479,9 +479,9 @@
     },
     {
       "date": "2026-06-29",
-      "commentary_score": 1.287,
-      "surprise_score": 0.265,
-      "n_items": 32
+      "commentary_score": 1.228,
+      "surprise_score": 0.253,
+      "n_items": 33
     },
     {
       "date": "2026-06-30",
@@ -545,9 +545,9 @@
     },
     {
       "date": "2026-07-10",
-      "commentary_score": 0.899,
-      "surprise_score": 0.057,
-      "n_items": 24
+      "commentary_score": 0.928,
+      "surprise_score": 0.059,
+      "n_items": 23
     }
   ],
   "top_movers": [
@@ -558,8 +558,8 @@
       "stance": 2.5,
       "prior": 1.87,
       "surprise": 0.63,
-      "weight": 0.546,
-      "contribution": 0.342,
+      "weight": 0.533,
+      "contribution": 0.334,
       "phrase": "upside risks to price stability as elevated",
       "headline": "FOMC MINUTES: Participants generally saw upside risks to price stability as elevated, while downside risks to maximum employment goal had moderated a bit"
     },
@@ -570,8 +570,8 @@
       "stance": 1.5,
       "prior": 2.8,
       "surprise": -1.3,
-      "weight": 0.173,
-      "contribution": -0.224,
+      "weight": 0.168,
+      "contribution": -0.219,
       "phrase": "inflation has been taking off, which changes how you think about policy",
       "headline": "Fed's Waller (voter) says Fed policymakers have always been committed to 2% inflation and it is a credible pledge"
     },
@@ -582,8 +582,8 @@
       "stance": 2.5,
       "prior": 1.73,
       "surprise": 0.77,
-      "weight": 0.259,
-      "contribution": 0.199,
+      "weight": 0.253,
+      "contribution": 0.194,
       "phrase": "greater emphasis on its commitment to price stability",
       "headline": "[REPOST] PREVIEW: FOMC Minutes due Wednesday 8th July 2026 AT 19:00BST/14:00EDT"
     },
@@ -594,8 +594,8 @@
       "stance": 0.5,
       "prior": 1.73,
       "surprise": -1.23,
-      "weight": 0.109,
-      "contribution": -0.134,
+      "weight": 0.106,
+      "contribution": -0.131,
       "phrase": "TREASURY WRAP: T-NOTE FUTURES (M5) SETTLE 10 TICKS LOWER AT 109-18+",
       "headline": "TREASURY WRAP: T-NOTE FUTURES (M5) SETTLE 10 TICKS LOWER AT 109-18+"
     },
@@ -606,29 +606,28 @@
       "stance": 1.0,
       "prior": 2.14,
       "surprise": -1.14,
-      "weight": 0.047,
-      "contribution": -0.053,
+      "weight": 0.046,
+      "contribution": -0.052,
       "phrase": "concerned about inflation, especially in services",
       "headline": "Fed's Kashkari (2026 voter) says he is concerned about inflation, especially in services; seeing some signs of life in the labour market"
     }
   ],
   "key_comments": [
     {
-      "published_at": "2026-06-17T19:04:00+00:00",
-      "speaker": "Kevin Warsh",
-      "role": "chair",
+      "published_at": "2026-07-06T15:44:00+00:00",
+      "speaker": "Christopher Waller",
+      "role": "governor",
       "lean_prior": "hawk",
       "voting_2026": true,
-      "event_type": "off-the-cuff",
-      "stance": -2.0,
-      "prior": 1.73,
-      "surprise": -3.73,
-      "phrase": "none of the 19 at the table felt a need to tighten today",
-      "headline": "Fed Chair Warsh (Q&A) says none of the 19 at the table felt a need to tighten today",
-      "importance": 10.46,
+      "event_type": "other",
+      "stance": 1.5,
+      "prior": 2.8,
+      "surprise": -1.3,
+      "phrase": "inflation has been taking off, which changes how you think about policy",
+      "headline": "Fed's Waller (voter) says Fed policymakers have always been committed to 2% inflation and it is a credible pledge",
+      "importance": 2.6,
       "reasons": [
-        "Chair spoke",
-        "hawk-lean speaker sounded dovish (surprise -3.73)"
+        "hawk-lean speaker sounded dovish (surprise -1.30)"
       ]
     },
     {
@@ -650,6 +649,23 @@
       ]
     },
     {
+      "published_at": "2026-06-22T21:07:00+00:00",
+      "speaker": "Austan Goolsbee",
+      "role": "regional_president",
+      "lean_prior": "dove",
+      "voting_2026": false,
+      "event_type": "other",
+      "stance": 1.5,
+      "prior": 0.31,
+      "surprise": 1.19,
+      "phrase": "inflation is well above target and going the wrong way",
+      "headline": "Fed's Goolsbee (2027 voter) says inflation is well above target and going the wrong way, adds need evidence this inflation is temporary and services inflation is a little disturbing",
+      "importance": 2.38,
+      "reasons": [
+        "dove-lean speaker sounded hawkish (surprise +1.19)"
+      ]
+    },
+    {
       "published_at": "2026-06-17T20:05:00+00:00",
       "speaker": "FED (institutional)",
       "role": "institutional",
@@ -665,6 +681,24 @@
       "reasons": [
         "official CB statement (stance +4.00)",
         "strong policy signal (|stance| = 4.0)"
+      ]
+    },
+    {
+      "published_at": "2026-06-17T19:04:00+00:00",
+      "speaker": "Kevin Warsh",
+      "role": "chair",
+      "lean_prior": "hawk",
+      "voting_2026": true,
+      "event_type": "off-the-cuff",
+      "stance": -2.0,
+      "prior": 1.73,
+      "surprise": -3.73,
+      "phrase": "none of the 19 at the table felt a need to tighten today",
+      "headline": "Fed Chair Warsh (Q&A) says none of the 19 at the table felt a need to tighten today",
+      "importance": 10.46,
+      "reasons": [
+        "Chair spoke",
+        "hawk-lean speaker sounded dovish (surprise -3.73)"
       ]
     }
   ],

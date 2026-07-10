@@ -1,6 +1,6 @@
 {
   "cb": "brl",
-  "as_of": "2026-07-10T04:32:34.297552+00:00",
+  "as_of": "2026-07-10T10:42:20.634853+00:00",
   "commentary_score": -0.045,
   "surprise_score": -0.146,
   "label": "neutral",
@@ -558,8 +558,8 @@
       "stance": -2.5,
       "prior": 0.2,
       "surprise": -2.7,
-      "weight": 0.079,
-      "contribution": -0.215,
+      "weight": 0.077,
+      "contribution": -0.209,
       "phrase": "Committee reaffirms serenity and cautiousness in the conduction of monetary policy",
       "headline": "Brazil Central Bank cuts Selic Rate by 25bps to 14.25%, as expected, with the decision unanimous"
     },
@@ -570,8 +570,8 @@
       "stance": 1.5,
       "prior": 0.2,
       "surprise": 1.3,
-      "weight": 0.12,
-      "contribution": 0.156,
+      "weight": 0.117,
+      "contribution": 0.152,
       "phrase": "Upside risks to inflation have increased",
       "headline": "BCB Minutes: Committee reiterates that the magnitude of the calibration cycle will be adjusted in light of developments in the scenario"
     },
@@ -582,7 +582,7 @@
       "stance": 0.0,
       "prior": 0.2,
       "surprise": 0.0,
-      "weight": 0.039,
+      "weight": 0.038,
       "contribution": 0.0,
       "phrase": "BCB Focus Market Survey: 2026 Selic rate view 13.75% (prev. 13.50%), 2027 Selic rate view 12% (prev. 11.50%)",
       "headline": "BCB Focus Market Survey: 2026 Selic rate view 13.75% (prev. 13.50%), 2027 Selic rate view 12% (prev. 11.50%)"
@@ -594,7 +594,7 @@
       "stance": 0.0,
       "prior": 0.2,
       "surprise": 0.0,
-      "weight": 0.105,
+      "weight": 0.102,
       "contribution": 0.0,
       "phrase": "BCB 2026 forecasts: GDP +2.0% (prev. 1.6%), Current account balance USD -56bln (prev. USD -58bln); Trade balance USD +79bln (prev. USD +73bl",
       "headline": "BCB 2026 forecasts: GDP +2.0% (prev. 1.6%), Current account balance USD -56bln (prev. USD -58bln); Trade balance USD +79bln (prev. USD +73bln); bank lending +9.0% (prev. +9.0%)."
@@ -606,7 +606,7 @@
       "stance": 0.0,
       "prior": 1.5,
       "surprise": 0.0,
-      "weight": 0.059,
+      "weight": 0.058,
       "contribution": 0.0,
       "phrase": "there is no change of any kind in monetary policy",
       "headline": "BCB Chief Galipolo says their communication problem might have been trying to explain too much, rather than a lack of transparency; there is no change of any kind in monetary policy"

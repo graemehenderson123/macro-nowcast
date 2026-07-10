@@ -1,6 +1,6 @@
 {
   "cb": "krw",
-  "as_of": "2026-07-10T04:32:33.420286+00:00",
+  "as_of": "2026-07-10T10:42:19.753707+00:00",
   "commentary_score": 0.895,
   "surprise_score": 0.022,
   "label": "neutral",
@@ -119,9 +119,9 @@
     },
     {
       "date": "2026-04-30",
-      "commentary_score": -0.564,
-      "surprise_score": -0.564,
-      "n_items": 4
+      "commentary_score": -0.626,
+      "surprise_score": -0.626,
+      "n_items": 3
     },
     {
       "date": "2026-05-01",
@@ -558,8 +558,8 @@
       "stance": 2.0,
       "prior": 0.68,
       "surprise": 1.32,
-      "weight": 0.562,
-      "contribution": 0.742,
+      "weight": 0.548,
+      "contribution": 0.724,
       "phrase": "inflation seen exceeding target with demand-side pressure growing gradually",
       "headline": "BoK says KRW weakness is sharper than other major currencies, will continue making market stabilising efforts, inflation seen exceeding target with demand-side pressure growing gradually"
     },
@@ -570,8 +570,8 @@
       "stance": -1.0,
       "prior": 0.68,
       "surprise": -1.68,
-      "weight": 0.24,
-      "contribution": -0.404,
+      "weight": 0.234,
+      "contribution": -0.394,
       "phrase": "expects inflation to remain high for some time",
       "headline": "BoK says July CPI inflation is to ease from June's but expects inflation to remain high for some time"
     },
@@ -582,8 +582,8 @@
       "stance": 1.5,
       "prior": 2.14,
       "surprise": -0.64,
-      "weight": 0.268,
-      "contribution": -0.172,
+      "weight": 0.262,
+      "contribution": -0.168,
       "phrase": "interest rates need to be raised at an appropriate time",
       "headline": "BoK Governor Shin says interest rates need to be raised at an appropriate time"
     },
@@ -594,8 +594,8 @@
       "stance": -1.0,
       "prior": 0.68,
       "surprise": -1.68,
-      "weight": 0.091,
-      "contribution": -0.153,
+      "weight": 0.089,
+      "contribution": -0.15,
       "phrase": "warns of household debt and leverage",
       "headline": "Bank of Korea Board Member Hwang warns of household debt and leverage"
     },
@@ -606,32 +606,13 @@
       "stance": 3.0,
       "prior": 2.14,
       "surprise": 0.86,
-      "weight": 0.022,
+      "weight": 0.021,
       "contribution": 0.018,
       "phrase": "interest rates need to be raised before its too late",
       "headline": "BoK Governor Shin says interest rates need to be raised before its too late and inflation is to exceed target for a considerable period of time"
     }
   ],
   "key_comments": [
-    {
-      "published_at": "2026-06-12T01:01:00+00:00",
-      "speaker": "Shin Hyun Song",
-      "role": "chair",
-      "lean_prior": "neutral",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": 3.0,
-      "prior": 2.14,
-      "surprise": 0.86,
-      "phrase": "interest rates need to be raised before its too late",
-      "headline": "BoK Governor Shin says interest rates need to be raised before its too late and inflation is to exceed target for a considerable period of time",
-      "importance": 5.36,
-      "reasons": [
-        "Chair spoke",
-        "notable move vs own prior (surprise +0.86)",
-        "cross-market extreme (|stance| = 3.0)"
-      ]
-    },
     {
       "published_at": "2026-07-09T01:26:00+00:00",
       "speaker": "Shin Hyun Song",
@@ -666,6 +647,25 @@
       "reasons": [
         "official CB statement (stance +2.00)",
         "strong policy signal (|stance| = 2.0)"
+      ]
+    },
+    {
+      "published_at": "2026-06-12T01:01:00+00:00",
+      "speaker": "Shin Hyun Song",
+      "role": "chair",
+      "lean_prior": "neutral",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": 3.0,
+      "prior": 2.14,
+      "surprise": 0.86,
+      "phrase": "interest rates need to be raised before its too late",
+      "headline": "BoK Governor Shin says interest rates need to be raised before its too late and inflation is to exceed target for a considerable period of time",
+      "importance": 5.36,
+      "reasons": [
+        "Chair spoke",
+        "notable move vs own prior (surprise +0.86)",
+        "cross-market extreme (|stance| = 3.0)"
       ]
     }
   ],
