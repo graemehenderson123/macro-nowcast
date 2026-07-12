@@ -1,6 +1,6 @@
 {
   "cb": "brl",
-  "as_of": "2026-07-11T04:31:55.857474+00:00",
+  "as_of": "2026-07-12T04:31:51.605602+00:00",
   "commentary_score": -0.045,
   "surprise_score": -0.146,
   "label": "neutral",
@@ -9,12 +9,6 @@
   "commentary_window_days": 30,
   "n_items_total": 45,
   "history_90d": [
-    {
-      "date": "2026-04-13",
-      "commentary_score": -1.0,
-      "surprise_score": -2.5,
-      "n_items": 2
-    },
     {
       "date": "2026-04-14",
       "commentary_score": -1.0,
@@ -548,6 +542,12 @@
       "commentary_score": -0.045,
       "surprise_score": -0.146,
       "n_items": 5
+    },
+    {
+      "date": "2026-07-12",
+      "commentary_score": -0.045,
+      "surprise_score": -0.146,
+      "n_items": 5
     }
   ],
   "top_movers": [
@@ -558,8 +558,8 @@
       "stance": -2.5,
       "prior": 0.2,
       "surprise": -2.7,
-      "weight": 0.072,
-      "contribution": -0.194,
+      "weight": 0.065,
+      "contribution": -0.176,
       "phrase": "Committee reaffirms serenity and cautiousness in the conduction of monetary policy",
       "headline": "Brazil Central Bank cuts Selic Rate by 25bps to 14.25%, as expected, with the decision unanimous"
     },
@@ -570,8 +570,8 @@
       "stance": 1.5,
       "prior": 0.2,
       "surprise": 1.3,
-      "weight": 0.109,
-      "contribution": 0.141,
+      "weight": 0.099,
+      "contribution": 0.128,
       "phrase": "Upside risks to inflation have increased",
       "headline": "BCB Minutes: Committee reiterates that the magnitude of the calibration cycle will be adjusted in light of developments in the scenario"
     },
@@ -582,7 +582,7 @@
       "stance": 0.0,
       "prior": 0.2,
       "surprise": 0.0,
-      "weight": 0.035,
+      "weight": 0.032,
       "contribution": 0.0,
       "phrase": "BCB Focus Market Survey: 2026 Selic rate view 13.75% (prev. 13.50%), 2027 Selic rate view 12% (prev. 11.50%)",
       "headline": "BCB Focus Market Survey: 2026 Selic rate view 13.75% (prev. 13.50%), 2027 Selic rate view 12% (prev. 11.50%)"
@@ -594,7 +594,7 @@
       "stance": 0.0,
       "prior": 0.2,
       "surprise": 0.0,
-      "weight": 0.095,
+      "weight": 0.086,
       "contribution": 0.0,
       "phrase": "BCB 2026 forecasts: GDP +2.0% (prev. 1.6%), Current account balance USD -56bln (prev. USD -58bln); Trade balance USD +79bln (prev. USD +73bl",
       "headline": "BCB 2026 forecasts: GDP +2.0% (prev. 1.6%), Current account balance USD -56bln (prev. USD -58bln); Trade balance USD +79bln (prev. USD +73bln); bank lending +9.0% (prev. +9.0%)."
@@ -606,7 +606,7 @@
       "stance": 0.0,
       "prior": 1.5,
       "surprise": 0.0,
-      "weight": 0.054,
+      "weight": 0.048,
       "contribution": 0.0,
       "phrase": "there is no change of any kind in monetary policy",
       "headline": "BCB Chief Galipolo says their communication problem might have been trying to explain too much, rather than a lack of transparency; there is no change of any kind in monetary policy"
@@ -633,7 +633,7 @@
     }
   ],
   "speaker_board": {
-    "effective_window_days": 247,
+    "effective_window_days": 248,
     "long_window_days": 365,
     "recent_window_days": 14,
     "speakers": [

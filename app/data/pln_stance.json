@@ -1,6 +1,6 @@
 {
   "cb": "pln",
-  "as_of": "2026-07-11T04:31:55.455003+00:00",
+  "as_of": "2026-07-12T04:31:51.208381+00:00",
   "commentary_score": -2.542,
   "surprise_score": -2.114,
   "label": "dovish",
@@ -9,12 +9,6 @@
   "commentary_window_days": 30,
   "n_items_total": 35,
   "history_90d": [
-    {
-      "date": "2026-04-13",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 2
-    },
     {
       "date": "2026-04-14",
       "commentary_score": 0.0,
@@ -548,6 +542,12 @@
       "commentary_score": -2.542,
       "surprise_score": -2.114,
       "n_items": 4
+    },
+    {
+      "date": "2026-07-12",
+      "commentary_score": -2.542,
+      "surprise_score": -2.114,
+      "n_items": 4
     }
   ],
   "top_movers": [
@@ -558,8 +558,8 @@
       "stance": -2.0,
       "prior": 1.5,
       "surprise": -3.5,
-      "weight": 0.168,
-      "contribution": -0.589,
+      "weight": 0.152,
+      "contribution": -0.533,
       "phrase": "grounds to consider rate cuts later this year",
       "headline": "NBP's Kotecki says there are grounds to consider rate cuts later this year"
     },
@@ -570,8 +570,8 @@
       "stance": -3.0,
       "prior": -1.5,
       "surprise": -1.5,
-      "weight": 0.34,
-      "contribution": -0.51,
+      "weight": 0.308,
+      "contribution": -0.462,
       "phrase": "think a rate cut this year is likely",
       "headline": "NBP Governor Glapinski says level of rates is appropriate; think a rate cut this year is likely; not worried about PLN FX level"
     },
@@ -582,8 +582,8 @@
       "stance": -1.5,
       "prior": 1.5,
       "surprise": -3.0,
-      "weight": 0.017,
-      "contribution": -0.05,
+      "weight": 0.015,
+      "contribution": -0.045,
       "phrase": "MPC is less inclined to hike rates than a month ago",
       "headline": "NBP's Kotecki says the MPC is less inclined to hike rates than a month ago, it is too early to signal a rate cut and rates are likely to remain on hold for the rest of 2026 and perhaps until March 2027"
     },
@@ -594,7 +594,7 @@
       "stance": 0.0,
       "prior": 0.0,
       "surprise": 0.0,
-      "weight": 0.019,
+      "weight": 0.017,
       "contribution": 0.0,
       "phrase": "monetary policy to remain stable in the coming months",
       "headline": "NBP's Duda says the base scenario is for monetary policy to remain stable in the coming months"
@@ -638,7 +638,7 @@
     }
   ],
   "speaker_board": {
-    "effective_window_days": 246,
+    "effective_window_days": 247,
     "long_window_days": 365,
     "recent_window_days": 14,
     "speakers": [

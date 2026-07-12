@@ -1,20 +1,14 @@
 {
   "cb": "krw",
-  "as_of": "2026-07-11T04:31:54.972967+00:00",
-  "commentary_score": 0.895,
-  "surprise_score": 0.022,
+  "as_of": "2026-07-12T04:31:50.733330+00:00",
+  "commentary_score": 0.862,
+  "surprise_score": 0.009,
   "label": "neutral",
-  "n_items_14d": 6,
-  "n_items_window": 6,
+  "n_items_14d": 5,
+  "n_items_window": 5,
   "commentary_window_days": 30,
   "n_items_total": 30,
   "history_90d": [
-    {
-      "date": "2026-04-13",
-      "commentary_score": -0.593,
-      "surprise_score": -0.593,
-      "n_items": 5
-    },
     {
       "date": "2026-04-14",
       "commentary_score": -0.593,
@@ -548,6 +542,12 @@
       "commentary_score": 0.895,
       "surprise_score": 0.022,
       "n_items": 6
+    },
+    {
+      "date": "2026-07-12",
+      "commentary_score": 0.862,
+      "surprise_score": 0.009,
+      "n_items": 5
     }
   ],
   "top_movers": [
@@ -558,8 +558,8 @@
       "stance": 2.0,
       "prior": 0.68,
       "surprise": 1.32,
-      "weight": 0.509,
-      "contribution": 0.672,
+      "weight": 0.461,
+      "contribution": 0.609,
       "phrase": "inflation seen exceeding target with demand-side pressure growing gradually",
       "headline": "BoK says KRW weakness is sharper than other major currencies, will continue making market stabilising efforts, inflation seen exceeding target with demand-side pressure growing gradually"
     },
@@ -570,8 +570,8 @@
       "stance": -1.0,
       "prior": 0.68,
       "surprise": -1.68,
-      "weight": 0.218,
-      "contribution": -0.366,
+      "weight": 0.197,
+      "contribution": -0.331,
       "phrase": "expects inflation to remain high for some time",
       "headline": "BoK says July CPI inflation is to ease from June's but expects inflation to remain high for some time"
     },
@@ -582,8 +582,8 @@
       "stance": 1.5,
       "prior": 2.14,
       "surprise": -0.64,
-      "weight": 0.243,
-      "contribution": -0.156,
+      "weight": 0.22,
+      "contribution": -0.141,
       "phrase": "interest rates need to be raised at an appropriate time",
       "headline": "BoK Governor Shin says interest rates need to be raised at an appropriate time"
     },
@@ -594,22 +594,22 @@
       "stance": -1.0,
       "prior": 0.68,
       "surprise": -1.68,
-      "weight": 0.083,
-      "contribution": -0.139,
+      "weight": 0.075,
+      "contribution": -0.126,
       "phrase": "warns of household debt and leverage",
       "headline": "Bank of Korea Board Member Hwang warns of household debt and leverage"
     },
     {
-      "published_at": "2026-06-12T01:01:00+00:00",
+      "published_at": "2026-07-09T02:29:00+00:00",
       "speaker": "Shin Hyun Song",
       "event_type": "other",
-      "stance": 3.0,
+      "stance": 0.0,
       "prior": 2.14,
-      "surprise": 0.86,
-      "weight": 0.02,
-      "contribution": 0.017,
-      "phrase": "interest rates need to be raised before its too late",
-      "headline": "BoK Governor Shin says interest rates need to be raised before its too late and inflation is to exceed target for a considerable period of time"
+      "surprise": 0.0,
+      "weight": 0.184,
+      "contribution": 0.0,
+      "phrase": "BoK Governor Shin says they are in talks with other central banks all the time to discuss markets, sees a strong chance of a stronger KRW",
+      "headline": "BoK Governor Shin says they are in talks with other central banks all the time to discuss markets, sees a strong chance of a stronger KRW"
     }
   ],
   "key_comments": [
@@ -648,29 +648,10 @@
         "official CB statement (stance +2.00)",
         "strong policy signal (|stance| = 2.0)"
       ]
-    },
-    {
-      "published_at": "2026-06-12T01:01:00+00:00",
-      "speaker": "Shin Hyun Song",
-      "role": "chair",
-      "lean_prior": "neutral",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": 3.0,
-      "prior": 2.14,
-      "surprise": 0.86,
-      "phrase": "interest rates need to be raised before its too late",
-      "headline": "BoK Governor Shin says interest rates need to be raised before its too late and inflation is to exceed target for a considerable period of time",
-      "importance": 5.36,
-      "reasons": [
-        "Chair spoke",
-        "notable move vs own prior (surprise +0.86)",
-        "cross-market extreme (|stance| = 3.0)"
-      ]
     }
   ],
   "speaker_board": {
-    "effective_window_days": 226,
+    "effective_window_days": 227,
     "long_window_days": 365,
     "recent_window_days": 14,
     "speakers": [

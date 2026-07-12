@@ -1,6 +1,6 @@
 {
   "cb": "fed",
-  "as_of": "2026-07-11T04:31:54.024020+00:00",
+  "as_of": "2026-07-12T04:31:49.813066+00:00",
   "commentary_score": 0.825,
   "surprise_score": 0.087,
   "label": "neutral",
@@ -9,12 +9,6 @@
   "commentary_window_days": 14,
   "n_items_total": 890,
   "history_90d": [
-    {
-      "date": "2026-04-13",
-      "commentary_score": -0.575,
-      "surprise_score": -0.11,
-      "n_items": 19
-    },
     {
       "date": "2026-04-14",
       "commentary_score": -0.754,
@@ -548,6 +542,12 @@
       "commentary_score": 0.825,
       "surprise_score": 0.087,
       "n_items": 24
+    },
+    {
+      "date": "2026-07-12",
+      "commentary_score": 0.825,
+      "surprise_score": 0.087,
+      "n_items": 24
     }
   ],
   "top_movers": [
@@ -558,8 +558,8 @@
       "stance": 2.5,
       "prior": 1.87,
       "surprise": 0.63,
-      "weight": 0.495,
-      "contribution": 0.31,
+      "weight": 0.448,
+      "contribution": 0.281,
       "phrase": "upside risks to price stability as elevated",
       "headline": "FOMC MINUTES: Participants generally saw upside risks to price stability as elevated, while downside risks to maximum employment goal had moderated a bit"
     },
@@ -570,8 +570,8 @@
       "stance": 1.5,
       "prior": 2.8,
       "surprise": -1.3,
-      "weight": 0.156,
-      "contribution": -0.203,
+      "weight": 0.142,
+      "contribution": -0.184,
       "phrase": "inflation has been taking off, which changes how you think about policy",
       "headline": "Fed's Waller (voter) says Fed policymakers have always been committed to 2% inflation and it is a credible pledge"
     },
@@ -582,8 +582,8 @@
       "stance": 2.5,
       "prior": 1.73,
       "surprise": 0.77,
-      "weight": 0.235,
-      "contribution": 0.18,
+      "weight": 0.213,
+      "contribution": 0.163,
       "phrase": "greater emphasis on its commitment to price stability",
       "headline": "[REPOST] PREVIEW: FOMC Minutes due Wednesday 8th July 2026 AT 19:00BST/14:00EDT"
     },
@@ -594,8 +594,8 @@
       "stance": 0.5,
       "prior": 1.73,
       "surprise": -1.23,
-      "weight": 0.099,
-      "contribution": -0.122,
+      "weight": 0.089,
+      "contribution": -0.11,
       "phrase": "TREASURY WRAP: T-NOTE FUTURES (M5) SETTLE 10 TICKS LOWER AT 109-18+",
       "headline": "TREASURY WRAP: T-NOTE FUTURES (M5) SETTLE 10 TICKS LOWER AT 109-18+"
     },
@@ -606,8 +606,8 @@
       "stance": 2.0,
       "prior": 1.52,
       "surprise": 0.48,
-      "weight": 0.208,
-      "contribution": 0.099,
+      "weight": 0.189,
+      "contribution": 0.09,
       "phrase": "Inflation is far too high.",
       "headline": "Fed's Williams (Voter) says there is good understanding about ways to shift demand for reserves; Balance sheeet debate should not be about the nominal size of holdings"
     }
@@ -631,6 +631,23 @@
       ]
     },
     {
+      "published_at": "2026-06-26T15:30:00+00:00",
+      "speaker": "Neel Kashkari",
+      "role": "regional_president",
+      "lean_prior": "hawk",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": 1.0,
+      "prior": 2.14,
+      "surprise": -1.14,
+      "phrase": "concerned about inflation, especially in services",
+      "headline": "Fed's Kashkari (2026 voter) says he is concerned about inflation, especially in services; seeing some signs of life in the labour market",
+      "importance": 2.28,
+      "reasons": [
+        "hawk-lean speaker sounded dovish (surprise -1.14)"
+      ]
+    },
+    {
       "published_at": "2026-06-24T00:07:00+00:00",
       "speaker": "Kevin Warsh",
       "role": "chair",
@@ -646,23 +663,6 @@
       "reasons": [
         "Chair spoke",
         "hawk-lean speaker sounded dovish (surprise -3.23)"
-      ]
-    },
-    {
-      "published_at": "2026-06-22T21:07:00+00:00",
-      "speaker": "Austan Goolsbee",
-      "role": "regional_president",
-      "lean_prior": "dove",
-      "voting_2026": false,
-      "event_type": "other",
-      "stance": 1.5,
-      "prior": 0.31,
-      "surprise": 1.19,
-      "phrase": "inflation is well above target and going the wrong way",
-      "headline": "Fed's Goolsbee (2027 voter) says inflation is well above target and going the wrong way, adds need evidence this inflation is temporary and services inflation is a little disturbing",
-      "importance": 2.38,
-      "reasons": [
-        "dove-lean speaker sounded hawkish (surprise +1.19)"
       ]
     },
     {
@@ -703,7 +703,7 @@
     }
   ],
   "speaker_board": {
-    "effective_window_days": 252,
+    "effective_window_days": 253,
     "long_window_days": 365,
     "recent_window_days": 14,
     "speakers": [

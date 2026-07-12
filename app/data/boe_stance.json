@@ -1,6 +1,6 @@
 {
   "cb": "boe",
-  "as_of": "2026-07-11T04:31:54.214595+00:00",
+  "as_of": "2026-07-12T04:31:50.002163+00:00",
   "commentary_score": 0.139,
   "surprise_score": 0.021,
   "label": "neutral",
@@ -9,12 +9,6 @@
   "commentary_window_days": 14,
   "n_items_total": 215,
   "history_90d": [
-    {
-      "date": "2026-04-13",
-      "commentary_score": -0.92,
-      "surprise_score": -0.285,
-      "n_items": 5
-    },
     {
       "date": "2026-04-14",
       "commentary_score": -0.941,
@@ -548,6 +542,12 @@
       "commentary_score": 0.139,
       "surprise_score": 0.021,
       "n_items": 11
+    },
+    {
+      "date": "2026-07-12",
+      "commentary_score": 0.139,
+      "surprise_score": 0.021,
+      "n_items": 11
     }
   ],
   "top_movers": [
@@ -558,8 +558,8 @@
       "stance": 2.5,
       "prior": 1.5,
       "surprise": 1.0,
-      "weight": 0.102,
-      "contribution": 0.102,
+      "weight": 0.093,
+      "contribution": 0.093,
       "phrase": "prepared to tighten if the inflation outlook deteriorates",
       "headline": "BoE's Mann: \"I am confident that if outturns \u2013 especially in expectations \u2013 are unfavorable to the underlying inflation process, an activist move can bring inflation expectations and outcomes toward the two percent targe"
     },
@@ -570,8 +570,8 @@
       "stance": -1.5,
       "prior": -1.11,
       "surprise": -0.39,
-      "weight": 0.135,
-      "contribution": -0.052,
+      "weight": 0.122,
+      "contribution": -0.047,
       "phrase": "must be careful of getting tied into views and where rates must go",
       "headline": "BoE Governor Bailey says he is cautious on forward guidance as it is easier to put it in place than to remove it, must be careful of getting tied into views and where rates must go"
     },
@@ -582,8 +582,8 @@
       "stance": 1.5,
       "prior": 1.67,
       "surprise": -0.17,
-      "weight": 0.182,
-      "contribution": -0.032,
+      "weight": 0.165,
+      "contribution": -0.029,
       "phrase": "interest rates may need to increase this year to keep rising prices under control",
       "headline": "BoE Chief Economist Pill says interest rates may need to increase this year to keep rising prices under control"
     },
@@ -594,8 +594,8 @@
       "stance": -1.0,
       "prior": -1.11,
       "surprise": 0.11,
-      "weight": 0.115,
-      "contribution": 0.013,
+      "weight": 0.105,
+      "contribution": 0.012,
       "phrase": "we have a softening economy and labour market",
       "headline": "BoE Governor Bailey says we have a softening economy and labour market and was the reason to not raise rates; focused on the risks of the pass-through of the energy crisis"
     },
@@ -606,7 +606,7 @@
       "stance": 0.0,
       "prior": 1.67,
       "surprise": 0.0,
-      "weight": 0.053,
+      "weight": 0.048,
       "contribution": 0.0,
       "phrase": "BoE's chief economist Pill says the BoE is still experimenting with scenarios and external presentations",
       "headline": "BoE's chief economist Pill says the BoE is still experimenting with scenarios and external presentations"
@@ -683,7 +683,7 @@
     }
   ],
   "speaker_board": {
-    "effective_window_days": 248,
+    "effective_window_days": 249,
     "long_window_days": 365,
     "recent_window_days": 14,
     "speakers": [

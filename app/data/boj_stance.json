@@ -1,20 +1,14 @@
 {
   "cb": "boj",
-  "as_of": "2026-07-11T04:31:54.304357+00:00",
-  "commentary_score": -0.647,
-  "surprise_score": -0.605,
+  "as_of": "2026-07-12T04:31:50.085620+00:00",
+  "commentary_score": -0.656,
+  "surprise_score": -0.628,
   "label": "lean dovish",
-  "n_items_14d": 17,
-  "n_items_window": 17,
+  "n_items_14d": 16,
+  "n_items_window": 16,
   "commentary_window_days": 30,
   "n_items_total": 175,
   "history_90d": [
-    {
-      "date": "2026-04-13",
-      "commentary_score": -0.499,
-      "surprise_score": -0.434,
-      "n_items": 11
-    },
     {
       "date": "2026-04-14",
       "commentary_score": -0.214,
@@ -548,6 +542,12 @@
       "commentary_score": -0.647,
       "surprise_score": -0.605,
       "n_items": 17
+    },
+    {
+      "date": "2026-07-12",
+      "commentary_score": -0.656,
+      "surprise_score": -0.628,
+      "n_items": 16
     }
   ],
   "top_movers": [
@@ -558,8 +558,8 @@
       "stance": -3.0,
       "prior": -0.41,
       "surprise": -2.59,
-      "weight": 0.202,
-      "contribution": -0.524,
+      "weight": 0.183,
+      "contribution": -0.474,
       "phrase": "a rate hike could slow the economy",
       "headline": "BoJ's Asada says a rate hike could slow the economy"
     },
@@ -570,10 +570,22 @@
       "stance": -1.5,
       "prior": -0.41,
       "surprise": -1.09,
-      "weight": 0.148,
-      "contribution": -0.161,
+      "weight": 0.134,
+      "contribution": -0.146,
       "phrase": "the inflation target must be met with support from rising demand and wages, prior to a rate hike",
       "headline": "BoJ's Asada says the inflation target must be met with support from rising demand and wages, prior to a rate hike. Not against hikes, future decision on the assessment of conditions."
+    },
+    {
+      "published_at": "2026-06-24T06:41:00+00:00",
+      "speaker": "Kazuo Ueda",
+      "event_type": "other",
+      "stance": -1.0,
+      "prior": 1.13,
+      "surprise": -2.13,
+      "weight": 0.051,
+      "contribution": -0.109,
+      "phrase": "Financial environment remains accommodative after recent rate hike.",
+      "headline": "BoJ's Ueda says Japan's economy is recovering moderately albeit with some weakness; Economic growth likely to slow but continue to moderate recovery"
     },
     {
       "published_at": "2026-06-22T00:25:00+00:00",
@@ -582,22 +594,10 @@
       "stance": -2.0,
       "prior": 0.31,
       "surprise": -2.31,
-      "weight": 0.048,
-      "contribution": -0.111,
+      "weight": 0.043,
+      "contribution": -0.1,
       "phrase": "Accommodative conditions are expected to continue.",
       "headline": "BoJ Deputy Governor Himino says takes some time for policy to have an impact on the economy"
-    },
-    {
-      "published_at": "2026-06-24T06:41:00+00:00",
-      "speaker": "Kazuo Ueda",
-      "event_type": "other",
-      "stance": -1.0,
-      "prior": 0.88,
-      "surprise": -1.88,
-      "weight": 0.056,
-      "contribution": -0.106,
-      "phrase": "Financial environment remains accommodative after recent rate hike.",
-      "headline": "BoJ's Ueda says Japan's economy is recovering moderately albeit with some weakness; Economic growth likely to slow but continue to moderate recovery"
     },
     {
       "published_at": "2026-06-16T07:11:00+00:00",
@@ -606,8 +606,8 @@
       "stance": 1.0,
       "prior": -1.5,
       "surprise": 2.5,
-      "weight": 0.041,
-      "contribution": 0.102,
+      "weight": 0.037,
+      "contribution": 0.092,
       "phrase": "Today's decision took into account the risk of having to raise rates by a large margin if policy adjustment is delayed.",
       "headline": "BoJ Deputy Governor Uchida (post-policy press conference) says the primary difference between April and June is the reduced risk on the economy"
     }
@@ -621,14 +621,14 @@
       "voting_2026": true,
       "event_type": "other",
       "stance": -1.0,
-      "prior": 0.88,
-      "surprise": -1.88,
+      "prior": 1.13,
+      "surprise": -2.13,
       "phrase": "Financial environment remains accommodative after recent rate hike.",
       "headline": "BoJ's Ueda says Japan's economy is recovering moderately albeit with some weakness; Economic growth likely to slow but continue to moderate recovery",
-      "importance": 4.88,
+      "importance": 5.13,
       "reasons": [
         "Chair spoke",
-        "notable move vs own prior (surprise -1.88)"
+        "notable move vs own prior (surprise -2.13)"
       ]
     },
     {
@@ -705,7 +705,7 @@
     }
   ],
   "speaker_board": {
-    "effective_window_days": 248,
+    "effective_window_days": 249,
     "long_window_days": 365,
     "recent_window_days": 14,
     "speakers": [

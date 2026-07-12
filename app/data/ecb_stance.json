@@ -1,20 +1,14 @@
 {
   "cb": "ecb",
-  "as_of": "2026-07-11T04:31:54.121608+00:00",
+  "as_of": "2026-07-12T04:31:49.905308+00:00",
   "commentary_score": 0.122,
-  "surprise_score": -0.227,
+  "surprise_score": -0.152,
   "label": "neutral",
   "n_items_14d": 22,
   "n_items_window": 22,
   "commentary_window_days": 14,
   "n_items_total": 509,
   "history_90d": [
-    {
-      "date": "2026-04-13",
-      "commentary_score": 0.434,
-      "surprise_score": 0.223,
-      "n_items": 16
-    },
     {
       "date": "2026-04-14",
       "commentary_score": 0.333,
@@ -548,6 +542,12 @@
       "commentary_score": 0.122,
       "surprise_score": -0.227,
       "n_items": 22
+    },
+    {
+      "date": "2026-07-12",
+      "commentary_score": 0.122,
+      "surprise_score": -0.152,
+      "n_items": 22
     }
   ],
   "top_movers": [
@@ -558,8 +558,8 @@
       "stance": -1.0,
       "prior": 1.95,
       "surprise": -2.95,
-      "weight": 0.134,
-      "contribution": -0.394,
+      "weight": 0.121,
+      "contribution": -0.357,
       "phrase": "Cannot simply look through the shock.",
       "headline": "ECB's Schnabel says not in a pre-war situation even after fall in oil prices"
     },
@@ -570,8 +570,8 @@
       "stance": -2.0,
       "prior": 1.0,
       "surprise": -3.0,
-      "weight": 0.091,
-      "contribution": -0.272,
+      "weight": 0.082,
+      "contribution": -0.246,
       "phrase": "the case for further tightening is receding",
       "headline": "ECB's Wunsch tells Econostream that the case for further tightening is receding and any surprise in EZ inflation before the July meeting is more likely to be on the downside,"
     },
@@ -582,8 +582,8 @@
       "stance": -2.0,
       "prior": 1.0,
       "surprise": -3.0,
-      "weight": 0.082,
-      "contribution": -0.247,
+      "weight": 0.075,
+      "contribution": -0.224,
       "phrase": "maybe good to stay where we are for some time",
       "headline": "ECB's Stournaras says maybe good to stay where we are for some time and doesn't think anything will happen in July"
     },
@@ -594,8 +594,8 @@
       "stance": 1.5,
       "prior": 0.47,
       "surprise": 1.03,
-      "weight": 0.198,
-      "contribution": 0.203,
+      "weight": 0.179,
+      "contribution": 0.184,
       "phrase": "confident that they made the right choice regarding the June rate hike",
       "headline": "ECB published interview with Lagarde by Les Echos conducted on June 24th, which stated that they are are confident that they made the right choice regarding the June rate hike"
     },
@@ -606,8 +606,8 @@
       "stance": 2.0,
       "prior": 0.47,
       "surprise": 1.53,
-      "weight": 0.113,
-      "contribution": 0.173,
+      "weight": 0.103,
+      "contribution": 0.157,
       "phrase": "we are more likely to face shocks in the coming years that push inflation away from target",
       "headline": "ECB's Lagarde says we are more likely to face shocks in the coming years that push inflation away from target"
     }
@@ -631,20 +631,38 @@
       ]
     },
     {
-      "published_at": "2026-07-03T15:49:00+00:00",
-      "speaker": "Joachim Nagel",
+      "published_at": "2026-07-02T21:08:00+00:00",
+      "speaker": "Christine Lagarde",
+      "role": "chair",
+      "lean_prior": "dove",
+      "voting_2026": true,
+      "event_type": "off-the-cuff",
+      "stance": 1.5,
+      "prior": 0.47,
+      "surprise": 1.03,
+      "phrase": "confident that they made the right choice regarding the June rate hike",
+      "headline": "ECB published interview with Lagarde by Les Echos conducted on June 24th, which stated that they are are confident that they made the right choice regarding the June rate hike",
+      "importance": 5.06,
+      "reasons": [
+        "Chair spoke",
+        "dove-lean speaker sounded hawkish (surprise +1.03)"
+      ]
+    },
+    {
+      "published_at": "2026-07-01T17:38:00+00:00",
+      "speaker": "Yannis Stournaras",
       "role": "regional_president",
-      "lean_prior": "hawk",
+      "lean_prior": "dove",
       "voting_2026": true,
       "event_type": "other",
-      "stance": -1.5,
-      "prior": 0.5,
-      "surprise": -2.0,
-      "phrase": "The ECB should be vigilant and keep optionality.",
-      "headline": "ECB's Nagel says Germany took a very important step forward on reforms",
-      "importance": 4.0,
+      "stance": -2.0,
+      "prior": 1.0,
+      "surprise": -3.0,
+      "phrase": "maybe good to stay where we are for some time",
+      "headline": "ECB's Stournaras says maybe good to stay where we are for some time and doesn't think anything will happen in July",
+      "importance": 3.0,
       "reasons": [
-        "hawk-lean speaker sounded dovish (surprise -2.00)"
+        "voter's stance moved more dovish vs own prior (surprise -3.00)"
       ]
     },
     {
@@ -681,28 +699,10 @@
         "Chair spoke",
         "dove-lean speaker sounded hawkish (surprise +1.53)"
       ]
-    },
-    {
-      "published_at": "2026-06-11T13:06:00+00:00",
-      "speaker": "Christine Lagarde",
-      "role": "chair",
-      "lean_prior": "dove",
-      "voting_2026": true,
-      "event_type": "off-the-cuff",
-      "stance": 2.0,
-      "prior": 0.47,
-      "surprise": 1.53,
-      "phrase": "if we were not taking this very obvious policy decision, we\u2019d be north of our inflation target",
-      "headline": "ECB President Lagarde (Q&A) says decision was unanimous to raise rates",
-      "importance": 6.06,
-      "reasons": [
-        "Chair spoke",
-        "dove-lean speaker sounded hawkish (surprise +1.53)"
-      ]
     }
   ],
   "speaker_board": {
-    "effective_window_days": 249,
+    "effective_window_days": 250,
     "long_window_days": 365,
     "recent_window_days": 14,
     "speakers": [
