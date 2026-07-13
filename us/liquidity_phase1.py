@@ -25,17 +25,42 @@ OUT_HTML = ROOT / "dashboard.html"
 OUT_DIR = ROOT / "charts"
 OUT_DIR.mkdir(exist_ok=True)
 
-# Load FRED API key from workspace .env
+# ---------------------------------------------------------------------------
+# FRED key resolution — lazy, env-first.
+#
+# Historically this module ran `FRED_KEY = load_key()` at import time, reading
+# the workspace .env. On Streamlit Cloud there is no workspace .env, so the
+# import blew up with 'Failed to build pillars: name FRED_KEY is not defined'.
+#
+# Fix (mirrors the 10 Jul fix applied to nowcast_core.py): resolve the key
+# ONLY when something reads `FRED_KEY`, prefer os.environ, fall back to .env
+# if present. On Streamlit Cloud, streamlit_app.py copies
+# st.secrets['FRED_API_KEY'] into os.environ at boot so this Just Works.
+# ---------------------------------------------------------------------------
+import os
 ENV_FILE = ROOT.parent.parent / ".env"
-def load_key():
-    if not ENV_FILE.exists():
-        raise RuntimeError(f"Missing {ENV_FILE}")
-    for line in ENV_FILE.read_text().splitlines():
-        if line.startswith("FRED_API_KEY="):
-            return line.split("=", 1)[1].strip()
-    raise RuntimeError("FRED_API_KEY not in .env")
 
-FRED_KEY = load_key()
+def load_key():
+    env_key = os.environ.get("FRED_API_KEY")
+    if env_key:
+        return env_key
+    if ENV_FILE.exists():
+        for line in ENV_FILE.read_text().splitlines():
+            if line.startswith("FRED_API_KEY="):
+                return line.split("=", 1)[1].strip()
+    raise RuntimeError(
+        "FRED_API_KEY not found — set the env var or add it to .env"
+    )
+
+_FRED_KEY_CACHE: 'str | None' = None
+
+def __getattr__(name):
+    global _FRED_KEY_CACHE
+    if name == "FRED_KEY":
+        if _FRED_KEY_CACHE is None:
+            _FRED_KEY_CACHE = load_key()
+        return _FRED_KEY_CACHE
+    raise AttributeError(name)
 
 # ============================================================================
 # Series catalogue — Liquidity pillar per INDICATOR-WEIGHTS.md
