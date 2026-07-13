@@ -54,12 +54,20 @@ def load_key():
 
 _FRED_KEY_CACHE: 'str | None' = None
 
-def __getattr__(name):
+def _get_key():
+    """Return the cached FRED key, loading it lazily on first call.
+
+    Module-level __getattr__ only fires for external `module.FRED_KEY`
+    lookups; intra-module code must call this helper instead.
+    """
     global _FRED_KEY_CACHE
+    if _FRED_KEY_CACHE is None:
+        _FRED_KEY_CACHE = load_key()
+    return _FRED_KEY_CACHE
+
+def __getattr__(name):
     if name == "FRED_KEY":
-        if _FRED_KEY_CACHE is None:
-            _FRED_KEY_CACHE = load_key()
-        return _FRED_KEY_CACHE
+        return _get_key()
     raise AttributeError(name)
 
 # ============================================================================
@@ -112,7 +120,7 @@ def fetch_series(series_id: str, con: sqlite3.Connection) -> pd.Series:
     last_obs = cur.fetchone()[0]
     params = {
         "series_id": series_id,
-        "api_key": FRED_KEY,
+        "api_key": _get_key(),
         "file_type": "json",
         "sort_order": "asc",
     }

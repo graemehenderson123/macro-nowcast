@@ -64,12 +64,22 @@ def load_fred_key() -> str:
 _FRED_KEY_CACHE: str | None = None
 
 
-def __getattr__(name: str):
+def _get_key() -> str:
+    """Return the cached FRED key, loading it lazily on first call.
+
+    NOTE: Python's module-level __getattr__ does NOT fire for bare name
+    lookups INSIDE the module (only for `nowcast_core.FRED_KEY` from outside).
+    So intra-module code MUST call this helper, not reference bare FRED_KEY.
+    """
     global _FRED_KEY_CACHE
+    if _FRED_KEY_CACHE is None:
+        _FRED_KEY_CACHE = load_fred_key()
+    return _FRED_KEY_CACHE
+
+
+def __getattr__(name: str):
     if name == "FRED_KEY":
-        if _FRED_KEY_CACHE is None:
-            _FRED_KEY_CACHE = load_fred_key()
-        return _FRED_KEY_CACHE
+        return _get_key()
     raise AttributeError(f"module {__name__!r} has no attribute {name!r}")
 
 # ---------------------------------------------------------------------------
@@ -142,7 +152,7 @@ def fetch_series(series_id: str, con: sqlite3.Connection, start: str = "2005-01-
     last_obs = last_obs_row[0] if last_obs_row else None
     params = {
         "series_id": series_id,
-        "api_key": FRED_KEY,
+        "api_key": _get_key(),
         "file_type": "json",
         "sort_order": "asc",
     }
@@ -177,7 +187,7 @@ def fetch_series(series_id: str, con: sqlite3.Connection, start: str = "2005-01-
     try:
         meta_url = "https://api.stlouisfed.org/fred/series"
         mr = requests.get(meta_url, params={
-            "series_id": series_id, "api_key": FRED_KEY, "file_type": "json"
+            "series_id": series_id, "api_key": _get_key(), "file_type": "json"
         }, timeout=15)
         if mr.ok:
             info = mr.json().get("seriess", [])
