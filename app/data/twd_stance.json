@@ -1,6 +1,6 @@
 {
   "cb": "twd",
-  "as_of": "2026-07-12T04:31:50.815187+00:00",
+  "as_of": "2026-07-13T04:31:43.659566+00:00",
   "commentary_score": 0.0,
   "surprise_score": 0.0,
   "label": "neutral",
@@ -9,12 +9,6 @@
   "commentary_window_days": 30,
   "n_items_total": 2,
   "history_90d": [
-    {
-      "date": "2026-04-14",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 1
-    },
     {
       "date": "2026-04-15",
       "commentary_score": 0.0,
@@ -548,6 +542,12 @@
       "commentary_score": 0.0,
       "surprise_score": 0.0,
       "n_items": 1
+    },
+    {
+      "date": "2026-07-13",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 1
     }
   ],
   "top_movers": [
@@ -558,7 +558,7 @@
       "stance": 0.0,
       "prior": 0.0,
       "surprise": 0.0,
-      "weight": 0.068,
+      "weight": 0.062,
       "contribution": 0.0,
       "phrase": "Taiwan Central Bank leaves its benchmark interest rate unchanged at 2.00%, as expected",
       "headline": "Taiwan Central Bank leaves its benchmark interest rate unchanged at 2.00%, as expected"
@@ -566,7 +566,7 @@
   ],
   "key_comments": [],
   "speaker_board": {
-    "effective_window_days": 114,
+    "effective_window_days": 115,
     "long_window_days": 365,
     "recent_window_days": 14,
     "speakers": [

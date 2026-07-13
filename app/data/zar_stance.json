@@ -1,6 +1,6 @@
 {
   "cb": "zar",
-  "as_of": "2026-07-12T04:31:51.450838+00:00",
+  "as_of": "2026-07-13T04:31:44.295318+00:00",
   "commentary_score": 0.0,
   "surprise_score": 0.0,
   "label": "neutral",
@@ -9,12 +9,6 @@
   "commentary_window_days": 30,
   "n_items_total": 7,
   "history_90d": [
-    {
-      "date": "2026-04-14",
-      "commentary_score": -1.5,
-      "surprise_score": -1.5,
-      "n_items": 1
-    },
     {
       "date": "2026-04-15",
       "commentary_score": -1.5,
@@ -548,12 +542,18 @@
       "commentary_score": 0.0,
       "surprise_score": 0.0,
       "n_items": 0
+    },
+    {
+      "date": "2026-07-13",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
     }
   ],
   "top_movers": [],
   "key_comments": [],
   "speaker_board": {
-    "effective_window_days": 233,
+    "effective_window_days": 234,
     "long_window_days": 365,
     "recent_window_days": 14,
     "speakers": [

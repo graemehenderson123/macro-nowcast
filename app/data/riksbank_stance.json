@@ -1,6 +1,6 @@
 {
   "cb": "riksbank",
-  "as_of": "2026-07-12T04:31:50.495597+00:00",
+  "as_of": "2026-07-13T04:31:43.350004+00:00",
   "commentary_score": 1.316,
   "surprise_score": 1.316,
   "label": "lean hawkish",
@@ -9,12 +9,6 @@
   "commentary_window_days": 30,
   "n_items_total": 33,
   "history_90d": [
-    {
-      "date": "2026-04-14",
-      "commentary_score": -1.046,
-      "surprise_score": -1.046,
-      "n_items": 2
-    },
     {
       "date": "2026-04-15",
       "commentary_score": -1.046,
@@ -548,6 +542,12 @@
       "commentary_score": 1.316,
       "surprise_score": 1.316,
       "n_items": 2
+    },
+    {
+      "date": "2026-07-13",
+      "commentary_score": 1.316,
+      "surprise_score": 1.316,
+      "n_items": 2
     }
   ],
   "top_movers": [
@@ -558,8 +558,8 @@
       "stance": 1.5,
       "prior": 0.0,
       "surprise": 1.5,
-      "weight": 0.061,
-      "contribution": 0.092,
+      "weight": 0.056,
+      "contribution": 0.083,
       "phrase": "the probability that the rate will be raised later this year has increased",
       "headline": "Swedish Riksbank Policy Announcement (Jun) 1.75% vs. Exp. 1.75% (Prev. 1.75%); probability of a hike in 2026 has increased relative to the March assessment"
     },
@@ -570,8 +570,8 @@
       "stance": 1.0,
       "prior": 0.0,
       "surprise": 1.0,
-      "weight": 0.036,
-      "contribution": 0.036,
+      "weight": 0.032,
+      "contribution": 0.032,
       "phrase": "the risk outlook becomes more balanced",
       "headline": "Riksbank Minutes (Jun):"
     }
@@ -613,7 +613,7 @@
     }
   ],
   "speaker_board": {
-    "effective_window_days": 248,
+    "effective_window_days": 249,
     "long_window_days": 365,
     "recent_window_days": 14,
     "speakers": [

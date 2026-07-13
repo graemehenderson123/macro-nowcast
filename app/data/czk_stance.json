@@ -1,20 +1,14 @@
 {
   "cb": "czk",
-  "as_of": "2026-07-12T04:31:51.289097+00:00",
+  "as_of": "2026-07-13T04:31:44.132187+00:00",
   "commentary_score": 1.665,
-  "surprise_score": 0.692,
+  "surprise_score": 0.63,
   "label": "lean hawkish",
   "n_items_14d": 4,
   "n_items_window": 4,
   "commentary_window_days": 30,
   "n_items_total": 38,
   "history_90d": [
-    {
-      "date": "2026-04-14",
-      "commentary_score": 0.784,
-      "surprise_score": 1.372,
-      "n_items": 3
-    },
     {
       "date": "2026-04-15",
       "commentary_score": 0.784,
@@ -548,6 +542,12 @@
       "commentary_score": 1.665,
       "surprise_score": 0.692,
       "n_items": 4
+    },
+    {
+      "date": "2026-07-13",
+      "commentary_score": 1.665,
+      "surprise_score": 0.63,
+      "n_items": 4
     }
   ],
   "top_movers": [
@@ -558,8 +558,8 @@
       "stance": 1.5,
       "prior": -1.5,
       "surprise": 3.0,
-      "weight": 0.029,
-      "contribution": 0.087,
+      "weight": 0.026,
+      "contribution": 0.078,
       "phrase": "rate hike will help tame core inflation",
       "headline": "CNB's Michl says the rate hike will help tame core inflation, which remains elevated"
     },
@@ -568,10 +568,10 @@
       "speaker": "CZK (institutional)",
       "event_type": "statement",
       "stance": 2.5,
-      "prior": 1.79,
-      "surprise": 0.71,
-      "weight": 0.061,
-      "contribution": 0.043,
+      "prior": 1.89,
+      "surprise": 0.61,
+      "weight": 0.055,
+      "contribution": 0.034,
       "phrase": "maintaining inflation near target in long-term requires relatively strict policy",
       "headline": "CNB Statement (Jun): Vote split 6-1, dissentor voted for no change; decision was made on the May quarterly forecast and new information since then"
     },
@@ -580,10 +580,10 @@
       "speaker": "CZK (institutional)",
       "event_type": "statement",
       "stance": 2.0,
-      "prior": 1.79,
-      "surprise": 0.21,
-      "weight": 0.078,
-      "contribution": 0.016,
+      "prior": 1.89,
+      "surprise": 0.11,
+      "weight": 0.07,
+      "contribution": 0.008,
       "phrase": "hikes rates by 25bps to 3.75%",
       "headline": "CNB hikes rates by 25bps to 3.75%, as expected"
     },
@@ -592,9 +592,9 @@
       "speaker": "CZK (institutional)",
       "event_type": "statement",
       "stance": 0.0,
-      "prior": 1.79,
+      "prior": 1.89,
       "surprise": 0.0,
-      "weight": 0.043,
+      "weight": 0.039,
       "contribution": 0.0,
       "phrase": "Czech CNB Interest Rate Decision 3.75% vs. Exp. 3.75% (Prev. 3.5%)",
       "headline": "Czech CNB Interest Rate Decision 3.75% vs. Exp. 3.75% (Prev. 3.5%)"
@@ -627,8 +627,8 @@
       "voting_2026": true,
       "event_type": "statement",
       "stance": 2.5,
-      "prior": 1.79,
-      "surprise": 0.71,
+      "prior": 1.89,
+      "surprise": 0.61,
       "phrase": "maintaining inflation near target in long-term requires relatively strict policy",
       "headline": "CNB Statement (Jun): Vote split 6-1, dissentor voted for no change; decision was made on the May quarterly forecast and new information since then",
       "importance": 3.75,
@@ -639,7 +639,7 @@
     }
   ],
   "speaker_board": {
-    "effective_window_days": 247,
+    "effective_window_days": 248,
     "long_window_days": 365,
     "recent_window_days": 14,
     "speakers": [

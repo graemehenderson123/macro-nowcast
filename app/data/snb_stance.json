@@ -1,6 +1,6 @@
 {
   "cb": "snb",
-  "as_of": "2026-07-12T04:31:50.411580+00:00",
+  "as_of": "2026-07-13T04:31:43.270332+00:00",
   "commentary_score": -1.746,
   "surprise_score": -0.271,
   "label": "neutral",
@@ -9,12 +9,6 @@
   "commentary_window_days": 30,
   "n_items_total": 52,
   "history_90d": [
-    {
-      "date": "2026-04-14",
-      "commentary_score": -1.402,
-      "surprise_score": -0.465,
-      "n_items": 5
-    },
     {
       "date": "2026-04-15",
       "commentary_score": -1.402,
@@ -548,6 +542,12 @@
       "commentary_score": -1.746,
       "surprise_score": -0.271,
       "n_items": 8
+    },
+    {
+      "date": "2026-07-13",
+      "commentary_score": -1.746,
+      "surprise_score": -0.271,
+      "n_items": 8
     }
   ],
   "top_movers": [
@@ -558,8 +558,8 @@
       "stance": -2.0,
       "prior": -1.61,
       "surprise": -0.39,
-      "weight": 0.447,
-      "contribution": -0.173,
+      "weight": 0.405,
+      "contribution": -0.157,
       "phrase": "if necessary we would do it",
       "headline": "SNB Chairman says we are at 0% rates, bar to go negative is high, but if necessary we would do it"
     },
@@ -570,8 +570,8 @@
       "stance": -2.0,
       "prior": -1.65,
       "surprise": -0.35,
-      "weight": 0.248,
-      "contribution": -0.086,
+      "weight": 0.224,
+      "contribution": -0.078,
       "phrase": "ready to intervene in the FX market if needed",
       "headline": "SNB Chairman Schlegel says ready to intervene in the FX market if needed"
     },
@@ -582,8 +582,8 @@
       "stance": -1.5,
       "prior": -1.61,
       "surprise": 0.11,
-      "weight": 0.068,
-      "contribution": 0.008,
+      "weight": 0.061,
+      "contribution": 0.007,
       "phrase": "readiness to intervene in FX is higher",
       "headline": "Swiss SNB Policy Announcement (Jun) 0.00% vs. Exp. 0.00% (Prev. 0.00%); readiness to intervene in FX is higher. Monetary policy is appropriate to keep inflation within the range consistent with price stability."
     },
@@ -594,8 +594,8 @@
       "stance": -1.5,
       "prior": -1.65,
       "surprise": 0.15,
-      "weight": 0.038,
-      "contribution": 0.006,
+      "weight": 0.034,
+      "contribution": 0.005,
       "phrase": "monetary policy continues to have an expansionary effect",
       "headline": "SNB Chairman Schlegel: Monetary policy continues to have an expansionary effect. Geopolitical uncertainty remains, risks of strong upward pressure on the CHF remains. \"If necessary, we therefore have an increased willing"
     },
@@ -606,7 +606,7 @@
       "stance": 0.0,
       "prior": -1.5,
       "surprise": 0.0,
-      "weight": 0.019,
+      "weight": 0.017,
       "contribution": 0.0,
       "phrase": "SNB's Martin: The baseline scenario remains subject to high uncertainty, above all because the situation in the Middle East is still fragile",
       "headline": "SNB's Martin: The baseline scenario remains subject to high uncertainty, above all because the situation in the Middle East is still fragile"
@@ -667,7 +667,7 @@
     }
   ],
   "speaker_board": {
-    "effective_window_days": 249,
+    "effective_window_days": 250,
     "long_window_days": 365,
     "recent_window_days": 14,
     "speakers": [

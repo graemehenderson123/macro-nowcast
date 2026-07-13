@@ -1,6 +1,6 @@
 {
   "cb": "boj",
-  "as_of": "2026-07-12T04:31:50.085620+00:00",
+  "as_of": "2026-07-13T04:31:42.945406+00:00",
   "commentary_score": -0.656,
   "surprise_score": -0.628,
   "label": "lean dovish",
@@ -9,12 +9,6 @@
   "commentary_window_days": 30,
   "n_items_total": 175,
   "history_90d": [
-    {
-      "date": "2026-04-14",
-      "commentary_score": -0.214,
-      "surprise_score": -0.192,
-      "n_items": 12
-    },
     {
       "date": "2026-04-15",
       "commentary_score": -0.214,
@@ -548,6 +542,12 @@
       "commentary_score": -0.656,
       "surprise_score": -0.628,
       "n_items": 16
+    },
+    {
+      "date": "2026-07-13",
+      "commentary_score": -0.656,
+      "surprise_score": -0.628,
+      "n_items": 16
     }
   ],
   "top_movers": [
@@ -558,8 +558,8 @@
       "stance": -3.0,
       "prior": -0.41,
       "surprise": -2.59,
-      "weight": 0.183,
-      "contribution": -0.474,
+      "weight": 0.166,
+      "contribution": -0.43,
       "phrase": "a rate hike could slow the economy",
       "headline": "BoJ's Asada says a rate hike could slow the economy"
     },
@@ -570,8 +570,8 @@
       "stance": -1.5,
       "prior": -0.41,
       "surprise": -1.09,
-      "weight": 0.134,
-      "contribution": -0.146,
+      "weight": 0.121,
+      "contribution": -0.132,
       "phrase": "the inflation target must be met with support from rising demand and wages, prior to a rate hike",
       "headline": "BoJ's Asada says the inflation target must be met with support from rising demand and wages, prior to a rate hike. Not against hikes, future decision on the assessment of conditions."
     },
@@ -582,8 +582,8 @@
       "stance": -1.0,
       "prior": 1.13,
       "surprise": -2.13,
-      "weight": 0.051,
-      "contribution": -0.109,
+      "weight": 0.046,
+      "contribution": -0.098,
       "phrase": "Financial environment remains accommodative after recent rate hike.",
       "headline": "BoJ's Ueda says Japan's economy is recovering moderately albeit with some weakness; Economic growth likely to slow but continue to moderate recovery"
     },
@@ -594,8 +594,8 @@
       "stance": -2.0,
       "prior": 0.31,
       "surprise": -2.31,
-      "weight": 0.043,
-      "contribution": -0.1,
+      "weight": 0.039,
+      "contribution": -0.091,
       "phrase": "Accommodative conditions are expected to continue.",
       "headline": "BoJ Deputy Governor Himino says takes some time for policy to have an impact on the economy"
     },
@@ -606,8 +606,8 @@
       "stance": 1.0,
       "prior": -1.5,
       "surprise": 2.5,
-      "weight": 0.037,
-      "contribution": 0.092,
+      "weight": 0.033,
+      "contribution": 0.084,
       "phrase": "Today's decision took into account the risk of having to raise rates by a large margin if policy adjustment is delayed.",
       "headline": "BoJ Deputy Governor Uchida (post-policy press conference) says the primary difference between April and June is the reduced risk on the economy"
     }
@@ -705,7 +705,7 @@
     }
   ],
   "speaker_board": {
-    "effective_window_days": 249,
+    "effective_window_days": 250,
     "long_window_days": 365,
     "recent_window_days": 14,
     "speakers": [
