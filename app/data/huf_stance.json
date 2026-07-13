@@ -1,13 +1,13 @@
 {
   "cb": "huf",
-  "as_of": "2026-07-13T04:31:43.971167+00:00",
-  "commentary_score": -2.0,
-  "surprise_score": -2.0,
+  "as_of": "2026-07-13T13:03:28.324408+00:00",
+  "commentary_score": -2.856,
+  "surprise_score": -4.141,
   "label": "dovish",
-  "n_items_14d": 1,
-  "n_items_window": 1,
+  "n_items_14d": 2,
+  "n_items_window": 2,
   "commentary_window_days": 30,
-  "n_items_total": 8,
+  "n_items_total": 9,
   "history_90d": [
     {
       "date": "2026-04-15",
@@ -101,9 +101,9 @@
     },
     {
       "date": "2026-04-30",
-      "commentary_score": 0.0,
+      "commentary_score": 1.5,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-05-01",
@@ -281,9 +281,9 @@
     },
     {
       "date": "2026-05-30",
-      "commentary_score": 0.14,
+      "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 2
+      "n_items": 1
     },
     {
       "date": "2026-05-31",
@@ -545,12 +545,24 @@
     },
     {
       "date": "2026-07-13",
-      "commentary_score": -2.0,
-      "surprise_score": -2.0,
-      "n_items": 1
+      "commentary_score": -2.856,
+      "surprise_score": -4.141,
+      "n_items": 2
     }
   ],
   "top_movers": [
+    {
+      "published_at": "2026-07-13T09:53:00+00:00",
+      "speaker": "Mihaly Varga",
+      "event_type": "other",
+      "stance": -3.0,
+      "prior": 1.5,
+      "surprise": -4.5,
+      "weight": 0.444,
+      "contribution": -1.999,
+      "phrase": "scope for further rate cuts this summer",
+      "headline": "NBH Governor Varga says there is scope for further rate cuts this summer"
+    },
     {
       "published_at": "2026-06-23T13:13:00+00:00",
       "speaker": "HUF (institutional)",
@@ -558,13 +570,32 @@
       "stance": -2.0,
       "prior": 0.0,
       "surprise": -2.0,
-      "weight": 0.077,
-      "contribution": -0.154,
+      "weight": 0.075,
+      "contribution": -0.149,
       "phrase": "room for further interest rate cuts throughout the summer",
       "headline": "MNB sees room for further interest rate cuts throughout the summer if favourable conditions persist"
     }
   ],
   "key_comments": [
+    {
+      "published_at": "2026-07-13T09:53:00+00:00",
+      "speaker": "Mihaly Varga",
+      "role": "chair",
+      "lean_prior": "hawk",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": -3.0,
+      "prior": 1.5,
+      "surprise": -4.5,
+      "phrase": "scope for further rate cuts this summer",
+      "headline": "NBH Governor Varga says there is scope for further rate cuts this summer",
+      "importance": 13.5,
+      "reasons": [
+        "Chair spoke",
+        "hawk-lean speaker sounded dovish (surprise -4.50)",
+        "cross-market extreme (|stance| = 3.0)"
+      ]
+    },
     {
       "published_at": "2026-06-23T13:13:00+00:00",
       "speaker": "HUF (institutional)",
@@ -613,17 +644,17 @@
         "voting_2026": true,
         "lean_prior": "hawk",
         "weight_speaker": 1.0,
-        "n_long": 3,
-        "mean_long": -0.333,
-        "mean_long_conf_weighted": -0.3,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": 1.5,
-        "last_headline": "NBH Governor Varga says that the forint gains have helped the Bank reach its inflation target",
-        "last_phrase": "forint gains have helped the Bank reach its inflation target",
-        "last_published_at": "2026-04-30T04:46:00+00:00"
+        "n_long": 4,
+        "mean_long": -1.0,
+        "mean_long_conf_weighted": -1.138,
+        "n_recent": 1,
+        "mean_recent": -3.0,
+        "mean_recent_conf_weighted": -3.0,
+        "delta": -1.862,
+        "last_stance": -3.0,
+        "last_headline": "NBH Governor Varga says there is scope for further rate cuts this summer",
+        "last_phrase": "scope for further rate cuts this summer",
+        "last_published_at": "2026-07-13T09:53:00+00:00"
       },
       {
         "name": "Daniel Palotai",

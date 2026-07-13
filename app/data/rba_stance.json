@@ -1,6 +1,6 @@
 {
   "cb": "rba",
-  "as_of": "2026-07-13T04:31:43.028425+00:00",
+  "as_of": "2026-07-13T13:03:27.339394+00:00",
   "commentary_score": 2.502,
   "surprise_score": 0.76,
   "label": "lean hawkish",
@@ -311,9 +311,9 @@
     },
     {
       "date": "2026-06-04",
-      "commentary_score": 2.248,
-      "surprise_score": 2.248,
-      "n_items": 3
+      "commentary_score": 1.542,
+      "surprise_score": 0.743,
+      "n_items": 6
     },
     {
       "date": "2026-06-05",
@@ -383,9 +383,9 @@
     },
     {
       "date": "2026-06-16",
-      "commentary_score": 2.821,
-      "surprise_score": 2.544,
-      "n_items": 7
+      "commentary_score": 2.529,
+      "surprise_score": 2.065,
+      "n_items": 8
     },
     {
       "date": "2026-06-17",
@@ -491,9 +491,9 @@
     },
     {
       "date": "2026-07-04",
-      "commentary_score": 2.901,
-      "surprise_score": 0.383,
-      "n_items": 7
+      "commentary_score": 3.005,
+      "surprise_score": 0.389,
+      "n_items": 4
     },
     {
       "date": "2026-07-05",
@@ -558,8 +558,8 @@
       "stance": 1.5,
       "prior": 0.0,
       "surprise": 1.5,
-      "weight": 0.168,
-      "contribution": 0.252,
+      "weight": 0.162,
+      "contribution": 0.244,
       "phrase": "Monetary policy can potentially limit the indirect and second-round effects.",
       "headline": "RBA Assistant Governor Hunter says the Board will act as needed to ensure inflation returns to target and the labour market to sustainable full employment"
     },
@@ -570,8 +570,8 @@
       "stance": 1.5,
       "prior": 0.0,
       "surprise": 1.5,
-      "weight": 0.059,
-      "contribution": 0.088,
+      "weight": 0.057,
+      "contribution": 0.085,
       "phrase": "may consider using tools earlier, front load support",
       "headline": "RBA Assistant Governor Kent (Financial Markets) says in 'Additional Monetary Policy Tools: Reflections and a New Framework' speech that board may have less tolerance for inflation below target, and RBA may consider using"
     },
@@ -582,8 +582,8 @@
       "stance": 3.5,
       "prior": 3.35,
       "surprise": 0.15,
-      "weight": 0.196,
-      "contribution": 0.029,
+      "weight": 0.189,
+      "contribution": 0.028,
       "phrase": "will do what is needed to achieve price stability including raising rates if necessary",
       "headline": "RBA Minutes from the June meeting stated that policy needed to remain restrictive and will do what is needed to achieve price stability including raising rates if necessary"
     },
@@ -594,7 +594,7 @@
       "stance": 3.5,
       "prior": 3.35,
       "surprise": 0.15,
-      "weight": 0.056,
+      "weight": 0.054,
       "contribution": 0.008,
       "phrase": "potential further hikes if necessary citing persistent inflation",
       "headline": "RBA keeps the Cash Rate unchanged at 4.35%, as expected, but warned of potential further hikes if necessary citing persistent inflation and oil supply disruptions"
@@ -606,8 +606,8 @@
       "stance": 1.5,
       "prior": 1.27,
       "surprise": 0.23,
-      "weight": 0.024,
-      "contribution": 0.006,
+      "weight": 0.023,
+      "contribution": 0.005,
       "phrase": "cannot rule out that we might have to do more on rates",
       "headline": "RBA Governor Bullock says inflation remains too high; It's too early to say if cooling housing market will help on policy"
     }
