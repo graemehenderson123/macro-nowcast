@@ -1,19 +1,19 @@
 {
   "cb": "fed",
-  "as_of": "2026-07-14T04:32:02.655564+00:00",
-  "commentary_score": 0.911,
-  "surprise_score": -0.252,
+  "as_of": "2026-07-14T13:03:35.969641+00:00",
+  "commentary_score": 1.468,
+  "surprise_score": -0.045,
   "label": "neutral",
-  "n_items_14d": 18,
-  "n_items_window": 18,
+  "n_items_14d": 23,
+  "n_items_window": 23,
   "commentary_window_days": 14,
-  "n_items_total": 895,
+  "n_items_total": 900,
   "history_90d": [
     {
       "date": "2026-04-16",
-      "commentary_score": -0.981,
-      "surprise_score": 0.044,
-      "n_items": 21
+      "commentary_score": -0.983,
+      "surprise_score": 0.04,
+      "n_items": 23
     },
     {
       "date": "2026-04-17",
@@ -35,14 +35,14 @@
     },
     {
       "date": "2026-04-20",
-      "commentary_score": -0.955,
-      "surprise_score": 0.095,
+      "commentary_score": -1.265,
+      "surprise_score": -0.005,
       "n_items": 26
     },
     {
       "date": "2026-04-21",
-      "commentary_score": -1.094,
-      "surprise_score": 0.112,
+      "commentary_score": -1.194,
+      "surprise_score": 0.101,
       "n_items": 24
     },
     {
@@ -59,14 +59,14 @@
     },
     {
       "date": "2026-04-24",
-      "commentary_score": -0.27,
-      "surprise_score": 0.291,
-      "n_items": 30
+      "commentary_score": -0.259,
+      "surprise_score": 0.296,
+      "n_items": 29
     },
     {
       "date": "2026-04-25",
       "commentary_score": -0.259,
-      "surprise_score": 0.237,
+      "surprise_score": 0.236,
       "n_items": 29
     },
     {
@@ -89,21 +89,21 @@
     },
     {
       "date": "2026-04-29",
-      "commentary_score": -0.183,
-      "surprise_score": 0.259,
-      "n_items": 25
+      "commentary_score": -0.115,
+      "surprise_score": 0.341,
+      "n_items": 21
     },
     {
       "date": "2026-04-30",
-      "commentary_score": 0.563,
-      "surprise_score": 0.813,
-      "n_items": 35
+      "commentary_score": 0.581,
+      "surprise_score": 0.823,
+      "n_items": 33
     },
     {
       "date": "2026-05-01",
-      "commentary_score": 0.564,
-      "surprise_score": 0.81,
-      "n_items": 32
+      "commentary_score": 0.66,
+      "surprise_score": 0.796,
+      "n_items": 34
     },
     {
       "date": "2026-05-02",
@@ -114,20 +114,20 @@
     {
       "date": "2026-05-03",
       "commentary_score": 0.706,
-      "surprise_score": 0.808,
+      "surprise_score": 0.766,
       "n_items": 33
     },
     {
       "date": "2026-05-04",
-      "commentary_score": 0.706,
-      "surprise_score": 0.747,
-      "n_items": 33
+      "commentary_score": 0.795,
+      "surprise_score": 0.827,
+      "n_items": 32
     },
     {
       "date": "2026-05-05",
-      "commentary_score": 0.741,
-      "surprise_score": 0.812,
-      "n_items": 32
+      "commentary_score": 0.794,
+      "surprise_score": 0.858,
+      "n_items": 31
     },
     {
       "date": "2026-05-06",
@@ -137,15 +137,15 @@
     },
     {
       "date": "2026-05-07",
-      "commentary_score": 0.659,
-      "surprise_score": 0.556,
-      "n_items": 25
+      "commentary_score": 0.615,
+      "surprise_score": 0.516,
+      "n_items": 26
     },
     {
       "date": "2026-05-08",
-      "commentary_score": 0.514,
-      "surprise_score": 0.454,
-      "n_items": 29
+      "commentary_score": 0.255,
+      "surprise_score": 0.258,
+      "n_items": 30
     },
     {
       "date": "2026-05-09",
@@ -179,15 +179,15 @@
     },
     {
       "date": "2026-05-14",
-      "commentary_score": -0.01,
-      "surprise_score": -0.203,
-      "n_items": 23
+      "commentary_score": -0.936,
+      "surprise_score": -0.817,
+      "n_items": 25
     },
     {
       "date": "2026-05-15",
-      "commentary_score": -0.824,
-      "surprise_score": -0.765,
-      "n_items": 25
+      "commentary_score": -0.931,
+      "surprise_score": -0.827,
+      "n_items": 23
     },
     {
       "date": "2026-05-16",
@@ -221,15 +221,15 @@
     },
     {
       "date": "2026-05-21",
-      "commentary_score": 0.597,
-      "surprise_score": 0.597,
-      "n_items": 20
+      "commentary_score": 0.613,
+      "surprise_score": 0.621,
+      "n_items": 19
     },
     {
       "date": "2026-05-22",
-      "commentary_score": 0.647,
-      "surprise_score": 0.783,
-      "n_items": 18
+      "commentary_score": 0.769,
+      "surprise_score": 0.888,
+      "n_items": 17
     },
     {
       "date": "2026-05-23",
@@ -257,21 +257,21 @@
     },
     {
       "date": "2026-05-27",
-      "commentary_score": 1.761,
-      "surprise_score": 0.842,
-      "n_items": 17
+      "commentary_score": 1.735,
+      "surprise_score": 0.689,
+      "n_items": 18
     },
     {
       "date": "2026-05-28",
-      "commentary_score": 1.651,
-      "surprise_score": 1.047,
-      "n_items": 19
+      "commentary_score": 2.164,
+      "surprise_score": 1.499,
+      "n_items": 17
     },
     {
       "date": "2026-05-29",
-      "commentary_score": 2.173,
-      "surprise_score": 1.467,
-      "n_items": 18
+      "commentary_score": 1.818,
+      "surprise_score": 0.914,
+      "n_items": 23
     },
     {
       "date": "2026-05-30",
@@ -293,9 +293,9 @@
     },
     {
       "date": "2026-06-02",
-      "commentary_score": 1.485,
-      "surprise_score": 0.73,
-      "n_items": 25
+      "commentary_score": 1.307,
+      "surprise_score": 0.552,
+      "n_items": 27
     },
     {
       "date": "2026-06-03",
@@ -336,14 +336,14 @@
     {
       "date": "2026-06-09",
       "commentary_score": 0.828,
-      "surprise_score": 0.292,
+      "surprise_score": 0.276,
       "n_items": 29
     },
     {
       "date": "2026-06-10",
-      "commentary_score": 0.764,
-      "surprise_score": 0.255,
-      "n_items": 28
+      "commentary_score": 0.744,
+      "surprise_score": 0.285,
+      "n_items": 27
     },
     {
       "date": "2026-06-11",
@@ -353,9 +353,9 @@
     },
     {
       "date": "2026-06-12",
-      "commentary_score": 0.556,
-      "surprise_score": 0.011,
-      "n_items": 20
+      "commentary_score": 0.54,
+      "surprise_score": 0.207,
+      "n_items": 15
     },
     {
       "date": "2026-06-13",
@@ -372,14 +372,14 @@
     {
       "date": "2026-06-15",
       "commentary_score": 0.683,
-      "surprise_score": 0.274,
+      "surprise_score": 0.235,
       "n_items": 12
     },
     {
       "date": "2026-06-16",
-      "commentary_score": 0.683,
-      "surprise_score": 0.235,
-      "n_items": 12
+      "commentary_score": 0.761,
+      "surprise_score": 0.411,
+      "n_items": 10
     },
     {
       "date": "2026-06-17",
@@ -396,13 +396,13 @@
     {
       "date": "2026-06-19",
       "commentary_score": 1.923,
-      "surprise_score": 0.927,
+      "surprise_score": 0.84,
       "n_items": 22
     },
     {
       "date": "2026-06-20",
       "commentary_score": 1.919,
-      "surprise_score": 0.836,
+      "surprise_score": 0.785,
       "n_items": 21
     },
     {
@@ -419,15 +419,15 @@
     },
     {
       "date": "2026-06-23",
-      "commentary_score": 1.91,
-      "surprise_score": 0.546,
-      "n_items": 22
+      "commentary_score": 1.705,
+      "surprise_score": 0.36,
+      "n_items": 23
     },
     {
       "date": "2026-06-24",
-      "commentary_score": 1.554,
-      "surprise_score": 0.295,
-      "n_items": 24
+      "commentary_score": 1.551,
+      "surprise_score": 0.279,
+      "n_items": 25
     },
     {
       "date": "2026-06-25",
@@ -437,9 +437,9 @@
     },
     {
       "date": "2026-06-26",
-      "commentary_score": 1.385,
-      "surprise_score": 0.285,
-      "n_items": 29
+      "commentary_score": 1.305,
+      "surprise_score": 0.268,
+      "n_items": 30
     },
     {
       "date": "2026-06-27",
@@ -455,14 +455,14 @@
     },
     {
       "date": "2026-06-29",
-      "commentary_score": 1.287,
-      "surprise_score": 0.265,
-      "n_items": 32
+      "commentary_score": 1.228,
+      "surprise_score": 0.253,
+      "n_items": 33
     },
     {
       "date": "2026-06-30",
       "commentary_score": 1.04,
-      "surprise_score": 0.207,
+      "surprise_score": 0.208,
       "n_items": 39
     },
     {
@@ -473,9 +473,9 @@
     },
     {
       "date": "2026-07-02",
-      "commentary_score": 0.358,
-      "surprise_score": -0.158,
-      "n_items": 24
+      "commentary_score": 0.303,
+      "surprise_score": -0.161,
+      "n_items": 25
     },
     {
       "date": "2026-07-03",
@@ -503,15 +503,15 @@
     },
     {
       "date": "2026-07-07",
-      "commentary_score": 0.331,
-      "surprise_score": -0.278,
-      "n_items": 28
+      "commentary_score": 0.38,
+      "surprise_score": -0.184,
+      "n_items": 27
     },
     {
       "date": "2026-07-08",
-      "commentary_score": 0.373,
-      "surprise_score": -0.119,
-      "n_items": 27
+      "commentary_score": 0.34,
+      "surprise_score": -0.117,
+      "n_items": 26
     },
     {
       "date": "2026-07-09",
@@ -521,9 +521,9 @@
     },
     {
       "date": "2026-07-10",
-      "commentary_score": 0.808,
-      "surprise_score": 0.071,
-      "n_items": 26
+      "commentary_score": 0.827,
+      "surprise_score": 0.073,
+      "n_items": 25
     },
     {
       "date": "2026-07-11",
@@ -539,15 +539,15 @@
     },
     {
       "date": "2026-07-13",
-      "commentary_score": 0.835,
-      "surprise_score": 0.022,
-      "n_items": 25
+      "commentary_score": 0.849,
+      "surprise_score": -0.228,
+      "n_items": 24
     },
     {
       "date": "2026-07-14",
-      "commentary_score": 0.911,
-      "surprise_score": -0.252,
-      "n_items": 18
+      "commentary_score": 1.468,
+      "surprise_score": -0.045,
+      "n_items": 23
     }
   ],
   "top_movers": [
@@ -558,76 +558,76 @@
       "stance": 1.5,
       "prior": 2.85,
       "surprise": -1.35,
-      "weight": 0.443,
-      "contribution": -0.598,
+      "weight": 0.427,
+      "contribution": -0.577,
       "phrase": "Strong inflation ticked up into the Spring.",
       "headline": "Fed Monetary Policy Report: Inflation remains elevated, driven by tariffs and factors relating to the Middle East & AI"
+    },
+    {
+      "published_at": "2026-07-14T12:30:00+00:00",
+      "speaker": "Kevin Warsh",
+      "event_type": "other",
+      "stance": 3.0,
+      "prior": 1.83,
+      "surprise": 1.17,
+      "weight": 0.399,
+      "contribution": 0.469,
+      "phrase": "Fed has no tolerance for persistently elevated inflation",
+      "headline": "Fed Chair Warsh says \"if we get policy right, and we will, inflation surge of the last five years will be a thing of the past'"
+    },
+    {
+      "published_at": "2026-07-13T16:29:00+00:00",
+      "speaker": "Christopher Waller",
+      "event_type": "other",
+      "stance": 4.0,
+      "prior": 2.93,
+      "surprise": 1.07,
+      "weight": 0.289,
+      "contribution": 0.311,
+      "phrase": "if there is another hot reading on core inflation this week, the Fed will need to consider rate hike in near term",
+      "headline": "Fed's Waller (voter) says if there is another hot reading on core inflation this week, the Fed will need to consider rate hike in near term"
+    },
+    {
+      "published_at": "2026-07-13T17:05:00+00:00",
+      "speaker": "Christopher Waller",
+      "event_type": "other",
+      "stance": 2.0,
+      "prior": 2.93,
+      "surprise": -0.93,
+      "weight": 0.226,
+      "contribution": -0.209,
+      "phrase": "if he gets another higher reading on inflation, he will treat that as signal, not noise",
+      "headline": "Fed Governor Waller (Voter) says if he gets another higher reading on inflation, he will treat that as signal, not noise; says it will be a useful signal"
     },
     {
       "published_at": "2026-07-06T15:44:00+00:00",
       "speaker": "Christopher Waller",
       "event_type": "other",
       "stance": 1.5,
-      "prior": 2.8,
-      "surprise": -1.3,
-      "weight": 0.116,
-      "contribution": -0.151,
+      "prior": 2.93,
+      "surprise": -1.43,
+      "weight": 0.112,
+      "contribution": -0.16,
       "phrase": "inflation has been taking off, which changes how you think about policy",
       "headline": "Fed's Waller (voter) says Fed policymakers have always been committed to 2% inflation and it is a credible pledge"
-    },
-    {
-      "published_at": "2026-07-08T17:12:00+00:00",
-      "speaker": "Kevin Warsh",
-      "event_type": "minutes",
-      "stance": 2.5,
-      "prior": 1.73,
-      "surprise": 0.77,
-      "weight": 0.174,
-      "contribution": 0.134,
-      "phrase": "greater emphasis on its commitment to price stability",
-      "headline": "[REPOST] PREVIEW: FOMC Minutes due Wednesday 8th July 2026 AT 19:00BST/14:00EDT"
-    },
-    {
-      "published_at": "2026-07-08T18:00:00+00:00",
-      "speaker": "FED (institutional)",
-      "event_type": "statement",
-      "stance": 2.5,
-      "prior": 2.85,
-      "surprise": -0.35,
-      "weight": 0.368,
-      "contribution": -0.129,
-      "phrase": "upside risks to price stability as elevated",
-      "headline": "FOMC MINUTES: Participants generally saw upside risks to price stability as elevated, while downside risks to maximum employment goal had moderated a bit"
-    },
-    {
-      "published_at": "2026-07-01T19:28:00+00:00",
-      "speaker": "Kevin Warsh",
-      "event_type": "other",
-      "stance": 0.5,
-      "prior": 1.73,
-      "surprise": -1.23,
-      "weight": 0.073,
-      "contribution": -0.09,
-      "phrase": "TREASURY WRAP: T-NOTE FUTURES (M5) SETTLE 10 TICKS LOWER AT 109-18+",
-      "headline": "TREASURY WRAP: T-NOTE FUTURES (M5) SETTLE 10 TICKS LOWER AT 109-18+"
     }
   ],
   "key_comments": [
     {
-      "published_at": "2026-07-06T15:44:00+00:00",
+      "published_at": "2026-07-13T16:29:00+00:00",
       "speaker": "Christopher Waller",
       "role": "governor",
       "lean_prior": "hawk",
       "voting_2026": true,
       "event_type": "other",
-      "stance": 1.5,
-      "prior": 2.8,
-      "surprise": -1.3,
-      "phrase": "inflation has been taking off, which changes how you think about policy",
-      "headline": "Fed's Waller (voter) says Fed policymakers have always been committed to 2% inflation and it is a credible pledge",
-      "importance": 2.6,
+      "stance": 4.0,
+      "prior": 2.93,
+      "surprise": 1.07,
+      "phrase": "if there is another hot reading on core inflation this week, the Fed will need to consider rate hike in near term",
+      "headline": "Fed's Waller (voter) says if there is another hot reading on core inflation this week, the Fed will need to consider rate hike in near term",
+      "importance": 3.0,
       "reasons": [
-        "hawk-lean speaker sounded dovish (surprise -1.30)"
+        "cross-market extreme (|stance| = 4.0)"
       ]
     },
     {
@@ -655,14 +655,14 @@
       "voting_2026": true,
       "event_type": "other",
       "stance": -1.5,
-      "prior": 1.73,
-      "surprise": -3.23,
+      "prior": 1.83,
+      "surprise": -3.33,
       "phrase": "the US housing issue will take lower rates and more supply",
       "headline": "US Treasury Secretary Bessent says inflation will return to the target and he is confident Fed Chair Warsh will optimise path for the economy",
-      "importance": 9.46,
+      "importance": 9.66,
       "reasons": [
         "Chair spoke",
-        "hawk-lean speaker sounded dovish (surprise -3.23)"
+        "hawk-lean speaker sounded dovish (surprise -3.33)"
       ]
     },
     {
@@ -691,14 +691,14 @@
       "voting_2026": true,
       "event_type": "off-the-cuff",
       "stance": -2.0,
-      "prior": 1.73,
-      "surprise": -3.73,
+      "prior": 1.83,
+      "surprise": -3.83,
       "phrase": "none of the 19 at the table felt a need to tighten today",
       "headline": "Fed Chair Warsh (Q&A) says none of the 19 at the table felt a need to tighten today",
-      "importance": 10.46,
+      "importance": 10.66,
       "reasons": [
         "Chair spoke",
-        "hawk-lean speaker sounded dovish (surprise -3.73)"
+        "hawk-lean speaker sounded dovish (surprise -3.83)"
       ]
     }
   ],
@@ -803,17 +803,17 @@
         "voting_2026": true,
         "lean_prior": "hawk",
         "weight_speaker": 1.0,
-        "n_long": 33,
-        "mean_long": 0.439,
-        "mean_long_conf_weighted": 0.604,
-        "n_recent": 3,
-        "mean_recent": 1.5,
-        "mean_recent_conf_weighted": 1.556,
-        "delta": 0.952,
-        "last_stance": 2.5,
-        "last_headline": "[REPOST] PREVIEW: FOMC Minutes due Wednesday 8th July 2026 AT 19:00BST/14:00EDT",
-        "last_phrase": "greater emphasis on its commitment to price stability",
-        "last_published_at": "2026-07-08T17:12:00+00:00"
+        "n_long": 34,
+        "mean_long": 0.515,
+        "mean_long_conf_weighted": 0.695,
+        "n_recent": 4,
+        "mean_recent": 1.875,
+        "mean_recent_conf_weighted": 2.0,
+        "delta": 1.305,
+        "last_stance": 3.0,
+        "last_headline": "Fed Chair Warsh says \"if we get policy right, and we will, inflation surge of the last five years will be a thing of the past'",
+        "last_phrase": "Fed has no tolerance for persistently elevated inflation",
+        "last_published_at": "2026-07-14T12:30:00+00:00"
       },
       {
         "name": "Beth Hammack",
@@ -886,6 +886,24 @@
         "last_headline": "Fed's Barr (voter) says in the long run, AI is likely to add to productivity; AI must be used to promote access to credit",
         "last_phrase": "AI is likely to add to productivity",
         "last_published_at": "2026-04-15T12:56:00+00:00"
+      },
+      {
+        "name": "Christopher Waller",
+        "role": "governor",
+        "voting_2026": true,
+        "lean_prior": "hawk",
+        "weight_speaker": 0.7,
+        "n_long": 19,
+        "mean_long": -0.237,
+        "mean_long_conf_weighted": -0.128,
+        "n_recent": 4,
+        "mean_recent": 2.625,
+        "mean_recent_conf_weighted": 2.726,
+        "delta": 2.854,
+        "last_stance": 3.0,
+        "last_headline": "TREASURY WRAP: T-NOTE FUTURES (U6) SETTLE 10+ TICKS LOWER 108-22+",
+        "last_phrase": "hawkish Waller ahead of CPI",
+        "last_published_at": "2026-07-13T19:45:00+00:00"
       },
       {
         "name": "Anna Paulson",
@@ -994,24 +1012,6 @@
         "last_headline": "Fed's Goolsbee (2027 voter) says US labor market has remained stable for over a year, with hiring and layoffs muted due to elevated uncertainty",
         "last_phrase": "labor market has remained stable for over a year",
         "last_published_at": "2026-06-25T23:07:00+00:00"
-      },
-      {
-        "name": "Christopher Waller",
-        "role": "governor",
-        "voting_2026": true,
-        "lean_prior": "hawk",
-        "weight_speaker": 0.7,
-        "n_long": 16,
-        "mean_long": -0.844,
-        "mean_long_conf_weighted": -0.81,
-        "n_recent": 1,
-        "mean_recent": 1.5,
-        "mean_recent_conf_weighted": 1.5,
-        "delta": 2.31,
-        "last_stance": 1.5,
-        "last_headline": "Fed's Waller (voter) says Fed policymakers have always been committed to 2% inflation and it is a credible pledge",
-        "last_phrase": "inflation has been taking off, which changes how you think about policy",
-        "last_published_at": "2026-07-06T15:44:00+00:00"
       },
       {
         "name": "Mary Daly",

@@ -1,6 +1,6 @@
 {
   "cb": "sgd",
-  "as_of": "2026-07-14T04:32:03.915802+00:00",
+  "as_of": "2026-07-14T13:03:37.242644+00:00",
   "commentary_score": 0.0,
   "surprise_score": 0.0,
   "label": "neutral",
@@ -558,7 +558,7 @@
       "stance": 0.0,
       "prior": 0.0,
       "surprise": 0.0,
-      "weight": 0.031,
+      "weight": 0.03,
       "contribution": 0.0,
       "phrase": "economists trim Singapore 2026 GDP growth forecasts to 3.5%",
       "headline": "MAS survey of professional forecasters show economists trim Singapore 2026 GDP growth forecasts to 3.5% from 3.6%"

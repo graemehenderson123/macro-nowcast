@@ -1,6 +1,6 @@
 {
   "cb": "pln",
-  "as_of": "2026-07-14T04:32:04.073407+00:00",
+  "as_of": "2026-07-14T13:03:37.401529+00:00",
   "commentary_score": -2.542,
   "surprise_score": -2.114,
   "label": "dovish",
@@ -25,7 +25,7 @@
       "date": "2026-04-18",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 3
+      "n_items": 2
     },
     {
       "date": "2026-04-19",
@@ -49,7 +49,7 @@
       "date": "2026-04-22",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 2
+      "n_items": 1
     },
     {
       "date": "2026-04-23",
@@ -173,9 +173,9 @@
     },
     {
       "date": "2026-05-13",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 2
+      "commentary_score": 0.55,
+      "surprise_score": 0.55,
+      "n_items": 3
     },
     {
       "date": "2026-05-14",
@@ -335,9 +335,9 @@
     },
     {
       "date": "2026-06-09",
-      "commentary_score": -0.485,
-      "surprise_score": 0.301,
-      "n_items": 3
+      "commentary_score": -0.669,
+      "surprise_score": -0.164,
+      "n_items": 4
     },
     {
       "date": "2026-06-10",
@@ -353,9 +353,9 @@
     },
     {
       "date": "2026-06-12",
-      "commentary_score": -0.669,
-      "surprise_score": -0.164,
-      "n_items": 4
+      "commentary_score": -0.712,
+      "surprise_score": -0.194,
+      "n_items": 3
     },
     {
       "date": "2026-06-13",
@@ -389,9 +389,9 @@
     },
     {
       "date": "2026-06-18",
-      "commentary_score": -1.061,
-      "surprise_score": -1.435,
-      "n_items": 4
+      "commentary_score": -0.71,
+      "surprise_score": -0.961,
+      "n_items": 5
     },
     {
       "date": "2026-06-19",
@@ -515,15 +515,15 @@
     },
     {
       "date": "2026-07-09",
-      "commentary_score": -0.761,
-      "surprise_score": -1.342,
-      "n_items": 3
+      "commentary_score": -0.708,
+      "surprise_score": -1.417,
+      "n_items": 2
     },
     {
       "date": "2026-07-10",
-      "commentary_score": -2.786,
-      "surprise_score": -1.492,
-      "n_items": 3
+      "commentary_score": -2.542,
+      "surprise_score": -2.114,
+      "n_items": 4
     },
     {
       "date": "2026-07-11",
@@ -558,8 +558,8 @@
       "stance": -2.0,
       "prior": 1.5,
       "surprise": -3.5,
-      "weight": 0.125,
-      "contribution": -0.438,
+      "weight": 0.121,
+      "contribution": -0.422,
       "phrase": "grounds to consider rate cuts later this year",
       "headline": "NBP's Kotecki says there are grounds to consider rate cuts later this year"
     },
@@ -570,8 +570,8 @@
       "stance": -3.0,
       "prior": -1.5,
       "surprise": -1.5,
-      "weight": 0.253,
-      "contribution": -0.379,
+      "weight": 0.244,
+      "contribution": -0.366,
       "phrase": "think a rate cut this year is likely",
       "headline": "NBP Governor Glapinski says level of rates is appropriate; think a rate cut this year is likely; not worried about PLN FX level"
     },
@@ -583,7 +583,7 @@
       "prior": 1.5,
       "surprise": -3.0,
       "weight": 0.012,
-      "contribution": -0.037,
+      "contribution": -0.036,
       "phrase": "MPC is less inclined to hike rates than a month ago",
       "headline": "NBP's Kotecki says the MPC is less inclined to hike rates than a month ago, it is too early to signal a rate cut and rates are likely to remain on hold for the rest of 2026 and perhaps until March 2027"
     },
@@ -594,7 +594,7 @@
       "stance": 0.0,
       "prior": 0.0,
       "surprise": 0.0,
-      "weight": 0.014,
+      "weight": 0.013,
       "contribution": 0.0,
       "phrase": "monetary policy to remain stable in the coming months",
       "headline": "NBP's Duda says the base scenario is for monetary policy to remain stable in the coming months"
