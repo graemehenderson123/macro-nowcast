@@ -1,6 +1,6 @@
 {
   "cb": "cnh",
-  "as_of": "2026-07-13T13:03:27.841234+00:00",
+  "as_of": "2026-07-14T04:32:03.516372+00:00",
   "commentary_score": -1.5,
   "surprise_score": 0.0,
   "label": "neutral",
@@ -9,12 +9,6 @@
   "commentary_window_days": 30,
   "n_items_total": 6,
   "history_90d": [
-    {
-      "date": "2026-04-15",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
     {
       "date": "2026-04-16",
       "commentary_score": 0.0,
@@ -548,6 +542,12 @@
       "commentary_score": -1.5,
       "surprise_score": 0.0,
       "n_items": 1
+    },
+    {
+      "date": "2026-07-14",
+      "commentary_score": -1.5,
+      "surprise_score": 0.0,
+      "n_items": 1
     }
   ],
   "top_movers": [
@@ -558,7 +558,7 @@
       "stance": -1.5,
       "prior": -1.5,
       "surprise": 0.0,
-      "weight": 0.21,
+      "weight": 0.197,
       "contribution": 0.0,
       "phrase": "monetary policy maintains a supportive stance",
       "headline": "PBoC Governor Pan says monetary policy maintains a supportive stance, will be increasing the southbound bond connect quota to CNY 800bln from CNY 500bln"
@@ -584,7 +584,7 @@
     }
   ],
   "speaker_board": {
-    "effective_window_days": 221,
+    "effective_window_days": 222,
     "long_window_days": 365,
     "recent_window_days": 14,
     "speakers": [

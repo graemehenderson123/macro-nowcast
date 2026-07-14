@@ -1,6 +1,6 @@
 {
   "cb": "boc",
-  "as_of": "2026-07-13T13:03:27.505557+00:00",
+  "as_of": "2026-07-14T04:32:03.188857+00:00",
   "commentary_score": 0.191,
   "surprise_score": 0.257,
   "label": "neutral",
@@ -9,12 +9,6 @@
   "commentary_window_days": 30,
   "n_items_total": 61,
   "history_90d": [
-    {
-      "date": "2026-04-15",
-      "commentary_score": -1.336,
-      "surprise_score": -1.336,
-      "n_items": 5
-    },
     {
       "date": "2026-04-16",
       "commentary_score": -1.336,
@@ -257,9 +251,9 @@
     },
     {
       "date": "2026-05-26",
-      "commentary_score": 0.766,
-      "surprise_score": -0.138,
-      "n_items": 9
+      "commentary_score": 2.054,
+      "surprise_score": 0.729,
+      "n_items": 8
     },
     {
       "date": "2026-05-27",
@@ -437,9 +431,9 @@
     },
     {
       "date": "2026-06-25",
-      "commentary_score": 0.255,
-      "surprise_score": -0.759,
-      "n_items": 8
+      "commentary_score": 0.237,
+      "surprise_score": -0.769,
+      "n_items": 9
     },
     {
       "date": "2026-06-26",
@@ -548,6 +542,12 @@
       "commentary_score": 0.191,
       "surprise_score": 0.257,
       "n_items": 5
+    },
+    {
+      "date": "2026-07-14",
+      "commentary_score": 0.191,
+      "surprise_score": 0.257,
+      "n_items": 5
     }
   ],
   "top_movers": [
@@ -558,8 +558,8 @@
       "stance": 1.0,
       "prior": -0.1,
       "surprise": 1.1,
-      "weight": 0.107,
-      "contribution": 0.118,
+      "weight": 0.1,
+      "contribution": 0.11,
       "phrase": "Inflation is clearly above target.",
       "headline": "BoC Governor Macklem says we are comfortable where we are in regards to interest rates"
     },
@@ -570,8 +570,8 @@
       "stance": 1.0,
       "prior": 0.0,
       "surprise": 1.0,
-      "weight": 0.098,
-      "contribution": 0.098,
+      "weight": 0.092,
+      "contribution": 0.092,
       "phrase": "Members agreed that monetary policy will need to remain nimble.",
       "headline": "BoC MInutes: Agreed that monetary policy will need to remain nimble"
     },
@@ -582,8 +582,8 @@
       "stance": -1.0,
       "prior": -0.1,
       "surprise": -0.9,
-      "weight": 0.092,
-      "contribution": -0.082,
+      "weight": 0.086,
+      "contribution": -0.077,
       "phrase": "A lot of potential to raise productivity growth with AI.",
       "headline": "BoC Governor Macklem says inflation expectations are well anchored, we are going to keep them well anchored"
     },
@@ -594,8 +594,8 @@
       "stance": -1.0,
       "prior": -0.1,
       "surprise": -0.9,
-      "weight": 0.042,
-      "contribution": -0.037,
+      "weight": 0.039,
+      "contribution": -0.035,
       "phrase": "not seeing so far much spreading of higher oil prices to other prices of other goods and services.",
       "headline": "BoC Governor Macklem says he worries that too much forward guidance become full precision and can be confusing"
     },
@@ -606,7 +606,7 @@
       "stance": 0.0,
       "prior": -0.1,
       "surprise": 0.0,
-      "weight": 0.035,
+      "weight": 0.032,
       "contribution": 0.0,
       "phrase": "BoC Governor Macklem says imbalances are growing as China's outward flow of capital continues and the US has been the largest destination of",
       "headline": "BoC Governor Macklem says imbalances are growing as China's outward flow of capital continues and the US has been the largest destination of capital"
@@ -668,7 +668,7 @@
     }
   ],
   "speaker_board": {
-    "effective_window_days": 251,
+    "effective_window_days": 252,
     "long_window_days": 365,
     "recent_window_days": 14,
     "speakers": [
