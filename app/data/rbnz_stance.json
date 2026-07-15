@@ -1,6 +1,6 @@
 {
   "cb": "rbnz",
-  "as_of": "2026-07-14T13:03:36.423075+00:00",
+  "as_of": "2026-07-15T04:31:29.977611+00:00",
   "commentary_score": -1.214,
   "surprise_score": -1.214,
   "label": "lean dovish",
@@ -9,12 +9,6 @@
   "commentary_window_days": 30,
   "n_items_total": 22,
   "history_90d": [
-    {
-      "date": "2026-04-16",
-      "commentary_score": -1.0,
-      "surprise_score": -1.0,
-      "n_items": 1
-    },
     {
       "date": "2026-04-17",
       "commentary_score": -1.0,
@@ -475,7 +469,7 @@
       "date": "2026-07-02",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 1
+      "n_items": 0
     },
     {
       "date": "2026-07-03",
@@ -548,6 +542,12 @@
       "commentary_score": -1.214,
       "surprise_score": -1.214,
       "n_items": 3
+    },
+    {
+      "date": "2026-07-15",
+      "commentary_score": -1.214,
+      "surprise_score": -1.214,
+      "n_items": 3
     }
   ],
   "top_movers": [
@@ -558,8 +558,8 @@
       "stance": -1.5,
       "prior": 0.0,
       "surprise": -1.5,
-      "weight": 0.332,
-      "contribution": -0.498,
+      "weight": 0.312,
+      "contribution": -0.468,
       "phrase": "current OCR is accommodative and that further reduction in monetary stimulus is likely to be required",
       "headline": "The RBNZ hikes the OCR by 25bps to 2.50%, as expected; some further reduction in monetary stimulus is likely to be required to return inflation to the 2% target mid-point"
     },
@@ -570,8 +570,8 @@
       "stance": -1.5,
       "prior": 0.0,
       "surprise": -1.5,
-      "weight": 0.23,
-      "contribution": -0.345,
+      "weight": 0.216,
+      "contribution": -0.324,
       "phrase": "Further reduction in monetary stimulus is likely to be required.",
       "headline": "RBNZ Chief Economist Conway says Middle East conflict complicates monetary policy like all supply shocks, adds understanding how firms respond to cost shocks is crucial in maintaining low and stable inflation"
     },
@@ -582,7 +582,7 @@
       "stance": 0.0,
       "prior": 0.0,
       "surprise": 0.0,
-      "weight": 0.133,
+      "weight": 0.124,
       "contribution": 0.0,
       "phrase": "RBNZ says it is not seeking additional an additional Monetary Policy Committee member, prior to the New Zealand election",
       "headline": "RBNZ says it is not seeking additional an additional Monetary Policy Committee member, prior to the New Zealand election"
@@ -625,7 +625,7 @@
     }
   ],
   "speaker_board": {
-    "effective_window_days": 250,
+    "effective_window_days": 251,
     "long_window_days": 365,
     "recent_window_days": 14,
     "speakers": [
