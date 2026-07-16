@@ -1,13 +1,13 @@
 {
   "cb": "fed",
-  "as_of": "2026-07-16T04:33:28.359286+00:00",
-  "commentary_score": 1.7,
-  "surprise_score": 0.066,
+  "as_of": "2026-07-16T13:03:08.071889+00:00",
+  "commentary_score": 1.357,
+  "surprise_score": -0.014,
   "label": "neutral",
-  "n_items_14d": 21,
-  "n_items_window": 21,
+  "n_items_14d": 25,
+  "n_items_window": 25,
   "commentary_window_days": 14,
-  "n_items_total": 912,
+  "n_items_total": 919,
   "history_90d": [
     {
       "date": "2026-04-18",
@@ -23,14 +23,14 @@
     },
     {
       "date": "2026-04-20",
-      "commentary_score": -0.955,
-      "surprise_score": 0.095,
+      "commentary_score": -1.265,
+      "surprise_score": -0.005,
       "n_items": 26
     },
     {
       "date": "2026-04-21",
-      "commentary_score": -1.094,
-      "surprise_score": 0.112,
+      "commentary_score": -1.194,
+      "surprise_score": 0.101,
       "n_items": 24
     },
     {
@@ -47,14 +47,14 @@
     },
     {
       "date": "2026-04-24",
-      "commentary_score": -0.27,
-      "surprise_score": 0.291,
-      "n_items": 30
+      "commentary_score": -0.259,
+      "surprise_score": 0.296,
+      "n_items": 29
     },
     {
       "date": "2026-04-25",
       "commentary_score": -0.259,
-      "surprise_score": 0.237,
+      "surprise_score": 0.236,
       "n_items": 29
     },
     {
@@ -77,21 +77,21 @@
     },
     {
       "date": "2026-04-29",
-      "commentary_score": -0.183,
-      "surprise_score": 0.259,
-      "n_items": 25
+      "commentary_score": -0.115,
+      "surprise_score": 0.341,
+      "n_items": 21
     },
     {
       "date": "2026-04-30",
-      "commentary_score": 0.563,
-      "surprise_score": 0.813,
-      "n_items": 35
+      "commentary_score": 0.581,
+      "surprise_score": 0.823,
+      "n_items": 33
     },
     {
       "date": "2026-05-01",
-      "commentary_score": 0.564,
-      "surprise_score": 0.81,
-      "n_items": 32
+      "commentary_score": 0.66,
+      "surprise_score": 0.796,
+      "n_items": 34
     },
     {
       "date": "2026-05-02",
@@ -102,20 +102,20 @@
     {
       "date": "2026-05-03",
       "commentary_score": 0.706,
-      "surprise_score": 0.808,
+      "surprise_score": 0.766,
       "n_items": 33
     },
     {
       "date": "2026-05-04",
-      "commentary_score": 0.706,
-      "surprise_score": 0.747,
-      "n_items": 33
+      "commentary_score": 0.795,
+      "surprise_score": 0.827,
+      "n_items": 32
     },
     {
       "date": "2026-05-05",
-      "commentary_score": 0.741,
-      "surprise_score": 0.812,
-      "n_items": 32
+      "commentary_score": 0.794,
+      "surprise_score": 0.858,
+      "n_items": 31
     },
     {
       "date": "2026-05-06",
@@ -125,15 +125,15 @@
     },
     {
       "date": "2026-05-07",
-      "commentary_score": 0.659,
-      "surprise_score": 0.556,
-      "n_items": 25
+      "commentary_score": 0.615,
+      "surprise_score": 0.516,
+      "n_items": 26
     },
     {
       "date": "2026-05-08",
-      "commentary_score": 0.514,
-      "surprise_score": 0.454,
-      "n_items": 29
+      "commentary_score": 0.255,
+      "surprise_score": 0.258,
+      "n_items": 30
     },
     {
       "date": "2026-05-09",
@@ -167,15 +167,15 @@
     },
     {
       "date": "2026-05-14",
-      "commentary_score": -0.01,
-      "surprise_score": -0.203,
-      "n_items": 23
+      "commentary_score": -0.936,
+      "surprise_score": -0.817,
+      "n_items": 25
     },
     {
       "date": "2026-05-15",
-      "commentary_score": -0.824,
-      "surprise_score": -0.765,
-      "n_items": 25
+      "commentary_score": -0.931,
+      "surprise_score": -0.827,
+      "n_items": 23
     },
     {
       "date": "2026-05-16",
@@ -209,15 +209,15 @@
     },
     {
       "date": "2026-05-21",
-      "commentary_score": 0.597,
-      "surprise_score": 0.597,
-      "n_items": 20
+      "commentary_score": 0.613,
+      "surprise_score": 0.621,
+      "n_items": 19
     },
     {
       "date": "2026-05-22",
-      "commentary_score": 0.647,
-      "surprise_score": 0.783,
-      "n_items": 18
+      "commentary_score": 0.769,
+      "surprise_score": 0.888,
+      "n_items": 17
     },
     {
       "date": "2026-05-23",
@@ -245,21 +245,21 @@
     },
     {
       "date": "2026-05-27",
-      "commentary_score": 1.761,
-      "surprise_score": 0.842,
-      "n_items": 17
+      "commentary_score": 1.735,
+      "surprise_score": 0.689,
+      "n_items": 18
     },
     {
       "date": "2026-05-28",
-      "commentary_score": 1.651,
-      "surprise_score": 1.047,
-      "n_items": 19
+      "commentary_score": 2.164,
+      "surprise_score": 1.499,
+      "n_items": 17
     },
     {
       "date": "2026-05-29",
-      "commentary_score": 2.173,
-      "surprise_score": 1.467,
-      "n_items": 18
+      "commentary_score": 1.818,
+      "surprise_score": 0.914,
+      "n_items": 23
     },
     {
       "date": "2026-05-30",
@@ -281,9 +281,9 @@
     },
     {
       "date": "2026-06-02",
-      "commentary_score": 1.485,
-      "surprise_score": 0.73,
-      "n_items": 25
+      "commentary_score": 1.307,
+      "surprise_score": 0.552,
+      "n_items": 27
     },
     {
       "date": "2026-06-03",
@@ -324,14 +324,14 @@
     {
       "date": "2026-06-09",
       "commentary_score": 0.828,
-      "surprise_score": 0.292,
+      "surprise_score": 0.276,
       "n_items": 29
     },
     {
       "date": "2026-06-10",
-      "commentary_score": 0.764,
-      "surprise_score": 0.255,
-      "n_items": 28
+      "commentary_score": 0.744,
+      "surprise_score": 0.285,
+      "n_items": 27
     },
     {
       "date": "2026-06-11",
@@ -341,9 +341,9 @@
     },
     {
       "date": "2026-06-12",
-      "commentary_score": 0.556,
-      "surprise_score": 0.011,
-      "n_items": 20
+      "commentary_score": 0.54,
+      "surprise_score": 0.207,
+      "n_items": 15
     },
     {
       "date": "2026-06-13",
@@ -360,14 +360,14 @@
     {
       "date": "2026-06-15",
       "commentary_score": 0.683,
-      "surprise_score": 0.274,
+      "surprise_score": 0.235,
       "n_items": 12
     },
     {
       "date": "2026-06-16",
-      "commentary_score": 0.683,
-      "surprise_score": 0.235,
-      "n_items": 12
+      "commentary_score": 0.761,
+      "surprise_score": 0.411,
+      "n_items": 10
     },
     {
       "date": "2026-06-17",
@@ -384,13 +384,13 @@
     {
       "date": "2026-06-19",
       "commentary_score": 1.923,
-      "surprise_score": 0.927,
+      "surprise_score": 0.84,
       "n_items": 22
     },
     {
       "date": "2026-06-20",
       "commentary_score": 1.919,
-      "surprise_score": 0.836,
+      "surprise_score": 0.785,
       "n_items": 21
     },
     {
@@ -407,15 +407,15 @@
     },
     {
       "date": "2026-06-23",
-      "commentary_score": 1.91,
-      "surprise_score": 0.546,
-      "n_items": 22
+      "commentary_score": 1.705,
+      "surprise_score": 0.36,
+      "n_items": 23
     },
     {
       "date": "2026-06-24",
-      "commentary_score": 1.554,
-      "surprise_score": 0.295,
-      "n_items": 24
+      "commentary_score": 1.551,
+      "surprise_score": 0.279,
+      "n_items": 25
     },
     {
       "date": "2026-06-25",
@@ -425,9 +425,9 @@
     },
     {
       "date": "2026-06-26",
-      "commentary_score": 1.385,
-      "surprise_score": 0.285,
-      "n_items": 29
+      "commentary_score": 1.305,
+      "surprise_score": 0.268,
+      "n_items": 30
     },
     {
       "date": "2026-06-27",
@@ -443,14 +443,14 @@
     },
     {
       "date": "2026-06-29",
-      "commentary_score": 1.287,
-      "surprise_score": 0.265,
-      "n_items": 32
+      "commentary_score": 1.228,
+      "surprise_score": 0.253,
+      "n_items": 33
     },
     {
       "date": "2026-06-30",
       "commentary_score": 1.04,
-      "surprise_score": 0.207,
+      "surprise_score": 0.208,
       "n_items": 39
     },
     {
@@ -461,9 +461,9 @@
     },
     {
       "date": "2026-07-02",
-      "commentary_score": 0.358,
-      "surprise_score": -0.158,
-      "n_items": 24
+      "commentary_score": 0.303,
+      "surprise_score": -0.161,
+      "n_items": 25
     },
     {
       "date": "2026-07-03",
@@ -491,15 +491,15 @@
     },
     {
       "date": "2026-07-07",
-      "commentary_score": 0.331,
-      "surprise_score": -0.278,
-      "n_items": 28
+      "commentary_score": 0.38,
+      "surprise_score": -0.184,
+      "n_items": 27
     },
     {
       "date": "2026-07-08",
-      "commentary_score": 0.373,
-      "surprise_score": -0.119,
-      "n_items": 27
+      "commentary_score": 0.34,
+      "surprise_score": -0.117,
+      "n_items": 26
     },
     {
       "date": "2026-07-09",
@@ -509,9 +509,9 @@
     },
     {
       "date": "2026-07-10",
-      "commentary_score": 0.808,
-      "surprise_score": 0.071,
-      "n_items": 26
+      "commentary_score": 0.827,
+      "surprise_score": 0.073,
+      "n_items": 25
     },
     {
       "date": "2026-07-11",
@@ -527,30 +527,42 @@
     },
     {
       "date": "2026-07-13",
-      "commentary_score": 0.835,
-      "surprise_score": 0.022,
-      "n_items": 25
+      "commentary_score": 0.849,
+      "surprise_score": -0.228,
+      "n_items": 24
     },
     {
       "date": "2026-07-14",
-      "commentary_score": 1.31,
-      "surprise_score": -0.163,
-      "n_items": 22
+      "commentary_score": 1.468,
+      "surprise_score": -0.045,
+      "n_items": 23
     },
     {
       "date": "2026-07-15",
-      "commentary_score": 1.536,
-      "surprise_score": -0.012,
-      "n_items": 25
+      "commentary_score": 1.612,
+      "surprise_score": 0.034,
+      "n_items": 26
     },
     {
       "date": "2026-07-16",
-      "commentary_score": 1.7,
-      "surprise_score": 0.066,
-      "n_items": 21
+      "commentary_score": 1.357,
+      "surprise_score": -0.014,
+      "n_items": 25
     }
   ],
   "top_movers": [
+    {
+      "published_at": "2026-07-15T17:28:00+00:00",
+      "speaker": "Lisa Cook",
+      "event_type": "other",
+      "stance": -1.5,
+      "prior": 0.75,
+      "surprise": -2.25,
+      "weight": 0.226,
+      "contribution": -0.508,
+      "phrase": "policy is currently mildly restrictive",
+      "headline": "Fed Governor Cook says policy is currently mildy restrictive; FOMC can take some time to observe more data to confirm that"
+    },
     {
       "published_at": "2026-07-10T15:00:00+00:00",
       "speaker": "FED (institutional)",
@@ -558,8 +570,8 @@
       "stance": 1.5,
       "prior": 2.85,
       "surprise": -1.35,
-      "weight": 0.363,
-      "contribution": -0.49,
+      "weight": 0.351,
+      "contribution": -0.473,
       "phrase": "Strong inflation ticked up into the Spring.",
       "headline": "Fed Monetary Policy Report: Inflation remains elevated, driven by tariffs and factors relating to the Middle East & AI"
     },
@@ -570,8 +582,8 @@
       "stance": 3.0,
       "prior": 1.9,
       "surprise": 1.1,
-      "weight": 0.339,
-      "contribution": 0.372,
+      "weight": 0.327,
+      "contribution": 0.36,
       "phrase": "Fed has no tolerance for persistently elevated inflation",
       "headline": "Fed Chair Warsh says \"if we get policy right, and we will, inflation surge of the last five years will be a thing of the past'"
     },
@@ -582,8 +594,8 @@
       "stance": 3.0,
       "prior": 1.9,
       "surprise": 1.1,
-      "weight": 0.301,
-      "contribution": 0.33,
+      "weight": 0.29,
+      "contribution": 0.319,
       "phrase": "Doubling down on 2% inflation target",
       "headline": "Fed Chair Warsh says today's inflation data does not say mission accomplished; does not think that after today's CPI report that everything is swell"
     },
@@ -594,22 +606,10 @@
       "stance": 4.0,
       "prior": 2.93,
       "surprise": 1.07,
-      "weight": 0.246,
-      "contribution": 0.264,
+      "weight": 0.237,
+      "contribution": 0.255,
       "phrase": "if there is another hot reading on core inflation this week, the Fed will need to consider rate hike in near term",
       "headline": "Fed's Waller (voter) says if there is another hot reading on core inflation this week, the Fed will need to consider rate hike in near term"
-    },
-    {
-      "published_at": "2026-07-15T12:41:00+00:00",
-      "speaker": "John Williams",
-      "event_type": "other",
-      "stance": 3.0,
-      "prior": 1.91,
-      "surprise": 1.09,
-      "weight": 0.229,
-      "contribution": 0.251,
-      "phrase": "it is imperative that it is restored to the 2% goal on a sustained basis",
-      "headline": "Fed's Williams (Voter) says with inflation running high, it is imperative Fed restore it to 2% goal on a sustained basis; current stance of policy is well positioned to do that"
     }
   ],
   "key_comments": [
@@ -947,17 +947,17 @@
         "voting_2026": true,
         "lean_prior": "dove",
         "weight_speaker": 0.7,
-        "n_long": 6,
-        "mean_long": -0.25,
-        "mean_long_conf_weighted": -0.297,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": 2.5,
-        "last_headline": "Fed's Cook says right course of action is to hold rates steady",
-        "last_phrase": "prepared to raise rates if expected disinflation doesn't appear in a timely manner",
-        "last_published_at": "2026-05-27T19:55:00+00:00"
+        "n_long": 8,
+        "mean_long": -0.188,
+        "mean_long_conf_weighted": -0.216,
+        "n_recent": 2,
+        "mean_recent": 0.0,
+        "mean_recent_conf_weighted": 0.0,
+        "delta": 0.216,
+        "last_stance": -1.5,
+        "last_headline": "Fed Governor Cook says policy is currently mildy restrictive; FOMC can take some time to observe more data to confirm that",
+        "last_phrase": "policy is currently mildly restrictive",
+        "last_published_at": "2026-07-15T17:28:00+00:00"
       },
       {
         "name": "Philip Jefferson",
@@ -1022,10 +1022,10 @@
         "n_long": 16,
         "mean_long": -1.125,
         "mean_long_conf_weighted": -1.149,
-        "n_recent": 1,
-        "mean_recent": -1.5,
-        "mean_recent_conf_weighted": -1.5,
-        "delta": -0.351,
+        "n_recent": 0,
+        "mean_recent": null,
+        "mean_recent_conf_weighted": null,
+        "delta": null,
         "last_stance": -1.5,
         "last_headline": "Fed's Daly (2027 voter) says AI investment shock has people wondering if it will be inflationary",
         "last_phrase": "monetary policy is slightly restrictive",
