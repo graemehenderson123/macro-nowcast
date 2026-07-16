@@ -1,6 +1,6 @@
 {
   "cb": "krw",
-  "as_of": "2026-07-15T13:03:08.859628+00:00",
+  "as_of": "2026-07-16T04:33:29.269977+00:00",
   "commentary_score": 0.862,
   "surprise_score": 0.009,
   "label": "neutral",
@@ -9,12 +9,6 @@
   "commentary_window_days": 30,
   "n_items_total": 30,
   "history_90d": [
-    {
-      "date": "2026-04-17",
-      "commentary_score": -0.593,
-      "surprise_score": -0.593,
-      "n_items": 5
-    },
     {
       "date": "2026-04-18",
       "commentary_score": -0.593,
@@ -89,9 +83,9 @@
     },
     {
       "date": "2026-04-30",
-      "commentary_score": -0.626,
-      "surprise_score": -0.626,
-      "n_items": 3
+      "commentary_score": -0.564,
+      "surprise_score": -0.564,
+      "n_items": 4
     },
     {
       "date": "2026-05-01",
@@ -548,6 +542,12 @@
       "commentary_score": 0.862,
       "surprise_score": 0.009,
       "n_items": 5
+    },
+    {
+      "date": "2026-07-16",
+      "commentary_score": 0.862,
+      "surprise_score": 0.009,
+      "n_items": 5
     }
   ],
   "top_movers": [
@@ -558,8 +558,8 @@
       "stance": 2.0,
       "prior": 0.68,
       "surprise": 1.32,
-      "weight": 0.331,
-      "contribution": 0.437,
+      "weight": 0.31,
+      "contribution": 0.41,
       "phrase": "inflation seen exceeding target with demand-side pressure growing gradually",
       "headline": "BoK says KRW weakness is sharper than other major currencies, will continue making market stabilising efforts, inflation seen exceeding target with demand-side pressure growing gradually"
     },
@@ -570,8 +570,8 @@
       "stance": -1.0,
       "prior": 0.68,
       "surprise": -1.68,
-      "weight": 0.141,
-      "contribution": -0.238,
+      "weight": 0.133,
+      "contribution": -0.223,
       "phrase": "expects inflation to remain high for some time",
       "headline": "BoK says July CPI inflation is to ease from June's but expects inflation to remain high for some time"
     },
@@ -582,8 +582,8 @@
       "stance": 1.5,
       "prior": 2.14,
       "surprise": -0.64,
-      "weight": 0.158,
-      "contribution": -0.101,
+      "weight": 0.148,
+      "contribution": -0.095,
       "phrase": "interest rates need to be raised at an appropriate time",
       "headline": "BoK Governor Shin says interest rates need to be raised at an appropriate time"
     },
@@ -594,8 +594,8 @@
       "stance": -1.0,
       "prior": 0.68,
       "surprise": -1.68,
-      "weight": 0.054,
-      "contribution": -0.09,
+      "weight": 0.05,
+      "contribution": -0.085,
       "phrase": "warns of household debt and leverage",
       "headline": "Bank of Korea Board Member Hwang warns of household debt and leverage"
     },
@@ -606,7 +606,7 @@
       "stance": 0.0,
       "prior": 2.14,
       "surprise": 0.0,
-      "weight": 0.132,
+      "weight": 0.124,
       "contribution": 0.0,
       "phrase": "BoK Governor Shin says they are in talks with other central banks all the time to discuss markets, sees a strong chance of a stronger KRW",
       "headline": "BoK Governor Shin says they are in talks with other central banks all the time to discuss markets, sees a strong chance of a stronger KRW"
@@ -651,7 +651,7 @@
     }
   ],
   "speaker_board": {
-    "effective_window_days": 230,
+    "effective_window_days": 231,
     "long_window_days": 365,
     "recent_window_days": 14,
     "speakers": [
