@@ -1,20 +1,14 @@
 {
   "cb": "sgd",
-  "as_of": "2026-07-16T13:03:09.316040+00:00",
+  "as_of": "2026-07-17T04:33:17.649766+00:00",
   "commentary_score": 0.0,
   "surprise_score": 0.0,
   "label": "neutral",
-  "n_items_14d": 1,
-  "n_items_window": 1,
+  "n_items_14d": 0,
+  "n_items_window": 0,
   "commentary_window_days": 30,
   "n_items_total": 4,
   "history_90d": [
-    {
-      "date": "2026-04-18",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
     {
       "date": "2026-04-19",
       "commentary_score": 0.0,
@@ -548,25 +542,18 @@
       "commentary_score": 0.0,
       "surprise_score": 0.0,
       "n_items": 1
-    }
-  ],
-  "top_movers": [
+    },
     {
-      "published_at": "2026-06-17T04:04:00+00:00",
-      "speaker": "SGD (institutional)",
-      "event_type": "statement",
-      "stance": 0.0,
-      "prior": 0.0,
-      "surprise": 0.0,
-      "weight": 0.025,
-      "contribution": 0.0,
-      "phrase": "economists trim Singapore 2026 GDP growth forecasts to 3.5%",
-      "headline": "MAS survey of professional forecasters show economists trim Singapore 2026 GDP growth forecasts to 3.5% from 3.6%"
+      "date": "2026-07-17",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
     }
   ],
+  "top_movers": [],
   "key_comments": [],
   "speaker_board": {
-    "effective_window_days": 211,
+    "effective_window_days": 212,
     "long_window_days": 365,
     "recent_window_days": 14,
     "speakers": [
