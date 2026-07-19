@@ -1,31 +1,19 @@
 {
   "cb": "czk",
-  "as_of": "2026-07-17T04:33:17.885908+00:00",
-  "commentary_score": 1.665,
-  "surprise_score": 0.63,
-  "label": "lean hawkish",
-  "n_items_14d": 4,
-  "n_items_window": 4,
+  "as_of": "2026-07-19T16:00:39.850509+00:00",
+  "commentary_score": 0.0,
+  "surprise_score": 0.0,
+  "label": "neutral",
+  "n_items_14d": 0,
+  "n_items_window": 0,
   "commentary_window_days": 30,
   "n_items_total": 38,
   "history_90d": [
     {
-      "date": "2026-04-19",
-      "commentary_score": 0.372,
-      "surprise_score": 0.651,
-      "n_items": 2
-    },
-    {
-      "date": "2026-04-20",
-      "commentary_score": 0.372,
-      "surprise_score": 0.651,
-      "n_items": 2
-    },
-    {
       "date": "2026-04-21",
-      "commentary_score": 0.372,
-      "surprise_score": 0.651,
-      "n_items": 2
+      "commentary_score": -0.487,
+      "surprise_score": -1.321,
+      "n_items": 3
     },
     {
       "date": "2026-04-22",
@@ -47,9 +35,9 @@
     },
     {
       "date": "2026-04-25",
-      "commentary_score": -0.487,
-      "surprise_score": -1.321,
-      "n_items": 3
+      "commentary_score": -0.672,
+      "surprise_score": -1.681,
+      "n_items": 2
     },
     {
       "date": "2026-04-26",
@@ -65,9 +53,9 @@
     },
     {
       "date": "2026-04-28",
-      "commentary_score": -0.672,
-      "surprise_score": -1.681,
-      "n_items": 2
+      "commentary_score": -0.215,
+      "surprise_score": -0.537,
+      "n_items": 4
     },
     {
       "date": "2026-04-29",
@@ -101,9 +89,9 @@
     },
     {
       "date": "2026-05-04",
-      "commentary_score": -0.215,
-      "surprise_score": -0.537,
-      "n_items": 4
+      "commentary_score": 0.389,
+      "surprise_score": 0.972,
+      "n_items": 5
     },
     {
       "date": "2026-05-05",
@@ -119,9 +107,9 @@
     },
     {
       "date": "2026-05-07",
-      "commentary_score": 0.389,
-      "surprise_score": 0.972,
-      "n_items": 5
+      "commentary_score": 0.817,
+      "surprise_score": 0.949,
+      "n_items": 7
     },
     {
       "date": "2026-05-08",
@@ -143,9 +131,9 @@
     },
     {
       "date": "2026-05-11",
-      "commentary_score": 0.817,
-      "surprise_score": 0.949,
-      "n_items": 7
+      "commentary_score": 0.551,
+      "surprise_score": 0.64,
+      "n_items": 9
     },
     {
       "date": "2026-05-12",
@@ -155,9 +143,9 @@
     },
     {
       "date": "2026-05-13",
-      "commentary_score": 0.551,
-      "surprise_score": 0.64,
-      "n_items": 9
+      "commentary_score": 0.816,
+      "surprise_score": 0.88,
+      "n_items": 10
     },
     {
       "date": "2026-05-14",
@@ -167,9 +155,9 @@
     },
     {
       "date": "2026-05-15",
-      "commentary_score": 0.816,
-      "surprise_score": 0.88,
-      "n_items": 10
+      "commentary_score": 1.199,
+      "surprise_score": 0.723,
+      "n_items": 11
     },
     {
       "date": "2026-05-16",
@@ -179,9 +167,9 @@
     },
     {
       "date": "2026-05-17",
-      "commentary_score": 1.199,
-      "surprise_score": 0.723,
-      "n_items": 11
+      "commentary_score": 1.204,
+      "surprise_score": 0.726,
+      "n_items": 10
     },
     {
       "date": "2026-05-18",
@@ -203,9 +191,9 @@
     },
     {
       "date": "2026-05-21",
-      "commentary_score": 1.204,
-      "surprise_score": 0.726,
-      "n_items": 10
+      "commentary_score": 1.226,
+      "surprise_score": 0.758,
+      "n_items": 9
     },
     {
       "date": "2026-05-22",
@@ -228,7 +216,7 @@
     {
       "date": "2026-05-25",
       "commentary_score": 1.226,
-      "surprise_score": 0.758,
+      "surprise_score": 1.561,
       "n_items": 9
     },
     {
@@ -245,9 +233,9 @@
     },
     {
       "date": "2026-05-28",
-      "commentary_score": 1.226,
-      "surprise_score": 1.561,
-      "n_items": 9
+      "commentary_score": 1.266,
+      "surprise_score": 1.612,
+      "n_items": 7
     },
     {
       "date": "2026-05-29",
@@ -281,9 +269,9 @@
     },
     {
       "date": "2026-06-03",
-      "commentary_score": 1.266,
-      "surprise_score": 1.612,
-      "n_items": 7
+      "commentary_score": 1.279,
+      "surprise_score": 1.568,
+      "n_items": 6
     },
     {
       "date": "2026-06-04",
@@ -299,9 +287,9 @@
     },
     {
       "date": "2026-06-06",
-      "commentary_score": 1.279,
-      "surprise_score": 1.568,
-      "n_items": 6
+      "commentary_score": 1.454,
+      "surprise_score": 1.893,
+      "n_items": 4
     },
     {
       "date": "2026-06-07",
@@ -323,9 +311,9 @@
     },
     {
       "date": "2026-06-10",
-      "commentary_score": 1.454,
-      "surprise_score": 1.893,
-      "n_items": 4
+      "commentary_score": 1.131,
+      "surprise_score": -0.267,
+      "n_items": 3
     },
     {
       "date": "2026-06-11",
@@ -335,9 +323,9 @@
     },
     {
       "date": "2026-06-12",
-      "commentary_score": 1.131,
-      "surprise_score": -0.267,
-      "n_items": 3
+      "commentary_score": 1.105,
+      "surprise_score": -0.282,
+      "n_items": 2
     },
     {
       "date": "2026-06-13",
@@ -347,9 +335,9 @@
     },
     {
       "date": "2026-06-14",
-      "commentary_score": 1.105,
-      "surprise_score": -0.282,
-      "n_items": 2
+      "commentary_score": 1.0,
+      "surprise_score": -0.548,
+      "n_items": 1
     },
     {
       "date": "2026-06-15",
@@ -371,9 +359,9 @@
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 1.0,
-      "surprise_score": -0.548,
-      "n_items": 1
+      "commentary_score": 1.598,
+      "surprise_score": 0.086,
+      "n_items": 5
     },
     {
       "date": "2026-06-19",
@@ -462,7 +450,7 @@
     {
       "date": "2026-07-03",
       "commentary_score": 1.598,
-      "surprise_score": 0.086,
+      "surprise_score": 0.512,
       "n_items": 5
     },
     {
@@ -480,7 +468,7 @@
     {
       "date": "2026-07-06",
       "commentary_score": 1.598,
-      "surprise_score": 0.512,
+      "surprise_score": 0.543,
       "n_items": 5
     },
     {
@@ -503,9 +491,9 @@
     },
     {
       "date": "2026-07-10",
-      "commentary_score": 1.598,
-      "surprise_score": 0.543,
-      "n_items": 5
+      "commentary_score": 1.665,
+      "surprise_score": 0.692,
+      "n_items": 4
     },
     {
       "date": "2026-07-11",
@@ -516,7 +504,7 @@
     {
       "date": "2026-07-12",
       "commentary_score": 1.665,
-      "surprise_score": 0.692,
+      "surprise_score": 0.63,
       "n_items": 4
     },
     {
@@ -548,98 +536,24 @@
       "commentary_score": 1.665,
       "surprise_score": 0.63,
       "n_items": 4
+    },
+    {
+      "date": "2026-07-18",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-07-19",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
     }
   ],
-  "top_movers": [
-    {
-      "published_at": "2026-06-18T13:05:00+00:00",
-      "speaker": "Ales Michl",
-      "event_type": "other",
-      "stance": 1.5,
-      "prior": -1.5,
-      "surprise": 3.0,
-      "weight": 0.018,
-      "contribution": 0.053,
-      "phrase": "rate hike will help tame core inflation",
-      "headline": "CNB's Michl says the rate hike will help tame core inflation, which remains elevated"
-    },
-    {
-      "published_at": "2026-06-18T13:00:00+00:00",
-      "speaker": "CZK (institutional)",
-      "event_type": "statement",
-      "stance": 2.5,
-      "prior": 1.89,
-      "surprise": 0.61,
-      "weight": 0.037,
-      "contribution": 0.023,
-      "phrase": "maintaining inflation near target in long-term requires relatively strict policy",
-      "headline": "CNB Statement (Jun): Vote split 6-1, dissentor voted for no change; decision was made on the May quarterly forecast and new information since then"
-    },
-    {
-      "published_at": "2026-06-18T12:30:00+00:00",
-      "speaker": "CZK (institutional)",
-      "event_type": "statement",
-      "stance": 2.0,
-      "prior": 1.89,
-      "surprise": 0.11,
-      "weight": 0.047,
-      "contribution": 0.005,
-      "phrase": "hikes rates by 25bps to 3.75%",
-      "headline": "CNB hikes rates by 25bps to 3.75%, as expected"
-    },
-    {
-      "published_at": "2026-06-18T12:30:00+00:00",
-      "speaker": "CZK (institutional)",
-      "event_type": "statement",
-      "stance": 0.0,
-      "prior": 1.89,
-      "surprise": 0.0,
-      "weight": 0.026,
-      "contribution": 0.0,
-      "phrase": "Czech CNB Interest Rate Decision 3.75% vs. Exp. 3.75% (Prev. 3.5%)",
-      "headline": "Czech CNB Interest Rate Decision 3.75% vs. Exp. 3.75% (Prev. 3.5%)"
-    }
-  ],
-  "key_comments": [
-    {
-      "published_at": "2026-06-18T13:05:00+00:00",
-      "speaker": "Ales Michl",
-      "role": "chair",
-      "lean_prior": "dove",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": 1.5,
-      "prior": -1.5,
-      "surprise": 3.0,
-      "phrase": "rate hike will help tame core inflation",
-      "headline": "CNB's Michl says the rate hike will help tame core inflation, which remains elevated",
-      "importance": 9.0,
-      "reasons": [
-        "Chair spoke",
-        "dove-lean speaker sounded hawkish (surprise +3.00)"
-      ]
-    },
-    {
-      "published_at": "2026-06-18T13:00:00+00:00",
-      "speaker": "CZK (institutional)",
-      "role": "institutional",
-      "lean_prior": "neutral",
-      "voting_2026": true,
-      "event_type": "statement",
-      "stance": 2.5,
-      "prior": 1.89,
-      "surprise": 0.61,
-      "phrase": "maintaining inflation near target in long-term requires relatively strict policy",
-      "headline": "CNB Statement (Jun): Vote split 6-1, dissentor voted for no change; decision was made on the May quarterly forecast and new information since then",
-      "importance": 3.75,
-      "reasons": [
-        "official CB statement (stance +2.50)",
-        "strong policy signal (|stance| = 2.5)"
-      ]
-    }
-  ],
+  "top_movers": [],
+  "key_comments": [],
   "speaker_board": {
-    "effective_window_days": 252,
+    "effective_window_days": 255,
     "long_window_days": 365,
     "recent_window_days": 14,
     "speakers": [

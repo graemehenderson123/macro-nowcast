@@ -1,26 +1,14 @@
 {
   "cb": "twd",
-  "as_of": "2026-07-17T04:33:17.413444+00:00",
+  "as_of": "2026-07-19T16:00:39.370947+00:00",
   "commentary_score": 0.0,
   "surprise_score": 0.0,
   "label": "neutral",
-  "n_items_14d": 1,
-  "n_items_window": 1,
+  "n_items_14d": 0,
+  "n_items_window": 0,
   "commentary_window_days": 30,
   "n_items_total": 2,
   "history_90d": [
-    {
-      "date": "2026-04-19",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-04-20",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
-    },
     {
       "date": "2026-04-21",
       "commentary_score": 0.0,
@@ -373,7 +361,7 @@
       "date": "2026-06-18",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-06-19",
@@ -548,25 +536,24 @@
       "commentary_score": 0.0,
       "surprise_score": 0.0,
       "n_items": 1
-    }
-  ],
-  "top_movers": [
+    },
     {
-      "published_at": "2026-06-18T08:30:00+00:00",
-      "speaker": "TWD (institutional)",
-      "event_type": "statement",
-      "stance": 0.0,
-      "prior": 0.0,
-      "surprise": 0.0,
-      "weight": 0.041,
-      "contribution": 0.0,
-      "phrase": "Taiwan Central Bank leaves its benchmark interest rate unchanged at 2.00%, as expected",
-      "headline": "Taiwan Central Bank leaves its benchmark interest rate unchanged at 2.00%, as expected"
+      "date": "2026-07-18",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-07-19",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
     }
   ],
+  "top_movers": [],
   "key_comments": [],
   "speaker_board": {
-    "effective_window_days": 119,
+    "effective_window_days": 122,
     "long_window_days": 365,
     "recent_window_days": 14,
     "speakers": [

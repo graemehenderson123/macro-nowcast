@@ -1,26 +1,14 @@
 {
   "cb": "riksbank",
-  "as_of": "2026-07-17T04:33:17.096210+00:00",
-  "commentary_score": 1.316,
-  "surprise_score": 1.316,
+  "as_of": "2026-07-19T16:00:39.041560+00:00",
+  "commentary_score": 1.0,
+  "surprise_score": 1.0,
   "label": "lean hawkish",
-  "n_items_14d": 2,
-  "n_items_window": 2,
+  "n_items_14d": 1,
+  "n_items_window": 1,
   "commentary_window_days": 30,
   "n_items_total": 33,
   "history_90d": [
-    {
-      "date": "2026-04-19",
-      "commentary_score": -0.344,
-      "surprise_score": -0.7,
-      "n_items": 4
-    },
-    {
-      "date": "2026-04-20",
-      "commentary_score": -0.344,
-      "surprise_score": -0.7,
-      "n_items": 4
-    },
     {
       "date": "2026-04-21",
       "commentary_score": -0.778,
@@ -29,9 +17,9 @@
     },
     {
       "date": "2026-04-22",
-      "commentary_score": -0.778,
-      "surprise_score": -0.379,
-      "n_items": 5
+      "commentary_score": -0.216,
+      "surprise_score": 0.247,
+      "n_items": 6
     },
     {
       "date": "2026-04-23",
@@ -41,9 +29,9 @@
     },
     {
       "date": "2026-04-24",
-      "commentary_score": -0.216,
-      "surprise_score": 0.247,
-      "n_items": 6
+      "commentary_score": -0.174,
+      "surprise_score": 0.276,
+      "n_items": 5
     },
     {
       "date": "2026-04-25",
@@ -54,7 +42,7 @@
     {
       "date": "2026-04-26",
       "commentary_score": -0.174,
-      "surprise_score": 0.276,
+      "surprise_score": 0.28,
       "n_items": 5
     },
     {
@@ -77,9 +65,9 @@
     },
     {
       "date": "2026-04-30",
-      "commentary_score": -0.174,
-      "surprise_score": 0.28,
-      "n_items": 5
+      "commentary_score": -0.178,
+      "surprise_score": 0.286,
+      "n_items": 4
     },
     {
       "date": "2026-05-01",
@@ -90,7 +78,7 @@
     {
       "date": "2026-05-02",
       "commentary_score": -0.178,
-      "surprise_score": 0.286,
+      "surprise_score": -0.337,
       "n_items": 4
     },
     {
@@ -119,9 +107,9 @@
     },
     {
       "date": "2026-05-07",
-      "commentary_score": -0.178,
-      "surprise_score": -0.337,
-      "n_items": 4
+      "commentary_score": -0.596,
+      "surprise_score": -0.393,
+      "n_items": 7
     },
     {
       "date": "2026-05-08",
@@ -155,9 +143,9 @@
     },
     {
       "date": "2026-05-13",
-      "commentary_score": -0.596,
-      "surprise_score": -0.393,
-      "n_items": 7
+      "commentary_score": -0.131,
+      "surprise_score": 0.079,
+      "n_items": 8
     },
     {
       "date": "2026-05-14",
@@ -173,15 +161,15 @@
     },
     {
       "date": "2026-05-16",
-      "commentary_score": -0.131,
-      "surprise_score": 0.079,
-      "n_items": 8
-    },
-    {
-      "date": "2026-05-17",
       "commentary_score": -0.122,
       "surprise_score": 0.105,
       "n_items": 7
+    },
+    {
+      "date": "2026-05-17",
+      "commentary_score": -0.126,
+      "surprise_score": 0.108,
+      "n_items": 6
     },
     {
       "date": "2026-05-18",
@@ -191,15 +179,15 @@
     },
     {
       "date": "2026-05-19",
-      "commentary_score": -0.126,
-      "surprise_score": 0.108,
-      "n_items": 6
-    },
-    {
-      "date": "2026-05-20",
       "commentary_score": 0.186,
       "surprise_score": 0.355,
       "n_items": 7
+    },
+    {
+      "date": "2026-05-20",
+      "commentary_score": 0.219,
+      "surprise_score": 0.382,
+      "n_items": 6
     },
     {
       "date": "2026-05-21",
@@ -209,9 +197,9 @@
     },
     {
       "date": "2026-05-22",
-      "commentary_score": 0.219,
-      "surprise_score": 0.382,
-      "n_items": 6
+      "commentary_score": 0.199,
+      "surprise_score": 0.355,
+      "n_items": 5
     },
     {
       "date": "2026-05-23",
@@ -222,7 +210,7 @@
     {
       "date": "2026-05-24",
       "commentary_score": 0.199,
-      "surprise_score": 0.355,
+      "surprise_score": 0.213,
       "n_items": 5
     },
     {
@@ -251,9 +239,9 @@
     },
     {
       "date": "2026-05-29",
-      "commentary_score": 0.199,
-      "surprise_score": 0.213,
-      "n_items": 5
+      "commentary_score": 0.082,
+      "surprise_score": 0.087,
+      "n_items": 6
     },
     {
       "date": "2026-05-30",
@@ -287,9 +275,9 @@
     },
     {
       "date": "2026-06-04",
-      "commentary_score": 0.082,
-      "surprise_score": 0.087,
-      "n_items": 6
+      "commentary_score": -0.64,
+      "surprise_score": -0.444,
+      "n_items": 7
     },
     {
       "date": "2026-06-05",
@@ -299,9 +287,9 @@
     },
     {
       "date": "2026-06-06",
-      "commentary_score": -0.64,
-      "surprise_score": -0.444,
-      "n_items": 7
+      "commentary_score": -0.637,
+      "surprise_score": -0.426,
+      "n_items": 4
     },
     {
       "date": "2026-06-07",
@@ -335,9 +323,9 @@
     },
     {
       "date": "2026-06-12",
-      "commentary_score": -0.637,
-      "surprise_score": -0.426,
-      "n_items": 4
+      "commentary_score": -0.737,
+      "surprise_score": -0.536,
+      "n_items": 3
     },
     {
       "date": "2026-06-13",
@@ -365,20 +353,20 @@
     },
     {
       "date": "2026-06-17",
-      "commentary_score": -0.737,
-      "surprise_score": -0.536,
-      "n_items": 3
-    },
-    {
-      "date": "2026-06-18",
       "commentary_score": 1.053,
       "surprise_score": 1.093,
       "n_items": 4
     },
     {
-      "date": "2026-06-19",
+      "date": "2026-06-18",
       "commentary_score": 1.053,
       "surprise_score": 1.094,
+      "n_items": 3
+    },
+    {
+      "date": "2026-06-19",
+      "commentary_score": 1.053,
+      "surprise_score": 1.064,
       "n_items": 3
     },
     {
@@ -390,7 +378,7 @@
     {
       "date": "2026-06-21",
       "commentary_score": 1.053,
-      "surprise_score": 1.064,
+      "surprise_score": 1.053,
       "n_items": 3
     },
     {
@@ -407,9 +395,9 @@
     },
     {
       "date": "2026-06-24",
-      "commentary_score": 1.053,
-      "surprise_score": 1.053,
-      "n_items": 3
+      "commentary_score": 1.036,
+      "surprise_score": 1.036,
+      "n_items": 4
     },
     {
       "date": "2026-06-25",
@@ -431,9 +419,9 @@
     },
     {
       "date": "2026-06-28",
-      "commentary_score": 1.036,
-      "surprise_score": 1.036,
-      "n_items": 4
+      "commentary_score": 1.094,
+      "surprise_score": 1.094,
+      "n_items": 3
     },
     {
       "date": "2026-06-29",
@@ -467,9 +455,9 @@
     },
     {
       "date": "2026-07-04",
-      "commentary_score": 1.094,
-      "surprise_score": 1.094,
-      "n_items": 3
+      "commentary_score": 1.316,
+      "surprise_score": 1.316,
+      "n_items": 2
     },
     {
       "date": "2026-07-05",
@@ -545,24 +533,24 @@
     },
     {
       "date": "2026-07-17",
-      "commentary_score": 1.316,
-      "surprise_score": 1.316,
-      "n_items": 2
+      "commentary_score": 1.0,
+      "surprise_score": 1.0,
+      "n_items": 1
+    },
+    {
+      "date": "2026-07-18",
+      "commentary_score": 1.0,
+      "surprise_score": 1.0,
+      "n_items": 1
+    },
+    {
+      "date": "2026-07-19",
+      "commentary_score": 1.0,
+      "surprise_score": 1.0,
+      "n_items": 1
     }
   ],
   "top_movers": [
-    {
-      "published_at": "2026-06-17T07:30:00+00:00",
-      "speaker": "RIKSBANK (institutional)",
-      "event_type": "statement",
-      "stance": 1.5,
-      "prior": 0.0,
-      "surprise": 1.5,
-      "weight": 0.037,
-      "contribution": 0.056,
-      "phrase": "the probability that the rate will be raised later this year has increased",
-      "headline": "Swedish Riksbank Policy Announcement (Jun) 1.75% vs. Exp. 1.75% (Prev. 1.75%); probability of a hike in 2026 has increased relative to the March assessment"
-    },
     {
       "published_at": "2026-06-24T07:30:00+00:00",
       "speaker": "G\u00f6ran Hjelm",
@@ -570,8 +558,8 @@
       "stance": 1.0,
       "prior": 0.0,
       "surprise": 1.0,
-      "weight": 0.022,
-      "contribution": 0.022,
+      "weight": 0.017,
+      "contribution": 0.017,
       "phrase": "the risk outlook becomes more balanced",
       "headline": "Riksbank Minutes (Jun):"
     }
@@ -593,27 +581,10 @@
       "reasons": [
         "notable move vs own prior (surprise +1.00)"
       ]
-    },
-    {
-      "published_at": "2026-06-17T07:30:00+00:00",
-      "speaker": "RIKSBANK (institutional)",
-      "role": "institutional",
-      "lean_prior": "neutral",
-      "voting_2026": true,
-      "event_type": "statement",
-      "stance": 1.5,
-      "prior": 0.0,
-      "surprise": 1.5,
-      "phrase": "the probability that the rate will be raised later this year has increased",
-      "headline": "Swedish Riksbank Policy Announcement (Jun) 1.75% vs. Exp. 1.75% (Prev. 1.75%); probability of a hike in 2026 has increased relative to the March assessment",
-      "importance": 2.5,
-      "reasons": [
-        "official CB statement (stance +1.50)"
-      ]
     }
   ],
   "speaker_board": {
-    "effective_window_days": 253,
+    "effective_window_days": 256,
     "long_window_days": 365,
     "recent_window_days": 14,
     "speakers": [

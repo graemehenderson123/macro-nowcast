@@ -1,6 +1,6 @@
 {
   "cb": "rbnz",
-  "as_of": "2026-07-17T04:33:16.848349+00:00",
+  "as_of": "2026-07-19T16:00:38.750634+00:00",
   "commentary_score": -1.214,
   "surprise_score": -1.214,
   "label": "lean dovish",
@@ -9,18 +9,6 @@
   "commentary_window_days": 30,
   "n_items_total": 22,
   "history_90d": [
-    {
-      "date": "2026-04-19",
-      "commentary_score": -1.0,
-      "surprise_score": -1.0,
-      "n_items": 1
-    },
-    {
-      "date": "2026-04-20",
-      "commentary_score": -1.0,
-      "surprise_score": -1.0,
-      "n_items": 1
-    },
     {
       "date": "2026-04-21",
       "commentary_score": -1.0,
@@ -457,7 +445,7 @@
       "date": "2026-07-02",
       "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-07-03",
@@ -548,6 +536,18 @@
       "commentary_score": -1.214,
       "surprise_score": -1.214,
       "n_items": 3
+    },
+    {
+      "date": "2026-07-18",
+      "commentary_score": -1.214,
+      "surprise_score": -1.214,
+      "n_items": 3
+    },
+    {
+      "date": "2026-07-19",
+      "commentary_score": -1.214,
+      "surprise_score": -1.214,
+      "n_items": 3
     }
   ],
   "top_movers": [
@@ -558,8 +558,8 @@
       "stance": -1.5,
       "prior": 0.0,
       "surprise": -1.5,
-      "weight": 0.256,
-      "contribution": -0.384,
+      "weight": 0.2,
+      "contribution": -0.3,
       "phrase": "current OCR is accommodative and that further reduction in monetary stimulus is likely to be required",
       "headline": "The RBNZ hikes the OCR by 25bps to 2.50%, as expected; some further reduction in monetary stimulus is likely to be required to return inflation to the 2% target mid-point"
     },
@@ -570,8 +570,8 @@
       "stance": -1.5,
       "prior": 0.0,
       "surprise": -1.5,
-      "weight": 0.177,
-      "contribution": -0.266,
+      "weight": 0.139,
+      "contribution": -0.208,
       "phrase": "Further reduction in monetary stimulus is likely to be required.",
       "headline": "RBNZ Chief Economist Conway says Middle East conflict complicates monetary policy like all supply shocks, adds understanding how firms respond to cost shocks is crucial in maintaining low and stable inflation"
     },
@@ -582,7 +582,7 @@
       "stance": 0.0,
       "prior": 0.0,
       "surprise": 0.0,
-      "weight": 0.102,
+      "weight": 0.08,
       "contribution": 0.0,
       "phrase": "RBNZ says it is not seeking additional an additional Monetary Policy Committee member, prior to the New Zealand election",
       "headline": "RBNZ says it is not seeking additional an additional Monetary Policy Committee member, prior to the New Zealand election"
@@ -625,7 +625,7 @@
     }
   ],
   "speaker_board": {
-    "effective_window_days": 253,
+    "effective_window_days": 255,
     "long_window_days": 365,
     "recent_window_days": 14,
     "speakers": [

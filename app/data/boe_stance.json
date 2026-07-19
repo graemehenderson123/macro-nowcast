@@ -1,43 +1,31 @@
 {
   "cb": "boe",
-  "as_of": "2026-07-17T04:33:16.592664+00:00",
-  "commentary_score": -0.335,
-  "surprise_score": -0.103,
-  "label": "neutral",
-  "n_items_14d": 7,
-  "n_items_window": 7,
+  "as_of": "2026-07-19T16:00:38.477366+00:00",
+  "commentary_score": -0.356,
+  "surprise_score": -0.504,
+  "label": "lean dovish",
+  "n_items_14d": 6,
+  "n_items_window": 6,
   "commentary_window_days": 14,
   "n_items_total": 218,
   "history_90d": [
     {
-      "date": "2026-04-19",
-      "commentary_score": -0.136,
-      "surprise_score": 0.367,
-      "n_items": 10
-    },
-    {
-      "date": "2026-04-20",
-      "commentary_score": -0.136,
-      "surprise_score": 0.367,
-      "n_items": 10
-    },
-    {
       "date": "2026-04-21",
-      "commentary_score": -0.136,
-      "surprise_score": 0.367,
-      "n_items": 10
-    },
-    {
-      "date": "2026-04-22",
       "commentary_score": -0.057,
       "surprise_score": 0.475,
       "n_items": 9
     },
     {
-      "date": "2026-04-23",
+      "date": "2026-04-22",
       "commentary_score": -0.201,
       "surprise_score": 0.249,
       "n_items": 10
+    },
+    {
+      "date": "2026-04-23",
+      "commentary_score": -0.157,
+      "surprise_score": 0.25,
+      "n_items": 9
     },
     {
       "date": "2026-04-24",
@@ -48,7 +36,7 @@
     {
       "date": "2026-04-25",
       "commentary_score": -0.157,
-      "surprise_score": 0.25,
+      "surprise_score": 0.141,
       "n_items": 9
     },
     {
@@ -65,26 +53,26 @@
     },
     {
       "date": "2026-04-28",
-      "commentary_score": -0.078,
-      "surprise_score": 0.123,
-      "n_items": 8
+      "commentary_score": -1.0,
+      "surprise_score": -0.653,
+      "n_items": 5
     },
     {
       "date": "2026-04-29",
       "commentary_score": -1.0,
-      "surprise_score": -0.844,
-      "n_items": 4
+      "surprise_score": -1.048,
+      "n_items": 3
     },
     {
       "date": "2026-04-30",
-      "commentary_score": -1.0,
-      "surprise_score": -1.591,
-      "n_items": 2
+      "commentary_score": -0.367,
+      "surprise_score": 0.087,
+      "n_items": 19
     },
     {
       "date": "2026-05-01",
-      "commentary_score": -0.367,
-      "surprise_score": 0.087,
+      "commentary_score": -0.314,
+      "surprise_score": 0.104,
       "n_items": 19
     },
     {
@@ -113,9 +101,9 @@
     },
     {
       "date": "2026-05-06",
-      "commentary_score": -0.314,
-      "surprise_score": 0.104,
-      "n_items": 19
+      "commentary_score": -0.305,
+      "surprise_score": 0.119,
+      "n_items": 18
     },
     {
       "date": "2026-05-07",
@@ -155,21 +143,21 @@
     },
     {
       "date": "2026-05-13",
-      "commentary_score": -0.305,
-      "surprise_score": 0.119,
-      "n_items": 18
-    },
-    {
-      "date": "2026-05-14",
       "commentary_score": -0.482,
       "surprise_score": -0.259,
       "n_items": 19
     },
     {
-      "date": "2026-05-15",
+      "date": "2026-05-14",
       "commentary_score": 0.343,
       "surprise_score": -0.881,
       "n_items": 3
+    },
+    {
+      "date": "2026-05-15",
+      "commentary_score": 0.257,
+      "surprise_score": -0.991,
+      "n_items": 2
     },
     {
       "date": "2026-05-16",
@@ -185,9 +173,9 @@
     },
     {
       "date": "2026-05-18",
-      "commentary_score": -0.365,
-      "surprise_score": -0.995,
-      "n_items": 3
+      "commentary_score": -0.493,
+      "surprise_score": -0.824,
+      "n_items": 4
     },
     {
       "date": "2026-05-19",
@@ -197,15 +185,15 @@
     },
     {
       "date": "2026-05-20",
-      "commentary_score": -0.493,
-      "surprise_score": -0.824,
-      "n_items": 4
-    },
-    {
-      "date": "2026-05-21",
       "commentary_score": -0.97,
       "surprise_score": -0.413,
       "n_items": 9
+    },
+    {
+      "date": "2026-05-21",
+      "commentary_score": -1.166,
+      "surprise_score": -0.338,
+      "n_items": 12
     },
     {
       "date": "2026-05-22",
@@ -216,19 +204,19 @@
     {
       "date": "2026-05-23",
       "commentary_score": -1.166,
-      "surprise_score": -0.338,
+      "surprise_score": -0.327,
       "n_items": 12
     },
     {
       "date": "2026-05-24",
       "commentary_score": -1.166,
-      "surprise_score": -0.327,
+      "surprise_score": -0.307,
       "n_items": 12
     },
     {
       "date": "2026-05-25",
       "commentary_score": -1.166,
-      "surprise_score": -0.307,
+      "surprise_score": -0.293,
       "n_items": 12
     },
     {
@@ -239,21 +227,21 @@
     },
     {
       "date": "2026-05-27",
-      "commentary_score": -1.166,
-      "surprise_score": -0.47,
-      "n_items": 12
-    },
-    {
-      "date": "2026-05-28",
       "commentary_score": -1.132,
       "surprise_score": -0.348,
       "n_items": 11
     },
     {
-      "date": "2026-05-29",
+      "date": "2026-05-28",
       "commentary_score": -1.111,
       "surprise_score": -0.367,
       "n_items": 11
+    },
+    {
+      "date": "2026-05-29",
+      "commentary_score": -1.089,
+      "surprise_score": -0.286,
+      "n_items": 12
     },
     {
       "date": "2026-05-30",
@@ -264,38 +252,38 @@
     {
       "date": "2026-05-31",
       "commentary_score": -0.93,
-      "surprise_score": -0.244,
+      "surprise_score": -0.254,
       "n_items": 13
     },
     {
       "date": "2026-06-01",
-      "commentary_score": -0.925,
-      "surprise_score": -0.283,
-      "n_items": 12
-    },
-    {
-      "date": "2026-06-02",
       "commentary_score": -0.923,
       "surprise_score": -0.214,
       "n_items": 11
     },
     {
-      "date": "2026-06-03",
+      "date": "2026-06-02",
       "commentary_score": -0.472,
       "surprise_score": 0.156,
       "n_items": 14
     },
     {
-      "date": "2026-06-04",
+      "date": "2026-06-03",
       "commentary_score": -0.274,
       "surprise_score": 0.323,
       "n_items": 9
     },
     {
-      "date": "2026-06-05",
+      "date": "2026-06-04",
       "commentary_score": -0.049,
       "surprise_score": 0.331,
       "n_items": 7
+    },
+    {
+      "date": "2026-06-05",
+      "commentary_score": -0.043,
+      "surprise_score": 0.293,
+      "n_items": 8
     },
     {
       "date": "2026-06-06",
@@ -311,9 +299,9 @@
     },
     {
       "date": "2026-06-08",
-      "commentary_score": -0.043,
-      "surprise_score": 0.293,
-      "n_items": 8
+      "commentary_score": -0.038,
+      "surprise_score": 0.255,
+      "n_items": 9
     },
     {
       "date": "2026-06-09",
@@ -329,20 +317,20 @@
     },
     {
       "date": "2026-06-11",
-      "commentary_score": -0.038,
-      "surprise_score": 0.255,
-      "n_items": 9
-    },
-    {
-      "date": "2026-06-12",
       "commentary_score": -0.04,
       "surprise_score": 0.271,
       "n_items": 8
     },
     {
+      "date": "2026-06-12",
+      "commentary_score": 0.071,
+      "surprise_score": 0.302,
+      "n_items": 7
+    },
+    {
       "date": "2026-06-13",
       "commentary_score": 0.079,
-      "surprise_score": 0.336,
+      "surprise_score": 0.069,
       "n_items": 6
     },
     {
@@ -359,9 +347,9 @@
     },
     {
       "date": "2026-06-16",
-      "commentary_score": 0.079,
-      "surprise_score": 0.069,
-      "n_items": 6
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 3
     },
     {
       "date": "2026-06-17",
@@ -371,15 +359,15 @@
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 3
-    },
-    {
-      "date": "2026-06-19",
       "commentary_score": 0.129,
       "surprise_score": 0.015,
       "n_items": 9
+    },
+    {
+      "date": "2026-06-19",
+      "commentary_score": 0.131,
+      "surprise_score": 0.015,
+      "n_items": 8
     },
     {
       "date": "2026-06-20",
@@ -395,15 +383,15 @@
     },
     {
       "date": "2026-06-22",
-      "commentary_score": 0.131,
-      "surprise_score": 0.015,
+      "commentary_score": 0.108,
+      "surprise_score": 0.012,
       "n_items": 8
     },
     {
       "date": "2026-06-23",
-      "commentary_score": 0.108,
-      "surprise_score": 0.012,
-      "n_items": 8
+      "commentary_score": -0.155,
+      "surprise_score": 0.037,
+      "n_items": 10
     },
     {
       "date": "2026-06-24",
@@ -437,33 +425,33 @@
     },
     {
       "date": "2026-06-29",
-      "commentary_score": -0.155,
-      "surprise_score": 0.037,
-      "n_items": 10
-    },
-    {
-      "date": "2026-06-30",
       "commentary_score": -0.138,
       "surprise_score": 0.022,
       "n_items": 11
     },
     {
-      "date": "2026-07-01",
+      "date": "2026-06-30",
       "commentary_score": -0.116,
       "surprise_score": 0.02,
       "n_items": 12
     },
     {
-      "date": "2026-07-02",
+      "date": "2026-07-01",
       "commentary_score": -0.469,
       "surprise_score": -0.034,
       "n_items": 14
     },
     {
+      "date": "2026-07-02",
+      "commentary_score": -0.264,
+      "surprise_score": 0.118,
+      "n_items": 8
+    },
+    {
       "date": "2026-07-03",
-      "commentary_score": -0.24,
-      "surprise_score": 0.107,
-      "n_items": 9
+      "commentary_score": -0.205,
+      "surprise_score": 0.091,
+      "n_items": 10
     },
     {
       "date": "2026-07-04",
@@ -479,15 +467,15 @@
     },
     {
       "date": "2026-07-06",
-      "commentary_score": -0.205,
-      "surprise_score": 0.091,
-      "n_items": 10
-    },
-    {
-      "date": "2026-07-07",
       "commentary_score": -0.224,
       "surprise_score": 0.1,
       "n_items": 9
+    },
+    {
+      "date": "2026-07-07",
+      "commentary_score": -0.047,
+      "surprise_score": 0.047,
+      "n_items": 10
     },
     {
       "date": "2026-07-08",
@@ -521,33 +509,45 @@
     },
     {
       "date": "2026-07-13",
-      "commentary_score": 0.139,
-      "surprise_score": 0.021,
-      "n_items": 11
-    },
-    {
-      "date": "2026-07-14",
       "commentary_score": 0.144,
       "surprise_score": 0.043,
       "n_items": 10
     },
     {
-      "date": "2026-07-15",
+      "date": "2026-07-14",
       "commentary_score": 0.11,
       "surprise_score": 0.033,
       "n_items": 10
     },
     {
-      "date": "2026-07-16",
+      "date": "2026-07-15",
       "commentary_score": 0.317,
       "surprise_score": 0.061,
       "n_items": 8
     },
     {
+      "date": "2026-07-16",
+      "commentary_score": -0.324,
+      "surprise_score": -0.123,
+      "n_items": 8
+    },
+    {
       "date": "2026-07-17",
-      "commentary_score": -0.335,
-      "surprise_score": -0.103,
-      "n_items": 7
+      "commentary_score": -0.356,
+      "surprise_score": -0.11,
+      "n_items": 6
+    },
+    {
+      "date": "2026-07-18",
+      "commentary_score": -0.356,
+      "surprise_score": -0.11,
+      "n_items": 6
+    },
+    {
+      "date": "2026-07-19",
+      "commentary_score": -0.356,
+      "surprise_score": -0.504,
+      "n_items": 6
     }
   ],
   "top_movers": [
@@ -556,24 +556,12 @@
       "speaker": "Sarah Breeden",
       "event_type": "other",
       "stance": -2.0,
-      "prior": -1.57,
-      "surprise": -0.43,
-      "weight": 0.257,
-      "contribution": -0.112,
+      "prior": 0.0,
+      "surprise": -2.0,
+      "weight": 0.201,
+      "contribution": -0.403,
       "phrase": "softish economic outlook; we have slack in the labour market",
       "headline": "BoE's Breeden says it is important firms are stress testing AI valuations; Iran war shock is less likely to become embedded and lead to inflationary dynamics that members might need to lean against"
-    },
-    {
-      "published_at": "2026-07-03T15:46:00+00:00",
-      "speaker": "Andrew Bailey",
-      "event_type": "other",
-      "stance": 0.0,
-      "prior": -1.11,
-      "surprise": 0.0,
-      "weight": 0.065,
-      "contribution": 0.0,
-      "phrase": "BoE Governor Bailey says absent the war, inflation would be at target",
-      "headline": "BoE Governor Bailey says absent the war, inflation would be at target"
     },
     {
       "published_at": "2026-07-07T09:30:00+00:00",
@@ -582,7 +570,7 @@
       "stance": 0.0,
       "prior": 0.0,
       "surprise": 0.0,
-      "weight": 0.171,
+      "weight": 0.134,
       "contribution": 0.0,
       "phrase": "UK banking system remains appropriately capitalised",
       "headline": "BoE FPC: maintains CCyB rate at its neutral setting of 2%; notes substantial increase in the use of leverage in equity markets; on some metrics, [equity] valuations have also become more stretched; UK banking system rema"
@@ -592,9 +580,9 @@
       "speaker": "Andrew Bailey",
       "event_type": "other",
       "stance": 0.0,
-      "prior": -1.11,
+      "prior": -1.14,
       "surprise": 0.0,
-      "weight": 0.095,
+      "weight": 0.074,
       "contribution": 0.0,
       "phrase": "Risk of sharp correction in equity markets remains high",
       "headline": "BoE Governor Bailey says the FPC is particularly concerned that existing risks to financial stability could crystallise simultaneously"
@@ -604,12 +592,24 @@
       "speaker": "Andrew Bailey",
       "event_type": "other",
       "stance": 0.0,
-      "prior": -1.11,
+      "prior": -1.14,
       "surprise": 0.0,
-      "weight": 0.095,
+      "weight": 0.075,
       "contribution": 0.0,
       "phrase": "Don't think there is a case for more capital in UK banking system",
       "headline": "BoE Governor Bailey says it would be inconsistent with Basel agreements to exempt government bonds from leverage rules"
+    },
+    {
+      "published_at": "2026-07-09T17:38:00+00:00",
+      "speaker": "Huw Pill",
+      "event_type": "other",
+      "stance": 1.5,
+      "prior": 1.5,
+      "surprise": 0.0,
+      "weight": 0.079,
+      "contribution": 0.0,
+      "phrase": "interest rates may need to increase this year to keep rising prices under control",
+      "headline": "BoE Chief Economist Pill says interest rates may need to increase this year to keep rising prices under control"
     }
   ],
   "key_comments": [
@@ -621,13 +621,14 @@
       "voting_2026": true,
       "event_type": "other",
       "stance": -2.0,
-      "prior": -1.57,
-      "surprise": -0.43,
+      "prior": 0.0,
+      "surprise": -2.0,
       "phrase": "softish economic outlook; we have slack in the labour market",
       "headline": "BoE's Breeden says it is important firms are stress testing AI valuations; Iran war shock is less likely to become embedded and lead to inflationary dynamics that members might need to lean against",
-      "importance": 3.0,
+      "importance": 5.0,
       "reasons": [
-        "Vice Chair spoke"
+        "Vice Chair spoke",
+        "notable move vs own prior (surprise -2.00)"
       ]
     },
     {
@@ -655,8 +656,8 @@
       "voting_2026": true,
       "event_type": "other",
       "stance": -1.5,
-      "prior": -1.11,
-      "surprise": -0.39,
+      "prior": -1.14,
+      "surprise": -0.36,
       "phrase": "must be careful of getting tied into views and where rates must go",
       "headline": "BoE Governor Bailey says he is cautious on forward guidance as it is easier to put it in place than to remove it, must be careful of getting tied into views and where rates must go",
       "importance": 3.0,
@@ -672,8 +673,8 @@
       "voting_2026": true,
       "event_type": "other",
       "stance": -1.0,
-      "prior": -1.11,
-      "surprise": 0.11,
+      "prior": -1.14,
+      "surprise": 0.14,
       "phrase": "we have a softening economy and labour market",
       "headline": "BoE Governor Bailey says we have a softening economy and labour market and was the reason to not raise rates; focused on the risks of the pass-through of the energy crisis",
       "importance": 3.0,
@@ -700,7 +701,7 @@
     }
   ],
   "speaker_board": {
-    "effective_window_days": 254,
+    "effective_window_days": 256,
     "long_window_days": 365,
     "recent_window_days": 14,
     "speakers": [

@@ -1,26 +1,14 @@
 {
   "cb": "norges",
-  "as_of": "2026-07-17T04:33:17.175871+00:00",
-  "commentary_score": 3.5,
-  "surprise_score": 2.0,
-  "label": "hawkish",
-  "n_items_14d": 1,
-  "n_items_window": 1,
+  "as_of": "2026-07-19T16:00:39.123108+00:00",
+  "commentary_score": 0.0,
+  "surprise_score": 0.0,
+  "label": "neutral",
+  "n_items_14d": 0,
+  "n_items_window": 0,
   "commentary_window_days": 30,
   "n_items_total": 19,
   "history_90d": [
-    {
-      "date": "2026-04-19",
-      "commentary_score": 1.327,
-      "surprise_score": -0.173,
-      "n_items": 2
-    },
-    {
-      "date": "2026-04-20",
-      "commentary_score": 1.327,
-      "surprise_score": -0.173,
-      "n_items": 2
-    },
     {
       "date": "2026-04-21",
       "commentary_score": 1.327,
@@ -47,9 +35,9 @@
     },
     {
       "date": "2026-04-25",
-      "commentary_score": 1.327,
-      "surprise_score": -0.173,
-      "n_items": 2
+      "commentary_score": 1.0,
+      "surprise_score": -0.5,
+      "n_items": 1
     },
     {
       "date": "2026-04-26",
@@ -119,15 +107,15 @@
     },
     {
       "date": "2026-05-07",
-      "commentary_score": 1.0,
-      "surprise_score": -0.5,
-      "n_items": 1
-    },
-    {
-      "date": "2026-05-08",
       "commentary_score": 1.854,
       "surprise_score": 0.44,
       "n_items": 3
+    },
+    {
+      "date": "2026-05-08",
+      "commentary_score": 0.938,
+      "surprise_score": -0.245,
+      "n_items": 4
     },
     {
       "date": "2026-05-09",
@@ -167,9 +155,9 @@
     },
     {
       "date": "2026-05-15",
-      "commentary_score": 0.938,
-      "surprise_score": -0.245,
-      "n_items": 4
+      "commentary_score": 0.936,
+      "surprise_score": -0.23,
+      "n_items": 3
     },
     {
       "date": "2026-05-16",
@@ -228,7 +216,7 @@
     {
       "date": "2026-05-25",
       "commentary_score": 0.936,
-      "surprise_score": -0.23,
+      "surprise_score": 0.008,
       "n_items": 3
     },
     {
@@ -299,15 +287,15 @@
     },
     {
       "date": "2026-06-06",
-      "commentary_score": 0.936,
-      "surprise_score": 0.008,
-      "n_items": 3
-    },
-    {
-      "date": "2026-06-07",
       "commentary_score": -1.5,
       "surprise_score": -3.0,
       "n_items": 1
+    },
+    {
+      "date": "2026-06-07",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-06-08",
@@ -371,9 +359,9 @@
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": 3.5,
+      "surprise_score": 1.182,
+      "n_items": 1
     },
     {
       "date": "2026-06-19",
@@ -480,7 +468,7 @@
     {
       "date": "2026-07-06",
       "commentary_score": 3.5,
-      "surprise_score": 1.182,
+      "surprise_score": 2.0,
       "n_items": 1
     },
     {
@@ -548,44 +536,24 @@
       "commentary_score": 3.5,
       "surprise_score": 2.0,
       "n_items": 1
-    }
-  ],
-  "top_movers": [
+    },
     {
-      "published_at": "2026-06-18T08:00:00+00:00",
-      "speaker": "Ida Wolden Bache",
-      "event_type": "other",
-      "stance": 3.5,
-      "prior": 1.5,
-      "surprise": 2.0,
-      "weight": 0.023,
-      "contribution": 0.046,
-      "phrase": "Inflation is too high, and the rapid rise in business costs... will contribute to keeping inflation elevated",
-      "headline": "Norges Bank leaves rates unchanged at 4.25%, as expected; it will likely be necessary to raise the policy rate further at one of the forthcoming monetary policy meetings"
-    }
-  ],
-  "key_comments": [
+      "date": "2026-07-18",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
+    },
     {
-      "published_at": "2026-06-18T08:00:00+00:00",
-      "speaker": "Ida Wolden Bache",
-      "role": "chair",
-      "lean_prior": "hawk",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": 3.5,
-      "prior": 1.5,
-      "surprise": 2.0,
-      "phrase": "Inflation is too high, and the rapid rise in business costs... will contribute to keeping inflation elevated",
-      "headline": "Norges Bank leaves rates unchanged at 4.25%, as expected; it will likely be necessary to raise the policy rate further at one of the forthcoming monetary policy meetings",
-      "importance": 5.25,
-      "reasons": [
-        "Chair spoke",
-        "cross-market extreme (|stance| = 3.5)"
-      ]
+      "date": "2026-07-19",
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
     }
   ],
+  "top_movers": [],
+  "key_comments": [],
   "speaker_board": {
-    "effective_window_days": 252,
+    "effective_window_days": 255,
     "long_window_days": 365,
     "recent_window_days": 14,
     "speakers": [
