@@ -1,10 +1,8 @@
 {
   "cb": "pln",
-  "as_of": "2026-07-20T13:03:20.123285+00:00",
+  "as_of": "2026-07-20T15:26:48.266619+00:00",
   "commentary_score": -2.847,
-  "surprise_score": -2.611,
   "label": "dovish",
-  "n_items_14d": 3,
   "n_items_window": 3,
   "commentary_window_days": 30,
   "n_items_total": 36,
@@ -12,580 +10,452 @@
     {
       "date": "2026-04-22",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 1
     },
     {
       "date": "2026-04-23",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 1
     },
     {
       "date": "2026-04-24",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 1
     },
     {
       "date": "2026-04-25",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 1
     },
     {
       "date": "2026-04-26",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 1
     },
     {
       "date": "2026-04-27",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 1
     },
     {
       "date": "2026-04-28",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 1
     },
     {
       "date": "2026-04-29",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 1
     },
     {
       "date": "2026-04-30",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 1
     },
     {
       "date": "2026-05-01",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 1
     },
     {
       "date": "2026-05-02",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 1
     },
     {
       "date": "2026-05-03",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 1
     },
     {
       "date": "2026-05-04",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 1
     },
     {
       "date": "2026-05-05",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 1
     },
     {
       "date": "2026-05-06",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 1
     },
     {
       "date": "2026-05-07",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 1
+      "n_items": 2
     },
     {
       "date": "2026-05-08",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 2
     },
     {
       "date": "2026-05-09",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 2
     },
     {
       "date": "2026-05-10",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 2
     },
     {
       "date": "2026-05-11",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 2
     },
     {
       "date": "2026-05-12",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 2
     },
     {
       "date": "2026-05-13",
-      "commentary_score": 0.55,
-      "surprise_score": 0.55,
-      "n_items": 3
+      "commentary_score": 0.563,
+      "n_items": 2
     },
     {
       "date": "2026-05-14",
       "commentary_score": 0.563,
-      "surprise_score": 0.563,
       "n_items": 2
     },
     {
       "date": "2026-05-15",
       "commentary_score": 0.563,
-      "surprise_score": 0.563,
       "n_items": 2
     },
     {
       "date": "2026-05-16",
       "commentary_score": 0.563,
-      "surprise_score": 0.563,
       "n_items": 2
     },
     {
       "date": "2026-05-17",
       "commentary_score": 0.563,
-      "surprise_score": 0.563,
       "n_items": 2
     },
     {
       "date": "2026-05-18",
       "commentary_score": 0.563,
-      "surprise_score": 0.563,
       "n_items": 2
     },
     {
       "date": "2026-05-19",
       "commentary_score": 0.563,
-      "surprise_score": 0.563,
       "n_items": 2
     },
     {
       "date": "2026-05-20",
       "commentary_score": 0.563,
-      "surprise_score": 0.563,
       "n_items": 2
     },
     {
       "date": "2026-05-21",
       "commentary_score": 0.563,
-      "surprise_score": 0.563,
       "n_items": 2
     },
     {
       "date": "2026-05-22",
       "commentary_score": 0.563,
-      "surprise_score": 0.563,
       "n_items": 2
     },
     {
       "date": "2026-05-23",
       "commentary_score": 0.563,
-      "surprise_score": 0.563,
       "n_items": 2
     },
     {
       "date": "2026-05-24",
       "commentary_score": 0.563,
-      "surprise_score": 0.563,
       "n_items": 2
     },
     {
       "date": "2026-05-25",
       "commentary_score": 0.563,
-      "surprise_score": 0.563,
       "n_items": 2
     },
     {
       "date": "2026-05-26",
       "commentary_score": 0.563,
-      "surprise_score": 0.563,
       "n_items": 2
     },
     {
       "date": "2026-05-27",
       "commentary_score": 0.563,
-      "surprise_score": 0.563,
       "n_items": 2
     },
     {
       "date": "2026-05-28",
       "commentary_score": 0.563,
-      "surprise_score": 0.563,
       "n_items": 2
     },
     {
       "date": "2026-05-29",
       "commentary_score": 0.563,
-      "surprise_score": 0.563,
       "n_items": 2
     },
     {
       "date": "2026-05-30",
       "commentary_score": 0.563,
-      "surprise_score": 0.563,
       "n_items": 2
     },
     {
       "date": "2026-05-31",
       "commentary_score": 0.563,
-      "surprise_score": 0.563,
       "n_items": 2
     },
     {
       "date": "2026-06-01",
       "commentary_score": 0.563,
-      "surprise_score": 0.563,
       "n_items": 2
     },
     {
       "date": "2026-06-02",
       "commentary_score": 0.563,
-      "surprise_score": 0.563,
       "n_items": 2
     },
     {
       "date": "2026-06-03",
-      "commentary_score": 0.563,
-      "surprise_score": 0.563,
-      "n_items": 2
+      "commentary_score": -0.471,
+      "n_items": 4
     },
     {
       "date": "2026-06-04",
       "commentary_score": -0.471,
-      "surprise_score": 0.292,
       "n_items": 4
     },
     {
       "date": "2026-06-05",
       "commentary_score": -0.471,
-      "surprise_score": 0.292,
       "n_items": 4
     },
     {
       "date": "2026-06-06",
-      "commentary_score": -0.471,
-      "surprise_score": 0.292,
-      "n_items": 4
+      "commentary_score": -0.485,
+      "n_items": 3
     },
     {
       "date": "2026-06-07",
       "commentary_score": -0.485,
-      "surprise_score": 0.301,
       "n_items": 3
     },
     {
       "date": "2026-06-08",
       "commentary_score": -0.485,
-      "surprise_score": 0.301,
       "n_items": 3
     },
     {
       "date": "2026-06-09",
       "commentary_score": -0.669,
-      "surprise_score": -0.164,
       "n_items": 4
     },
     {
       "date": "2026-06-10",
       "commentary_score": -0.669,
-      "surprise_score": -0.164,
       "n_items": 4
     },
     {
       "date": "2026-06-11",
       "commentary_score": -0.669,
-      "surprise_score": -0.164,
       "n_items": 4
     },
     {
       "date": "2026-06-12",
       "commentary_score": -0.712,
-      "surprise_score": -0.194,
       "n_items": 3
     },
     {
       "date": "2026-06-13",
       "commentary_score": -0.712,
-      "surprise_score": -0.194,
       "n_items": 3
     },
     {
       "date": "2026-06-14",
       "commentary_score": -0.712,
-      "surprise_score": -0.194,
       "n_items": 3
     },
     {
       "date": "2026-06-15",
-      "commentary_score": -0.712,
-      "surprise_score": -0.194,
-      "n_items": 3
+      "commentary_score": -1.061,
+      "n_items": 4
     },
     {
       "date": "2026-06-16",
       "commentary_score": -1.061,
-      "surprise_score": -1.435,
       "n_items": 4
     },
     {
       "date": "2026-06-17",
       "commentary_score": -1.061,
-      "surprise_score": -1.435,
       "n_items": 4
     },
     {
       "date": "2026-06-18",
       "commentary_score": -0.71,
-      "surprise_score": -0.961,
       "n_items": 5
     },
     {
       "date": "2026-06-19",
       "commentary_score": -0.71,
-      "surprise_score": -0.961,
       "n_items": 5
     },
     {
       "date": "2026-06-20",
       "commentary_score": -0.71,
-      "surprise_score": -0.961,
       "n_items": 5
     },
     {
       "date": "2026-06-21",
       "commentary_score": -0.71,
-      "surprise_score": -0.961,
       "n_items": 5
     },
     {
       "date": "2026-06-22",
       "commentary_score": -0.71,
-      "surprise_score": -0.961,
       "n_items": 5
     },
     {
       "date": "2026-06-23",
       "commentary_score": -0.71,
-      "surprise_score": -0.961,
       "n_items": 5
     },
     {
       "date": "2026-06-24",
       "commentary_score": -0.71,
-      "surprise_score": -0.961,
       "n_items": 5
     },
     {
       "date": "2026-06-25",
       "commentary_score": -0.71,
-      "surprise_score": -0.961,
       "n_items": 5
     },
     {
       "date": "2026-06-26",
       "commentary_score": -0.71,
-      "surprise_score": -0.961,
       "n_items": 5
     },
     {
       "date": "2026-06-27",
       "commentary_score": -0.71,
-      "surprise_score": -0.961,
       "n_items": 5
     },
     {
       "date": "2026-06-28",
       "commentary_score": -0.71,
-      "surprise_score": -0.961,
       "n_items": 5
     },
     {
       "date": "2026-06-29",
       "commentary_score": -0.71,
-      "surprise_score": -0.961,
       "n_items": 5
     },
     {
       "date": "2026-06-30",
       "commentary_score": -0.71,
-      "surprise_score": -0.961,
       "n_items": 5
     },
     {
       "date": "2026-07-01",
       "commentary_score": -0.71,
-      "surprise_score": -0.961,
       "n_items": 5
     },
     {
       "date": "2026-07-02",
       "commentary_score": -0.71,
-      "surprise_score": -0.961,
       "n_items": 5
     },
     {
       "date": "2026-07-03",
-      "commentary_score": -0.71,
-      "surprise_score": -0.961,
-      "n_items": 5
+      "commentary_score": -0.761,
+      "n_items": 3
     },
     {
       "date": "2026-07-04",
       "commentary_score": -0.761,
-      "surprise_score": -1.342,
       "n_items": 3
     },
     {
       "date": "2026-07-05",
       "commentary_score": -0.761,
-      "surprise_score": -1.342,
       "n_items": 3
     },
     {
       "date": "2026-07-06",
       "commentary_score": -0.761,
-      "surprise_score": -1.342,
       "n_items": 3
     },
     {
       "date": "2026-07-07",
       "commentary_score": -0.761,
-      "surprise_score": -1.342,
       "n_items": 3
     },
     {
       "date": "2026-07-08",
       "commentary_score": -0.761,
-      "surprise_score": -1.342,
       "n_items": 3
     },
     {
       "date": "2026-07-09",
-      "commentary_score": -0.708,
-      "surprise_score": -1.417,
-      "n_items": 2
+      "commentary_score": -2.786,
+      "n_items": 3
     },
     {
       "date": "2026-07-10",
       "commentary_score": -2.542,
-      "surprise_score": -2.114,
       "n_items": 4
     },
     {
       "date": "2026-07-11",
       "commentary_score": -2.542,
-      "surprise_score": -2.114,
       "n_items": 4
     },
     {
       "date": "2026-07-12",
       "commentary_score": -2.542,
-      "surprise_score": -2.114,
       "n_items": 4
     },
     {
       "date": "2026-07-13",
       "commentary_score": -2.542,
-      "surprise_score": -2.114,
       "n_items": 4
     },
     {
       "date": "2026-07-14",
       "commentary_score": -2.542,
-      "surprise_score": -2.114,
       "n_items": 4
     },
     {
       "date": "2026-07-15",
-      "commentary_score": -2.542,
-      "surprise_score": -2.114,
-      "n_items": 4
+      "commentary_score": -2.575,
+      "n_items": 3
     },
     {
       "date": "2026-07-16",
       "commentary_score": -2.575,
-      "surprise_score": -2.086,
       "n_items": 3
     },
     {
       "date": "2026-07-17",
       "commentary_score": -2.575,
-      "surprise_score": -2.086,
       "n_items": 3
     },
     {
       "date": "2026-07-18",
       "commentary_score": -2.669,
-      "surprise_score": -2.162,
       "n_items": 2
     },
     {
       "date": "2026-07-19",
       "commentary_score": -2.669,
-      "surprise_score": -2.162,
       "n_items": 2
     },
     {
       "date": "2026-07-20",
       "commentary_score": -2.847,
-      "surprise_score": -2.611,
       "n_items": 3
-    }
-  ],
-  "top_movers": [
-    {
-      "published_at": "2026-07-20T05:43:00+00:00",
-      "speaker": "Gabriela Maslowska",
-      "event_type": "other",
-      "stance": -3.0,
-      "prior": 0.0,
-      "surprise": -3.0,
-      "weight": 0.233,
-      "contribution": -0.699,
-      "phrase": "the MPC may cut rates this year and the next move may be a rate cut",
-      "headline": "NBP's Maslowska says the MPC may cut rates this year and the next move may be a rate cut"
-    },
-    {
-      "published_at": "2026-07-10T12:12:00+00:00",
-      "speaker": "Ludwik Kotecki",
-      "event_type": "other",
-      "stance": -2.0,
-      "prior": 1.5,
-      "surprise": -3.5,
-      "weight": 0.067,
-      "contribution": -0.233,
-      "phrase": "grounds to consider rate cuts later this year",
-      "headline": "NBP's Kotecki says there are grounds to consider rate cuts later this year"
-    },
-    {
-      "published_at": "2026-07-09T13:15:00+00:00",
-      "speaker": "Adam Glapinski",
-      "event_type": "other",
-      "stance": -3.0,
-      "prior": -1.5,
-      "surprise": -1.5,
-      "weight": 0.135,
-      "contribution": -0.202,
-      "phrase": "think a rate cut this year is likely",
-      "headline": "NBP Governor Glapinski says level of rates is appropriate; think a rate cut this year is likely; not worried about PLN FX level"
     }
   ],
   "key_comments": [
@@ -597,13 +467,11 @@
       "voting_2026": true,
       "event_type": "other",
       "stance": -3.0,
-      "prior": 0.0,
-      "surprise": -3.0,
       "phrase": "the MPC may cut rates this year and the next move may be a rate cut",
       "headline": "NBP's Maslowska says the MPC may cut rates this year and the next move may be a rate cut",
       "importance": 4.5,
       "reasons": [
-        "notable move vs own prior (surprise -3.00)",
+        "notable move vs own recent tone",
         "cross-market extreme (|stance| = 3.0)"
       ]
     },
@@ -615,13 +483,11 @@
       "voting_2026": true,
       "event_type": "other",
       "stance": -2.0,
-      "prior": 1.5,
-      "surprise": -3.5,
       "phrase": "grounds to consider rate cuts later this year",
       "headline": "NBP's Kotecki says there are grounds to consider rate cuts later this year",
       "importance": 7.0,
       "reasons": [
-        "hawk-lean speaker sounded dovish (surprise -3.50)"
+        "hawk-lean speaker sounded dovish"
       ]
     },
     {
@@ -632,8 +498,6 @@
       "voting_2026": true,
       "event_type": "other",
       "stance": -3.0,
-      "prior": -1.5,
-      "surprise": -1.5,
       "phrase": "think a rate cut this year is likely",
       "headline": "NBP Governor Glapinski says level of rates is appropriate; think a rate cut this year is likely; not worried about PLN FX level",
       "importance": 4.5,
@@ -643,175 +507,47 @@
       ]
     }
   ],
-  "speaker_board": {
-    "effective_window_days": 255,
-    "long_window_days": 365,
-    "recent_window_days": 14,
-    "speakers": [
-      {
-        "name": "Przemyslaw Litwiniuk",
-        "role": "mpc_external",
-        "voting_2026": true,
-        "lean_prior": "neutral",
-        "weight_speaker": 0.6,
-        "n_long": 2,
-        "mean_long": 0.0,
-        "mean_long_conf_weighted": 0.091,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": 1.0,
-        "last_headline": "NBP's Litwiniuk says a rate rise is more likely than a rate cut this year",
-        "last_phrase": "a rate rise is more likely than a rate cut this year",
-        "last_published_at": "2026-05-13T10:37:00+00:00"
-      },
-      {
-        "name": "Iwona Duda",
-        "role": "mpc_external",
-        "voting_2026": true,
-        "lean_prior": "neutral",
-        "weight_speaker": 0.6,
-        "n_long": 2,
-        "mean_long": -0.75,
-        "mean_long_conf_weighted": -0.75,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": 0.0,
-        "last_headline": "NBP's Duda says the base scenario is for monetary policy to remain stable in the coming months",
-        "last_phrase": "monetary policy to remain stable in the coming months",
-        "last_published_at": "2026-06-18T05:26:00+00:00"
-      },
-      {
-        "name": "Ireneusz Dabrowski",
-        "role": "mpc_external",
-        "voting_2026": true,
-        "lean_prior": "dove",
-        "weight_speaker": 0.6,
-        "n_long": 3,
-        "mean_long": -1.167,
-        "mean_long_conf_weighted": -1.187,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": -1.0,
-        "last_headline": "NBP Member Dabrowski says April would be safer to cut rates than in March, a policy rate of 3.5% in 2026 is achievable",
-        "last_phrase": "a policy rate of 3.5% in 2026 is achievable",
-        "last_published_at": "2026-02-17T10:22:00+00:00"
-      },
-      {
-        "name": "Wieslaw Janczyk",
-        "role": "mpc_external",
-        "voting_2026": true,
-        "lean_prior": "dove",
-        "weight_speaker": 0.6,
-        "n_long": 1,
-        "mean_long": -1.5,
-        "mean_long_conf_weighted": -1.5,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": -1.5,
-        "last_headline": "NBP's Janczyk says there is room for a small rate cut in the near future",
-        "last_phrase": "room for a small rate cut in the near future",
-        "last_published_at": "2025-11-17T12:27:00+00:00"
-      },
-      {
-        "name": "Adam Glapinski",
-        "role": "chair",
-        "voting_2026": true,
-        "lean_prior": "dove",
-        "weight_speaker": 1.0,
-        "n_long": 7,
-        "mean_long": -1.5,
-        "mean_long_conf_weighted": -1.591,
-        "n_recent": 1,
-        "mean_recent": -3.0,
-        "mean_recent_conf_weighted": -3.0,
-        "delta": -1.409,
-        "last_stance": -3.0,
-        "last_headline": "NBP Governor Glapinski says level of rates is appropriate; think a rate cut this year is likely; not worried about PLN FX level",
-        "last_phrase": "think a rate cut this year is likely",
-        "last_published_at": "2026-07-09T13:15:00+00:00"
-      },
-      {
-        "name": "Ludwik Kotecki",
-        "role": "mpc_external",
-        "voting_2026": true,
-        "lean_prior": "hawk",
-        "weight_speaker": 0.6,
-        "n_long": 7,
-        "mean_long": -1.571,
-        "mean_long_conf_weighted": -1.607,
-        "n_recent": 1,
-        "mean_recent": -2.0,
-        "mean_recent_conf_weighted": -2.0,
-        "delta": -0.393,
-        "last_stance": -2.0,
-        "last_headline": "NBP's Kotecki says there are grounds to consider rate cuts later this year",
-        "last_phrase": "grounds to consider rate cuts later this year",
-        "last_published_at": "2026-07-10T12:12:00+00:00"
-      },
-      {
-        "name": "Gabriela Maslowska",
-        "role": "mpc_external",
-        "voting_2026": true,
-        "lean_prior": "neutral",
-        "weight_speaker": 0.6,
-        "n_long": 3,
-        "mean_long": -1.667,
-        "mean_long_conf_weighted": -1.8,
-        "n_recent": 1,
-        "mean_recent": -3.0,
-        "mean_recent_conf_weighted": -3.0,
-        "delta": -1.2,
-        "last_stance": -3.0,
-        "last_headline": "NBP's Maslowska says the MPC may cut rates this year and the next move may be a rate cut",
-        "last_phrase": "the MPC may cut rates this year and the next move may be a rate cut",
-        "last_published_at": "2026-07-20T05:43:00+00:00"
-      },
-      {
-        "name": "Joanna Tyrowicz",
-        "role": "mpc_external",
-        "voting_2026": true,
-        "lean_prior": "hawk",
-        "weight_speaker": 0.6,
-        "n_long": 0,
-        "mean_long": null,
-        "mean_long_conf_weighted": null,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": null,
-        "last_headline": "",
-        "last_phrase": "",
-        "last_published_at": null
-      },
-      {
-        "name": "Cezary Kochalski",
-        "role": "mpc_external",
-        "voting_2026": true,
-        "lean_prior": "neutral",
-        "weight_speaker": 0.6,
-        "n_long": 0,
-        "mean_long": null,
-        "mean_long_conf_weighted": null,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": null,
-        "last_headline": "",
-        "last_phrase": "",
-        "last_published_at": null
-      }
-    ]
-  },
+  "speakers": [
+    {
+      "name": "Ludwik Kotecki",
+      "role": "mpc_external",
+      "voting_2026": true,
+      "lean_prior": "hawk",
+      "n_items": 1,
+      "mean_stance": -2.0,
+      "last_stance": -2.0,
+      "last_phrase": "grounds to consider rate cuts later this year",
+      "last_headline": "NBP's Kotecki says there are grounds to consider rate cuts later this year",
+      "last_published_at": "2026-07-10T12:12:00+00:00",
+      "last_event_type": "other"
+    },
+    {
+      "name": "Adam Glapinski",
+      "role": "chair",
+      "voting_2026": true,
+      "lean_prior": "dove",
+      "n_items": 1,
+      "mean_stance": -3.0,
+      "last_stance": -3.0,
+      "last_phrase": "think a rate cut this year is likely",
+      "last_headline": "NBP Governor Glapinski says level of rates is appropriate; think a rate cut this year is likely; not worried about PLN FX level",
+      "last_published_at": "2026-07-09T13:15:00+00:00",
+      "last_event_type": "other"
+    },
+    {
+      "name": "Gabriela Maslowska",
+      "role": "mpc_external",
+      "voting_2026": true,
+      "lean_prior": "neutral",
+      "n_items": 1,
+      "mean_stance": -3.0,
+      "last_stance": -3.0,
+      "last_phrase": "the MPC may cut rates this year and the next move may be a rate cut",
+      "last_headline": "NBP's Maslowska says the MPC may cut rates this year and the next move may be a rate cut",
+      "last_published_at": "2026-07-20T05:43:00+00:00",
+      "last_event_type": "other"
+    }
+  ],
   "methodology": {
     "commentary_window_days": 30,
     "commentary_window_days_default": 14,
@@ -840,7 +576,6 @@
       "twd",
       "zar"
     ],
-    "surprise_lookback_days": 60,
     "recency_halflife_days": 7,
     "event_weights": {
       "speech": 1.0,
@@ -853,6 +588,6 @@
     },
     "speaker_weight_scale": "chair 1.0 / VC 0.8 / gov 0.7 / voter 0.6 / non-voter 0.4",
     "scale": "-5 (ultra dovish) to +5 (ultra hawkish)",
-    "primary_signal": "surprise_score (stance minus speaker's 60d rolling mean)"
+    "primary_signal": "commentary_score (weighted average of speaker headlines)"
   }
 }

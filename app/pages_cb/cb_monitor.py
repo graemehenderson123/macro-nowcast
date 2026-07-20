@@ -19,14 +19,9 @@ import streamlit as st
 
 from shared.cb_theme import (
     CB_CSS,
-    EXTREME_THRESHOLD,
     band_color,
-    band_label,
     commentary_band_label,
     commentary_color,
-    commentary_label,
-    delta_phrase,
-    direction_arrow,
     truncate,
 )
 
@@ -91,23 +86,6 @@ def _load_snapshot(filename: str, _cache_bust: str) -> dict | None:
         return None
 
 
-def _fourteen_day_delta(history: list[dict]) -> float | None:
-    """Current surprise minus surprise 14 days ago (using last available point)."""
-    if not history:
-        return None
-    df = pd.DataFrame(history)
-    if "surprise_score" not in df.columns or df.empty:
-        return None
-    df["date"] = pd.to_datetime(df["date"])
-    df = df.sort_values("date").reset_index(drop=True)
-    if len(df) < 2:
-        return None
-    current = float(df["surprise_score"].iloc[-1])
-    lookback = df.iloc[-15] if len(df) >= 15 else df.iloc[0]
-    prior = float(lookback["surprise_score"])
-    return current - prior
-
-
 def _hex_to_rgba(hex_colour: str, alpha: float) -> str:
     h = hex_colour.lstrip("#")
     if len(h) != 6:
@@ -124,10 +102,10 @@ def _sparkline(history: list[dict], colour: str) -> go.Figure:
     fig.add_trace(
         go.Scatter(
             x=df["date"],
-            y=df["surprise_score"],
+            y=df["commentary_score"],
             mode="lines",
             line=dict(color=colour, width=2),
-            hovertemplate="%{x|%b %d}<br>surprise=%{y:+.2f}σ<extra></extra>",
+            hovertemplate="%{x|%b %d}<br>commentary=%{y:+.2f}<extra></extra>",
             fill="tozeroy",
             fillcolor=_hex_to_rgba(colour, 0.13),
         )
@@ -149,34 +127,16 @@ def _sparkline(history: list[dict], colour: str) -> go.Figure:
 # Card renderers
 # ---------------------------------------------------------------------------
 def _render_live_card(cb: dict, snap: dict) -> None:
-    surprise = float(snap.get("surprise_score", 0.0))
     commentary = float(snap.get("commentary_score", 0.0))
-    # Per-CB recent window (14d default; 30d for low-cadence CBs like RBA,
-    # BoJ, BoC, SNB, RBNZ, Riksbank, Norges). Fall back to 14 if the field is
-    # missing from an older snapshot.
     window_days = int(snap.get("commentary_window_days", 14))
-    n_win = int(snap.get("n_items_window", snap.get("n_items_14d", 0)))
+    n_win = int(snap.get("n_items_window", 0))
     history = snap.get("history_90d", [])
-    movers = snap.get("top_movers", [])
 
-    # PRIMARY headline: commentary (objective hawk/dove level).
-    # SECONDARY readout: surprise (time-decayed momentum / market repricing).
-    # Colour band is driven by commentary so the card doesn't change colour
-    # when nothing new has been said.
     colour = commentary_color(commentary)
     band_lbl = commentary_band_label(commentary)
-    # Kept for the amber "repricing risk" banner + secondary surprise line.
-    surprise_colour = band_color(surprise)
-    surprise_lbl = band_label(surprise)
 
-    delta_14d = _fourteen_day_delta(history)
-    arrow, arrow_col, arrow_pt = direction_arrow(delta_14d)
-
-    # Confidence badge — how much data is actually behind the headline number.
-    # Thresholds are relative to the CB's window (14d or 30d):
-    #   14d window: <5 low, 5-9 medium, 10+ high
-    #   30d window: <6 low, 6-14 medium, 15+ high (roughly 2x the 14d bar
-    #     because we've doubled the sampling window)
+    # Confidence badge — how much data is actually behind the headline.
+    # Thresholds scale with the CB's window (14d default, 30d for low-cadence).
     if window_days >= 30:
         low_thr, med_thr = 6, 15
     else:
@@ -188,22 +148,15 @@ def _render_live_card(cb: dict, snap: dict) -> None:
     else:
         conf_label, conf_bg, conf_fg = f"high conviction · n={n_win}", "#dcfce7", "#166534"
 
-    # Header row (name + arrow)
-    #   BIG NUMBER   = commentary_score (e.g. "+3.00")   — objective stance
-    #   BAND LABEL   = commentary_band_label            — hawkish / dovish / etc
-    #   SUB-LINE     = surprise_score in σ               — secondary momentum
+    # Header + big number
     st.markdown(
         f"""
 <div class='cb-card'>
   <div class='cb-header'>
     <span class='cb-name'>{cb['flag']} {cb['label']}</span>
-    <span class='cb-arrow' style='color:{arrow_col}; font-size:{arrow_pt}px;'>{arrow}</span>
   </div>
   <div class='cb-big' style='color:{colour};'>{commentary:+.2f}</div>
   <div class='cb-band-label' style='color:{colour};'>{band_lbl}</div>
-  <div class='cb-sub-metric' style='color:{surprise_colour};'>
-    Surprise vs prior: <b>{surprise:+.2f}σ</b> · <span style='opacity:0.9'>{surprise_lbl}</span>
-  </div>
   <div style='display:inline-block; margin-top:4px; padding:2px 8px; border-radius:10px;
               background:{conf_bg}; color:{conf_fg}; font-size:10.5px; font-weight:600;
               text-transform:uppercase; letter-spacing:0.4px;'>{conf_label}</div>
@@ -212,7 +165,7 @@ def _render_live_card(cb: dict, snap: dict) -> None:
         unsafe_allow_html=True,
     )
 
-    # Sparkline (rendered outside the html because plotly needs a real DOM node)
+    # Sparkline of commentary_score over trailing 30d.
     if history:
         st.plotly_chart(
             _sparkline(history, colour),
@@ -221,117 +174,45 @@ def _render_live_card(cb: dict, snap: dict) -> None:
             key=f"spark_{cb['code']}",
         )
 
-    # Momentum + sample-size footer under the sparkline.
-    #   Δ14d = surprise-score delta over the last 14 days (always 14d for
-    #     cross-CB comparability, regardless of the CB's recent window).
-    #   Sample-size line reports how many items and over how many days.
-    if delta_14d is not None:
-        delta_txt = f"Δ 14d surprise: {delta_14d:+.2f}σ ({delta_phrase(delta_14d)})"
-    else:
-        delta_txt = "Δ 14d surprise: —"
     st.markdown(
-        f"<div class='cb-delta'>{delta_txt}</div>"
         f"<div class='cb-absolute'>{n_win} items in last {window_days} days</div>",
         unsafe_allow_html=True,
     )
 
-    # Top 5 comments (per-CB, importance-ranked — not just biggest movers).
-    # Order is chronological (most recent first) inside build_stance.key_comments,
-    # so the renderer just walks the list in the order the snapshot provides.
-    _render_key_comments_for_cb(snap, k=5)
-
-    # Full movers table available in an expander below
-    if movers:
-        with st.expander(f"View all movers ({len(movers)})"):
-            rows = []
-            for m in movers:
-                rows.append({
-                    "Date": (m.get("published_at") or "")[:10],
-                    "Speaker": m.get("speaker", ""),
-                    "Stance": m.get("stance"),
-                    "Prior": m.get("prior"),
-                    "Surprise": m.get("surprise"),
-                    "Weight": m.get("weight"),
-                    "Phrase": (m.get("phrase") or "")[:200],
-                })
-            df = pd.DataFrame(rows)
-            st.dataframe(
-                df.style.format({
-                    "Stance": "{:+.2f}", "Prior": "{:+.2f}",
-                    "Surprise": "{:+.2f}", "Weight": "{:.3f}",
-                }),
-                use_container_width=True,
-                hide_index=True,
-                height=min(38 * (len(df) + 1) + 10, 320),
-            )
-
-    # Speaker Board — per-speaker long-term average stance, sortable
-    board = snap.get("speaker_board") or {}
-    board_speakers = board.get("speakers") or []
-    if board_speakers:
-        eff_days = int(board.get("effective_window_days") or 0)
-        long_days = int(board.get("long_window_days") or 365)
-        recent_days = int(board.get("recent_window_days") or 14)
-        # "long-term" label acknowledges the per-CB backfill window difference.
-        # Fed/ECB/BoE are intentionally 3m; the sparse CBs get the full 12m.
-        if eff_days >= 300:
-            long_lbl = "12m avg"
-        elif eff_days >= 80:
-            long_lbl = "3m avg"
-        else:
-            long_lbl = f"{eff_days}d avg"
-        n_active = sum(1 for s in board_speakers if (s.get("n_long") or 0) > 0)
-        with st.expander(f"Speaker board ({n_active} active / {len(board_speakers)} on roster, {long_lbl})"):
-            st.caption(
-                f"Per-speaker mean stance over the trailing {eff_days} days "
-                f"(cap: {long_days}d, capped by earliest data). "
-                f"'Recent' column is the last {recent_days} days. "
-                "Δ = recent minus long-term. Positive = drifting more hawkish. "
-                "Rows prefixed with · are speakers with no scored policy items in the window."
-            )
-            rows = []
-            for sp in board_speakers:
-                role = sp.get("role") or ""
-                voting = sp.get("voting_2026")
-                role_str = role.replace("_", " ")
-                if voting is True:
-                    role_str += " · voter"
-                elif voting is False:
-                    role_str += " · non-voter"
-                # Mark silent speakers (no scored items in window) with a leading dot
-                # so the human eye can spot them in the table.
-                name = sp.get("name", "")
-                if (sp.get("n_long") or 0) == 0:
-                    name = f"· {name}"
-                rows.append({
-                    "Speaker": name,
-                    "Role": role_str.strip() or "—",
-                    "Lean": sp.get("lean_prior") or "—",
-                    "N (long)": sp.get("n_long", 0),
-                    long_lbl: sp.get("mean_long_conf_weighted"),
-                    "N (14d)": sp.get("n_recent", 0),
-                    "14d avg": sp.get("mean_recent_conf_weighted"),
-                    "Δ": sp.get("delta"),
-                    "Last stance": sp.get("last_stance"),
-                    "Last quote": (sp.get("last_phrase") or sp.get("last_headline") or "")[:120],
-                })
-            df = pd.DataFrame(rows)
-            fmt = {}
-            for col in (long_lbl, "14d avg", "Δ", "Last stance"):
-                fmt[col] = lambda x: "—" if x is None else f"{x:+.2f}"
-            st.dataframe(
-                df.style.format(fmt, na_rep="—"),
-                use_container_width=True,
-                hide_index=True,
-                height=min(38 * (len(df) + 1) + 10, 400),
-            )
-
-    # Reprice-risk banner if |surprise| > EXTREME_THRESHOLD (i.e. in the deep bands)
-    if abs(surprise) > EXTREME_THRESHOLD:
+    # Per-speaker current stance table (Option 1 per Graeme's spec 20 Jul 2026).
+    # Simple: each speaker's average stance in the current commentary window.
+    speakers = snap.get("speakers") or []
+    if speakers:
         st.markdown(
-            "<div class='cb-banner'>⚠ Market repricing risk — surprise magnitude high</div>",
+            "<div style='margin-top:14px; font-size:12px; font-weight:700; "
+            "color:#374151; text-transform:uppercase; letter-spacing:0.4px;'>"
+            f"Speakers ({len(speakers)} in last {window_days} days)</div>",
             unsafe_allow_html=True,
         )
+        rows = []
+        for sp in speakers:
+            role = (sp.get("role") or "").replace("_", " ")
+            voting = sp.get("voting_2026")
+            if voting is True and role != "chair":
+                role += " · voter"
+            elif voting is False:
+                role += " · non-voter"
+            rows.append({
+                "Speaker": sp.get("name", ""),
+                "Role": role.strip() or "—",
+                "Stance": sp.get("mean_stance"),
+                "N": sp.get("n_items", 0),
+            })
+        df = pd.DataFrame(rows)
+        st.dataframe(
+            df.style.format({"Stance": "{:+.2f}"}, na_rep="—"),
+            use_container_width=True,
+            hide_index=True,
+            height=min(35 * (len(df) + 1) + 4, 320),
+        )
+
+    # Top 5 comments (per-CB, importance-ranked, chronological display order).
+    _render_key_comments_for_cb(snap, k=5)
 
 
 def _render_empty_card(cb: dict) -> None:
@@ -356,21 +237,14 @@ def _card_sort_key(entry: dict, mode: str) -> tuple:
     """Return a sort key so live cards sort by data, empty cards go to bottom."""
     snap = entry.get("snap")
     if snap is None:
-        # Empty cards: keep original registry order
         return (1, entry["_idx"])
 
-    surprise = float(snap.get("surprise_score", 0.0))
     commentary = float(snap.get("commentary_score", 0.0))
-    delta = _fourteen_day_delta(snap.get("history_90d", [])) or 0.0
 
-    if mode == "Hawkishness (commentary)":
-        # Most hawkish first — primary use case for the at-a-glance grid
+    if mode == "Most hawkish first":
         return (0, -commentary)
-    if mode == "Surprise magnitude":
-        return (0, -abs(surprise))
-    if mode == "Direction of travel":
-        # Most hawkish delta first
-        return (0, -delta)
+    if mode == "Most dovish first":
+        return (0, commentary)
     # Alphabetical
     return (0, entry["cb"]["label"])
 
@@ -455,8 +329,7 @@ def _render_key_comments_for_cb(snap: dict, k: int = 5) -> None:
   </div>
   <div style="color:#6b7280; font-size:10.5px; margin-top:4px; line-height:1.3;">
     <strong>Why:</strong> {why}
-    &nbsp;·&nbsp; stance {stance:+.2f}σ (prior {float(c.get('prior',0)):+.2f}σ,
-    surprise {float(c.get('surprise',0)):+.2f}σ)
+    &nbsp;·&nbsp; stance {stance:+.2f}
   </div>
 </div>
             """,
@@ -488,70 +361,57 @@ def render() -> None:
         st.markdown(
             """
 **What it shows.** For each central bank, we score every speaker headline
-(prepared speech, minutes, off-the-cuff) on a −5 (ultra-dovish) to +5
-(ultra-hawkish) scale using a small LLM, then aggregate with these weights:
+(prepared speech, minutes, off-the-cuff, statement) on a −5 (ultra-dovish)
+to +5 (ultra-hawkish) scale using a small LLM, then aggregate with these
+weights:
 
 - **Speaker weight:** Chair 1.0 → Vice/Deputy 0.7 → Voting member 0.6 → Non-voter 0.4.
 - **Event weight:** Prepared speech 1.0 → Off-the-cuff 0.75 → Minutes 0.5.
 - **Recency:** 7-day exponential half-life over the trailing 14 days for
   high-cadence CBs (Fed, ECB, BoE), or 30 days for low-cadence CBs
-  (BoJ, RBA, RBNZ, BoC, SNB, Riksbank, Norges) where a 14d window would be
-  dominated by n=1-2 items. The recent window used for each card is
-  printed after the commentary score as `· N items Xd`.
+  (BoJ, RBA, RBNZ, BoC, SNB, Riksbank, Norges, all EM) where a 14d window
+  would be dominated by n=1-2 items.
 
-**Big headline number.** The `commentary_score` (raw stance, −5 to +5) —
-the objective *how hawkish/dovish is this CB right now* reading based on
-what its speakers actually said in the recent window. This is the primary
-at-a-glance metric. It does **not** move when nothing new is said.
+**The big number (commentary score, −5 to +5)** is the *how hawkish/dovish
+is this CB right now* reading based on what its speakers actually said in
+the recent window. It doesn't move when nothing new is said.
 
-**Card colour bands (commentary-driven).**
+**Card colour bands.**
 `< −2.0` deep green (very dovish) · `−2.0…−0.75` green (dovish) ·
 `−0.75…+0.75` grey (neutral) · `+0.75…+2.0` red (hawkish) ·
 `> +2.0` deep red (very hawkish).
 
-**Secondary readout — surprise vs prior.** Underneath the big number:
-`surprise_score` in σ = current stance minus each speaker's own 60-day
-rolling mean. This is the *momentum / market repricing* signal — it flags
-"Fed member X sounded more hawkish/dovish than usual", which is where
-curves actually move. It **can drift over time** even when nothing new is
-said, as older items time-decay out of the prior window.
-`< −1.5σ` very dovish surprise · `−1.5…−1.0` dovish surprise ·
-`−1.0…+1.0` neutral · `+1.0…+1.5` hawkish surprise · `> +1.5σ` very
-hawkish surprise.
+**Sparkline** plots the commentary score over the trailing 30 days.
 
-**Direction of travel.** Arrow + `Δ 14d surprise` compare current surprise
-to 14 days ago. Rising = drifting more hawkish; falling = drifting more
-dovish.
+**Speakers table** — each speaker's confidence-weighted average stance
+in the current commentary window. Sorted most hawkish first. Only speakers
+with at least one policy-relevant comment in the window are shown.
 
-**Conviction badge.** Small tag under the headline number, showing `n` — the number of policy-relevant items scored in the CB's recent window (14d or 30d, see Recency above).
-14d CBs: `n < 5` low (red), `5-9` medium (amber), `10+` high (green).
-30d CBs: `n < 6` low (red), `6-14` medium (amber), `15+` high (green).
-Treat sparse-CB headline numbers with more caution — the signal is directionally real but sample-size limited.
+**Top 5 comments** — the most policy-relevant headlines in the last 30
+days (Chair/Vice-Chair speeches, off-lean moves, cross-market extremes),
+displayed in chronological order (most recent first).
 
-**Banner.** When `|surprise| > 1.5σ` we flag repricing risk — historically
-where curves and FX pairs have moved most. (This still uses surprise, not
-commentary — by design, since a repricing signal *is* about surprise.)
+**Conviction badge.** Small tag under the headline number, showing `n` —
+the number of policy-relevant items scored in the CB's recent window.
+Treat low-conviction (`n < 5-6`) headline numbers with caution — the
+signal is directionally real but sample-size limited.
             """
         )
 
     # --- Controls ----------------------------------------------------------
-    c1, c2, c3 = st.columns([2, 2, 1])
+    c1, c2 = st.columns([3, 1])
     with c1:
         sort_mode = st.selectbox(
             "Sort by",
             [
-                "Hawkishness (commentary)",
-                "Surprise magnitude",
-                "Direction of travel",
+                "Most hawkish first",
+                "Most dovish first",
                 "Alphabetical",
             ],
             index=0,
         )
     with c2:
-        only_big = st.toggle("Show only |surprise| > 1.5σ", value=False)
-    with c3:
         if st.button("↻ Refresh", use_container_width=True):
-            # bump cache bust so @st.cache_data misses
             st.session_state["_cb_cache_bust"] = datetime.now(timezone.utc).isoformat()
             st.rerun()
 
@@ -566,17 +426,6 @@ commentary — by design, since a repricing signal *is* about surprise.)
         if snap is not None and snap.get("sparse") and int(snap.get("n_items_total", 0)) == 0:
             snap = None
         entries.append({"cb": cb, "snap": snap, "_idx": idx})
-
-    # Optional filter — only affects live cards; empty stay hidden if toggled
-    def _keep(e: dict) -> bool:
-        if not only_big:
-            return True
-        snap = e["snap"]
-        if snap is None:
-            return False
-        return abs(float(snap.get("surprise_score", 0.0))) > EXTREME_THRESHOLD
-
-    entries = [e for e in entries if _keep(e)]
 
     if not entries:
         st.info("No central banks match the current filter.")

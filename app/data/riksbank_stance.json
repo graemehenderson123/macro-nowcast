@@ -1,10 +1,8 @@
 {
   "cb": "riksbank",
-  "as_of": "2026-07-20T13:03:19.401492+00:00",
+  "as_of": "2026-07-20T15:26:47.540038+00:00",
   "commentary_score": 1.0,
-  "surprise_score": 1.0,
   "label": "lean hawkish",
-  "n_items_14d": 1,
   "n_items_window": 1,
   "commentary_window_days": 30,
   "n_items_total": 33,
@@ -12,556 +10,452 @@
     {
       "date": "2026-04-22",
       "commentary_score": -0.216,
-      "surprise_score": 0.247,
       "n_items": 6
     },
     {
       "date": "2026-04-23",
       "commentary_score": -0.216,
-      "surprise_score": 0.247,
       "n_items": 6
     },
     {
       "date": "2026-04-24",
       "commentary_score": -0.174,
-      "surprise_score": 0.276,
       "n_items": 5
     },
     {
       "date": "2026-04-25",
       "commentary_score": -0.174,
-      "surprise_score": 0.276,
       "n_items": 5
     },
     {
       "date": "2026-04-26",
       "commentary_score": -0.174,
-      "surprise_score": 0.276,
       "n_items": 5
     },
     {
       "date": "2026-04-27",
       "commentary_score": -0.174,
-      "surprise_score": 0.28,
       "n_items": 5
     },
     {
       "date": "2026-04-28",
       "commentary_score": -0.174,
-      "surprise_score": 0.28,
       "n_items": 5
     },
     {
       "date": "2026-04-29",
       "commentary_score": -0.174,
-      "surprise_score": 0.28,
       "n_items": 5
     },
     {
       "date": "2026-04-30",
       "commentary_score": -0.178,
-      "surprise_score": 0.286,
       "n_items": 4
     },
     {
       "date": "2026-05-01",
       "commentary_score": -0.178,
-      "surprise_score": 0.286,
       "n_items": 4
     },
     {
       "date": "2026-05-02",
       "commentary_score": -0.178,
-      "surprise_score": -0.337,
       "n_items": 4
     },
     {
       "date": "2026-05-03",
       "commentary_score": -0.178,
-      "surprise_score": -0.337,
       "n_items": 4
     },
     {
       "date": "2026-05-04",
       "commentary_score": -0.178,
-      "surprise_score": -0.337,
       "n_items": 4
     },
     {
       "date": "2026-05-05",
       "commentary_score": -0.178,
-      "surprise_score": -0.337,
       "n_items": 4
     },
     {
       "date": "2026-05-06",
       "commentary_score": -0.178,
-      "surprise_score": -0.337,
       "n_items": 4
     },
     {
       "date": "2026-05-07",
       "commentary_score": -0.596,
-      "surprise_score": -0.393,
       "n_items": 7
     },
     {
       "date": "2026-05-08",
       "commentary_score": -0.596,
-      "surprise_score": -0.393,
       "n_items": 7
     },
     {
       "date": "2026-05-09",
       "commentary_score": -0.596,
-      "surprise_score": -0.393,
       "n_items": 7
     },
     {
       "date": "2026-05-10",
       "commentary_score": -0.596,
-      "surprise_score": -0.393,
       "n_items": 7
     },
     {
       "date": "2026-05-11",
       "commentary_score": -0.596,
-      "surprise_score": -0.393,
       "n_items": 7
     },
     {
       "date": "2026-05-12",
       "commentary_score": -0.596,
-      "surprise_score": -0.393,
       "n_items": 7
     },
     {
       "date": "2026-05-13",
       "commentary_score": -0.131,
-      "surprise_score": 0.079,
       "n_items": 8
     },
     {
       "date": "2026-05-14",
       "commentary_score": -0.131,
-      "surprise_score": 0.079,
       "n_items": 8
     },
     {
       "date": "2026-05-15",
       "commentary_score": -0.131,
-      "surprise_score": 0.079,
       "n_items": 8
     },
     {
       "date": "2026-05-16",
       "commentary_score": -0.122,
-      "surprise_score": 0.105,
       "n_items": 7
     },
     {
       "date": "2026-05-17",
       "commentary_score": -0.126,
-      "surprise_score": 0.108,
       "n_items": 6
     },
     {
       "date": "2026-05-18",
       "commentary_score": -0.126,
-      "surprise_score": 0.108,
       "n_items": 6
     },
     {
       "date": "2026-05-19",
       "commentary_score": 0.186,
-      "surprise_score": 0.355,
       "n_items": 7
     },
     {
       "date": "2026-05-20",
       "commentary_score": 0.219,
-      "surprise_score": 0.382,
       "n_items": 6
     },
     {
       "date": "2026-05-21",
       "commentary_score": 0.219,
-      "surprise_score": 0.382,
       "n_items": 6
     },
     {
       "date": "2026-05-22",
       "commentary_score": 0.199,
-      "surprise_score": 0.355,
       "n_items": 5
     },
     {
       "date": "2026-05-23",
       "commentary_score": 0.199,
-      "surprise_score": 0.355,
       "n_items": 5
     },
     {
       "date": "2026-05-24",
       "commentary_score": 0.199,
-      "surprise_score": 0.213,
       "n_items": 5
     },
     {
       "date": "2026-05-25",
       "commentary_score": 0.199,
-      "surprise_score": 0.213,
       "n_items": 5
     },
     {
       "date": "2026-05-26",
       "commentary_score": 0.199,
-      "surprise_score": 0.213,
       "n_items": 5
     },
     {
       "date": "2026-05-27",
       "commentary_score": 0.199,
-      "surprise_score": 0.213,
       "n_items": 5
     },
     {
       "date": "2026-05-28",
       "commentary_score": 0.199,
-      "surprise_score": 0.213,
       "n_items": 5
     },
     {
       "date": "2026-05-29",
       "commentary_score": 0.082,
-      "surprise_score": 0.087,
       "n_items": 6
     },
     {
       "date": "2026-05-30",
       "commentary_score": 0.082,
-      "surprise_score": 0.087,
       "n_items": 6
     },
     {
       "date": "2026-05-31",
       "commentary_score": 0.082,
-      "surprise_score": 0.087,
       "n_items": 6
     },
     {
       "date": "2026-06-01",
       "commentary_score": 0.082,
-      "surprise_score": 0.087,
       "n_items": 6
     },
     {
       "date": "2026-06-02",
       "commentary_score": 0.082,
-      "surprise_score": 0.087,
       "n_items": 6
     },
     {
       "date": "2026-06-03",
       "commentary_score": 0.082,
-      "surprise_score": 0.087,
       "n_items": 6
     },
     {
       "date": "2026-06-04",
       "commentary_score": -0.64,
-      "surprise_score": -0.444,
       "n_items": 7
     },
     {
       "date": "2026-06-05",
       "commentary_score": -0.64,
-      "surprise_score": -0.444,
       "n_items": 7
     },
     {
       "date": "2026-06-06",
       "commentary_score": -0.637,
-      "surprise_score": -0.426,
       "n_items": 4
     },
     {
       "date": "2026-06-07",
       "commentary_score": -0.637,
-      "surprise_score": -0.426,
       "n_items": 4
     },
     {
       "date": "2026-06-08",
       "commentary_score": -0.637,
-      "surprise_score": -0.426,
       "n_items": 4
     },
     {
       "date": "2026-06-09",
       "commentary_score": -0.637,
-      "surprise_score": -0.426,
       "n_items": 4
     },
     {
       "date": "2026-06-10",
       "commentary_score": -0.637,
-      "surprise_score": -0.426,
       "n_items": 4
     },
     {
       "date": "2026-06-11",
       "commentary_score": -0.637,
-      "surprise_score": -0.426,
       "n_items": 4
     },
     {
       "date": "2026-06-12",
       "commentary_score": -0.737,
-      "surprise_score": -0.536,
       "n_items": 3
     },
     {
       "date": "2026-06-13",
       "commentary_score": -0.737,
-      "surprise_score": -0.536,
       "n_items": 3
     },
     {
       "date": "2026-06-14",
       "commentary_score": -0.737,
-      "surprise_score": -0.536,
       "n_items": 3
     },
     {
       "date": "2026-06-15",
       "commentary_score": -0.737,
-      "surprise_score": -0.536,
       "n_items": 3
     },
     {
       "date": "2026-06-16",
       "commentary_score": -0.737,
-      "surprise_score": -0.536,
       "n_items": 3
     },
     {
       "date": "2026-06-17",
       "commentary_score": 1.053,
-      "surprise_score": 1.093,
       "n_items": 4
     },
     {
       "date": "2026-06-18",
       "commentary_score": 1.053,
-      "surprise_score": 1.094,
       "n_items": 3
     },
     {
       "date": "2026-06-19",
       "commentary_score": 1.053,
-      "surprise_score": 1.064,
       "n_items": 3
     },
     {
       "date": "2026-06-20",
       "commentary_score": 1.053,
-      "surprise_score": 1.064,
       "n_items": 3
     },
     {
       "date": "2026-06-21",
       "commentary_score": 1.053,
-      "surprise_score": 1.053,
       "n_items": 3
     },
     {
       "date": "2026-06-22",
       "commentary_score": 1.053,
-      "surprise_score": 1.053,
       "n_items": 3
     },
     {
       "date": "2026-06-23",
       "commentary_score": 1.053,
-      "surprise_score": 1.053,
       "n_items": 3
     },
     {
       "date": "2026-06-24",
       "commentary_score": 1.036,
-      "surprise_score": 1.036,
       "n_items": 4
     },
     {
       "date": "2026-06-25",
       "commentary_score": 1.036,
-      "surprise_score": 1.036,
       "n_items": 4
     },
     {
       "date": "2026-06-26",
       "commentary_score": 1.036,
-      "surprise_score": 1.036,
       "n_items": 4
     },
     {
       "date": "2026-06-27",
       "commentary_score": 1.036,
-      "surprise_score": 1.036,
       "n_items": 4
     },
     {
       "date": "2026-06-28",
       "commentary_score": 1.094,
-      "surprise_score": 1.094,
       "n_items": 3
     },
     {
       "date": "2026-06-29",
       "commentary_score": 1.094,
-      "surprise_score": 1.094,
       "n_items": 3
     },
     {
       "date": "2026-06-30",
       "commentary_score": 1.094,
-      "surprise_score": 1.094,
       "n_items": 3
     },
     {
       "date": "2026-07-01",
       "commentary_score": 1.094,
-      "surprise_score": 1.094,
       "n_items": 3
     },
     {
       "date": "2026-07-02",
       "commentary_score": 1.094,
-      "surprise_score": 1.094,
       "n_items": 3
     },
     {
       "date": "2026-07-03",
       "commentary_score": 1.094,
-      "surprise_score": 1.094,
       "n_items": 3
     },
     {
       "date": "2026-07-04",
       "commentary_score": 1.316,
-      "surprise_score": 1.316,
       "n_items": 2
     },
     {
       "date": "2026-07-05",
       "commentary_score": 1.316,
-      "surprise_score": 1.316,
       "n_items": 2
     },
     {
       "date": "2026-07-06",
       "commentary_score": 1.316,
-      "surprise_score": 1.316,
       "n_items": 2
     },
     {
       "date": "2026-07-07",
       "commentary_score": 1.316,
-      "surprise_score": 1.316,
       "n_items": 2
     },
     {
       "date": "2026-07-08",
       "commentary_score": 1.316,
-      "surprise_score": 1.316,
       "n_items": 2
     },
     {
       "date": "2026-07-09",
       "commentary_score": 1.316,
-      "surprise_score": 1.316,
       "n_items": 2
     },
     {
       "date": "2026-07-10",
       "commentary_score": 1.316,
-      "surprise_score": 1.316,
       "n_items": 2
     },
     {
       "date": "2026-07-11",
       "commentary_score": 1.316,
-      "surprise_score": 1.316,
       "n_items": 2
     },
     {
       "date": "2026-07-12",
       "commentary_score": 1.316,
-      "surprise_score": 1.316,
       "n_items": 2
     },
     {
       "date": "2026-07-13",
       "commentary_score": 1.316,
-      "surprise_score": 1.316,
       "n_items": 2
     },
     {
       "date": "2026-07-14",
       "commentary_score": 1.316,
-      "surprise_score": 1.316,
       "n_items": 2
     },
     {
       "date": "2026-07-15",
       "commentary_score": 1.316,
-      "surprise_score": 1.316,
       "n_items": 2
     },
     {
       "date": "2026-07-16",
       "commentary_score": 1.316,
-      "surprise_score": 1.316,
       "n_items": 2
     },
     {
       "date": "2026-07-17",
       "commentary_score": 1.0,
-      "surprise_score": 1.0,
       "n_items": 1
     },
     {
       "date": "2026-07-18",
       "commentary_score": 1.0,
-      "surprise_score": 1.0,
       "n_items": 1
     },
     {
       "date": "2026-07-19",
       "commentary_score": 1.0,
-      "surprise_score": 1.0,
       "n_items": 1
     },
     {
       "date": "2026-07-20",
       "commentary_score": 1.0,
-      "surprise_score": 1.0,
       "n_items": 1
-    }
-  ],
-  "top_movers": [
-    {
-      "published_at": "2026-06-24T07:30:00+00:00",
-      "speaker": "G\u00f6ran Hjelm",
-      "event_type": "minutes",
-      "stance": 1.0,
-      "prior": 0.0,
-      "surprise": 1.0,
-      "weight": 0.016,
-      "contribution": 0.016,
-      "phrase": "the risk outlook becomes more balanced",
-      "headline": "Riksbank Minutes (Jun):"
     }
   ],
   "key_comments": [
@@ -573,113 +467,29 @@
       "voting_2026": true,
       "event_type": "minutes",
       "stance": 1.0,
-      "prior": 0.0,
-      "surprise": 1.0,
       "phrase": "the risk outlook becomes more balanced",
       "headline": "Riksbank Minutes (Jun):",
       "importance": 1.0,
       "reasons": [
-        "notable move vs own prior (surprise +1.00)"
+        "notable move vs own recent tone"
       ]
     }
   ],
-  "speaker_board": {
-    "effective_window_days": 257,
-    "long_window_days": 365,
-    "recent_window_days": 14,
-    "speakers": [
-      {
-        "name": "G\u00f6ran Hjelm",
-        "role": "governor",
-        "voting_2026": true,
-        "lean_prior": "neutral",
-        "weight_speaker": 0.7,
-        "n_long": 1,
-        "mean_long": 1.0,
-        "mean_long_conf_weighted": 1.0,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": 1.0,
-        "last_headline": "Riksbank Minutes (Jun):",
-        "last_phrase": "the risk outlook becomes more balanced",
-        "last_published_at": "2026-06-24T07:30:00+00:00"
-      },
-      {
-        "name": "Aino Bunge",
-        "role": "vice_chair",
-        "voting_2026": true,
-        "lean_prior": "neutral",
-        "weight_speaker": 0.8,
-        "n_long": 3,
-        "mean_long": -0.333,
-        "mean_long_conf_weighted": -0.25,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": 1.0,
-        "last_headline": "Riksbank's Bunge says war in Middle-East has led to rising prices for oil, gas, jet fuel, and fertilisers, which means inflation will be higher than would otherwise have been the case",
-        "last_phrase": "inflation will be higher than would otherwise have been the case.",
-        "last_published_at": "2026-05-19T11:11:00+00:00"
-      },
-      {
-        "name": "Erik Thed\u00e9en",
-        "role": "chair",
-        "voting_2026": true,
-        "lean_prior": "neutral",
-        "weight_speaker": 1.0,
-        "n_long": 10,
-        "mean_long": -1.0,
-        "mean_long_conf_weighted": -1.016,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": -1.5,
-        "last_headline": "Riksbank Governor Thedeen says large-scale asset purchases can impair market functioning and pose risks to central bank independence; underlying inflation is currently low",
-        "last_phrase": "underlying inflation is currently low",
-        "last_published_at": "2026-06-04T10:01:00+00:00"
-      },
-      {
-        "name": "Anna Seim",
-        "role": "governor",
-        "voting_2026": true,
-        "lean_prior": "neutral",
-        "weight_speaker": 0.7,
-        "n_long": 1,
-        "mean_long": -1.5,
-        "mean_long_conf_weighted": -1.5,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": -1.5,
-        "last_headline": "Riksbank's Seim says higher inflation is due to temporary factors",
-        "last_phrase": "higher inflation is due to temporary factors",
-        "last_published_at": "2025-11-14T08:29:00+00:00"
-      },
-      {
-        "name": "Per Jansson",
-        "role": "governor",
-        "voting_2026": true,
-        "lean_prior": "hawk",
-        "weight_speaker": 0.7,
-        "n_long": 3,
-        "mean_long": -1.5,
-        "mean_long_conf_weighted": -1.529,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": -1.0,
-        "last_headline": "Riksbank Deputy Governor Jansson says uncertainty is high due to Middle East conflict",
-        "last_phrase": "Must be vigilant on the spillover from the Middle East war.",
-        "last_published_at": "2026-04-16T11:18:00+00:00"
-      }
-    ]
-  },
+  "speakers": [
+    {
+      "name": "G\u00f6ran Hjelm",
+      "role": "governor",
+      "voting_2026": true,
+      "lean_prior": "neutral",
+      "n_items": 1,
+      "mean_stance": 1.0,
+      "last_stance": 1.0,
+      "last_phrase": "the risk outlook becomes more balanced",
+      "last_headline": "Riksbank Minutes (Jun):",
+      "last_published_at": "2026-06-24T07:30:00+00:00",
+      "last_event_type": "minutes"
+    }
+  ],
   "methodology": {
     "commentary_window_days": 30,
     "commentary_window_days_default": 14,
@@ -708,7 +518,6 @@
       "twd",
       "zar"
     ],
-    "surprise_lookback_days": 60,
     "recency_halflife_days": 7,
     "event_weights": {
       "speech": 1.0,
@@ -721,6 +530,6 @@
     },
     "speaker_weight_scale": "chair 1.0 / VC 0.8 / gov 0.7 / voter 0.6 / non-voter 0.4",
     "scale": "-5 (ultra dovish) to +5 (ultra hawkish)",
-    "primary_signal": "surprise_score (stance minus speaker's 60d rolling mean)"
+    "primary_signal": "commentary_score (weighted average of speaker headlines)"
   }
 }

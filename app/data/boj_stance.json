@@ -1,10 +1,8 @@
 {
   "cb": "boj",
-  "as_of": "2026-07-20T13:03:18.979745+00:00",
+  "as_of": "2026-07-20T15:26:47.098545+00:00",
   "commentary_score": -0.306,
-  "surprise_score": -0.344,
   "label": "neutral",
-  "n_items_14d": 10,
   "n_items_window": 10,
   "commentary_window_days": 30,
   "n_items_total": 177,
@@ -12,604 +10,452 @@
     {
       "date": "2026-04-22",
       "commentary_score": -0.458,
-      "surprise_score": -0.48,
       "n_items": 11
     },
     {
       "date": "2026-04-23",
       "commentary_score": -0.494,
-      "surprise_score": -0.513,
       "n_items": 10
     },
     {
       "date": "2026-04-24",
       "commentary_score": -0.515,
-      "surprise_score": -0.534,
       "n_items": 9
     },
     {
       "date": "2026-04-25",
       "commentary_score": -0.528,
-      "surprise_score": -0.649,
       "n_items": 8
     },
     {
       "date": "2026-04-26",
       "commentary_score": -0.558,
-      "surprise_score": -0.817,
       "n_items": 7
     },
     {
       "date": "2026-04-27",
       "commentary_score": -0.558,
-      "surprise_score": -0.723,
       "n_items": 7
     },
     {
       "date": "2026-04-28",
       "commentary_score": -0.266,
-      "surprise_score": -0.156,
       "n_items": 15
     },
     {
       "date": "2026-04-29",
       "commentary_score": -0.287,
-      "surprise_score": -0.176,
       "n_items": 14
     },
     {
       "date": "2026-04-30",
       "commentary_score": -0.045,
-      "surprise_score": 0.045,
       "n_items": 15
     },
     {
       "date": "2026-05-01",
       "commentary_score": -0.039,
-      "surprise_score": 0.045,
       "n_items": 14
     },
     {
       "date": "2026-05-02",
       "commentary_score": -0.039,
-      "surprise_score": 0.045,
       "n_items": 14
     },
     {
       "date": "2026-05-03",
       "commentary_score": -0.039,
-      "surprise_score": 0.176,
       "n_items": 14
     },
     {
       "date": "2026-05-04",
       "commentary_score": -0.039,
-      "surprise_score": 0.176,
       "n_items": 14
     },
     {
       "date": "2026-05-05",
       "commentary_score": -0.039,
-      "surprise_score": 0.176,
       "n_items": 14
     },
     {
       "date": "2026-05-06",
       "commentary_score": -0.024,
-      "surprise_score": 0.194,
       "n_items": 13
     },
     {
       "date": "2026-05-07",
       "commentary_score": 0.255,
-      "surprise_score": 0.113,
       "n_items": 14
     },
     {
       "date": "2026-05-08",
       "commentary_score": 0.255,
-      "surprise_score": 0.113,
       "n_items": 14
     },
     {
       "date": "2026-05-09",
       "commentary_score": 0.277,
-      "surprise_score": 0.13,
       "n_items": 13
     },
     {
       "date": "2026-05-10",
       "commentary_score": 0.287,
-      "surprise_score": 0.138,
       "n_items": 12
     },
     {
       "date": "2026-05-11",
       "commentary_score": 0.287,
-      "surprise_score": 0.138,
       "n_items": 12
     },
     {
       "date": "2026-05-12",
       "commentary_score": 0.647,
-      "surprise_score": 0.247,
       "n_items": 14
     },
     {
       "date": "2026-05-13",
       "commentary_score": 0.645,
-      "surprise_score": 0.239,
       "n_items": 13
     },
     {
       "date": "2026-05-14",
       "commentary_score": 1.057,
-      "surprise_score": 0.71,
       "n_items": 14
     },
     {
       "date": "2026-05-15",
       "commentary_score": 1.057,
-      "surprise_score": 0.71,
       "n_items": 14
     },
     {
       "date": "2026-05-16",
       "commentary_score": 1.057,
-      "surprise_score": 0.775,
       "n_items": 14
     },
     {
       "date": "2026-05-17",
       "commentary_score": 1.079,
-      "surprise_score": 0.787,
       "n_items": 13
     },
     {
       "date": "2026-05-18",
       "commentary_score": 1.079,
-      "surprise_score": 0.787,
       "n_items": 13
     },
     {
       "date": "2026-05-19",
       "commentary_score": 1.079,
-      "surprise_score": 0.787,
       "n_items": 13
     },
     {
       "date": "2026-05-20",
       "commentary_score": 1.168,
-      "surprise_score": 0.989,
       "n_items": 14
     },
     {
       "date": "2026-05-21",
       "commentary_score": 1.421,
-      "surprise_score": 1.288,
       "n_items": 16
     },
     {
       "date": "2026-05-22",
       "commentary_score": 1.421,
-      "surprise_score": 1.288,
       "n_items": 16
     },
     {
       "date": "2026-05-23",
       "commentary_score": 1.421,
-      "surprise_score": 1.333,
       "n_items": 16
     },
     {
       "date": "2026-05-24",
       "commentary_score": 1.421,
-      "surprise_score": 1.333,
       "n_items": 16
     },
     {
       "date": "2026-05-25",
       "commentary_score": 1.421,
-      "surprise_score": 1.333,
       "n_items": 16
     },
     {
       "date": "2026-05-26",
       "commentary_score": 1.532,
-      "surprise_score": 1.461,
       "n_items": 17
     },
     {
       "date": "2026-05-27",
       "commentary_score": 1.643,
-      "surprise_score": 1.612,
       "n_items": 18
     },
     {
       "date": "2026-05-28",
       "commentary_score": 1.702,
-      "surprise_score": 1.663,
       "n_items": 11
     },
     {
       "date": "2026-05-29",
       "commentary_score": 1.702,
-      "surprise_score": 1.686,
       "n_items": 11
     },
     {
       "date": "2026-05-30",
       "commentary_score": 1.719,
-      "surprise_score": 1.723,
       "n_items": 10
     },
     {
       "date": "2026-05-31",
       "commentary_score": 1.719,
-      "surprise_score": 1.723,
       "n_items": 10
     },
     {
       "date": "2026-06-01",
       "commentary_score": 1.719,
-      "surprise_score": 1.723,
       "n_items": 10
     },
     {
       "date": "2026-06-02",
       "commentary_score": 0.477,
-      "surprise_score": 0.365,
       "n_items": 11
     },
     {
       "date": "2026-06-03",
       "commentary_score": 0.702,
-      "surprise_score": 0.598,
       "n_items": 12
     },
     {
       "date": "2026-06-04",
       "commentary_score": 0.702,
-      "surprise_score": 0.598,
       "n_items": 12
     },
     {
       "date": "2026-06-05",
       "commentary_score": 0.702,
-      "surprise_score": 0.495,
       "n_items": 12
     },
     {
       "date": "2026-06-06",
       "commentary_score": 0.695,
-      "surprise_score": 0.499,
       "n_items": 11
     },
     {
       "date": "2026-06-07",
       "commentary_score": 0.695,
-      "surprise_score": 0.499,
       "n_items": 11
     },
     {
       "date": "2026-06-08",
       "commentary_score": 0.457,
-      "surprise_score": 0.281,
       "n_items": 12
     },
     {
       "date": "2026-06-09",
       "commentary_score": 0.457,
-      "surprise_score": 0.281,
       "n_items": 12
     },
     {
       "date": "2026-06-10",
       "commentary_score": 0.746,
-      "surprise_score": 0.569,
       "n_items": 14
     },
     {
       "date": "2026-06-11",
       "commentary_score": 0.653,
-      "surprise_score": 0.504,
       "n_items": 13
     },
     {
       "date": "2026-06-12",
       "commentary_score": 0.581,
-      "surprise_score": 0.468,
       "n_items": 14
     },
     {
       "date": "2026-06-13",
       "commentary_score": 0.56,
-      "surprise_score": 0.447,
       "n_items": 13
     },
     {
       "date": "2026-06-14",
       "commentary_score": 0.56,
-      "surprise_score": 0.447,
       "n_items": 13
     },
     {
       "date": "2026-06-15",
       "commentary_score": 0.56,
-      "surprise_score": 0.447,
       "n_items": 13
     },
     {
       "date": "2026-06-16",
       "commentary_score": 0.966,
-      "surprise_score": 1.571,
       "n_items": 16
     },
     {
       "date": "2026-06-17",
       "commentary_score": 0.966,
-      "surprise_score": 1.571,
       "n_items": 16
     },
     {
       "date": "2026-06-18",
       "commentary_score": 0.451,
-      "surprise_score": 0.874,
       "n_items": 18
     },
     {
       "date": "2026-06-19",
       "commentary_score": 0.44,
-      "surprise_score": 0.753,
       "n_items": 20
     },
     {
       "date": "2026-06-20",
       "commentary_score": 0.429,
-      "surprise_score": 0.744,
       "n_items": 18
     },
     {
       "date": "2026-06-21",
       "commentary_score": 0.429,
-      "surprise_score": 0.744,
       "n_items": 18
     },
     {
       "date": "2026-06-22",
       "commentary_score": 0.144,
-      "surprise_score": 0.332,
       "n_items": 21
     },
     {
       "date": "2026-06-23",
       "commentary_score": 0.144,
-      "surprise_score": 0.332,
       "n_items": 21
     },
     {
       "date": "2026-06-24",
       "commentary_score": 0.039,
-      "surprise_score": 0.205,
       "n_items": 22
     },
     {
       "date": "2026-06-25",
       "commentary_score": 0.365,
-      "surprise_score": 0.284,
       "n_items": 23
     },
     {
       "date": "2026-06-26",
       "commentary_score": 0.355,
-      "surprise_score": 0.275,
       "n_items": 22
     },
     {
       "date": "2026-06-27",
       "commentary_score": 0.353,
-      "surprise_score": 0.168,
       "n_items": 21
     },
     {
       "date": "2026-06-28",
       "commentary_score": 0.353,
-      "surprise_score": 0.168,
       "n_items": 21
     },
     {
       "date": "2026-06-29",
       "commentary_score": 0.353,
-      "surprise_score": 0.185,
       "n_items": 21
     },
     {
       "date": "2026-06-30",
       "commentary_score": 0.353,
-      "surprise_score": 0.185,
       "n_items": 21
     },
     {
       "date": "2026-07-01",
       "commentary_score": 0.353,
-      "surprise_score": 0.185,
       "n_items": 21
     },
     {
       "date": "2026-07-02",
       "commentary_score": 0.383,
-      "surprise_score": 0.213,
       "n_items": 20
     },
     {
       "date": "2026-07-03",
       "commentary_score": 0.369,
-      "surprise_score": 0.208,
       "n_items": 19
     },
     {
       "date": "2026-07-04",
       "commentary_score": 0.369,
-      "surprise_score": 0.208,
       "n_items": 19
     },
     {
       "date": "2026-07-05",
       "commentary_score": 0.369,
-      "surprise_score": 0.208,
       "n_items": 19
     },
     {
       "date": "2026-07-06",
       "commentary_score": 0.369,
-      "surprise_score": 0.215,
       "n_items": 19
     },
     {
       "date": "2026-07-07",
-      "commentary_score": 0.369,
-      "surprise_score": 0.215,
-      "n_items": 19
+      "commentary_score": 0.04,
+      "n_items": 20
     },
     {
       "date": "2026-07-08",
       "commentary_score": -0.561,
-      "surprise_score": -0.551,
       "n_items": 20
     },
     {
       "date": "2026-07-09",
       "commentary_score": -0.561,
-      "surprise_score": -0.551,
       "n_items": 20
     },
     {
       "date": "2026-07-10",
       "commentary_score": -0.638,
-      "surprise_score": -0.597,
       "n_items": 18
     },
     {
       "date": "2026-07-11",
       "commentary_score": -0.647,
-      "surprise_score": -0.619,
       "n_items": 17
     },
     {
       "date": "2026-07-12",
       "commentary_score": -0.656,
-      "surprise_score": -0.628,
       "n_items": 16
     },
     {
       "date": "2026-07-13",
       "commentary_score": -0.656,
-      "surprise_score": -0.628,
       "n_items": 16
     },
     {
       "date": "2026-07-14",
       "commentary_score": -0.452,
-      "surprise_score": -0.433,
       "n_items": 17
     },
     {
       "date": "2026-07-15",
       "commentary_score": -0.452,
-      "surprise_score": -0.433,
       "n_items": 17
     },
     {
       "date": "2026-07-16",
       "commentary_score": -0.609,
-      "surprise_score": -0.692,
       "n_items": 14
     },
     {
       "date": "2026-07-17",
       "commentary_score": -0.298,
-      "surprise_score": -0.339,
       "n_items": 15
     },
     {
       "date": "2026-07-18",
       "commentary_score": -0.274,
-      "surprise_score": -0.316,
       "n_items": 13
     },
     {
       "date": "2026-07-19",
       "commentary_score": -0.306,
-      "surprise_score": -0.344,
       "n_items": 10
     },
     {
       "date": "2026-07-20",
       "commentary_score": -0.306,
-      "surprise_score": -0.344,
       "n_items": 10
-    }
-  ],
-  "top_movers": [
-    {
-      "published_at": "2026-07-07T21:32:00+00:00",
-      "speaker": "Toichiro Asada",
-      "event_type": "other",
-      "stance": -3.0,
-      "prior": -0.41,
-      "surprise": -2.59,
-      "weight": 0.08,
-      "contribution": -0.207,
-      "phrase": "a rate hike could slow the economy",
-      "headline": "BoJ's Asada says a rate hike could slow the economy"
-    },
-    {
-      "published_at": "2026-07-07T15:00:00+00:00",
-      "speaker": "Toichiro Asada",
-      "event_type": "other",
-      "stance": -1.5,
-      "prior": -0.41,
-      "surprise": -1.09,
-      "weight": 0.058,
-      "contribution": -0.064,
-      "phrase": "the inflation target must be met with support from rising demand and wages, prior to a rate hike",
-      "headline": "BoJ's Asada says the inflation target must be met with support from rising demand and wages, prior to a rate hike. Not against hikes, future decision on the assessment of conditions."
-    },
-    {
-      "published_at": "2026-06-24T06:41:00+00:00",
-      "speaker": "Kazuo Ueda",
-      "event_type": "other",
-      "stance": -1.0,
-      "prior": 1.06,
-      "surprise": -2.06,
-      "weight": 0.022,
-      "contribution": -0.046,
-      "phrase": "Financial environment remains accommodative after recent rate hike.",
-      "headline": "BoJ's Ueda says Japan's economy is recovering moderately albeit with some weakness; Economic growth likely to slow but continue to moderate recovery"
-    },
-    {
-      "published_at": "2026-06-22T00:25:00+00:00",
-      "speaker": "Ryozo Himino",
-      "event_type": "other",
-      "stance": -2.0,
-      "prior": 0.31,
-      "surprise": -2.31,
-      "weight": 0.019,
-      "contribution": -0.044,
-      "phrase": "Accommodative conditions are expected to continue.",
-      "headline": "BoJ Deputy Governor Himino says takes some time for policy to have an impact on the economy"
-    },
-    {
-      "published_at": "2026-06-25T01:10:00+00:00",
-      "speaker": "Naoki Tamura",
-      "event_type": "other",
-      "stance": 2.5,
-      "prior": 1.5,
-      "surprise": 1.0,
-      "weight": 0.022,
-      "contribution": 0.022,
-      "phrase": "BoJ should not hesitate to speed up rate hikes or raise rates by a larger amount.",
-      "headline": "BoJ Board Member Tamura said it is important to push the BoJ\u2019s policy rate closer to neutral to avoid being forced to hike rates sharply later"
     }
   ],
   "key_comments": [
@@ -621,8 +467,6 @@
       "voting_2026": true,
       "event_type": "other",
       "stance": -3.0,
-      "prior": -0.41,
-      "surprise": -2.59,
       "phrase": "a rate hike could slow the economy",
       "headline": "BoJ's Asada says a rate hike could slow the economy",
       "importance": 1.5,
@@ -638,8 +482,6 @@
       "voting_2026": true,
       "event_type": "other",
       "stance": 2.5,
-      "prior": 1.5,
-      "surprise": 1.0,
       "phrase": "BoJ should not hesitate to speed up rate hikes or raise rates by a larger amount.",
       "headline": "BoJ Board Member Tamura said it is important to push the BoJ\u2019s policy rate closer to neutral to avoid being forced to hike rates sharply later",
       "importance": 0.75,
@@ -655,14 +497,12 @@
       "voting_2026": true,
       "event_type": "other",
       "stance": -1.0,
-      "prior": 1.06,
-      "surprise": -2.06,
       "phrase": "Financial environment remains accommodative after recent rate hike.",
       "headline": "BoJ's Ueda says Japan's economy is recovering moderately albeit with some weakness; Economic growth likely to slow but continue to moderate recovery",
       "importance": 5.06,
       "reasons": [
         "Chair spoke",
-        "notable move vs own prior (surprise -2.06)"
+        "notable move vs own recent tone"
       ]
     },
     {
@@ -673,186 +513,82 @@
       "voting_2026": true,
       "event_type": "other",
       "stance": -2.0,
-      "prior": 0.31,
-      "surprise": -2.31,
       "phrase": "Accommodative conditions are expected to continue.",
       "headline": "BoJ Deputy Governor Himino says takes some time for policy to have an impact on the economy",
       "importance": 5.31,
       "reasons": [
         "Vice Chair spoke",
-        "notable move vs own prior (surprise -2.31)"
+        "notable move vs own recent tone"
       ]
     }
   ],
-  "speaker_board": {
-    "effective_window_days": 257,
-    "long_window_days": 365,
-    "recent_window_days": 14,
-    "speakers": [
-      {
-        "name": "Junko Koeda",
-        "role": "governor",
-        "voting_2026": true,
-        "lean_prior": "neutral",
-        "weight_speaker": 0.7,
-        "n_long": 4,
-        "mean_long": 1.875,
-        "mean_long_conf_weighted": 1.942,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": 1.0,
-        "last_headline": "BoJ's Koeda sees the neutral rate above 1%, estimates it between 1.1% to 2.5%",
-        "last_phrase": "neutral rate above 1%, estimates it between 1.1% to 2.5%",
-        "last_published_at": "2026-05-21T06:19:00+00:00"
-      },
-      {
-        "name": "Hajime Takata",
-        "role": "governor",
-        "voting_2026": true,
-        "lean_prior": "hawk",
-        "weight_speaker": 0.7,
-        "n_long": 3,
-        "mean_long": 1.667,
-        "mean_long_conf_weighted": 1.667,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": 1.5,
-        "last_headline": "Bank of Japan keeps short-term interest rate unchanged at 0.75%, as expected, with decision made by 8-1 vote as Takata dissented and voted for a 25bps hike",
-        "last_phrase": "Will continue to raise policy rates if the economy and prices move in line with its forecasts",
-        "last_published_at": "2026-03-19T02:46:00+00:00"
-      },
-      {
-        "name": "Kazuyuki Masu",
-        "role": "governor",
-        "voting_2026": true,
-        "lean_prior": "neutral",
-        "weight_speaker": 0.7,
-        "n_long": 3,
-        "mean_long": 1.167,
-        "mean_long_conf_weighted": 1.381,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": 3.5,
-        "last_headline": "BoJ's Masu says need to raise rate at earliest stage possible, adds due attention should be paid to whether inflation triggered by the Yen's depreciation may raise people's inflation expectations and,",
-        "last_phrase": "BoJ will continue to raise rates in response to economic, price, financial developments.",
-        "last_published_at": "2026-05-14T04:03:00+00:00"
-      },
-      {
-        "name": "Naoki Tamura",
-        "role": "governor",
-        "voting_2026": true,
-        "lean_prior": "hawk",
-        "weight_speaker": 0.7,
-        "n_long": 3,
-        "mean_long": 1.167,
-        "mean_long_conf_weighted": 1.333,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": 2.0,
-        "last_headline": "BoJ's Tamura says Japan has already met BoJ's 2% inflation goal and must increase rates close to neutral to prevent inflation from exceeding the target",
-        "last_phrase": "If risk of inflation overshoot materialises, we may need to accelerate the pace of rate hikes.",
-        "last_published_at": "2026-06-25T05:13:00+00:00"
-      },
-      {
-        "name": "Junko Nakagawa",
-        "role": "governor",
-        "voting_2026": true,
-        "lean_prior": "neutral",
-        "weight_speaker": 0.7,
-        "n_long": 3,
-        "mean_long": 1.0,
-        "mean_long_conf_weighted": 1.214,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": 3.0,
-        "last_headline": "BoJ maintains its short-term interest rate at 0.75%, as expected; vote split 6-3 to hold (exp. near-unanimous); Nakagawa, Takata and Tamura voted to hike by 25bps to 1.0%",
-        "last_phrase": "risks to prices skewed to the upside",
-        "last_published_at": "2026-04-28T03:04:00+00:00"
-      },
-      {
-        "name": "Shinichi Uchida",
-        "role": "vice_chair",
-        "voting_2026": true,
-        "lean_prior": "dove",
-        "weight_speaker": 0.8,
-        "n_long": 2,
-        "mean_long": 1.0,
-        "mean_long_conf_weighted": 1.0,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": 1.0,
-        "last_headline": "BoJ Deputy Governor Uchida (post-policy press conference) says the primary difference between April and June is the reduced risk on the economy",
-        "last_phrase": "Today's decision took into account the risk of having to raise rates by a large margin if policy adjustment is delayed.",
-        "last_published_at": "2026-06-16T07:11:00+00:00"
-      },
-      {
-        "name": "Kazuo Ueda",
-        "role": "chair",
-        "voting_2026": true,
-        "lean_prior": "neutral",
-        "weight_speaker": 1.0,
-        "n_long": 48,
-        "mean_long": 0.448,
-        "mean_long_conf_weighted": 0.478,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": -1.0,
-        "last_headline": "BoJ's Ueda says Japan's economy is recovering moderately albeit with some weakness; Economic growth likely to slow but continue to moderate recovery",
-        "last_phrase": "Financial environment remains accommodative after recent rate hike.",
-        "last_published_at": "2026-06-24T06:41:00+00:00"
-      },
-      {
-        "name": "Ryozo Himino",
-        "role": "vice_chair",
-        "voting_2026": true,
-        "lean_prior": "neutral",
-        "weight_speaker": 0.8,
-        "n_long": 7,
-        "mean_long": -0.071,
-        "mean_long_conf_weighted": -0.177,
-        "n_recent": 1,
-        "mean_recent": 0.0,
-        "mean_recent_conf_weighted": 0.0,
-        "delta": 0.177,
-        "last_stance": 0.0,
-        "last_headline": "BoJ Deputy Governor Himino says bond buying decision is separate from monetary policy",
-        "last_phrase": "bond buying decision is separate from monetary policy",
-        "last_published_at": "2026-07-14T02:59:00+00:00"
-      },
-      {
-        "name": "Toichiro Asada",
-        "role": "governor",
-        "voting_2026": true,
-        "lean_prior": "dove",
-        "weight_speaker": 0.7,
-        "n_long": 4,
-        "mean_long": -0.75,
-        "mean_long_conf_weighted": -0.643,
-        "n_recent": 2,
-        "mean_recent": -2.25,
-        "mean_recent_conf_weighted": -2.357,
-        "delta": -1.714,
-        "last_stance": -3.0,
-        "last_headline": "BoJ's Asada says a rate hike could slow the economy",
-        "last_phrase": "a rate hike could slow the economy",
-        "last_published_at": "2026-07-07T21:32:00+00:00"
-      }
-    ]
-  },
+  "speakers": [
+    {
+      "name": "Naoki Tamura",
+      "role": "governor",
+      "voting_2026": true,
+      "lean_prior": "hawk",
+      "n_items": 2,
+      "mean_stance": 2.267,
+      "last_stance": 2.0,
+      "last_phrase": "If risk of inflation overshoot materialises, we may need to accelerate the pace of rate hikes.",
+      "last_headline": "BoJ's Tamura says Japan has already met BoJ's 2% inflation goal and must increase rates close to neutral to prevent inflation from exceeding the target",
+      "last_published_at": "2026-06-25T05:13:00+00:00",
+      "last_event_type": "other"
+    },
+    {
+      "name": "BOJ (institutional)",
+      "role": "institutional",
+      "voting_2026": true,
+      "lean_prior": "neutral",
+      "n_items": 1,
+      "mean_stance": 0.0,
+      "last_stance": 0.0,
+      "last_phrase": "BoJ is to keep rates unchanged",
+      "last_headline": "BoJ is to keep rates unchanged at its July meeting, according to Kyodo",
+      "last_published_at": "2026-07-17T08:27:00+00:00",
+      "last_event_type": "statement"
+    },
+    {
+      "name": "Ryozo Himino",
+      "role": "vice_chair",
+      "voting_2026": true,
+      "lean_prior": "neutral",
+      "n_items": 2,
+      "mean_stance": -1.0,
+      "last_stance": 0.0,
+      "last_phrase": "bond buying decision is separate from monetary policy",
+      "last_headline": "BoJ Deputy Governor Himino says bond buying decision is separate from monetary policy",
+      "last_published_at": "2026-07-14T02:59:00+00:00",
+      "last_event_type": "other"
+    },
+    {
+      "name": "Kazuo Ueda",
+      "role": "chair",
+      "voting_2026": true,
+      "lean_prior": "neutral",
+      "n_items": 1,
+      "mean_stance": -1.0,
+      "last_stance": -1.0,
+      "last_phrase": "Financial environment remains accommodative after recent rate hike.",
+      "last_headline": "BoJ's Ueda says Japan's economy is recovering moderately albeit with some weakness; Economic growth likely to slow but continue to moderate recovery",
+      "last_published_at": "2026-06-24T06:41:00+00:00",
+      "last_event_type": "other"
+    },
+    {
+      "name": "Toichiro Asada",
+      "role": "governor",
+      "voting_2026": true,
+      "lean_prior": "dove",
+      "n_items": 2,
+      "mean_stance": -2.357,
+      "last_stance": -3.0,
+      "last_phrase": "a rate hike could slow the economy",
+      "last_headline": "BoJ's Asada says a rate hike could slow the economy",
+      "last_published_at": "2026-07-07T21:32:00+00:00",
+      "last_event_type": "other"
+    }
+  ],
   "methodology": {
     "commentary_window_days": 30,
     "commentary_window_days_default": 14,
@@ -881,7 +617,6 @@
       "twd",
       "zar"
     ],
-    "surprise_lookback_days": 60,
     "recency_halflife_days": 7,
     "event_weights": {
       "speech": 1.0,
@@ -894,6 +629,6 @@
     },
     "speaker_weight_scale": "chair 1.0 / VC 0.8 / gov 0.7 / voter 0.6 / non-voter 0.4",
     "scale": "-5 (ultra dovish) to +5 (ultra hawkish)",
-    "primary_signal": "surprise_score (stance minus speaker's 60d rolling mean)"
+    "primary_signal": "commentary_score (weighted average of speaker headlines)"
   }
 }

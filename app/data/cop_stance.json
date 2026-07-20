@@ -1,10 +1,8 @@
 {
   "cb": "cop",
-  "as_of": "2026-07-20T13:03:20.686359+00:00",
+  "as_of": "2026-07-20T15:26:48.831572+00:00",
   "commentary_score": 0.0,
-  "surprise_score": 0.0,
   "label": "neutral",
-  "n_items_14d": 0,
   "n_items_window": 0,
   "commentary_window_days": 30,
   "n_items_total": 1,
@@ -12,697 +10,456 @@
     {
       "date": "2026-04-22",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-04-23",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-04-24",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-04-25",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-04-26",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-04-27",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-04-28",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-04-29",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-04-30",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-05-01",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-05-02",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-05-03",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-05-04",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-05-05",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-05-06",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-05-07",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-05-08",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-05-09",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-05-10",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-05-11",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-05-12",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-05-13",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-05-14",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-05-15",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-05-16",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-05-17",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-05-18",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-05-19",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-05-20",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-05-21",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-05-22",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-05-23",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-05-24",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-05-25",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-05-26",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-05-27",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-05-28",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-05-29",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-05-30",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-05-31",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-06-01",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-06-02",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-06-03",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-06-04",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-06-05",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-06-06",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-06-07",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-06-08",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-06-09",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-06-10",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-06-11",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-06-12",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-06-13",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-06-14",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-06-15",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-06-16",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-06-17",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-06-18",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-06-19",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-06-20",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-06-21",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-06-22",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-06-23",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-06-24",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-06-25",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-06-26",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-06-27",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-06-28",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-06-29",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-06-30",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-07-01",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-07-02",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-07-03",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-07-04",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-07-05",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-07-06",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-07-07",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-07-08",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-07-09",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-07-10",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-07-11",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-07-12",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-07-13",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-07-14",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-07-15",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-07-16",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-07-17",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-07-18",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-07-19",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     },
     {
       "date": "2026-07-20",
       "commentary_score": 0.0,
-      "surprise_score": 0.0,
       "n_items": 0
     }
   ],
-  "top_movers": [],
   "key_comments": [],
-  "speaker_board": {
-    "effective_window_days": 254,
-    "long_window_days": 365,
-    "recent_window_days": 14,
-    "speakers": [
-      {
-        "name": "Leonardo Villar",
-        "role": "chair",
-        "voting_2026": true,
-        "lean_prior": "neutral",
-        "weight_speaker": 1.0,
-        "n_long": 0,
-        "mean_long": null,
-        "mean_long_conf_weighted": null,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": null,
-        "last_headline": "",
-        "last_phrase": "",
-        "last_published_at": null
-      },
-      {
-        "name": "Bibiana Taboada",
-        "role": "mpc_external",
-        "voting_2026": true,
-        "lean_prior": "dove",
-        "weight_speaker": 0.6,
-        "n_long": 0,
-        "mean_long": null,
-        "mean_long_conf_weighted": null,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": null,
-        "last_headline": "",
-        "last_phrase": "",
-        "last_published_at": null
-      },
-      {
-        "name": "Mauricio Villamizar",
-        "role": "mpc_external",
-        "voting_2026": true,
-        "lean_prior": "dove",
-        "weight_speaker": 0.6,
-        "n_long": 0,
-        "mean_long": null,
-        "mean_long_conf_weighted": null,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": null,
-        "last_headline": "",
-        "last_phrase": "",
-        "last_published_at": null
-      },
-      {
-        "name": "Jaime Jaramillo-Vallejo",
-        "role": "mpc_external",
-        "voting_2026": true,
-        "lean_prior": "hawk",
-        "weight_speaker": 0.6,
-        "n_long": 0,
-        "mean_long": null,
-        "mean_long_conf_weighted": null,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": null,
-        "last_headline": "",
-        "last_phrase": "",
-        "last_published_at": null
-      },
-      {
-        "name": "Olga Lucia Acosta",
-        "role": "mpc_external",
-        "voting_2026": true,
-        "lean_prior": "neutral",
-        "weight_speaker": 0.6,
-        "n_long": 0,
-        "mean_long": null,
-        "mean_long_conf_weighted": null,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": null,
-        "last_headline": "",
-        "last_phrase": "",
-        "last_published_at": null
-      },
-      {
-        "name": "Laura Moisa",
-        "role": "mpc_external",
-        "voting_2026": true,
-        "lean_prior": "dove",
-        "weight_speaker": 0.6,
-        "n_long": 0,
-        "mean_long": null,
-        "mean_long_conf_weighted": null,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": null,
-        "last_headline": "",
-        "last_phrase": "",
-        "last_published_at": null
-      },
-      {
-        "name": "Cesar Giraldo",
-        "role": "mpc_external",
-        "voting_2026": true,
-        "lean_prior": "dove",
-        "weight_speaker": 0.6,
-        "n_long": 0,
-        "mean_long": null,
-        "mean_long_conf_weighted": null,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": null,
-        "last_headline": "",
-        "last_phrase": "",
-        "last_published_at": null
-      },
-      {
-        "name": "Hernando Vargas",
-        "role": "vice_chair",
-        "voting_2026": false,
-        "lean_prior": "neutral",
-        "weight_speaker": 0.4,
-        "n_long": 0,
-        "mean_long": null,
-        "mean_long_conf_weighted": null,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": null,
-        "last_headline": "",
-        "last_phrase": "",
-        "last_published_at": null
-      }
-    ]
-  },
+  "speakers": [],
   "methodology": {
     "commentary_window_days": 30,
     "commentary_window_days_default": 14,
@@ -731,7 +488,6 @@
       "twd",
       "zar"
     ],
-    "surprise_lookback_days": 60,
     "recency_halflife_days": 7,
     "event_weights": {
       "speech": 1.0,
@@ -744,6 +500,6 @@
     },
     "speaker_weight_scale": "chair 1.0 / VC 0.8 / gov 0.7 / voter 0.6 / non-voter 0.4",
     "scale": "-5 (ultra dovish) to +5 (ultra hawkish)",
-    "primary_signal": "surprise_score (stance minus speaker's 60d rolling mean)"
+    "primary_signal": "commentary_score (weighted average of speaker headlines)"
   }
 }

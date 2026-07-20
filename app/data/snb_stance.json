@@ -1,10 +1,8 @@
 {
   "cb": "snb",
-  "as_of": "2026-07-20T13:03:19.317460+00:00",
+  "as_of": "2026-07-20T15:26:47.457519+00:00",
   "commentary_score": -1.647,
-  "surprise_score": -0.106,
-  "label": "neutral",
-  "n_items_14d": 5,
+  "label": "lean dovish",
   "n_items_window": 5,
   "commentary_window_days": 30,
   "n_items_total": 53,
@@ -12,604 +10,452 @@
     {
       "date": "2026-04-22",
       "commentary_score": -1.083,
-      "surprise_score": -0.642,
       "n_items": 4
     },
     {
       "date": "2026-04-23",
-      "commentary_score": -1.083,
-      "surprise_score": -0.642,
-      "n_items": 4
+      "commentary_score": -1.075,
+      "n_items": 3
     },
     {
       "date": "2026-04-24",
       "commentary_score": -1.113,
-      "surprise_score": -0.252,
       "n_items": 6
     },
     {
       "date": "2026-04-25",
       "commentary_score": -1.113,
-      "surprise_score": -0.252,
       "n_items": 6
     },
     {
       "date": "2026-04-26",
       "commentary_score": -1.113,
-      "surprise_score": -0.252,
       "n_items": 6
     },
     {
       "date": "2026-04-27",
       "commentary_score": -1.113,
-      "surprise_score": -0.252,
       "n_items": 6
     },
     {
       "date": "2026-04-28",
       "commentary_score": -1.113,
-      "surprise_score": -0.252,
       "n_items": 6
     },
     {
       "date": "2026-04-29",
       "commentary_score": -1.113,
-      "surprise_score": -0.252,
       "n_items": 6
     },
     {
       "date": "2026-04-30",
       "commentary_score": -1.113,
-      "surprise_score": -0.252,
       "n_items": 6
     },
     {
       "date": "2026-05-01",
       "commentary_score": -1.113,
-      "surprise_score": -0.252,
       "n_items": 6
     },
     {
       "date": "2026-05-02",
       "commentary_score": -1.113,
-      "surprise_score": -0.252,
       "n_items": 6
     },
     {
       "date": "2026-05-03",
       "commentary_score": -1.113,
-      "surprise_score": -0.252,
       "n_items": 6
     },
     {
       "date": "2026-05-04",
       "commentary_score": -1.113,
-      "surprise_score": -0.252,
       "n_items": 6
     },
     {
       "date": "2026-05-05",
       "commentary_score": -1.113,
-      "surprise_score": -0.252,
       "n_items": 6
     },
     {
       "date": "2026-05-06",
       "commentary_score": -1.243,
-      "surprise_score": -0.167,
       "n_items": 7
     },
     {
       "date": "2026-05-07",
       "commentary_score": -1.243,
-      "surprise_score": -0.167,
       "n_items": 7
     },
     {
       "date": "2026-05-08",
       "commentary_score": -1.243,
-      "surprise_score": -0.167,
       "n_items": 7
     },
     {
       "date": "2026-05-09",
       "commentary_score": -1.243,
-      "surprise_score": -0.167,
       "n_items": 7
     },
     {
       "date": "2026-05-10",
       "commentary_score": -1.243,
-      "surprise_score": -0.167,
       "n_items": 7
     },
     {
       "date": "2026-05-11",
       "commentary_score": -1.243,
-      "surprise_score": -0.167,
       "n_items": 7
     },
     {
       "date": "2026-05-12",
       "commentary_score": -1.243,
-      "surprise_score": -0.167,
       "n_items": 7
     },
     {
       "date": "2026-05-13",
       "commentary_score": -1.243,
-      "surprise_score": -0.167,
       "n_items": 7
     },
     {
       "date": "2026-05-14",
       "commentary_score": -1.243,
-      "surprise_score": -0.167,
       "n_items": 7
     },
     {
       "date": "2026-05-15",
       "commentary_score": -1.34,
-      "surprise_score": -0.18,
       "n_items": 6
     },
     {
       "date": "2026-05-16",
       "commentary_score": -1.318,
-      "surprise_score": 0.0,
       "n_items": 5
     },
     {
       "date": "2026-05-17",
       "commentary_score": -1.318,
-      "surprise_score": 0.0,
       "n_items": 5
     },
     {
       "date": "2026-05-18",
       "commentary_score": -1.301,
-      "surprise_score": 0.0,
       "n_items": 4
     },
     {
       "date": "2026-05-19",
       "commentary_score": -1.301,
-      "surprise_score": 0.0,
       "n_items": 4
     },
     {
       "date": "2026-05-20",
       "commentary_score": -1.301,
-      "surprise_score": 0.0,
       "n_items": 4
     },
     {
       "date": "2026-05-21",
-      "commentary_score": -1.301,
-      "surprise_score": 0.0,
-      "n_items": 4
+      "commentary_score": -1.47,
+      "n_items": 5
     },
     {
       "date": "2026-05-22",
       "commentary_score": -1.47,
-      "surprise_score": -1.274,
       "n_items": 5
     },
     {
       "date": "2026-05-23",
       "commentary_score": -1.47,
-      "surprise_score": -1.274,
       "n_items": 5
     },
     {
       "date": "2026-05-24",
       "commentary_score": -1.5,
-      "surprise_score": -1.389,
       "n_items": 2
     },
     {
       "date": "2026-05-25",
       "commentary_score": -1.5,
-      "surprise_score": -1.389,
       "n_items": 2
     },
     {
       "date": "2026-05-26",
       "commentary_score": -1.5,
-      "surprise_score": -1.389,
       "n_items": 2
     },
     {
       "date": "2026-05-27",
       "commentary_score": -0.957,
-      "surprise_score": -0.886,
       "n_items": 3
     },
     {
       "date": "2026-05-28",
       "commentary_score": -0.682,
-      "surprise_score": -0.632,
       "n_items": 4
     },
     {
       "date": "2026-05-29",
       "commentary_score": -0.682,
-      "surprise_score": -0.632,
       "n_items": 4
     },
     {
       "date": "2026-05-30",
       "commentary_score": -0.682,
-      "surprise_score": -0.632,
       "n_items": 4
     },
     {
       "date": "2026-05-31",
       "commentary_score": -0.682,
-      "surprise_score": -0.632,
       "n_items": 4
     },
     {
       "date": "2026-06-01",
       "commentary_score": -0.682,
-      "surprise_score": -0.632,
       "n_items": 4
     },
     {
       "date": "2026-06-02",
       "commentary_score": -1.153,
-      "surprise_score": 0.0,
       "n_items": 5
     },
     {
       "date": "2026-06-03",
       "commentary_score": -1.243,
-      "surprise_score": 0.0,
       "n_items": 6
     },
     {
       "date": "2026-06-04",
       "commentary_score": -1.243,
-      "surprise_score": 0.0,
       "n_items": 6
     },
     {
       "date": "2026-06-05",
       "commentary_score": -1.241,
-      "surprise_score": 0.0,
       "n_items": 5
     },
     {
       "date": "2026-06-06",
       "commentary_score": -1.241,
-      "surprise_score": 0.0,
       "n_items": 5
     },
     {
       "date": "2026-06-07",
       "commentary_score": -1.241,
-      "surprise_score": 0.0,
       "n_items": 5
     },
     {
       "date": "2026-06-08",
       "commentary_score": -1.241,
-      "surprise_score": 0.0,
       "n_items": 5
     },
     {
       "date": "2026-06-09",
       "commentary_score": -1.241,
-      "surprise_score": 0.0,
       "n_items": 5
     },
     {
       "date": "2026-06-10",
       "commentary_score": -1.241,
-      "surprise_score": 0.0,
       "n_items": 5
     },
     {
       "date": "2026-06-11",
       "commentary_score": -1.241,
-      "surprise_score": 0.0,
       "n_items": 5
     },
     {
       "date": "2026-06-12",
       "commentary_score": -1.241,
-      "surprise_score": 0.0,
       "n_items": 5
     },
     {
       "date": "2026-06-13",
       "commentary_score": -1.241,
-      "surprise_score": 0.0,
       "n_items": 5
     },
     {
       "date": "2026-06-14",
       "commentary_score": -1.241,
-      "surprise_score": 0.0,
       "n_items": 5
     },
     {
       "date": "2026-06-15",
       "commentary_score": -1.241,
-      "surprise_score": -0.847,
       "n_items": 5
     },
     {
       "date": "2026-06-16",
       "commentary_score": -1.241,
-      "surprise_score": -0.847,
       "n_items": 5
     },
     {
       "date": "2026-06-17",
       "commentary_score": -1.241,
-      "surprise_score": -0.847,
       "n_items": 5
     },
     {
       "date": "2026-06-18",
       "commentary_score": -1.296,
-      "surprise_score": 0.0,
       "n_items": 9
     },
     {
       "date": "2026-06-19",
       "commentary_score": -1.296,
-      "surprise_score": 0.0,
       "n_items": 9
     },
     {
       "date": "2026-06-20",
-      "commentary_score": -1.296,
-      "surprise_score": 0.0,
-      "n_items": 9
+      "commentary_score": -1.291,
+      "n_items": 8
     },
     {
       "date": "2026-06-21",
       "commentary_score": -1.291,
-      "surprise_score": 0.0,
       "n_items": 8
     },
     {
       "date": "2026-06-22",
       "commentary_score": -1.291,
-      "surprise_score": 0.0,
       "n_items": 8
     },
     {
       "date": "2026-06-23",
       "commentary_score": -1.291,
-      "surprise_score": 0.0,
       "n_items": 8
     },
     {
       "date": "2026-06-24",
       "commentary_score": -0.946,
-      "surprise_score": 0.0,
       "n_items": 10
     },
     {
       "date": "2026-06-25",
       "commentary_score": -0.946,
-      "surprise_score": 0.0,
       "n_items": 10
     },
     {
       "date": "2026-06-26",
       "commentary_score": -0.957,
-      "surprise_score": 0.0,
       "n_items": 9
     },
     {
       "date": "2026-06-27",
       "commentary_score": -0.969,
-      "surprise_score": 0.0,
       "n_items": 8
     },
     {
       "date": "2026-06-28",
       "commentary_score": -0.969,
-      "surprise_score": 0.0,
       "n_items": 8
     },
     {
       "date": "2026-06-29",
       "commentary_score": -0.969,
-      "surprise_score": 0.0,
       "n_items": 8
     },
     {
       "date": "2026-06-30",
       "commentary_score": -0.969,
-      "surprise_score": 0.0,
       "n_items": 8
     },
     {
       "date": "2026-07-01",
       "commentary_score": -0.969,
-      "surprise_score": 0.0,
       "n_items": 8
     },
     {
       "date": "2026-07-02",
       "commentary_score": -0.935,
-      "surprise_score": 0.0,
       "n_items": 7
     },
     {
       "date": "2026-07-03",
       "commentary_score": -0.912,
-      "surprise_score": 0.0,
       "n_items": 6
     },
     {
       "date": "2026-07-04",
       "commentary_score": -0.912,
-      "surprise_score": 0.0,
       "n_items": 6
     },
     {
       "date": "2026-07-05",
       "commentary_score": -0.912,
-      "surprise_score": 0.0,
       "n_items": 6
     },
     {
       "date": "2026-07-06",
       "commentary_score": -0.912,
-      "surprise_score": 0.0,
       "n_items": 6
     },
     {
       "date": "2026-07-07",
       "commentary_score": -0.912,
-      "surprise_score": 0.0,
       "n_items": 6
     },
     {
       "date": "2026-07-08",
       "commentary_score": -0.912,
-      "surprise_score": 0.0,
       "n_items": 6
     },
     {
       "date": "2026-07-09",
       "commentary_score": -1.746,
-      "surprise_score": -0.271,
       "n_items": 8
     },
     {
       "date": "2026-07-10",
       "commentary_score": -1.746,
-      "surprise_score": -0.271,
       "n_items": 8
     },
     {
       "date": "2026-07-11",
       "commentary_score": -1.746,
-      "surprise_score": -0.271,
       "n_items": 8
     },
     {
       "date": "2026-07-12",
       "commentary_score": -1.746,
-      "surprise_score": -0.271,
       "n_items": 8
     },
     {
       "date": "2026-07-13",
       "commentary_score": -1.746,
-      "surprise_score": -0.271,
       "n_items": 8
     },
     {
       "date": "2026-07-14",
       "commentary_score": -1.746,
-      "surprise_score": -0.271,
       "n_items": 8
     },
     {
       "date": "2026-07-15",
       "commentary_score": -1.746,
-      "surprise_score": -0.271,
       "n_items": 8
     },
     {
       "date": "2026-07-16",
       "commentary_score": -1.62,
-      "surprise_score": -0.091,
       "n_items": 9
     },
     {
       "date": "2026-07-17",
       "commentary_score": -1.62,
-      "surprise_score": -0.091,
       "n_items": 9
     },
     {
       "date": "2026-07-18",
       "commentary_score": -1.647,
-      "surprise_score": -0.106,
       "n_items": 5
     },
     {
       "date": "2026-07-19",
       "commentary_score": -1.647,
-      "surprise_score": -0.106,
       "n_items": 5
     },
     {
       "date": "2026-07-20",
       "commentary_score": -1.647,
-      "surprise_score": -0.106,
       "n_items": 5
-    }
-  ],
-  "top_movers": [
-    {
-      "published_at": "2026-07-08T17:22:00+00:00",
-      "speaker": "SNB (institutional)",
-      "event_type": "statement",
-      "stance": -2.0,
-      "prior": -1.59,
-      "surprise": -0.41,
-      "weight": 0.195,
-      "contribution": -0.08,
-      "phrase": "if necessary we would do it",
-      "headline": "SNB Chairman says we are at 0% rates, bar to go negative is high, but if necessary we would do it"
-    },
-    {
-      "published_at": "2026-07-16T07:31:00+00:00",
-      "speaker": "SNB (institutional)",
-      "event_type": "statement",
-      "stance": -1.5,
-      "prior": -1.59,
-      "surprise": 0.09,
-      "weight": 0.414,
-      "contribution": 0.038,
-      "phrase": "no immediate need for action",
-      "headline": "SNB Minutes (Jun): There has been an increase in companies' inflation expectations in the short term"
-    },
-    {
-      "published_at": "2026-07-08T16:38:00+00:00",
-      "speaker": "Martin Schlegel",
-      "event_type": "other",
-      "stance": -2.0,
-      "prior": -1.65,
-      "surprise": -0.35,
-      "weight": 0.108,
-      "contribution": -0.038,
-      "phrase": "ready to intervene in the FX market if needed",
-      "headline": "SNB Chairman Schlegel says ready to intervene in the FX market if needed"
-    },
-    {
-      "published_at": "2026-06-24T07:04:00+00:00",
-      "speaker": "Antoine Martin",
-      "event_type": "other",
-      "stance": 0.0,
-      "prior": -1.5,
-      "surprise": 0.0,
-      "weight": 0.015,
-      "contribution": 0.0,
-      "phrase": "no plans for a digital CHF",
-      "headline": "SNB's Martin says there are no plans for a digital CHF"
-    },
-    {
-      "published_at": "2026-06-24T09:28:00+00:00",
-      "speaker": "Petra Tschudin",
-      "event_type": "other",
-      "stance": 0.0,
-      "prior": -1.5,
-      "surprise": 0.0,
-      "weight": 0.013,
-      "contribution": 0.0,
-      "phrase": "medium-term inflation pressures are unchanged",
-      "headline": "SNB's Tschudin reiterates medium-term inflation pressures are unchanged"
     }
   ],
   "key_comments": [
@@ -621,8 +467,6 @@
       "voting_2026": true,
       "event_type": "statement",
       "stance": -2.0,
-      "prior": -1.59,
-      "surprise": -0.41,
       "phrase": "if necessary we would do it",
       "headline": "SNB Chairman says we are at 0% rates, bar to go negative is high, but if necessary we would do it",
       "importance": 3.0,
@@ -639,8 +483,6 @@
       "voting_2026": true,
       "event_type": "other",
       "stance": -2.0,
-      "prior": -1.65,
-      "surprise": -0.35,
       "phrase": "ready to intervene in the FX market if needed",
       "headline": "SNB Chairman Schlegel says ready to intervene in the FX market if needed",
       "importance": 3.0,
@@ -649,67 +491,34 @@
       ]
     }
   ],
-  "speaker_board": {
-    "effective_window_days": 258,
-    "long_window_days": 365,
-    "recent_window_days": 14,
-    "speakers": [
-      {
-        "name": "Antoine Martin",
-        "role": "vice_chair",
-        "voting_2026": true,
-        "lean_prior": "dove",
-        "weight_speaker": 0.8,
-        "n_long": 2,
-        "mean_long": -1.25,
-        "mean_long_conf_weighted": -1.292,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": -1.5,
-        "last_headline": "SNB's Martin says SNB has greater willingness to intervene on FX.",
-        "last_phrase": "greater willingness to intervene on FX",
-        "last_published_at": "2026-05-05T15:51:00+00:00"
-      },
-      {
-        "name": "Petra Tschudin",
-        "role": "governor",
-        "voting_2026": true,
-        "lean_prior": "dove",
-        "weight_speaker": 0.7,
-        "n_long": 6,
-        "mean_long": -1.417,
-        "mean_long_conf_weighted": -1.439,
-        "n_recent": 0,
-        "mean_recent": null,
-        "mean_recent_conf_weighted": null,
-        "delta": null,
-        "last_stance": -1.5,
-        "last_headline": "SNB's Tschudin: In the coming quarters, the more moderate development of the global economy is likely to dampen growth in Switzerland, while our monetary policy will have a supportive effect",
-        "last_phrase": "monetary policy will have a supportive effect",
-        "last_published_at": "2026-06-18T08:00:00+00:00"
-      },
-      {
-        "name": "Martin Schlegel",
-        "role": "chair",
-        "voting_2026": true,
-        "lean_prior": "dove",
-        "weight_speaker": 1.0,
-        "n_long": 15,
-        "mean_long": -1.467,
-        "mean_long_conf_weighted": -1.485,
-        "n_recent": 1,
-        "mean_recent": -2.0,
-        "mean_recent_conf_weighted": -2.0,
-        "delta": -0.515,
-        "last_stance": -2.0,
-        "last_headline": "SNB Chairman Schlegel says ready to intervene in the FX market if needed",
-        "last_phrase": "ready to intervene in the FX market if needed",
-        "last_published_at": "2026-07-08T16:38:00+00:00"
-      }
-    ]
-  },
+  "speakers": [
+    {
+      "name": "SNB (institutional)",
+      "role": "institutional",
+      "voting_2026": true,
+      "lean_prior": "neutral",
+      "n_items": 2,
+      "mean_stance": -1.75,
+      "last_stance": -1.5,
+      "last_phrase": "no immediate need for action",
+      "last_headline": "SNB Minutes (Jun): There has been an increase in companies' inflation expectations in the short term",
+      "last_published_at": "2026-07-16T07:31:00+00:00",
+      "last_event_type": "statement"
+    },
+    {
+      "name": "Martin Schlegel",
+      "role": "chair",
+      "voting_2026": true,
+      "lean_prior": "dove",
+      "n_items": 1,
+      "mean_stance": -2.0,
+      "last_stance": -2.0,
+      "last_phrase": "ready to intervene in the FX market if needed",
+      "last_headline": "SNB Chairman Schlegel says ready to intervene in the FX market if needed",
+      "last_published_at": "2026-07-08T16:38:00+00:00",
+      "last_event_type": "other"
+    }
+  ],
   "methodology": {
     "commentary_window_days": 30,
     "commentary_window_days_default": 14,
@@ -738,7 +547,6 @@
       "twd",
       "zar"
     ],
-    "surprise_lookback_days": 60,
     "recency_halflife_days": 7,
     "event_weights": {
       "speech": 1.0,
@@ -751,6 +559,6 @@
     },
     "speaker_weight_scale": "chair 1.0 / VC 0.8 / gov 0.7 / voter 0.6 / non-voter 0.4",
     "scale": "-5 (ultra dovish) to +5 (ultra hawkish)",
-    "primary_signal": "surprise_score (stance minus speaker's 60d rolling mean)"
+    "primary_signal": "commentary_score (weighted average of speaker headlines)"
   }
 }
