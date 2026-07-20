@@ -1,9 +1,9 @@
 {
   "cb": "ecb",
-  "as_of": "2026-07-20T15:26:46.893163+00:00",
-  "commentary_score": 0.043,
+  "as_of": "2026-07-20T15:51:48.050839+00:00",
+  "commentary_score": -0.017,
   "label": "neutral",
-  "n_items_window": 6,
+  "n_items_window": 5,
   "commentary_window_days": 14,
   "n_items_total": 514,
   "history_90d": [
@@ -74,8 +74,8 @@
     },
     {
       "date": "2026-05-05",
-      "commentary_score": 0.156,
-      "n_items": 23
+      "commentary_score": 0.056,
+      "n_items": 25
     },
     {
       "date": "2026-05-06",
@@ -144,8 +144,8 @@
     },
     {
       "date": "2026-05-19",
-      "commentary_score": 0.096,
-      "n_items": 22
+      "commentary_score": 0.135,
+      "n_items": 20
     },
     {
       "date": "2026-05-20",
@@ -159,8 +159,8 @@
     },
     {
       "date": "2026-05-22",
-      "commentary_score": 0.463,
-      "n_items": 16
+      "commentary_score": 0.578,
+      "n_items": 17
     },
     {
       "date": "2026-05-23",
@@ -229,8 +229,8 @@
     },
     {
       "date": "2026-06-05",
-      "commentary_score": 1.315,
-      "n_items": 16
+      "commentary_score": 1.299,
+      "n_items": 15
     },
     {
       "date": "2026-06-06",
@@ -264,8 +264,8 @@
     },
     {
       "date": "2026-06-12",
-      "commentary_score": 0.583,
-      "n_items": 28
+      "commentary_score": 0.573,
+      "n_items": 29
     },
     {
       "date": "2026-06-13",
@@ -334,8 +334,8 @@
     },
     {
       "date": "2026-06-26",
-      "commentary_score": 0.157,
-      "n_items": 25
+      "commentary_score": 0.159,
+      "n_items": 24
     },
     {
       "date": "2026-06-27",
@@ -369,8 +369,8 @@
     },
     {
       "date": "2026-07-03",
-      "commentary_score": 0.077,
-      "n_items": 28
+      "commentary_score": 0.101,
+      "n_items": 30
     },
     {
       "date": "2026-07-04",
@@ -384,8 +384,8 @@
     },
     {
       "date": "2026-07-06",
-      "commentary_score": 0.169,
-      "n_items": 27
+      "commentary_score": 0.234,
+      "n_items": 28
     },
     {
       "date": "2026-07-07",
@@ -439,8 +439,8 @@
     },
     {
       "date": "2026-07-17",
-      "commentary_score": 0.042,
-      "n_items": 8
+      "commentary_score": -0.006,
+      "n_items": 6
     },
     {
       "date": "2026-07-18",
@@ -454,8 +454,8 @@
     },
     {
       "date": "2026-07-20",
-      "commentary_score": 0.043,
-      "n_items": 6
+      "commentary_score": -0.017,
+      "n_items": 5
     }
   ],
   "key_comments": [
@@ -538,19 +538,6 @@
     }
   ],
   "speakers": [
-    {
-      "name": "Pierre Wunsch",
-      "role": "regional_president",
-      "voting_2026": true,
-      "lean_prior": "hawk",
-      "n_items": 1,
-      "mean_stance": 1.5,
-      "last_stance": 1.5,
-      "last_phrase": "Maybe we have to do more, but situation does not ask for a significant tightening",
-      "last_headline": "ECB's Wunsch says it seems the Iran shock has disappeared; have not seen much second round effects. Maybe we have to do more, but situation does not ask for a significant tightening",
-      "last_published_at": "2026-07-06T15:51:00+00:00",
-      "last_event_type": "other"
-    },
     {
       "name": "Joachim Nagel",
       "role": "regional_president",

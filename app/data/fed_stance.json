@@ -1,9 +1,9 @@
 {
   "cb": "fed",
-  "as_of": "2026-07-20T15:26:46.797996+00:00",
-  "commentary_score": 1.608,
+  "as_of": "2026-07-20T15:51:47.956922+00:00",
+  "commentary_score": 1.61,
   "label": "lean hawkish",
-  "n_items_window": 27,
+  "n_items_window": 26,
   "commentary_window_days": 14,
   "n_items_total": 924,
   "history_90d": [
@@ -54,8 +54,8 @@
     },
     {
       "date": "2026-05-01",
-      "commentary_score": 0.681,
-      "n_items": 35
+      "commentary_score": 0.686,
+      "n_items": 34
     },
     {
       "date": "2026-05-02",
@@ -69,13 +69,13 @@
     },
     {
       "date": "2026-05-04",
-      "commentary_score": 0.795,
-      "n_items": 32
+      "commentary_score": 0.812,
+      "n_items": 31
     },
     {
       "date": "2026-05-05",
-      "commentary_score": 0.7,
-      "n_items": 27
+      "commentary_score": 0.747,
+      "n_items": 26
     },
     {
       "date": "2026-05-06",
@@ -114,8 +114,8 @@
     },
     {
       "date": "2026-05-13",
-      "commentary_score": 0.08,
-      "n_items": 34
+      "commentary_score": 0.183,
+      "n_items": 35
     },
     {
       "date": "2026-05-14",
@@ -154,8 +154,8 @@
     },
     {
       "date": "2026-05-21",
-      "commentary_score": 0.652,
-      "n_items": 18
+      "commentary_score": 0.693,
+      "n_items": 19
     },
     {
       "date": "2026-05-22",
@@ -184,8 +184,8 @@
     },
     {
       "date": "2026-05-27",
-      "commentary_score": 1.735,
-      "n_items": 18
+      "commentary_score": 1.722,
+      "n_items": 17
     },
     {
       "date": "2026-05-28",
@@ -224,7 +224,7 @@
     },
     {
       "date": "2026-06-04",
-      "commentary_score": 0.898,
+      "commentary_score": 0.811,
       "n_items": 31
     },
     {
@@ -294,8 +294,8 @@
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 1.907,
-      "n_items": 25
+      "commentary_score": 1.919,
+      "n_items": 24
     },
     {
       "date": "2026-06-19",
@@ -334,8 +334,8 @@
     },
     {
       "date": "2026-06-26",
-      "commentary_score": 1.305,
-      "n_items": 30
+      "commentary_score": 1.297,
+      "n_items": 31
     },
     {
       "date": "2026-06-27",
@@ -384,8 +384,8 @@
     },
     {
       "date": "2026-07-06",
-      "commentary_score": 0.254,
-      "n_items": 28
+      "commentary_score": 0.343,
+      "n_items": 29
     },
     {
       "date": "2026-07-07",
@@ -404,8 +404,8 @@
     },
     {
       "date": "2026-07-10",
-      "commentary_score": 0.838,
-      "n_items": 27
+      "commentary_score": 0.837,
+      "n_items": 26
     },
     {
       "date": "2026-07-11",
@@ -424,8 +424,8 @@
     },
     {
       "date": "2026-07-14",
-      "commentary_score": 1.503,
-      "n_items": 23
+      "commentary_score": 1.613,
+      "n_items": 24
     },
     {
       "date": "2026-07-15",
@@ -454,8 +454,8 @@
     },
     {
       "date": "2026-07-20",
-      "commentary_score": 1.608,
-      "n_items": 27
+      "commentary_score": 1.61,
+      "n_items": 26
     }
   ],
   "key_comments": [
@@ -533,7 +533,7 @@
       "stance": 1.5,
       "phrase": "inflation is well above target and going the wrong way",
       "headline": "Fed's Goolsbee (2027 voter) says inflation is well above target and going the wrong way, adds need evidence this inflation is temporary and services inflation is a little disturbing",
-      "importance": 3.16,
+      "importance": 3.76,
       "reasons": [
         "dove-lean speaker sounded hawkish"
       ]
@@ -558,8 +558,8 @@
       "role": "governor",
       "voting_2026": true,
       "lean_prior": "hawk",
-      "n_items": 4,
-      "mean_stance": 2.726,
+      "n_items": 3,
+      "mean_stance": 3.083,
       "last_stance": 3.0,
       "last_phrase": "hawkish Waller ahead of CPI",
       "last_headline": "TREASURY WRAP: T-NOTE FUTURES (U6) SETTLE 10+ TICKS LOWER 108-22+",
