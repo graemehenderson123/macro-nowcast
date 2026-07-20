@@ -1,6 +1,6 @@
 {
   "cb": "snb",
-  "as_of": "2026-07-19T16:00:38.950790+00:00",
+  "as_of": "2026-07-20T04:34:31.643681+00:00",
   "commentary_score": -1.647,
   "surprise_score": -0.106,
   "label": "neutral",
@@ -10,12 +10,6 @@
   "n_items_total": 53,
   "history_90d": [
     {
-      "date": "2026-04-21",
-      "commentary_score": -1.083,
-      "surprise_score": -0.642,
-      "n_items": 4
-    },
-    {
       "date": "2026-04-22",
       "commentary_score": -1.083,
       "surprise_score": -0.642,
@@ -23,15 +17,15 @@
     },
     {
       "date": "2026-04-23",
-      "commentary_score": -1.075,
-      "surprise_score": -0.655,
-      "n_items": 3
+      "commentary_score": -1.083,
+      "surprise_score": -0.642,
+      "n_items": 4
     },
     {
       "date": "2026-04-24",
-      "commentary_score": -1.113,
-      "surprise_score": -0.252,
-      "n_items": 6
+      "commentary_score": -1.235,
+      "surprise_score": -0.409,
+      "n_items": 4
     },
     {
       "date": "2026-04-25",
@@ -95,9 +89,9 @@
     },
     {
       "date": "2026-05-05",
-      "commentary_score": -1.243,
-      "surprise_score": -0.167,
-      "n_items": 7
+      "commentary_score": -1.113,
+      "surprise_score": -0.252,
+      "n_items": 6
     },
     {
       "date": "2026-05-06",
@@ -155,15 +149,15 @@
     },
     {
       "date": "2026-05-15",
-      "commentary_score": -1.34,
-      "surprise_score": -0.18,
-      "n_items": 6
+      "commentary_score": -1.243,
+      "surprise_score": -0.167,
+      "n_items": 7
     },
     {
       "date": "2026-05-16",
-      "commentary_score": -1.318,
-      "surprise_score": 0.0,
-      "n_items": 5
+      "commentary_score": -1.34,
+      "surprise_score": -0.18,
+      "n_items": 6
     },
     {
       "date": "2026-05-17",
@@ -191,9 +185,9 @@
     },
     {
       "date": "2026-05-21",
-      "commentary_score": -1.47,
-      "surprise_score": -1.274,
-      "n_items": 5
+      "commentary_score": -1.301,
+      "surprise_score": 0.0,
+      "n_items": 4
     },
     {
       "date": "2026-05-22",
@@ -209,9 +203,9 @@
     },
     {
       "date": "2026-05-24",
-      "commentary_score": -1.5,
-      "surprise_score": -1.389,
-      "n_items": 2
+      "commentary_score": -1.469,
+      "surprise_score": -1.315,
+      "n_items": 4
     },
     {
       "date": "2026-05-25",
@@ -227,15 +221,15 @@
     },
     {
       "date": "2026-05-27",
-      "commentary_score": -0.957,
-      "surprise_score": -0.886,
-      "n_items": 3
+      "commentary_score": -1.5,
+      "surprise_score": -1.389,
+      "n_items": 2
     },
     {
       "date": "2026-05-28",
-      "commentary_score": -0.682,
-      "surprise_score": -0.632,
-      "n_items": 4
+      "commentary_score": -0.957,
+      "surprise_score": -0.886,
+      "n_items": 3
     },
     {
       "date": "2026-05-29",
@@ -263,21 +257,21 @@
     },
     {
       "date": "2026-06-02",
+      "commentary_score": -0.682,
+      "surprise_score": -0.632,
+      "n_items": 4
+    },
+    {
+      "date": "2026-06-03",
       "commentary_score": -1.153,
       "surprise_score": 0.0,
       "n_items": 5
     },
     {
-      "date": "2026-06-03",
+      "date": "2026-06-04",
       "commentary_score": -1.243,
       "surprise_score": 0.0,
       "n_items": 6
-    },
-    {
-      "date": "2026-06-04",
-      "commentary_score": -1.241,
-      "surprise_score": 0.0,
-      "n_items": 5
     },
     {
       "date": "2026-06-05",
@@ -342,7 +336,7 @@
     {
       "date": "2026-06-15",
       "commentary_score": -1.241,
-      "surprise_score": -0.847,
+      "surprise_score": 0.0,
       "n_items": 5
     },
     {
@@ -359,9 +353,9 @@
     },
     {
       "date": "2026-06-18",
-      "commentary_score": -1.296,
-      "surprise_score": 0.0,
-      "n_items": 9
+      "commentary_score": -1.241,
+      "surprise_score": -0.847,
+      "n_items": 5
     },
     {
       "date": "2026-06-19",
@@ -371,9 +365,9 @@
     },
     {
       "date": "2026-06-20",
-      "commentary_score": -1.291,
+      "commentary_score": -1.296,
       "surprise_score": 0.0,
-      "n_items": 8
+      "n_items": 9
     },
     {
       "date": "2026-06-21",
@@ -395,9 +389,9 @@
     },
     {
       "date": "2026-06-24",
-      "commentary_score": -0.946,
+      "commentary_score": -1.291,
       "surprise_score": 0.0,
-      "n_items": 10
+      "n_items": 8
     },
     {
       "date": "2026-06-25",
@@ -407,15 +401,15 @@
     },
     {
       "date": "2026-06-26",
-      "commentary_score": -0.957,
+      "commentary_score": -0.946,
       "surprise_score": 0.0,
-      "n_items": 9
+      "n_items": 10
     },
     {
       "date": "2026-06-27",
-      "commentary_score": -0.969,
+      "commentary_score": -0.957,
       "surprise_score": 0.0,
-      "n_items": 8
+      "n_items": 9
     },
     {
       "date": "2026-06-28",
@@ -443,15 +437,15 @@
     },
     {
       "date": "2026-07-02",
-      "commentary_score": -0.935,
+      "commentary_score": -0.969,
       "surprise_score": 0.0,
-      "n_items": 7
+      "n_items": 8
     },
     {
       "date": "2026-07-03",
-      "commentary_score": -0.912,
+      "commentary_score": -0.935,
       "surprise_score": 0.0,
-      "n_items": 6
+      "n_items": 7
     },
     {
       "date": "2026-07-04",
@@ -527,9 +521,9 @@
     },
     {
       "date": "2026-07-16",
-      "commentary_score": -1.62,
-      "surprise_score": -0.091,
-      "n_items": 9
+      "commentary_score": -1.746,
+      "surprise_score": -0.271,
+      "n_items": 8
     },
     {
       "date": "2026-07-17",
@@ -539,12 +533,18 @@
     },
     {
       "date": "2026-07-18",
+      "commentary_score": -1.62,
+      "surprise_score": -0.091,
+      "n_items": 9
+    },
+    {
+      "date": "2026-07-19",
       "commentary_score": -1.647,
       "surprise_score": -0.106,
       "n_items": 5
     },
     {
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "commentary_score": -1.647,
       "surprise_score": -0.106,
       "n_items": 5
@@ -558,8 +558,8 @@
       "stance": -2.0,
       "prior": -1.59,
       "surprise": -0.41,
-      "weight": 0.213,
-      "contribution": -0.087,
+      "weight": 0.202,
+      "contribution": -0.083,
       "phrase": "if necessary we would do it",
       "headline": "SNB Chairman says we are at 0% rates, bar to go negative is high, but if necessary we would do it"
     },
@@ -570,8 +570,8 @@
       "stance": -1.5,
       "prior": -1.59,
       "surprise": 0.09,
-      "weight": 0.452,
-      "contribution": 0.042,
+      "weight": 0.429,
+      "contribution": 0.04,
       "phrase": "no immediate need for action",
       "headline": "SNB Minutes (Jun): There has been an increase in companies' inflation expectations in the short term"
     },
@@ -582,8 +582,8 @@
       "stance": -2.0,
       "prior": -1.65,
       "surprise": -0.35,
-      "weight": 0.118,
-      "contribution": -0.041,
+      "weight": 0.112,
+      "contribution": -0.039,
       "phrase": "ready to intervene in the FX market if needed",
       "headline": "SNB Chairman Schlegel says ready to intervene in the FX market if needed"
     },
@@ -594,7 +594,7 @@
       "stance": 0.0,
       "prior": -1.5,
       "surprise": 0.0,
-      "weight": 0.016,
+      "weight": 0.015,
       "contribution": 0.0,
       "phrase": "no plans for a digital CHF",
       "headline": "SNB's Martin says there are no plans for a digital CHF"
