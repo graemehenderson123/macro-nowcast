@@ -1,6 +1,6 @@
 {
   "cb": "ils",
-  "as_of": "2026-07-20T04:34:32.583771+00:00",
+  "as_of": "2026-07-20T13:03:20.285440+00:00",
   "commentary_score": 0.0,
   "surprise_score": 0.0,
   "label": "neutral",
@@ -257,9 +257,9 @@
     },
     {
       "date": "2026-06-02",
-      "commentary_score": 0.0,
-      "surprise_score": 0.0,
-      "n_items": 0
+      "commentary_score": -2.0,
+      "surprise_score": -3.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-03",
@@ -437,9 +437,9 @@
     },
     {
       "date": "2026-07-02",
-      "commentary_score": -2.0,
-      "surprise_score": -3.5,
-      "n_items": 1
+      "commentary_score": 0.0,
+      "surprise_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-07-03",

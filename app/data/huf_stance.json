@@ -1,6 +1,6 @@
 {
   "cb": "huf",
-  "as_of": "2026-07-20T04:34:32.349403+00:00",
+  "as_of": "2026-07-20T13:03:20.040808+00:00",
   "commentary_score": -2.856,
   "surprise_score": -4.141,
   "label": "dovish",
@@ -59,9 +59,9 @@
     },
     {
       "date": "2026-04-30",
-      "commentary_score": 0.0,
+      "commentary_score": 1.5,
       "surprise_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-05-01",
@@ -239,9 +239,9 @@
     },
     {
       "date": "2026-05-30",
-      "commentary_score": 0.14,
+      "commentary_score": 0.0,
       "surprise_score": 0.0,
-      "n_items": 2
+      "n_items": 1
     },
     {
       "date": "2026-05-31",
@@ -503,9 +503,9 @@
     },
     {
       "date": "2026-07-13",
-      "commentary_score": -2.0,
-      "surprise_score": -2.0,
-      "n_items": 1
+      "commentary_score": -2.856,
+      "surprise_score": -4.141,
+      "n_items": 2
     },
     {
       "date": "2026-07-14",
@@ -558,8 +558,8 @@
       "stance": -3.0,
       "prior": 1.5,
       "surprise": -4.5,
-      "weight": 0.23,
-      "contribution": -1.035,
+      "weight": 0.222,
+      "contribution": -0.999,
       "phrase": "scope for further rate cuts this summer",
       "headline": "NBH Governor Varga says there is scope for further rate cuts this summer"
     },
@@ -570,8 +570,8 @@
       "stance": -2.0,
       "prior": 0.0,
       "surprise": -2.0,
-      "weight": 0.039,
-      "contribution": -0.077,
+      "weight": 0.037,
+      "contribution": -0.075,
       "phrase": "room for further interest rate cuts throughout the summer",
       "headline": "MNB sees room for further interest rate cuts throughout the summer if favourable conditions persist"
     }
