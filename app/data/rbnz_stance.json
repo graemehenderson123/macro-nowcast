@@ -1,11 +1,11 @@
 {
   "cb": "rbnz",
-  "as_of": "2026-07-21T04:32:22.453549+00:00",
-  "commentary_score": 2.317,
-  "label": "hawkish",
-  "n_items_window": 3,
+  "as_of": "2026-07-21T13:03:49.171062+00:00",
+  "commentary_score": 1.226,
+  "label": "lean hawkish",
+  "n_items_window": 4,
   "commentary_window_days": 30,
-  "n_items_total": 22,
+  "n_items_total": 23,
   "history_90d": [
     {
       "date": "2026-04-23",
@@ -360,7 +360,7 @@
     {
       "date": "2026-07-02",
       "commentary_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-07-03",
@@ -454,8 +454,8 @@
     },
     {
       "date": "2026-07-21",
-      "commentary_score": 2.317,
-      "n_items": 3
+      "commentary_score": 1.226,
+      "n_items": 4
     }
   ],
   "key_comments": [
@@ -494,19 +494,6 @@
   ],
   "speakers": [
     {
-      "name": "RBNZ (institutional)",
-      "role": "institutional",
-      "voting_2026": true,
-      "lean_prior": "neutral",
-      "n_items": 1,
-      "mean_stance": 3.0,
-      "last_stance": 3.0,
-      "last_phrase": "further reduction in monetary stimulus is likely to be required to return inflation to the 2% target mid-point",
-      "last_headline": "The RBNZ hikes the OCR by 25bps to 2.50%, as expected; some further reduction in monetary stimulus is likely to be required to return inflation to the 2% target mid-point",
-      "last_published_at": "2026-07-08T02:00:00+00:00",
-      "last_event_type": "statement"
-    },
-    {
       "name": "Paul Conway",
       "role": "chief_economist",
       "voting_2026": true,
@@ -517,6 +504,19 @@
       "last_phrase": "Further reduction in monetary stimulus is likely to be required.",
       "last_headline": "RBNZ Chief Economist Conway says Middle East conflict complicates monetary policy like all supply shocks, adds understanding how firms respond to cost shocks is crucial in maintaining low and stable i",
       "last_published_at": "2026-07-13T22:05:00+00:00",
+      "last_event_type": "other"
+    },
+    {
+      "name": "RBNZ (institutional)",
+      "role": "institutional",
+      "voting_2026": true,
+      "lean_prior": "neutral",
+      "n_items": 2,
+      "mean_stance": 1.5,
+      "last_stance": 0.0,
+      "last_phrase": "",
+      "last_headline": "RBNZ Sectoral Factor Model Inflation Index (Q2) YY 2.7% (Prev. 2.7%)",
+      "last_published_at": "2026-07-21T03:00:00+00:00",
       "last_event_type": "other"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "cb": "rba",
-  "as_of": "2026-07-21T04:32:22.374420+00:00",
+  "as_of": "2026-07-21T13:03:49.089673+00:00",
   "commentary_score": 2.427,
   "label": "hawkish",
   "n_items_window": 3,
@@ -219,8 +219,8 @@
     },
     {
       "date": "2026-06-04",
-      "commentary_score": 2.248,
-      "n_items": 3
+      "commentary_score": 1.542,
+      "n_items": 6
     },
     {
       "date": "2026-06-05",
@@ -279,8 +279,8 @@
     },
     {
       "date": "2026-06-16",
-      "commentary_score": 2.821,
-      "n_items": 7
+      "commentary_score": 2.529,
+      "n_items": 8
     },
     {
       "date": "2026-06-17",
@@ -369,8 +369,8 @@
     },
     {
       "date": "2026-07-04",
-      "commentary_score": 2.901,
-      "n_items": 7
+      "commentary_score": 3.005,
+      "n_items": 4
     },
     {
       "date": "2026-07-05",
@@ -429,8 +429,8 @@
     },
     {
       "date": "2026-07-16",
-      "commentary_score": 2.377,
-      "n_items": 4
+      "commentary_score": 2.427,
+      "n_items": 3
     },
     {
       "date": "2026-07-17",
