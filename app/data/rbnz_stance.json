@@ -1,17 +1,12 @@
 {
   "cb": "rbnz",
-  "as_of": "2026-07-20T15:51:48.392743+00:00",
+  "as_of": "2026-07-21T04:32:22.453549+00:00",
   "commentary_score": 2.317,
   "label": "hawkish",
   "n_items_window": 3,
   "commentary_window_days": 30,
   "n_items_total": 22,
   "history_90d": [
-    {
-      "date": "2026-04-22",
-      "commentary_score": -1.0,
-      "n_items": 1
-    },
     {
       "date": "2026-04-23",
       "commentary_score": -1.0,
@@ -365,7 +360,7 @@
     {
       "date": "2026-07-02",
       "commentary_score": 0.0,
-      "n_items": 1
+      "n_items": 0
     },
     {
       "date": "2026-07-03",
@@ -454,6 +449,11 @@
     },
     {
       "date": "2026-07-20",
+      "commentary_score": 2.317,
+      "n_items": 3
+    },
+    {
+      "date": "2026-07-21",
       "commentary_score": 2.317,
       "n_items": 3
     }
