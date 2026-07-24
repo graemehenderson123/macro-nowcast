@@ -1,17 +1,12 @@
 {
   "cb": "krw",
-  "as_of": "2026-07-23T13:03:55.595541+00:00",
-  "commentary_score": 1.89,
+  "as_of": "2026-07-24T04:32:10.442949+00:00",
+  "commentary_score": 1.992,
   "label": "lean hawkish",
-  "n_items_window": 6,
+  "n_items_window": 5,
   "commentary_window_days": 30,
   "n_items_total": 31,
   "history_90d": [
-    {
-      "date": "2026-04-25",
-      "commentary_score": -0.564,
-      "n_items": 4
-    },
     {
       "date": "2026-04-26",
       "commentary_score": -0.564,
@@ -34,8 +29,8 @@
     },
     {
       "date": "2026-04-30",
-      "commentary_score": -0.626,
-      "n_items": 3
+      "commentary_score": -0.564,
+      "n_items": 4
     },
     {
       "date": "2026-05-01",
@@ -456,6 +451,11 @@
       "date": "2026-07-23",
       "commentary_score": 1.89,
       "n_items": 6
+    },
+    {
+      "date": "2026-07-24",
+      "commentary_score": 1.992,
+      "n_items": 5
     }
   ],
   "key_comments": [
@@ -494,6 +494,19 @@
   ],
   "speakers": [
     {
+      "name": "KRW (institutional)",
+      "role": "institutional",
+      "voting_2026": true,
+      "lean_prior": "neutral",
+      "n_items": 3,
+      "mean_stance": 1.524,
+      "last_stance": 3.0,
+      "last_phrase": "BoK raises 7-day Repo Rate by 25bps to 2.75%",
+      "last_headline": "BoK raises 7-day Repo Rate by 25bps to 2.75%, as expected",
+      "last_published_at": "2026-07-16T00:50:00+00:00",
+      "last_event_type": "statement"
+    },
+    {
       "name": "Shin Hyun Song",
       "role": "chair",
       "voting_2026": true,
@@ -505,19 +518,6 @@
       "last_headline": "BoK Governor Shin says interest rates need to be raised at an appropriate time",
       "last_published_at": "2026-07-09T01:26:00+00:00",
       "last_event_type": "other"
-    },
-    {
-      "name": "KRW (institutional)",
-      "role": "institutional",
-      "voting_2026": true,
-      "lean_prior": "neutral",
-      "n_items": 4,
-      "mean_stance": 1.038,
-      "last_stance": 3.0,
-      "last_phrase": "BoK raises 7-day Repo Rate by 25bps to 2.75%",
-      "last_headline": "BoK raises 7-day Repo Rate by 25bps to 2.75%, as expected",
-      "last_published_at": "2026-07-16T00:50:00+00:00",
-      "last_event_type": "statement"
     }
   ],
   "methodology": {

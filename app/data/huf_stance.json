@@ -1,17 +1,12 @@
 {
   "cb": "huf",
-  "as_of": "2026-07-23T13:03:56.004821+00:00",
-  "commentary_score": -2.856,
+  "as_of": "2026-07-24T04:32:10.837748+00:00",
+  "commentary_score": -3.0,
   "label": "dovish",
-  "n_items_window": 2,
+  "n_items_window": 1,
   "commentary_window_days": 30,
   "n_items_total": 9,
   "history_90d": [
-    {
-      "date": "2026-04-25",
-      "commentary_score": 0.0,
-      "n_items": 0
-    },
     {
       "date": "2026-04-26",
       "commentary_score": 0.0,
@@ -34,8 +29,8 @@
     },
     {
       "date": "2026-04-30",
-      "commentary_score": 1.5,
-      "n_items": 1
+      "commentary_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-05-01",
@@ -184,8 +179,8 @@
     },
     {
       "date": "2026-05-30",
-      "commentary_score": 0.0,
-      "n_items": 1
+      "commentary_score": 0.14,
+      "n_items": 2
     },
     {
       "date": "2026-05-31",
@@ -404,8 +399,8 @@
     },
     {
       "date": "2026-07-13",
-      "commentary_score": -2.856,
-      "n_items": 2
+      "commentary_score": -2.0,
+      "n_items": 1
     },
     {
       "date": "2026-07-14",
@@ -456,6 +451,11 @@
       "date": "2026-07-23",
       "commentary_score": -2.856,
       "n_items": 2
+    },
+    {
+      "date": "2026-07-24",
+      "commentary_score": -3.0,
+      "n_items": 1
     }
   ],
   "key_comments": [
@@ -475,38 +475,9 @@
         "hawk-lean speaker sounded dovish",
         "cross-market extreme (|stance| = 3.0)"
       ]
-    },
-    {
-      "published_at": "2026-06-23T13:13:00+00:00",
-      "speaker": "HUF (institutional)",
-      "role": "institutional",
-      "lean_prior": "neutral",
-      "voting_2026": true,
-      "event_type": "statement",
-      "stance": -2.0,
-      "phrase": "room for further interest rate cuts throughout the summer",
-      "headline": "MNB sees room for further interest rate cuts throughout the summer if favourable conditions persist",
-      "importance": 3.0,
-      "reasons": [
-        "official CB statement (stance -2.00)",
-        "strong policy signal (|stance| = 2.0)"
-      ]
     }
   ],
   "speakers": [
-    {
-      "name": "HUF (institutional)",
-      "role": "institutional",
-      "voting_2026": true,
-      "lean_prior": "neutral",
-      "n_items": 1,
-      "mean_stance": -2.0,
-      "last_stance": -2.0,
-      "last_phrase": "room for further interest rate cuts throughout the summer",
-      "last_headline": "MNB sees room for further interest rate cuts throughout the summer if favourable conditions persist",
-      "last_published_at": "2026-06-23T13:13:00+00:00",
-      "last_event_type": "statement"
-    },
     {
       "name": "Mihaly Varga",
       "role": "chair",

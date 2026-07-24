@@ -1,17 +1,12 @@
 {
   "cb": "boe",
-  "as_of": "2026-07-23T13:03:54.695519+00:00",
-  "commentary_score": -0.551,
-  "label": "neutral",
-  "n_items_window": 3,
+  "as_of": "2026-07-24T04:32:09.719093+00:00",
+  "commentary_score": -0.919,
+  "label": "lean dovish",
+  "n_items_window": 2,
   "commentary_window_days": 14,
   "n_items_total": 220,
   "history_90d": [
-    {
-      "date": "2026-04-25",
-      "commentary_score": -0.157,
-      "n_items": 9
-    },
     {
       "date": "2026-04-26",
       "commentary_score": -0.157,
@@ -24,8 +19,8 @@
     },
     {
       "date": "2026-04-28",
-      "commentary_score": -0.147,
-      "n_items": 7
+      "commentary_score": -0.078,
+      "n_items": 8
     },
     {
       "date": "2026-04-29",
@@ -34,12 +29,12 @@
     },
     {
       "date": "2026-04-30",
-      "commentary_score": -0.312,
-      "n_items": 18
+      "commentary_score": -1.0,
+      "n_items": 2
     },
     {
       "date": "2026-05-01",
-      "commentary_score": -0.314,
+      "commentary_score": -0.367,
       "n_items": 19
     },
     {
@@ -64,8 +59,8 @@
     },
     {
       "date": "2026-05-06",
-      "commentary_score": -0.305,
-      "n_items": 18
+      "commentary_score": -0.314,
+      "n_items": 19
     },
     {
       "date": "2026-05-07",
@@ -104,13 +99,13 @@
     },
     {
       "date": "2026-05-14",
-      "commentary_score": -1.35,
-      "n_items": 3
+      "commentary_score": -0.482,
+      "n_items": 19
     },
     {
       "date": "2026-05-15",
-      "commentary_score": 0.257,
-      "n_items": 2
+      "commentary_score": 0.343,
+      "n_items": 3
     },
     {
       "date": "2026-05-16",
@@ -124,8 +119,8 @@
     },
     {
       "date": "2026-05-18",
-      "commentary_score": -0.493,
-      "n_items": 4
+      "commentary_score": -0.365,
+      "n_items": 3
     },
     {
       "date": "2026-05-19",
@@ -139,8 +134,8 @@
     },
     {
       "date": "2026-05-21",
-      "commentary_score": -1.023,
-      "n_items": 10
+      "commentary_score": -0.97,
+      "n_items": 9
     },
     {
       "date": "2026-05-22",
@@ -174,13 +169,13 @@
     },
     {
       "date": "2026-05-28",
-      "commentary_score": -0.971,
-      "n_items": 12
+      "commentary_score": -1.132,
+      "n_items": 11
     },
     {
       "date": "2026-05-29",
-      "commentary_score": -1.089,
-      "n_items": 12
+      "commentary_score": -1.111,
+      "n_items": 11
     },
     {
       "date": "2026-05-30",
@@ -194,8 +189,8 @@
     },
     {
       "date": "2026-06-01",
-      "commentary_score": -0.923,
-      "n_items": 11
+      "commentary_score": -0.925,
+      "n_items": 12
     },
     {
       "date": "2026-06-02",
@@ -209,8 +204,8 @@
     },
     {
       "date": "2026-06-04",
-      "commentary_score": -0.217,
-      "n_items": 8
+      "commentary_score": -0.274,
+      "n_items": 9
     },
     {
       "date": "2026-06-05",
@@ -229,8 +224,8 @@
     },
     {
       "date": "2026-06-08",
-      "commentary_score": -0.038,
-      "n_items": 9
+      "commentary_score": -0.043,
+      "n_items": 8
     },
     {
       "date": "2026-06-09",
@@ -244,13 +239,13 @@
     },
     {
       "date": "2026-06-11",
-      "commentary_score": -0.04,
-      "n_items": 8
+      "commentary_score": -0.038,
+      "n_items": 9
     },
     {
       "date": "2026-06-12",
-      "commentary_score": 0.071,
-      "n_items": 7
+      "commentary_score": -0.04,
+      "n_items": 8
     },
     {
       "date": "2026-06-13",
@@ -279,8 +274,8 @@
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 0.126,
-      "n_items": 10
+      "commentary_score": 0.0,
+      "n_items": 3
     },
     {
       "date": "2026-06-19",
@@ -299,7 +294,7 @@
     },
     {
       "date": "2026-06-22",
-      "commentary_score": 0.108,
+      "commentary_score": 0.131,
       "n_items": 8
     },
     {
@@ -334,8 +329,8 @@
     },
     {
       "date": "2026-06-29",
-      "commentary_score": -0.138,
-      "n_items": 11
+      "commentary_score": -0.155,
+      "n_items": 10
     },
     {
       "date": "2026-06-30",
@@ -349,8 +344,8 @@
     },
     {
       "date": "2026-07-02",
-      "commentary_score": -0.798,
-      "n_items": 7
+      "commentary_score": -0.469,
+      "n_items": 14
     },
     {
       "date": "2026-07-03",
@@ -369,13 +364,13 @@
     },
     {
       "date": "2026-07-06",
-      "commentary_score": -0.224,
-      "n_items": 9
+      "commentary_score": -0.205,
+      "n_items": 10
     },
     {
       "date": "2026-07-07",
-      "commentary_score": -0.119,
-      "n_items": 12
+      "commentary_score": -0.224,
+      "n_items": 9
     },
     {
       "date": "2026-07-08",
@@ -404,13 +399,13 @@
     },
     {
       "date": "2026-07-13",
-      "commentary_score": 0.144,
-      "n_items": 10
+      "commentary_score": 0.139,
+      "n_items": 11
     },
     {
       "date": "2026-07-14",
-      "commentary_score": 0.105,
-      "n_items": 11
+      "commentary_score": 0.144,
+      "n_items": 10
     },
     {
       "date": "2026-07-15",
@@ -419,8 +414,8 @@
     },
     {
       "date": "2026-07-16",
-      "commentary_score": -0.189,
-      "n_items": 9
+      "commentary_score": 0.317,
+      "n_items": 8
     },
     {
       "date": "2026-07-17",
@@ -444,8 +439,8 @@
     },
     {
       "date": "2026-07-21",
-      "commentary_score": -0.551,
-      "n_items": 3
+      "commentary_score": -0.356,
+      "n_items": 6
     },
     {
       "date": "2026-07-22",
@@ -456,6 +451,11 @@
       "date": "2026-07-23",
       "commentary_score": -0.551,
       "n_items": 3
+    },
+    {
+      "date": "2026-07-24",
+      "commentary_score": -0.919,
+      "n_items": 2
     }
   ],
   "key_comments": [
@@ -519,37 +519,9 @@
       "reasons": [
         "Chair spoke"
       ]
-    },
-    {
-      "published_at": "2026-06-23T15:12:00+00:00",
-      "speaker": "Alan Taylor",
-      "role": "mpc_external",
-      "lean_prior": "dove",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": -1.0,
-      "phrase": "not seen much in terms of 2nd round effects in the UK",
-      "headline": "BoE's Taylor says they have not seen much in terms of 2nd round effects in the UK",
-      "importance": 1.0,
-      "reasons": [
-        "dove-lean speaker sounded hawkish"
-      ]
     }
   ],
   "speakers": [
-    {
-      "name": "Huw Pill",
-      "role": "chief_economist",
-      "voting_2026": true,
-      "lean_prior": "hawk",
-      "n_items": 1,
-      "mean_stance": 1.5,
-      "last_stance": 1.5,
-      "last_phrase": "interest rates may need to increase this year to keep rising prices under control",
-      "last_headline": "BoE Chief Economist Pill says interest rates may need to increase this year to keep rising prices under control",
-      "last_published_at": "2026-07-09T17:38:00+00:00",
-      "last_event_type": "other"
-    },
     {
       "name": "Andrew Bailey",
       "role": "chair",
