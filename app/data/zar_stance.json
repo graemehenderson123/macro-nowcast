@@ -1,11 +1,11 @@
 {
   "cb": "zar",
-  "as_of": "2026-07-24T04:32:11.153159+00:00",
+  "as_of": "2026-07-24T13:04:11.822859+00:00",
   "commentary_score": 0.0,
   "label": "neutral",
-  "n_items_window": 0,
+  "n_items_window": 1,
   "commentary_window_days": 30,
-  "n_items_total": 7,
+  "n_items_total": 8,
   "history_90d": [
     {
       "date": "2026-04-26",
@@ -455,7 +455,7 @@
     {
       "date": "2026-07-24",
       "commentary_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     }
   ],
   "key_comments": [],

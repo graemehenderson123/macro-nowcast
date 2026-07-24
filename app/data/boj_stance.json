@@ -1,16 +1,16 @@
 {
   "cb": "boj",
-  "as_of": "2026-07-24T04:32:09.803835+00:00",
-  "commentary_score": -0.283,
+  "as_of": "2026-07-24T13:04:10.467053+00:00",
+  "commentary_score": -0.265,
   "label": "neutral",
-  "n_items_window": 7,
+  "n_items_window": 6,
   "commentary_window_days": 30,
   "n_items_total": 177,
   "history_90d": [
     {
       "date": "2026-04-26",
-      "commentary_score": -0.528,
-      "n_items": 8
+      "commentary_score": -0.558,
+      "n_items": 7
     },
     {
       "date": "2026-04-27",
@@ -19,8 +19,8 @@
     },
     {
       "date": "2026-04-28",
-      "commentary_score": 0.61,
-      "n_items": 9
+      "commentary_score": -0.266,
+      "n_items": 15
     },
     {
       "date": "2026-04-29",
@@ -29,13 +29,13 @@
     },
     {
       "date": "2026-04-30",
-      "commentary_score": -0.287,
-      "n_items": 14
+      "commentary_score": -0.045,
+      "n_items": 15
     },
     {
       "date": "2026-05-01",
-      "commentary_score": -0.045,
-      "n_items": 15
+      "commentary_score": -0.039,
+      "n_items": 14
     },
     {
       "date": "2026-05-02",
@@ -59,8 +59,8 @@
     },
     {
       "date": "2026-05-06",
-      "commentary_score": -0.039,
-      "n_items": 14
+      "commentary_score": -0.024,
+      "n_items": 13
     },
     {
       "date": "2026-05-07",
@@ -74,8 +74,8 @@
     },
     {
       "date": "2026-05-09",
-      "commentary_score": 0.255,
-      "n_items": 14
+      "commentary_score": 0.277,
+      "n_items": 13
     },
     {
       "date": "2026-05-10",
@@ -89,13 +89,13 @@
     },
     {
       "date": "2026-05-12",
-      "commentary_score": 0.881,
-      "n_items": 13
+      "commentary_score": 0.647,
+      "n_items": 14
     },
     {
       "date": "2026-05-13",
-      "commentary_score": 0.647,
-      "n_items": 14
+      "commentary_score": 0.645,
+      "n_items": 13
     },
     {
       "date": "2026-05-14",
@@ -134,8 +134,8 @@
     },
     {
       "date": "2026-05-21",
-      "commentary_score": 1.472,
-      "n_items": 15
+      "commentary_score": 1.421,
+      "n_items": 16
     },
     {
       "date": "2026-05-22",
@@ -169,8 +169,8 @@
     },
     {
       "date": "2026-05-28",
-      "commentary_score": 1.551,
-      "n_items": 17
+      "commentary_score": 1.702,
+      "n_items": 11
     },
     {
       "date": "2026-05-29",
@@ -179,8 +179,8 @@
     },
     {
       "date": "2026-05-30",
-      "commentary_score": 1.702,
-      "n_items": 11
+      "commentary_score": 1.719,
+      "n_items": 10
     },
     {
       "date": "2026-05-31",
@@ -199,8 +199,8 @@
     },
     {
       "date": "2026-06-03",
-      "commentary_score": 0.477,
-      "n_items": 11
+      "commentary_score": 0.702,
+      "n_items": 12
     },
     {
       "date": "2026-06-04",
@@ -224,8 +224,8 @@
     },
     {
       "date": "2026-06-08",
-      "commentary_score": 0.695,
-      "n_items": 11
+      "commentary_score": 0.457,
+      "n_items": 12
     },
     {
       "date": "2026-06-09",
@@ -234,13 +234,13 @@
     },
     {
       "date": "2026-06-10",
-      "commentary_score": 0.457,
-      "n_items": 12
+      "commentary_score": 0.746,
+      "n_items": 14
     },
     {
       "date": "2026-06-11",
-      "commentary_score": 0.643,
-      "n_items": 14
+      "commentary_score": 0.653,
+      "n_items": 13
     },
     {
       "date": "2026-06-12",
@@ -264,8 +264,8 @@
     },
     {
       "date": "2026-06-16",
-      "commentary_score": 0.947,
-      "n_items": 14
+      "commentary_score": 0.966,
+      "n_items": 16
     },
     {
       "date": "2026-06-17",
@@ -274,18 +274,18 @@
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 0.887,
-      "n_items": 17
+      "commentary_score": 0.451,
+      "n_items": 18
     },
     {
       "date": "2026-06-19",
-      "commentary_score": 0.473,
-      "n_items": 19
+      "commentary_score": 0.44,
+      "n_items": 20
     },
     {
       "date": "2026-06-20",
-      "commentary_score": 0.43,
-      "n_items": 19
+      "commentary_score": 0.429,
+      "n_items": 18
     },
     {
       "date": "2026-06-21",
@@ -304,13 +304,13 @@
     },
     {
       "date": "2026-06-24",
-      "commentary_score": 0.144,
-      "n_items": 21
+      "commentary_score": 0.039,
+      "n_items": 22
     },
     {
       "date": "2026-06-25",
-      "commentary_score": 0.241,
-      "n_items": 22
+      "commentary_score": 0.365,
+      "n_items": 23
     },
     {
       "date": "2026-06-26",
@@ -349,8 +349,8 @@
     },
     {
       "date": "2026-07-03",
-      "commentary_score": 0.383,
-      "n_items": 20
+      "commentary_score": 0.369,
+      "n_items": 19
     },
     {
       "date": "2026-07-04",
@@ -374,8 +374,8 @@
     },
     {
       "date": "2026-07-08",
-      "commentary_score": -0.551,
-      "n_items": 21
+      "commentary_score": -0.561,
+      "n_items": 20
     },
     {
       "date": "2026-07-09",
@@ -384,8 +384,8 @@
     },
     {
       "date": "2026-07-10",
-      "commentary_score": -0.561,
-      "n_items": 20
+      "commentary_score": -0.638,
+      "n_items": 18
     },
     {
       "date": "2026-07-11",
@@ -414,23 +414,23 @@
     },
     {
       "date": "2026-07-16",
-      "commentary_score": -0.512,
-      "n_items": 16
-    },
-    {
-      "date": "2026-07-17",
       "commentary_score": -0.609,
       "n_items": 14
     },
     {
+      "date": "2026-07-17",
+      "commentary_score": -0.298,
+      "n_items": 15
+    },
+    {
       "date": "2026-07-18",
-      "commentary_score": -0.301,
-      "n_items": 14
+      "commentary_score": -0.274,
+      "n_items": 13
     },
     {
       "date": "2026-07-19",
-      "commentary_score": -0.302,
-      "n_items": 11
+      "commentary_score": -0.306,
+      "n_items": 10
     },
     {
       "date": "2026-07-20",
@@ -454,8 +454,8 @@
     },
     {
       "date": "2026-07-24",
-      "commentary_score": -0.283,
-      "n_items": 7
+      "commentary_score": -0.265,
+      "n_items": 6
     }
   ],
   "key_comments": [
@@ -487,22 +487,6 @@
       "importance": 0.75,
       "reasons": [
         "cross-market extreme (|stance| = 2.5)"
-      ]
-    },
-    {
-      "published_at": "2026-06-24T06:41:00+00:00",
-      "speaker": "Kazuo Ueda",
-      "role": "chair",
-      "lean_prior": "neutral",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": -1.0,
-      "phrase": "Financial environment remains accommodative after recent rate hike.",
-      "headline": "BoJ's Ueda says Japan's economy is recovering moderately albeit with some weakness; Economic growth likely to slow but continue to moderate recovery",
-      "importance": 5.06,
-      "reasons": [
-        "Chair spoke",
-        "notable move vs own recent tone"
       ]
     }
   ],
@@ -545,19 +529,6 @@
       "last_headline": "BoJ is to keep rates unchanged at its July meeting, according to Kyodo",
       "last_published_at": "2026-07-17T08:27:00+00:00",
       "last_event_type": "statement"
-    },
-    {
-      "name": "Kazuo Ueda",
-      "role": "chair",
-      "voting_2026": true,
-      "lean_prior": "neutral",
-      "n_items": 1,
-      "mean_stance": -1.0,
-      "last_stance": -1.0,
-      "last_phrase": "Financial environment remains accommodative after recent rate hike.",
-      "last_headline": "BoJ's Ueda says Japan's economy is recovering moderately albeit with some weakness; Economic growth likely to slow but continue to moderate recovery",
-      "last_published_at": "2026-06-24T06:41:00+00:00",
-      "last_event_type": "other"
     },
     {
       "name": "Toichiro Asada",

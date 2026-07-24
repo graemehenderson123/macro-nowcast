@@ -1,6 +1,6 @@
 {
   "cb": "krw",
-  "as_of": "2026-07-24T04:32:10.442949+00:00",
+  "as_of": "2026-07-24T13:04:11.116982+00:00",
   "commentary_score": 1.992,
   "label": "lean hawkish",
   "n_items_window": 5,
@@ -29,8 +29,8 @@
     },
     {
       "date": "2026-04-30",
-      "commentary_score": -0.564,
-      "n_items": 4
+      "commentary_score": -0.626,
+      "n_items": 3
     },
     {
       "date": "2026-05-01",
