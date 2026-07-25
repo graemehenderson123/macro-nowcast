@@ -1,17 +1,12 @@
 {
   "cb": "krw",
-  "as_of": "2026-07-24T13:04:11.116982+00:00",
+  "as_of": "2026-07-25T04:32:20.834802+00:00",
   "commentary_score": 1.992,
   "label": "lean hawkish",
   "n_items_window": 5,
   "commentary_window_days": 30,
   "n_items_total": 31,
   "history_90d": [
-    {
-      "date": "2026-04-26",
-      "commentary_score": -0.564,
-      "n_items": 4
-    },
     {
       "date": "2026-04-27",
       "commentary_score": -0.564,
@@ -29,8 +24,8 @@
     },
     {
       "date": "2026-04-30",
-      "commentary_score": -0.626,
-      "n_items": 3
+      "commentary_score": -0.564,
+      "n_items": 4
     },
     {
       "date": "2026-05-01",
@@ -454,6 +449,11 @@
     },
     {
       "date": "2026-07-24",
+      "commentary_score": 1.992,
+      "n_items": 5
+    },
+    {
+      "date": "2026-07-25",
       "commentary_score": 1.992,
       "n_items": 5
     }
