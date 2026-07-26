@@ -1,17 +1,12 @@
 {
   "cb": "boj",
-  "as_of": "2026-07-25T04:32:20.183658+00:00",
-  "commentary_score": -0.338,
+  "as_of": "2026-07-26T04:31:57.196170+00:00",
+  "commentary_score": -0.394,
   "label": "neutral",
-  "n_items_window": 5,
+  "n_items_window": 4,
   "commentary_window_days": 30,
   "n_items_total": 177,
   "history_90d": [
-    {
-      "date": "2026-04-27",
-      "commentary_score": -0.558,
-      "n_items": 7
-    },
     {
       "date": "2026-04-28",
       "commentary_score": 0.61,
@@ -456,6 +451,11 @@
       "date": "2026-07-25",
       "commentary_score": -0.338,
       "n_items": 5
+    },
+    {
+      "date": "2026-07-26",
+      "commentary_score": -0.394,
+      "n_items": 4
     }
   ],
   "key_comments": [
@@ -473,37 +473,9 @@
       "reasons": [
         "cross-market extreme (|stance| = 3.0)"
       ]
-    },
-    {
-      "published_at": "2026-06-25T05:13:00+00:00",
-      "speaker": "Naoki Tamura",
-      "role": "governor",
-      "lean_prior": "hawk",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": 2.0,
-      "phrase": "If risk of inflation overshoot materialises, we may need to accelerate the pace of rate hikes.",
-      "headline": "BoJ's Tamura says Japan has already met BoJ's 2% inflation goal and must increase rates close to neutral to prevent inflation from exceeding the target",
-      "importance": 0.5,
-      "reasons": [
-        "voter's tone moved more hawkish"
-      ]
     }
   ],
   "speakers": [
-    {
-      "name": "Naoki Tamura",
-      "role": "governor",
-      "voting_2026": true,
-      "lean_prior": "hawk",
-      "n_items": 1,
-      "mean_stance": 2.0,
-      "last_stance": 2.0,
-      "last_phrase": "If risk of inflation overshoot materialises, we may need to accelerate the pace of rate hikes.",
-      "last_headline": "BoJ's Tamura says Japan has already met BoJ's 2% inflation goal and must increase rates close to neutral to prevent inflation from exceeding the target",
-      "last_published_at": "2026-06-25T05:13:00+00:00",
-      "last_event_type": "other"
-    },
     {
       "name": "Ryozo Himino",
       "role": "vice_chair",

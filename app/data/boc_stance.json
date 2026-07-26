@@ -1,17 +1,12 @@
 {
   "cb": "boc",
-  "as_of": "2026-07-25T04:32:20.426923+00:00",
+  "as_of": "2026-07-26T04:31:57.440981+00:00",
   "commentary_score": 1.154,
   "label": "lean hawkish",
   "n_items_window": 7,
   "commentary_window_days": 30,
   "n_items_total": 66,
   "history_90d": [
-    {
-      "date": "2026-04-27",
-      "commentary_score": 0.692,
-      "n_items": 2
-    },
     {
       "date": "2026-04-28",
       "commentary_score": 0.692,
@@ -454,6 +449,11 @@
     },
     {
       "date": "2026-07-25",
+      "commentary_score": 1.154,
+      "n_items": 7
+    },
+    {
+      "date": "2026-07-26",
       "commentary_score": 1.154,
       "n_items": 7
     }

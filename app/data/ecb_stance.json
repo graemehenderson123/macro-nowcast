@@ -1,17 +1,12 @@
 {
   "cb": "ecb",
-  "as_of": "2026-07-25T04:32:20.007605+00:00",
+  "as_of": "2026-07-26T04:31:57.018169+00:00",
   "commentary_score": -0.286,
   "label": "neutral",
   "n_items_window": 25,
   "commentary_window_days": 14,
   "n_items_total": 536,
   "history_90d": [
-    {
-      "date": "2026-04-27",
-      "commentary_score": -0.155,
-      "n_items": 28
-    },
     {
       "date": "2026-04-28",
       "commentary_score": -0.264,
@@ -456,6 +451,11 @@
       "date": "2026-07-25",
       "commentary_score": -0.286,
       "n_items": 25
+    },
+    {
+      "date": "2026-07-26",
+      "commentary_score": -0.286,
+      "n_items": 25
     }
   ],
   "key_comments": [
@@ -484,7 +484,7 @@
       "stance": -1.0,
       "phrase": "Cannot simply look through the shock.",
       "headline": "ECB's Schnabel says not in a pre-war situation even after fall in oil prices",
-      "importance": 5.9,
+      "importance": 5.34,
       "reasons": [
         "hawk-lean speaker sounded dovish"
       ]
