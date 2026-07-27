@@ -1,17 +1,12 @@
 {
   "cb": "boe",
-  "as_of": "2026-07-26T04:31:57.109803+00:00",
+  "as_of": "2026-07-27T04:32:09.161105+00:00",
   "commentary_score": -0.349,
   "label": "neutral",
   "n_items_window": 3,
   "commentary_window_days": 14,
   "n_items_total": 221,
   "history_90d": [
-    {
-      "date": "2026-04-28",
-      "commentary_score": -0.078,
-      "n_items": 8
-    },
     {
       "date": "2026-04-29",
       "commentary_score": -1.0,
@@ -454,6 +449,11 @@
     },
     {
       "date": "2026-07-26",
+      "commentary_score": -0.349,
+      "n_items": 3
+    },
+    {
+      "date": "2026-07-27",
       "commentary_score": -0.349,
       "n_items": 3
     }

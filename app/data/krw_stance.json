@@ -1,17 +1,12 @@
 {
   "cb": "krw",
-  "as_of": "2026-07-26T04:31:57.850460+00:00",
+  "as_of": "2026-07-27T04:32:09.876322+00:00",
   "commentary_score": 1.992,
   "label": "lean hawkish",
   "n_items_window": 5,
   "commentary_window_days": 30,
   "n_items_total": 31,
   "history_90d": [
-    {
-      "date": "2026-04-28",
-      "commentary_score": -0.564,
-      "n_items": 4
-    },
     {
       "date": "2026-04-29",
       "commentary_score": -0.564,
@@ -456,6 +451,11 @@
       "date": "2026-07-26",
       "commentary_score": 1.992,
       "n_items": 5
+    },
+    {
+      "date": "2026-07-27",
+      "commentary_score": 1.992,
+      "n_items": 5
     }
   ],
   "key_comments": [
@@ -485,7 +485,7 @@
       "stance": 1.5,
       "phrase": "interest rates need to be raised at an appropriate time",
       "headline": "BoK Governor Shin says interest rates need to be raised at an appropriate time",
-      "importance": 3.64,
+      "importance": 4.5,
       "reasons": [
         "Chair spoke",
         "notable move vs own recent tone"

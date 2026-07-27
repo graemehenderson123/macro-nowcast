@@ -1,17 +1,12 @@
 {
   "cb": "fed",
-  "as_of": "2026-07-26T04:31:56.917801+00:00",
+  "as_of": "2026-07-27T04:32:08.973657+00:00",
   "commentary_score": 1.552,
   "label": "lean hawkish",
   "n_items_window": 20,
   "commentary_window_days": 14,
   "n_items_total": 927,
   "history_90d": [
-    {
-      "date": "2026-04-28",
-      "commentary_score": -0.214,
-      "n_items": 28
-    },
     {
       "date": "2026-04-29",
       "commentary_score": -0.183,
@@ -456,6 +451,11 @@
       "date": "2026-07-26",
       "commentary_score": 1.552,
       "n_items": 20
+    },
+    {
+      "date": "2026-07-27",
+      "commentary_score": 1.552,
+      "n_items": 20
     }
   ],
   "key_comments": [
@@ -476,6 +476,21 @@
       ]
     },
     {
+      "published_at": "2026-07-15T16:57:00+00:00",
+      "speaker": "Lisa Cook",
+      "role": "governor",
+      "lean_prior": "dove",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": 1.5,
+      "phrase": "noted shift in risk towards higher inflation",
+      "headline": "Fed's Cook (voter) says it is prudent to wait 'a bit more time' for inflation to slow, but she is prepared to act if it does not occur 'soon'",
+      "importance": 6.0,
+      "reasons": [
+        "dove-lean speaker sounded hawkish"
+      ]
+    },
+    {
       "published_at": "2026-07-14T15:42:00+00:00",
       "speaker": "Kevin Warsh",
       "role": "chair",
@@ -489,21 +504,6 @@
       "reasons": [
         "Chair spoke",
         "cross-market extreme (|stance| = 3.0)"
-      ]
-    },
-    {
-      "published_at": "2026-07-13T16:29:00+00:00",
-      "speaker": "Christopher Waller",
-      "role": "governor",
-      "lean_prior": "hawk",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": 4.0,
-      "phrase": "if there is another hot reading on core inflation this week, the Fed will need to consider rate hike in near term",
-      "headline": "Fed's Waller (voter) says if there is another hot reading on core inflation this week, the Fed will need to consider rate hike in near term",
-      "importance": 3.0,
-      "reasons": [
-        "cross-market extreme (|stance| = 4.0)"
       ]
     },
     {
