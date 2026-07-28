@@ -1,11 +1,11 @@
 {
   "cb": "rba",
-  "as_of": "2026-07-28T04:32:27.573911+00:00",
-  "commentary_score": 2.427,
-  "label": "hawkish",
-  "n_items_window": 3,
+  "as_of": "2026-07-28T13:02:26.592214+00:00",
+  "commentary_score": 1.7,
+  "label": "lean hawkish",
+  "n_items_window": 4,
   "commentary_window_days": 30,
-  "n_items_total": 46,
+  "n_items_total": 47,
   "history_90d": [
     {
       "date": "2026-04-30",
@@ -184,8 +184,8 @@
     },
     {
       "date": "2026-06-04",
-      "commentary_score": 2.248,
-      "n_items": 3
+      "commentary_score": 1.542,
+      "n_items": 6
     },
     {
       "date": "2026-06-05",
@@ -244,8 +244,8 @@
     },
     {
       "date": "2026-06-16",
-      "commentary_score": 2.821,
-      "n_items": 7
+      "commentary_score": 2.529,
+      "n_items": 8
     },
     {
       "date": "2026-06-17",
@@ -334,8 +334,8 @@
     },
     {
       "date": "2026-07-04",
-      "commentary_score": 2.901,
-      "n_items": 7
+      "commentary_score": 3.005,
+      "n_items": 4
     },
     {
       "date": "2026-07-05",
@@ -394,8 +394,8 @@
     },
     {
       "date": "2026-07-16",
-      "commentary_score": 2.377,
-      "n_items": 4
+      "commentary_score": 2.427,
+      "n_items": 3
     },
     {
       "date": "2026-07-17",
@@ -454,11 +454,26 @@
     },
     {
       "date": "2026-07-28",
-      "commentary_score": 2.427,
-      "n_items": 3
+      "commentary_score": 1.7,
+      "n_items": 4
     }
   ],
   "key_comments": [
+    {
+      "published_at": "2026-07-28T03:05:00+00:00",
+      "speaker": "Michele Bullock",
+      "role": "chair",
+      "lean_prior": "hawk",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": 1.5,
+      "phrase": "Policy works with a lag, meaning the full impact of this year's rate increases has yet to emerge.",
+      "headline": "RBA Governor Bullock says board is ready to hike cash rate further if needed, while key question is if tightening already delivered is enough to slow inflation",
+      "importance": 3.0,
+      "reasons": [
+        "Chair spoke"
+      ]
+    },
     {
       "published_at": "2026-07-08T01:02:00+00:00",
       "speaker": "Sarah Hunter",
@@ -545,6 +560,19 @@
       "last_phrase": "Monetary policy can potentially limit the indirect and second-round effects.",
       "last_headline": "RBA Assistant Governor Hunter says the Board will act as needed to ensure inflation returns to target and the labour market to sustainable full employment",
       "last_published_at": "2026-07-08T01:02:00+00:00",
+      "last_event_type": "other"
+    },
+    {
+      "name": "Michele Bullock",
+      "role": "chair",
+      "voting_2026": true,
+      "lean_prior": "hawk",
+      "n_items": 1,
+      "mean_stance": 1.5,
+      "last_stance": 1.5,
+      "last_phrase": "Policy works with a lag, meaning the full impact of this year's rate increases has yet to emerge.",
+      "last_headline": "RBA Governor Bullock says board is ready to hike cash rate further if needed, while key question is if tightening already delivered is enough to slow inflation",
+      "last_published_at": "2026-07-28T03:05:00+00:00",
       "last_event_type": "other"
     }
   ],
