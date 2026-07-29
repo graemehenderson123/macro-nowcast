@@ -1,21 +1,16 @@
 {
   "cb": "fed",
-  "as_of": "2026-07-28T13:02:26.225726+00:00",
-  "commentary_score": 0.205,
+  "as_of": "2026-07-29T04:32:17.174542+00:00",
+  "commentary_score": -0.044,
   "label": "neutral",
-  "n_items_window": 16,
+  "n_items_window": 13,
   "commentary_window_days": 14,
   "n_items_total": 929,
   "history_90d": [
     {
-      "date": "2026-04-30",
-      "commentary_score": 0.581,
-      "n_items": 33
-    },
-    {
       "date": "2026-05-01",
-      "commentary_score": 0.66,
-      "n_items": 34
+      "commentary_score": 0.564,
+      "n_items": 32
     },
     {
       "date": "2026-05-02",
@@ -29,13 +24,13 @@
     },
     {
       "date": "2026-05-04",
-      "commentary_score": 0.795,
-      "n_items": 32
+      "commentary_score": 0.706,
+      "n_items": 33
     },
     {
       "date": "2026-05-05",
-      "commentary_score": 0.794,
-      "n_items": 31
+      "commentary_score": 0.741,
+      "n_items": 32
     },
     {
       "date": "2026-05-06",
@@ -44,13 +39,13 @@
     },
     {
       "date": "2026-05-07",
-      "commentary_score": 0.615,
-      "n_items": 26
+      "commentary_score": 0.659,
+      "n_items": 25
     },
     {
       "date": "2026-05-08",
-      "commentary_score": 0.255,
-      "n_items": 30
+      "commentary_score": 0.514,
+      "n_items": 29
     },
     {
       "date": "2026-05-09",
@@ -79,13 +74,13 @@
     },
     {
       "date": "2026-05-14",
-      "commentary_score": -0.936,
-      "n_items": 25
+      "commentary_score": -0.01,
+      "n_items": 23
     },
     {
       "date": "2026-05-15",
-      "commentary_score": -0.931,
-      "n_items": 23
+      "commentary_score": -0.824,
+      "n_items": 25
     },
     {
       "date": "2026-05-16",
@@ -114,13 +109,13 @@
     },
     {
       "date": "2026-05-21",
-      "commentary_score": 0.613,
-      "n_items": 19
+      "commentary_score": 0.597,
+      "n_items": 20
     },
     {
       "date": "2026-05-22",
-      "commentary_score": 0.769,
-      "n_items": 17
+      "commentary_score": 0.647,
+      "n_items": 18
     },
     {
       "date": "2026-05-23",
@@ -144,18 +139,18 @@
     },
     {
       "date": "2026-05-27",
-      "commentary_score": 1.735,
-      "n_items": 18
-    },
-    {
-      "date": "2026-05-28",
-      "commentary_score": 2.164,
+      "commentary_score": 1.761,
       "n_items": 17
     },
     {
+      "date": "2026-05-28",
+      "commentary_score": 1.651,
+      "n_items": 19
+    },
+    {
       "date": "2026-05-29",
-      "commentary_score": 1.818,
-      "n_items": 23
+      "commentary_score": 2.173,
+      "n_items": 18
     },
     {
       "date": "2026-05-30",
@@ -174,8 +169,8 @@
     },
     {
       "date": "2026-06-02",
-      "commentary_score": 1.307,
-      "n_items": 27
+      "commentary_score": 1.485,
+      "n_items": 25
     },
     {
       "date": "2026-06-03",
@@ -214,8 +209,8 @@
     },
     {
       "date": "2026-06-10",
-      "commentary_score": 0.744,
-      "n_items": 27
+      "commentary_score": 0.764,
+      "n_items": 28
     },
     {
       "date": "2026-06-11",
@@ -224,8 +219,8 @@
     },
     {
       "date": "2026-06-12",
-      "commentary_score": 0.54,
-      "n_items": 15
+      "commentary_score": 0.556,
+      "n_items": 20
     },
     {
       "date": "2026-06-13",
@@ -244,8 +239,8 @@
     },
     {
       "date": "2026-06-16",
-      "commentary_score": 0.761,
-      "n_items": 10
+      "commentary_score": 0.683,
+      "n_items": 12
     },
     {
       "date": "2026-06-17",
@@ -279,13 +274,13 @@
     },
     {
       "date": "2026-06-23",
-      "commentary_score": 1.705,
-      "n_items": 23
+      "commentary_score": 1.91,
+      "n_items": 22
     },
     {
       "date": "2026-06-24",
-      "commentary_score": 1.551,
-      "n_items": 25
+      "commentary_score": 1.554,
+      "n_items": 24
     },
     {
       "date": "2026-06-25",
@@ -294,8 +289,8 @@
     },
     {
       "date": "2026-06-26",
-      "commentary_score": 1.305,
-      "n_items": 30
+      "commentary_score": 1.385,
+      "n_items": 29
     },
     {
       "date": "2026-06-27",
@@ -309,8 +304,8 @@
     },
     {
       "date": "2026-06-29",
-      "commentary_score": 1.228,
-      "n_items": 33
+      "commentary_score": 1.287,
+      "n_items": 32
     },
     {
       "date": "2026-06-30",
@@ -324,8 +319,8 @@
     },
     {
       "date": "2026-07-02",
-      "commentary_score": 0.303,
-      "n_items": 25
+      "commentary_score": 0.358,
+      "n_items": 24
     },
     {
       "date": "2026-07-03",
@@ -349,13 +344,13 @@
     },
     {
       "date": "2026-07-07",
-      "commentary_score": 0.38,
-      "n_items": 27
+      "commentary_score": 0.331,
+      "n_items": 28
     },
     {
       "date": "2026-07-08",
-      "commentary_score": 0.34,
-      "n_items": 26
+      "commentary_score": 0.373,
+      "n_items": 27
     },
     {
       "date": "2026-07-09",
@@ -364,8 +359,8 @@
     },
     {
       "date": "2026-07-10",
-      "commentary_score": 0.827,
-      "n_items": 25
+      "commentary_score": 0.808,
+      "n_items": 26
     },
     {
       "date": "2026-07-11",
@@ -379,23 +374,23 @@
     },
     {
       "date": "2026-07-13",
-      "commentary_score": 0.849,
-      "n_items": 24
+      "commentary_score": 0.835,
+      "n_items": 25
     },
     {
       "date": "2026-07-14",
-      "commentary_score": 1.468,
-      "n_items": 23
+      "commentary_score": 1.31,
+      "n_items": 22
     },
     {
       "date": "2026-07-15",
-      "commentary_score": 1.612,
-      "n_items": 26
+      "commentary_score": 1.536,
+      "n_items": 25
     },
     {
       "date": "2026-07-16",
-      "commentary_score": 1.357,
-      "n_items": 25
+      "commentary_score": 1.34,
+      "n_items": 26
     },
     {
       "date": "2026-07-17",
@@ -419,8 +414,8 @@
     },
     {
       "date": "2026-07-21",
-      "commentary_score": 1.43,
-      "n_items": 27
+      "commentary_score": 1.61,
+      "n_items": 26
     },
     {
       "date": "2026-07-22",
@@ -454,8 +449,13 @@
     },
     {
       "date": "2026-07-28",
-      "commentary_score": 0.205,
-      "n_items": 16
+      "commentary_score": 0.377,
+      "n_items": 17
+    },
+    {
+      "date": "2026-07-29",
+      "commentary_score": -0.044,
+      "n_items": 13
     }
   ],
   "key_comments": [
@@ -607,19 +607,6 @@
       "last_event_type": "other"
     },
     {
-      "name": "Kevin Warsh",
-      "role": "chair",
-      "voting_2026": true,
-      "lean_prior": "hawk",
-      "n_items": 3,
-      "mean_stance": 0.429,
-      "last_stance": -3.0,
-      "last_phrase": "Rates should be lowered.",
-      "last_headline": "US President Trump says read a very good inflation report the other day; costs are going down rapidly; as soon as the war is over, you'll see a big drop in prices; Fed Chair Warsh is great, but he has",
-      "last_published_at": "2026-07-27T16:32:00+00:00",
-      "last_event_type": "other"
-    },
-    {
       "name": "Lisa Cook",
       "role": "governor",
       "voting_2026": true,
@@ -633,16 +620,16 @@
       "last_event_type": "other"
     },
     {
-      "name": "Austan Goolsbee",
-      "role": "regional_president",
-      "voting_2026": false,
-      "lean_prior": "dove",
+      "name": "Kevin Warsh",
+      "role": "chair",
+      "voting_2026": true,
+      "lean_prior": "hawk",
       "n_items": 1,
-      "mean_stance": -1.5,
-      "last_stance": -1.5,
-      "last_phrase": "never want to overreact to one month",
-      "last_headline": "Fed's Goolsbee (2027 voter) says June CPI inflation was surprisingly benign and that was nice, but never want to overreact to one month; if got several months like this, would feel better",
-      "last_published_at": "2026-07-14T17:25:00+00:00",
+      "mean_stance": -3.0,
+      "last_stance": -3.0,
+      "last_phrase": "Rates should be lowered.",
+      "last_headline": "US President Trump says read a very good inflation report the other day; costs are going down rapidly; as soon as the war is over, you'll see a big drop in prices; Fed Chair Warsh is great, but he has",
+      "last_published_at": "2026-07-27T16:32:00+00:00",
       "last_event_type": "other"
     }
   ],
