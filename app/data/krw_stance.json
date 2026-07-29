@@ -1,11 +1,11 @@
 {
   "cb": "krw",
-  "as_of": "2026-07-29T04:32:18.165846+00:00",
-  "commentary_score": 1.992,
-  "label": "lean hawkish",
-  "n_items_window": 5,
+  "as_of": "2026-07-29T13:03:11.459075+00:00",
+  "commentary_score": 3.105,
+  "label": "hawkish",
+  "n_items_window": 7,
   "commentary_window_days": 30,
-  "n_items_total": 31,
+  "n_items_total": 33,
   "history_90d": [
     {
       "date": "2026-05-01",
@@ -454,25 +454,42 @@
     },
     {
       "date": "2026-07-29",
-      "commentary_score": 1.992,
-      "n_items": 5
+      "commentary_score": 3.105,
+      "n_items": 7
     }
   ],
   "key_comments": [
     {
-      "published_at": "2026-07-16T00:50:00+00:00",
+      "published_at": "2026-07-29T03:38:00+00:00",
+      "speaker": "Shin Hyun Song",
+      "role": "chair",
+      "lean_prior": "neutral",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": 3.5,
+      "phrase": "most rational to maintain a tightening stance to control core inflation",
+      "headline": "BoK Governor Shin says most rational to maintain a tightening stance to control core inflation, adds timing and degree of policy response will depend on upcoming data and economic conditions",
+      "importance": 5.99,
+      "reasons": [
+        "Chair spoke",
+        "notable move vs own recent tone",
+        "cross-market extreme (|stance| = 3.5)"
+      ]
+    },
+    {
+      "published_at": "2026-07-29T01:01:00+00:00",
       "speaker": "KRW (institutional)",
       "role": "institutional",
       "lean_prior": "neutral",
       "voting_2026": true,
       "event_type": "statement",
-      "stance": 3.0,
-      "phrase": "BoK raises 7-day Repo Rate by 25bps to 2.75%",
-      "headline": "BoK raises 7-day Repo Rate by 25bps to 2.75%, as expected",
-      "importance": 4.5,
+      "stance": 3.5,
+      "phrase": "necessary to maintain a tightening policy stance",
+      "headline": "BoK says necessary to be more cautious about risks related to house prices and household debt, adds inflation will exceed target in H2, adds will continue making market stabilising efforts and necessary to maintain a tig",
+      "importance": 5.25,
       "reasons": [
-        "official CB statement (stance +3.00)",
-        "strong policy signal (|stance| = 3.0)"
+        "official CB statement (stance +3.50)",
+        "strong policy signal (|stance| = 3.5)"
       ]
     },
     {
@@ -485,7 +502,7 @@
       "stance": 1.5,
       "phrase": "interest rates need to be raised at an appropriate time",
       "headline": "BoK Governor Shin says interest rates need to be raised at an appropriate time",
-      "importance": 4.5,
+      "importance": 4.26,
       "reasons": [
         "Chair spoke",
         "notable move vs own recent tone"
@@ -494,30 +511,30 @@
   ],
   "speakers": [
     {
-      "name": "KRW (institutional)",
-      "role": "institutional",
-      "voting_2026": true,
-      "lean_prior": "neutral",
-      "n_items": 3,
-      "mean_stance": 1.524,
-      "last_stance": 3.0,
-      "last_phrase": "BoK raises 7-day Repo Rate by 25bps to 2.75%",
-      "last_headline": "BoK raises 7-day Repo Rate by 25bps to 2.75%, as expected",
-      "last_published_at": "2026-07-16T00:50:00+00:00",
-      "last_event_type": "statement"
-    },
-    {
       "name": "Shin Hyun Song",
       "role": "chair",
       "voting_2026": true,
       "lean_prior": "neutral",
-      "n_items": 1,
-      "mean_stance": 1.5,
-      "last_stance": 1.5,
-      "last_phrase": "interest rates need to be raised at an appropriate time",
-      "last_headline": "BoK Governor Shin says interest rates need to be raised at an appropriate time",
-      "last_published_at": "2026-07-09T01:26:00+00:00",
+      "n_items": 2,
+      "mean_stance": 2.643,
+      "last_stance": 3.5,
+      "last_phrase": "most rational to maintain a tightening stance to control core inflation",
+      "last_headline": "BoK Governor Shin says most rational to maintain a tightening stance to control core inflation, adds timing and degree of policy response will depend on upcoming data and economic conditions",
+      "last_published_at": "2026-07-29T03:38:00+00:00",
       "last_event_type": "other"
+    },
+    {
+      "name": "KRW (institutional)",
+      "role": "institutional",
+      "voting_2026": true,
+      "lean_prior": "neutral",
+      "n_items": 4,
+      "mean_stance": 2.069,
+      "last_stance": 3.5,
+      "last_phrase": "necessary to maintain a tightening policy stance",
+      "last_headline": "BoK says necessary to be more cautious about risks related to house prices and household debt, adds inflation will exceed target in H2, adds will continue making market stabilising efforts and necessa",
+      "last_published_at": "2026-07-29T01:01:00+00:00",
+      "last_event_type": "statement"
     }
   ],
   "methodology": {
