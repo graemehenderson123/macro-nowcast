@@ -1,17 +1,12 @@
 {
   "cb": "rba",
-  "as_of": "2026-07-29T13:03:10.920140+00:00",
-  "commentary_score": 1.706,
+  "as_of": "2026-07-30T04:33:12.224519+00:00",
+  "commentary_score": 1.5,
   "label": "lean hawkish",
-  "n_items_window": 3,
+  "n_items_window": 2,
   "commentary_window_days": 30,
   "n_items_total": 47,
   "history_90d": [
-    {
-      "date": "2026-05-01",
-      "commentary_score": 0.0,
-      "n_items": 0
-    },
     {
       "date": "2026-05-02",
       "commentary_score": 0.0,
@@ -179,8 +174,8 @@
     },
     {
       "date": "2026-06-04",
-      "commentary_score": 1.542,
-      "n_items": 6
+      "commentary_score": 2.248,
+      "n_items": 3
     },
     {
       "date": "2026-06-05",
@@ -239,8 +234,8 @@
     },
     {
       "date": "2026-06-16",
-      "commentary_score": 2.529,
-      "n_items": 8
+      "commentary_score": 2.821,
+      "n_items": 7
     },
     {
       "date": "2026-06-17",
@@ -329,8 +324,8 @@
     },
     {
       "date": "2026-07-04",
-      "commentary_score": 3.005,
-      "n_items": 4
+      "commentary_score": 2.901,
+      "n_items": 7
     },
     {
       "date": "2026-07-05",
@@ -389,8 +384,8 @@
     },
     {
       "date": "2026-07-16",
-      "commentary_score": 2.427,
-      "n_items": 3
+      "commentary_score": 2.377,
+      "n_items": 4
     },
     {
       "date": "2026-07-17",
@@ -456,6 +451,11 @@
       "date": "2026-07-29",
       "commentary_score": 1.706,
       "n_items": 3
+    },
+    {
+      "date": "2026-07-30",
+      "commentary_score": 1.5,
+      "n_items": 2
     }
   ],
   "key_comments": [
@@ -489,38 +489,9 @@
         "Vice Chair spoke",
         "notable move vs own recent tone"
       ]
-    },
-    {
-      "published_at": "2026-06-30T01:30:00+00:00",
-      "speaker": "RBA (institutional)",
-      "role": "institutional",
-      "lean_prior": "neutral",
-      "voting_2026": true,
-      "event_type": "statement",
-      "stance": 3.5,
-      "phrase": "will do what is needed to achieve price stability including raising rates if necessary",
-      "headline": "RBA Minutes from the June meeting stated that policy needed to remain restrictive and will do what is needed to achieve price stability including raising rates if necessary",
-      "importance": 5.25,
-      "reasons": [
-        "official CB statement (stance +3.50)",
-        "strong policy signal (|stance| = 3.5)"
-      ]
     }
   ],
   "speakers": [
-    {
-      "name": "RBA (institutional)",
-      "role": "institutional",
-      "voting_2026": true,
-      "lean_prior": "neutral",
-      "n_items": 1,
-      "mean_stance": 3.5,
-      "last_stance": 3.5,
-      "last_phrase": "will do what is needed to achieve price stability including raising rates if necessary",
-      "last_headline": "RBA Minutes from the June meeting stated that policy needed to remain restrictive and will do what is needed to achieve price stability including raising rates if necessary",
-      "last_published_at": "2026-06-30T01:30:00+00:00",
-      "last_event_type": "statement"
-    },
     {
       "name": "Sarah Hunter",
       "role": "vice_chair",
