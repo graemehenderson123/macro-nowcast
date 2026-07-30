@@ -1,11 +1,11 @@
 {
   "cb": "boe",
-  "as_of": "2026-07-30T04:33:12.061519+00:00",
-  "commentary_score": -0.439,
+  "as_of": "2026-07-30T13:03:41.657052+00:00",
+  "commentary_score": -0.054,
   "label": "neutral",
-  "n_items_window": 2,
+  "n_items_window": 10,
   "commentary_window_days": 14,
-  "n_items_total": 221,
+  "n_items_total": 232,
   "history_90d": [
     {
       "date": "2026-05-02",
@@ -29,8 +29,8 @@
     },
     {
       "date": "2026-05-06",
-      "commentary_score": -0.314,
-      "n_items": 19
+      "commentary_score": -0.305,
+      "n_items": 18
     },
     {
       "date": "2026-05-07",
@@ -69,13 +69,13 @@
     },
     {
       "date": "2026-05-14",
-      "commentary_score": -0.482,
-      "n_items": 19
+      "commentary_score": -1.35,
+      "n_items": 3
     },
     {
       "date": "2026-05-15",
-      "commentary_score": 0.343,
-      "n_items": 3
+      "commentary_score": 0.257,
+      "n_items": 2
     },
     {
       "date": "2026-05-16",
@@ -89,8 +89,8 @@
     },
     {
       "date": "2026-05-18",
-      "commentary_score": -0.365,
-      "n_items": 3
+      "commentary_score": -0.493,
+      "n_items": 4
     },
     {
       "date": "2026-05-19",
@@ -104,8 +104,8 @@
     },
     {
       "date": "2026-05-21",
-      "commentary_score": -0.97,
-      "n_items": 9
+      "commentary_score": -1.023,
+      "n_items": 10
     },
     {
       "date": "2026-05-22",
@@ -139,13 +139,13 @@
     },
     {
       "date": "2026-05-28",
-      "commentary_score": -1.132,
-      "n_items": 11
+      "commentary_score": -0.971,
+      "n_items": 12
     },
     {
       "date": "2026-05-29",
-      "commentary_score": -1.111,
-      "n_items": 11
+      "commentary_score": -1.089,
+      "n_items": 12
     },
     {
       "date": "2026-05-30",
@@ -159,8 +159,8 @@
     },
     {
       "date": "2026-06-01",
-      "commentary_score": -0.925,
-      "n_items": 12
+      "commentary_score": -0.923,
+      "n_items": 11
     },
     {
       "date": "2026-06-02",
@@ -174,8 +174,8 @@
     },
     {
       "date": "2026-06-04",
-      "commentary_score": -0.274,
-      "n_items": 9
+      "commentary_score": -0.217,
+      "n_items": 8
     },
     {
       "date": "2026-06-05",
@@ -194,8 +194,8 @@
     },
     {
       "date": "2026-06-08",
-      "commentary_score": -0.043,
-      "n_items": 8
+      "commentary_score": -0.038,
+      "n_items": 9
     },
     {
       "date": "2026-06-09",
@@ -209,13 +209,13 @@
     },
     {
       "date": "2026-06-11",
-      "commentary_score": -0.038,
-      "n_items": 9
+      "commentary_score": -0.04,
+      "n_items": 8
     },
     {
       "date": "2026-06-12",
-      "commentary_score": -0.04,
-      "n_items": 8
+      "commentary_score": 0.071,
+      "n_items": 7
     },
     {
       "date": "2026-06-13",
@@ -244,8 +244,8 @@
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 0.0,
-      "n_items": 3
+      "commentary_score": 0.126,
+      "n_items": 10
     },
     {
       "date": "2026-06-19",
@@ -264,7 +264,7 @@
     },
     {
       "date": "2026-06-22",
-      "commentary_score": 0.131,
+      "commentary_score": 0.108,
       "n_items": 8
     },
     {
@@ -299,8 +299,8 @@
     },
     {
       "date": "2026-06-29",
-      "commentary_score": -0.155,
-      "n_items": 10
+      "commentary_score": -0.138,
+      "n_items": 11
     },
     {
       "date": "2026-06-30",
@@ -314,8 +314,8 @@
     },
     {
       "date": "2026-07-02",
-      "commentary_score": -0.469,
-      "n_items": 14
+      "commentary_score": -0.798,
+      "n_items": 7
     },
     {
       "date": "2026-07-03",
@@ -334,13 +334,13 @@
     },
     {
       "date": "2026-07-06",
-      "commentary_score": -0.205,
-      "n_items": 10
+      "commentary_score": -0.224,
+      "n_items": 9
     },
     {
       "date": "2026-07-07",
-      "commentary_score": -0.224,
-      "n_items": 9
+      "commentary_score": -0.119,
+      "n_items": 12
     },
     {
       "date": "2026-07-08",
@@ -369,13 +369,13 @@
     },
     {
       "date": "2026-07-13",
-      "commentary_score": 0.139,
-      "n_items": 11
+      "commentary_score": 0.144,
+      "n_items": 10
     },
     {
       "date": "2026-07-14",
-      "commentary_score": 0.144,
-      "n_items": 10
+      "commentary_score": 0.105,
+      "n_items": 11
     },
     {
       "date": "2026-07-15",
@@ -384,8 +384,8 @@
     },
     {
       "date": "2026-07-16",
-      "commentary_score": 0.317,
-      "n_items": 8
+      "commentary_score": -0.189,
+      "n_items": 9
     },
     {
       "date": "2026-07-17",
@@ -409,8 +409,8 @@
     },
     {
       "date": "2026-07-21",
-      "commentary_score": -0.356,
-      "n_items": 6
+      "commentary_score": -0.551,
+      "n_items": 3
     },
     {
       "date": "2026-07-22",
@@ -424,8 +424,8 @@
     },
     {
       "date": "2026-07-24",
-      "commentary_score": -0.919,
-      "n_items": 2
+      "commentary_score": -0.349,
+      "n_items": 3
     },
     {
       "date": "2026-07-25",
@@ -444,8 +444,8 @@
     },
     {
       "date": "2026-07-28",
-      "commentary_score": -0.349,
-      "n_items": 3
+      "commentary_score": -0.439,
+      "n_items": 2
     },
     {
       "date": "2026-07-29",
@@ -454,11 +454,59 @@
     },
     {
       "date": "2026-07-30",
-      "commentary_score": -0.439,
-      "n_items": 2
+      "commentary_score": -0.054,
+      "n_items": 10
     }
   ],
   "key_comments": [
+    {
+      "published_at": "2026-07-30T12:24:00+00:00",
+      "speaker": "Andrew Bailey",
+      "role": "chair",
+      "lean_prior": "dove",
+      "voting_2026": true,
+      "event_type": "off-the-cuff",
+      "stance": 1.0,
+      "phrase": "risks to inflation tilted to the upside",
+      "headline": "BoE's Bailey (Q&A) says the received information on the upside risk for food inflation is lower than what they previously thought it would be, which is encouraging, though subject to risk and uncertainty",
+      "importance": 6.1,
+      "reasons": [
+        "Chair spoke",
+        "dove-lean speaker sounded hawkish"
+      ]
+    },
+    {
+      "published_at": "2026-07-30T12:22:00+00:00",
+      "speaker": "Clare Lombardelli",
+      "role": "vice_chair",
+      "lean_prior": "neutral",
+      "voting_2026": true,
+      "event_type": "off-the-cuff",
+      "stance": -1.0,
+      "phrase": "holding was the correct thing to do",
+      "headline": "BoE's Lombardelli (Q&A) says her vote in today's decision was not a close call, holding was the correct thing to do. Learnt more on the strength of UK disinflation.",
+      "importance": 4.0,
+      "reasons": [
+        "Vice Chair spoke",
+        "notable move vs own recent tone"
+      ]
+    },
+    {
+      "published_at": "2026-07-30T12:04:00+00:00",
+      "speaker": "Andrew Bailey",
+      "role": "chair",
+      "lean_prior": "dove",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": 1.0,
+      "phrase": "stands ready to adjust policy stance as the outlook changes",
+      "headline": "BoE Governor Bailey (opening remarks) says there is no evidence of 2nd-round effects, but we cannot draw too much comfort from this; stands ready to adjust policy stance as the outlook changes",
+      "importance": 6.1,
+      "reasons": [
+        "Chair spoke",
+        "dove-lean speaker sounded hawkish"
+      ]
+    },
     {
       "published_at": "2026-07-16T08:00:00+00:00",
       "speaker": "Sarah Breeden",
@@ -489,52 +537,47 @@
       "reasons": [
         "cross-market extreme (|stance| = 2.5)"
       ]
-    },
-    {
-      "published_at": "2026-07-01T13:32:00+00:00",
-      "speaker": "Andrew Bailey",
-      "role": "chair",
-      "lean_prior": "dove",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": -1.5,
-      "phrase": "must be careful of getting tied into views and where rates must go",
-      "headline": "BoE Governor Bailey says he is cautious on forward guidance as it is easier to put it in place than to remove it, must be careful of getting tied into views and where rates must go",
-      "importance": 3.0,
-      "reasons": [
-        "Chair spoke"
-      ]
-    },
-    {
-      "published_at": "2026-07-01T13:09:00+00:00",
-      "speaker": "Andrew Bailey",
-      "role": "chair",
-      "lean_prior": "dove",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": -1.0,
-      "phrase": "we have a softening economy and labour market",
-      "headline": "BoE Governor Bailey says we have a softening economy and labour market and was the reason to not raise rates; focused on the risks of the pass-through of the energy crisis",
-      "importance": 4.0,
-      "reasons": [
-        "Chair spoke",
-        "dove-lean speaker sounded hawkish"
-      ]
     }
   ],
   "speakers": [
     {
-      "name": "Sarah Breeden",
+      "name": "Huw Pill",
+      "role": "chief_economist",
+      "voting_2026": true,
+      "lean_prior": "hawk",
+      "n_items": 1,
+      "mean_stance": 1.5,
+      "last_stance": 1.5,
+      "last_phrase": "raising Bank Rate would signal willingness and ability to address inflation upside risks",
+      "last_headline": "BoE Statement: Rates kept unchanged at 3.75%, as expected; vote split was 6-3 (exp. 7-2); Greene, Pill and Mann voted for a 25bps hike",
+      "last_published_at": "2026-07-30T11:00:00+00:00",
+      "last_event_type": "other"
+    },
+    {
+      "name": "Andrew Bailey",
+      "role": "chair",
+      "voting_2026": true,
+      "lean_prior": "dove",
+      "n_items": 4,
+      "mean_stance": -0.042,
+      "last_stance": -1.0,
+      "last_phrase": "if you come out of this thinking we are edging towards an insurance hike, you have misunderstood",
+      "last_headline": "BoE's Bailey (Q&A) says \"if you come out of this thinking we are edging towards an insurance hike, you have misunderstood\", paraphrasing Greenspan",
+      "last_published_at": "2026-07-30T12:51:00+00:00",
+      "last_event_type": "off-the-cuff"
+    },
+    {
+      "name": "Clare Lombardelli",
       "role": "vice_chair",
       "voting_2026": true,
       "lean_prior": "neutral",
       "n_items": 1,
-      "mean_stance": -2.0,
-      "last_stance": -2.0,
-      "last_phrase": "softish economic outlook; we have slack in the labour market",
-      "last_headline": "BoE's Breeden says it is important firms are stress testing AI valuations; Iran war shock is less likely to become embedded and lead to inflationary dynamics that members might need to lean against",
-      "last_published_at": "2026-07-16T08:00:00+00:00",
-      "last_event_type": "other"
+      "mean_stance": -1.0,
+      "last_stance": -1.0,
+      "last_phrase": "holding was the correct thing to do",
+      "last_headline": "BoE's Lombardelli (Q&A) says her vote in today's decision was not a close call, holding was the correct thing to do. Learnt more on the strength of UK disinflation.",
+      "last_published_at": "2026-07-30T12:22:00+00:00",
+      "last_event_type": "off-the-cuff"
     }
   ],
   "methodology": {
