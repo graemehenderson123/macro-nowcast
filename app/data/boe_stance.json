@@ -1,11 +1,11 @@
 {
   "cb": "boe",
-  "as_of": "2026-07-31T04:32:24.526227+00:00",
-  "commentary_score": -0.188,
+  "as_of": "2026-07-31T13:03:13.298927+00:00",
+  "commentary_score": -0.196,
   "label": "neutral",
-  "n_items_window": 11,
+  "n_items_window": 13,
   "commentary_window_days": 14,
-  "n_items_total": 233,
+  "n_items_total": 235,
   "history_90d": [
     {
       "date": "2026-05-03",
@@ -24,8 +24,8 @@
     },
     {
       "date": "2026-05-06",
-      "commentary_score": -0.314,
-      "n_items": 19
+      "commentary_score": -0.305,
+      "n_items": 18
     },
     {
       "date": "2026-05-07",
@@ -64,13 +64,13 @@
     },
     {
       "date": "2026-05-14",
-      "commentary_score": -0.482,
-      "n_items": 19
+      "commentary_score": -1.35,
+      "n_items": 3
     },
     {
       "date": "2026-05-15",
-      "commentary_score": 0.343,
-      "n_items": 3
+      "commentary_score": 0.257,
+      "n_items": 2
     },
     {
       "date": "2026-05-16",
@@ -84,8 +84,8 @@
     },
     {
       "date": "2026-05-18",
-      "commentary_score": -0.365,
-      "n_items": 3
+      "commentary_score": -0.493,
+      "n_items": 4
     },
     {
       "date": "2026-05-19",
@@ -99,8 +99,8 @@
     },
     {
       "date": "2026-05-21",
-      "commentary_score": -0.97,
-      "n_items": 9
+      "commentary_score": -1.023,
+      "n_items": 10
     },
     {
       "date": "2026-05-22",
@@ -134,13 +134,13 @@
     },
     {
       "date": "2026-05-28",
-      "commentary_score": -1.132,
-      "n_items": 11
+      "commentary_score": -0.971,
+      "n_items": 12
     },
     {
       "date": "2026-05-29",
-      "commentary_score": -1.111,
-      "n_items": 11
+      "commentary_score": -1.089,
+      "n_items": 12
     },
     {
       "date": "2026-05-30",
@@ -154,8 +154,8 @@
     },
     {
       "date": "2026-06-01",
-      "commentary_score": -0.925,
-      "n_items": 12
+      "commentary_score": -0.923,
+      "n_items": 11
     },
     {
       "date": "2026-06-02",
@@ -169,8 +169,8 @@
     },
     {
       "date": "2026-06-04",
-      "commentary_score": -0.274,
-      "n_items": 9
+      "commentary_score": -0.217,
+      "n_items": 8
     },
     {
       "date": "2026-06-05",
@@ -189,8 +189,8 @@
     },
     {
       "date": "2026-06-08",
-      "commentary_score": -0.043,
-      "n_items": 8
+      "commentary_score": -0.038,
+      "n_items": 9
     },
     {
       "date": "2026-06-09",
@@ -204,13 +204,13 @@
     },
     {
       "date": "2026-06-11",
-      "commentary_score": -0.038,
-      "n_items": 9
+      "commentary_score": -0.04,
+      "n_items": 8
     },
     {
       "date": "2026-06-12",
-      "commentary_score": -0.04,
-      "n_items": 8
+      "commentary_score": 0.071,
+      "n_items": 7
     },
     {
       "date": "2026-06-13",
@@ -239,8 +239,8 @@
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 0.0,
-      "n_items": 3
+      "commentary_score": 0.126,
+      "n_items": 10
     },
     {
       "date": "2026-06-19",
@@ -259,7 +259,7 @@
     },
     {
       "date": "2026-06-22",
-      "commentary_score": 0.131,
+      "commentary_score": 0.108,
       "n_items": 8
     },
     {
@@ -294,8 +294,8 @@
     },
     {
       "date": "2026-06-29",
-      "commentary_score": -0.155,
-      "n_items": 10
+      "commentary_score": -0.138,
+      "n_items": 11
     },
     {
       "date": "2026-06-30",
@@ -309,8 +309,8 @@
     },
     {
       "date": "2026-07-02",
-      "commentary_score": -0.469,
-      "n_items": 14
+      "commentary_score": -0.798,
+      "n_items": 7
     },
     {
       "date": "2026-07-03",
@@ -329,13 +329,13 @@
     },
     {
       "date": "2026-07-06",
-      "commentary_score": -0.205,
-      "n_items": 10
+      "commentary_score": -0.224,
+      "n_items": 9
     },
     {
       "date": "2026-07-07",
-      "commentary_score": -0.224,
-      "n_items": 9
+      "commentary_score": -0.119,
+      "n_items": 12
     },
     {
       "date": "2026-07-08",
@@ -364,13 +364,13 @@
     },
     {
       "date": "2026-07-13",
-      "commentary_score": 0.139,
-      "n_items": 11
+      "commentary_score": 0.144,
+      "n_items": 10
     },
     {
       "date": "2026-07-14",
-      "commentary_score": 0.144,
-      "n_items": 10
+      "commentary_score": 0.105,
+      "n_items": 11
     },
     {
       "date": "2026-07-15",
@@ -379,8 +379,8 @@
     },
     {
       "date": "2026-07-16",
-      "commentary_score": 0.317,
-      "n_items": 8
+      "commentary_score": -0.189,
+      "n_items": 9
     },
     {
       "date": "2026-07-17",
@@ -404,8 +404,8 @@
     },
     {
       "date": "2026-07-21",
-      "commentary_score": -0.356,
-      "n_items": 6
+      "commentary_score": -0.551,
+      "n_items": 3
     },
     {
       "date": "2026-07-22",
@@ -419,8 +419,8 @@
     },
     {
       "date": "2026-07-24",
-      "commentary_score": -0.919,
-      "n_items": 2
+      "commentary_score": -0.349,
+      "n_items": 3
     },
     {
       "date": "2026-07-25",
@@ -439,8 +439,8 @@
     },
     {
       "date": "2026-07-28",
-      "commentary_score": -0.349,
-      "n_items": 3
+      "commentary_score": -0.439,
+      "n_items": 2
     },
     {
       "date": "2026-07-29",
@@ -449,16 +449,31 @@
     },
     {
       "date": "2026-07-30",
-      "commentary_score": -0.439,
-      "n_items": 2
+      "commentary_score": -0.054,
+      "n_items": 10
     },
     {
       "date": "2026-07-31",
-      "commentary_score": -0.188,
-      "n_items": 11
+      "commentary_score": -0.196,
+      "n_items": 13
     }
   ],
   "key_comments": [
+    {
+      "published_at": "2026-07-31T11:44:00+00:00",
+      "speaker": "Huw Pill",
+      "role": "chief_economist",
+      "lean_prior": "hawk",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": -1.0,
+      "phrase": "not edging towards a hike",
+      "headline": "BoE Chief Economist Pill says MPC is not edging towards a hike",
+      "importance": 3.84,
+      "reasons": [
+        "hawk-lean speaker sounded dovish"
+      ]
+    },
     {
       "published_at": "2026-07-30T12:24:00+00:00",
       "speaker": "Andrew Bailey",
@@ -522,21 +537,6 @@
         "Vice Chair spoke",
         "notable move vs own recent tone"
       ]
-    },
-    {
-      "published_at": "2026-07-02T14:00:00+00:00",
-      "speaker": "Catherine Mann",
-      "role": "mpc_external",
-      "lean_prior": "hawk",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": 2.5,
-      "phrase": "prepared to tighten if the inflation outlook deteriorates",
-      "headline": "BoE's Mann: \"I am confident that if outturns \u2013 especially in expectations \u2013 are unfavorable to the underlying inflation process, an activist move can bring inflation expectations and outcomes toward the two percent targe",
-      "importance": 0.75,
-      "reasons": [
-        "cross-market extreme (|stance| = 2.5)"
-      ]
     }
   ],
   "speakers": [
@@ -545,13 +545,26 @@
       "role": "chief_economist",
       "voting_2026": true,
       "lean_prior": "hawk",
-      "n_items": 1,
-      "mean_stance": 1.5,
-      "last_stance": 1.5,
-      "last_phrase": "raising Bank Rate would signal willingness and ability to address inflation upside risks",
-      "last_headline": "BoE Statement: Rates kept unchanged at 3.75%, as expected; vote split was 6-3 (exp. 7-2); Greene, Pill and Mann voted for a 25bps hike",
-      "last_published_at": "2026-07-30T11:00:00+00:00",
+      "n_items": 2,
+      "mean_stance": 0.346,
+      "last_stance": -1.0,
+      "last_phrase": "not edging towards a hike",
+      "last_headline": "BoE Chief Economist Pill says MPC is not edging towards a hike",
+      "last_published_at": "2026-07-31T11:44:00+00:00",
       "last_event_type": "other"
+    },
+    {
+      "name": "BOE (institutional)",
+      "role": "institutional",
+      "voting_2026": true,
+      "lean_prior": "neutral",
+      "n_items": 1,
+      "mean_stance": 0.0,
+      "last_stance": 0.0,
+      "last_phrase": "",
+      "last_headline": "BoE July Market Participants Survey shows the median expectation for quantitative tightening remained at GBP 50bln between Oct 2026 and Sep 2027, unchanged from the June survey",
+      "last_published_at": "2026-07-31T11:01:00+00:00",
+      "last_event_type": "statement"
     },
     {
       "name": "Andrew Bailey",
