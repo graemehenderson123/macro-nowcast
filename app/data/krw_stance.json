@@ -1,17 +1,12 @@
 {
   "cb": "krw",
-  "as_of": "2026-07-31T13:03:14.052034+00:00",
-  "commentary_score": 3.105,
+  "as_of": "2026-08-01T04:32:14.241885+00:00",
+  "commentary_score": 3.208,
   "label": "hawkish",
-  "n_items_window": 7,
+  "n_items_window": 6,
   "commentary_window_days": 30,
   "n_items_total": 33,
   "history_90d": [
-    {
-      "date": "2026-05-03",
-      "commentary_score": -0.429,
-      "n_items": 2
-    },
     {
       "date": "2026-05-04",
       "commentary_score": -0.429,
@@ -456,6 +451,11 @@
       "date": "2026-07-31",
       "commentary_score": 3.105,
       "n_items": 7
+    },
+    {
+      "date": "2026-08-01",
+      "commentary_score": 3.208,
+      "n_items": 6
     }
   ],
   "key_comments": [
@@ -511,6 +511,19 @@
   ],
   "speakers": [
     {
+      "name": "KRW (institutional)",
+      "role": "institutional",
+      "voting_2026": true,
+      "lean_prior": "neutral",
+      "n_items": 3,
+      "mean_stance": 2.87,
+      "last_stance": 3.5,
+      "last_phrase": "necessary to maintain a tightening policy stance",
+      "last_headline": "BoK says necessary to be more cautious about risks related to house prices and household debt, adds inflation will exceed target in H2, adds will continue making market stabilising efforts and necessa",
+      "last_published_at": "2026-07-29T01:01:00+00:00",
+      "last_event_type": "statement"
+    },
+    {
       "name": "Shin Hyun Song",
       "role": "chair",
       "voting_2026": true,
@@ -522,19 +535,6 @@
       "last_headline": "BoK Governor Shin says most rational to maintain a tightening stance to control core inflation, adds timing and degree of policy response will depend on upcoming data and economic conditions",
       "last_published_at": "2026-07-29T03:38:00+00:00",
       "last_event_type": "other"
-    },
-    {
-      "name": "KRW (institutional)",
-      "role": "institutional",
-      "voting_2026": true,
-      "lean_prior": "neutral",
-      "n_items": 4,
-      "mean_stance": 2.069,
-      "last_stance": 3.5,
-      "last_phrase": "necessary to maintain a tightening policy stance",
-      "last_headline": "BoK says necessary to be more cautious about risks related to house prices and household debt, adds inflation will exceed target in H2, adds will continue making market stabilising efforts and necessa",
-      "last_published_at": "2026-07-29T01:01:00+00:00",
-      "last_event_type": "statement"
     }
   ],
   "methodology": {
