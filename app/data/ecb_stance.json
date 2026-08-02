@@ -1,17 +1,12 @@
 {
   "cb": "ecb",
-  "as_of": "2026-08-01T04:32:13.426948+00:00",
+  "as_of": "2026-08-02T04:31:53.145408+00:00",
   "commentary_score": -0.145,
   "label": "neutral",
   "n_items_window": 26,
   "commentary_window_days": 14,
   "n_items_total": 539,
   "history_90d": [
-    {
-      "date": "2026-05-04",
-      "commentary_score": 0.116,
-      "n_items": 19
-    },
     {
       "date": "2026-05-05",
       "commentary_score": 0.126,
@@ -456,9 +451,44 @@
       "date": "2026-08-01",
       "commentary_score": -0.145,
       "n_items": 26
+    },
+    {
+      "date": "2026-08-02",
+      "commentary_score": -0.145,
+      "n_items": 26
     }
   ],
   "key_comments": [
+    {
+      "published_at": "2026-07-23T13:27:00+00:00",
+      "speaker": "Christine Lagarde",
+      "role": "chair",
+      "lean_prior": "dove",
+      "voting_2026": true,
+      "event_type": "off-the-cuff",
+      "stance": -1.0,
+      "phrase": "longer-term inflation expectations are at target",
+      "headline": "ECB President Lagarde (Q&A) says ECB is concerned about the potential direct and indirect effects; reiterates that ECB does not see emergent second-round effects yet",
+      "importance": 3.0,
+      "reasons": [
+        "Chair spoke"
+      ]
+    },
+    {
+      "published_at": "2026-07-23T13:23:00+00:00",
+      "speaker": "Christine Lagarde",
+      "role": "chair",
+      "lean_prior": "dove",
+      "voting_2026": true,
+      "event_type": "off-the-cuff",
+      "stance": -1.0,
+      "phrase": "mild scenario in the June projections is now unlikely",
+      "headline": "ECB President Lagarde (Q&A) says the mild scenario in the June projections is now unlikely",
+      "importance": 3.0,
+      "reasons": [
+        "Chair spoke"
+      ]
+    },
     {
       "published_at": "2026-07-23T12:15:00+00:00",
       "speaker": "ECB (institutional)",
@@ -502,38 +532,6 @@
       "importance": 2.06,
       "reasons": [
         "hawk-lean speaker sounded dovish"
-      ]
-    },
-    {
-      "published_at": "2026-07-02T21:08:00+00:00",
-      "speaker": "Christine Lagarde",
-      "role": "chair",
-      "lean_prior": "dove",
-      "voting_2026": true,
-      "event_type": "off-the-cuff",
-      "stance": 1.5,
-      "phrase": "confident that they made the right choice regarding the June rate hike",
-      "headline": "ECB published interview with Lagarde by Les Echos conducted on June 24th, which stated that they are are confident that they made the right choice regarding the June rate hike",
-      "importance": 5.64,
-      "reasons": [
-        "Chair spoke",
-        "dove-lean speaker sounded hawkish"
-      ]
-    },
-    {
-      "published_at": "2026-07-02T16:40:00+00:00",
-      "speaker": "Christine Lagarde",
-      "role": "chair",
-      "lean_prior": "dove",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": 1.5,
-      "phrase": "certain the ECB made the right decision raising rates in June",
-      "headline": "ECB President Lagarde says she is certain the ECB made the right decision raising rates in June",
-      "importance": 5.64,
-      "reasons": [
-        "Chair spoke",
-        "dove-lean speaker sounded hawkish"
       ]
     }
   ],
