@@ -1,17 +1,12 @@
 {
   "cb": "ecb",
-  "as_of": "2026-08-02T04:31:53.145408+00:00",
+  "as_of": "2026-08-03T04:31:36.324382+00:00",
   "commentary_score": -0.145,
   "label": "neutral",
   "n_items_window": 26,
   "commentary_window_days": 14,
   "n_items_total": 539,
   "history_90d": [
-    {
-      "date": "2026-05-05",
-      "commentary_score": 0.126,
-      "n_items": 24
-    },
     {
       "date": "2026-05-06",
       "commentary_score": 0.08,
@@ -456,9 +451,29 @@
       "date": "2026-08-02",
       "commentary_score": -0.145,
       "n_items": 26
+    },
+    {
+      "date": "2026-08-03",
+      "commentary_score": -0.145,
+      "n_items": 26
     }
   ],
   "key_comments": [
+    {
+      "published_at": "2026-07-27T08:00:00+00:00",
+      "speaker": "Peter Kazimir",
+      "role": "regional_president",
+      "lean_prior": "hawk",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": 3.0,
+      "phrase": "at least one more hike needed as part of measured adjustment to inflation risks",
+      "headline": "ECB\u2019s Kazimir says second round effects are costly to reverse, ECB must act before they are visible; at least one more hike needed as part of measured adjustment to inflation risks",
+      "importance": 1.5,
+      "reasons": [
+        "cross-market extreme (|stance| = 3.0)"
+      ]
+    },
     {
       "published_at": "2026-07-23T13:27:00+00:00",
       "speaker": "Christine Lagarde",
@@ -515,21 +530,6 @@
       "phrase": "Cannot simply look through the shock.",
       "headline": "ECB's Schnabel says not in a pre-war situation even after fall in oil prices",
       "importance": 4.36,
-      "reasons": [
-        "hawk-lean speaker sounded dovish"
-      ]
-    },
-    {
-      "published_at": "2026-07-03T15:49:00+00:00",
-      "speaker": "Joachim Nagel",
-      "role": "regional_president",
-      "lean_prior": "hawk",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": -1.5,
-      "phrase": "The ECB should be vigilant and keep optionality.",
-      "headline": "ECB's Nagel says Germany took a very important step forward on reforms",
-      "importance": 2.06,
       "reasons": [
         "hawk-lean speaker sounded dovish"
       ]
