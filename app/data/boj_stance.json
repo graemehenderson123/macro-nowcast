@@ -1,11 +1,11 @@
 {
   "cb": "boj",
-  "as_of": "2026-08-04T04:33:18.124729+00:00",
-  "commentary_score": 1.102,
+  "as_of": "2026-08-04T13:03:20.861360+00:00",
+  "commentary_score": 1.27,
   "label": "lean hawkish",
-  "n_items_window": 8,
+  "n_items_window": 9,
   "commentary_window_days": 30,
-  "n_items_total": 181,
+  "n_items_total": 182,
   "history_90d": [
     {
       "date": "2026-05-07",
@@ -19,8 +19,8 @@
     },
     {
       "date": "2026-05-09",
-      "commentary_score": 0.255,
-      "n_items": 14
+      "commentary_score": 0.277,
+      "n_items": 13
     },
     {
       "date": "2026-05-10",
@@ -34,13 +34,13 @@
     },
     {
       "date": "2026-05-12",
-      "commentary_score": 0.881,
-      "n_items": 13
+      "commentary_score": 0.647,
+      "n_items": 14
     },
     {
       "date": "2026-05-13",
-      "commentary_score": 0.647,
-      "n_items": 14
+      "commentary_score": 0.645,
+      "n_items": 13
     },
     {
       "date": "2026-05-14",
@@ -79,8 +79,8 @@
     },
     {
       "date": "2026-05-21",
-      "commentary_score": 1.472,
-      "n_items": 15
+      "commentary_score": 1.421,
+      "n_items": 16
     },
     {
       "date": "2026-05-22",
@@ -114,8 +114,8 @@
     },
     {
       "date": "2026-05-28",
-      "commentary_score": 1.551,
-      "n_items": 17
+      "commentary_score": 1.702,
+      "n_items": 11
     },
     {
       "date": "2026-05-29",
@@ -124,8 +124,8 @@
     },
     {
       "date": "2026-05-30",
-      "commentary_score": 1.702,
-      "n_items": 11
+      "commentary_score": 1.719,
+      "n_items": 10
     },
     {
       "date": "2026-05-31",
@@ -144,8 +144,8 @@
     },
     {
       "date": "2026-06-03",
-      "commentary_score": 0.477,
-      "n_items": 11
+      "commentary_score": 0.702,
+      "n_items": 12
     },
     {
       "date": "2026-06-04",
@@ -169,8 +169,8 @@
     },
     {
       "date": "2026-06-08",
-      "commentary_score": 0.695,
-      "n_items": 11
+      "commentary_score": 0.457,
+      "n_items": 12
     },
     {
       "date": "2026-06-09",
@@ -179,13 +179,13 @@
     },
     {
       "date": "2026-06-10",
-      "commentary_score": 0.457,
-      "n_items": 12
+      "commentary_score": 0.746,
+      "n_items": 14
     },
     {
       "date": "2026-06-11",
-      "commentary_score": 0.643,
-      "n_items": 14
+      "commentary_score": 0.653,
+      "n_items": 13
     },
     {
       "date": "2026-06-12",
@@ -209,8 +209,8 @@
     },
     {
       "date": "2026-06-16",
-      "commentary_score": 0.947,
-      "n_items": 14
+      "commentary_score": 0.966,
+      "n_items": 16
     },
     {
       "date": "2026-06-17",
@@ -219,18 +219,18 @@
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 0.887,
-      "n_items": 17
+      "commentary_score": 0.451,
+      "n_items": 18
     },
     {
       "date": "2026-06-19",
-      "commentary_score": 0.473,
-      "n_items": 19
+      "commentary_score": 0.44,
+      "n_items": 20
     },
     {
       "date": "2026-06-20",
-      "commentary_score": 0.43,
-      "n_items": 19
+      "commentary_score": 0.429,
+      "n_items": 18
     },
     {
       "date": "2026-06-21",
@@ -249,13 +249,13 @@
     },
     {
       "date": "2026-06-24",
-      "commentary_score": 0.144,
-      "n_items": 21
+      "commentary_score": 0.039,
+      "n_items": 22
     },
     {
       "date": "2026-06-25",
-      "commentary_score": 0.241,
-      "n_items": 22
+      "commentary_score": 0.365,
+      "n_items": 23
     },
     {
       "date": "2026-06-26",
@@ -294,8 +294,8 @@
     },
     {
       "date": "2026-07-03",
-      "commentary_score": 0.383,
-      "n_items": 20
+      "commentary_score": 0.369,
+      "n_items": 19
     },
     {
       "date": "2026-07-04",
@@ -319,8 +319,8 @@
     },
     {
       "date": "2026-07-08",
-      "commentary_score": -0.551,
-      "n_items": 21
+      "commentary_score": -0.561,
+      "n_items": 20
     },
     {
       "date": "2026-07-09",
@@ -329,8 +329,8 @@
     },
     {
       "date": "2026-07-10",
-      "commentary_score": -0.561,
-      "n_items": 20
+      "commentary_score": -0.638,
+      "n_items": 18
     },
     {
       "date": "2026-07-11",
@@ -359,23 +359,23 @@
     },
     {
       "date": "2026-07-16",
-      "commentary_score": -0.512,
-      "n_items": 16
-    },
-    {
-      "date": "2026-07-17",
       "commentary_score": -0.609,
       "n_items": 14
     },
     {
+      "date": "2026-07-17",
+      "commentary_score": -0.298,
+      "n_items": 15
+    },
+    {
       "date": "2026-07-18",
-      "commentary_score": -0.301,
-      "n_items": 14
+      "commentary_score": -0.274,
+      "n_items": 13
     },
     {
       "date": "2026-07-19",
-      "commentary_score": -0.302,
-      "n_items": 11
+      "commentary_score": -0.306,
+      "n_items": 10
     },
     {
       "date": "2026-07-20",
@@ -399,13 +399,13 @@
     },
     {
       "date": "2026-07-24",
-      "commentary_score": -0.283,
-      "n_items": 7
+      "commentary_score": -0.265,
+      "n_items": 6
     },
     {
       "date": "2026-07-25",
-      "commentary_score": -0.338,
-      "n_items": 5
+      "commentary_score": -0.394,
+      "n_items": 4
     },
     {
       "date": "2026-07-26",
@@ -434,8 +434,8 @@
     },
     {
       "date": "2026-07-31",
-      "commentary_score": 0.471,
-      "n_items": 5
+      "commentary_score": 1.262,
+      "n_items": 7
     },
     {
       "date": "2026-08-01",
@@ -454,11 +454,27 @@
     },
     {
       "date": "2026-08-04",
-      "commentary_score": 1.102,
-      "n_items": 8
+      "commentary_score": 1.27,
+      "n_items": 9
     }
   ],
   "key_comments": [
+    {
+      "published_at": "2026-08-04T06:33:00+00:00",
+      "speaker": "BOJ (institutional)",
+      "role": "institutional",
+      "lean_prior": "neutral",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": 2.0,
+      "phrase": "reducing its JGB purchases",
+      "headline": "BoJ Research paper says the functioning of the JGB markets has been steadily improving as the Bank makes progress in reducing its JGB purchases, with long-term interest rates being formed more freely in the financial mar",
+      "importance": 3.0,
+      "reasons": [
+        "official CB statement (stance +2.00)",
+        "strong policy signal (|stance| = 2.0)"
+      ]
+    },
     {
       "published_at": "2026-07-31T06:32:00+00:00",
       "speaker": "Kazuo Ueda",
@@ -520,6 +536,19 @@
       "last_event_type": "other"
     },
     {
+      "name": "BOJ (institutional)",
+      "role": "institutional",
+      "voting_2026": true,
+      "lean_prior": "neutral",
+      "n_items": 2,
+      "mean_stance": 0.933,
+      "last_stance": 2.0,
+      "last_phrase": "reducing its JGB purchases",
+      "last_headline": "BoJ Research paper says the functioning of the JGB markets has been steadily improving as the Bank makes progress in reducing its JGB purchases, with long-term interest rates being formed more freely ",
+      "last_published_at": "2026-08-04T06:33:00+00:00",
+      "last_event_type": "other"
+    },
+    {
       "name": "Ryozo Himino",
       "role": "vice_chair",
       "voting_2026": true,
@@ -531,19 +560,6 @@
       "last_headline": "BoJ Deputy Governor Himino says bond buying decision is separate from monetary policy",
       "last_published_at": "2026-07-14T02:59:00+00:00",
       "last_event_type": "other"
-    },
-    {
-      "name": "BOJ (institutional)",
-      "role": "institutional",
-      "voting_2026": true,
-      "lean_prior": "neutral",
-      "n_items": 1,
-      "mean_stance": 0.0,
-      "last_stance": 0.0,
-      "last_phrase": "BoJ is to keep rates unchanged",
-      "last_headline": "BoJ is to keep rates unchanged at its July meeting, according to Kyodo",
-      "last_published_at": "2026-07-17T08:27:00+00:00",
-      "last_event_type": "statement"
     },
     {
       "name": "Toichiro Asada",

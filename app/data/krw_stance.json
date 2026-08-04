@@ -1,11 +1,11 @@
 {
   "cb": "krw",
-  "as_of": "2026-08-04T04:33:18.785557+00:00",
-  "commentary_score": 3.208,
+  "as_of": "2026-08-04T13:03:21.542132+00:00",
+  "commentary_score": 2.867,
   "label": "hawkish",
-  "n_items_window": 6,
+  "n_items_window": 7,
   "commentary_window_days": 30,
-  "n_items_total": 33,
+  "n_items_total": 34,
   "history_90d": [
     {
       "date": "2026-05-07",
@@ -454,8 +454,8 @@
     },
     {
       "date": "2026-08-04",
-      "commentary_score": 3.208,
-      "n_items": 6
+      "commentary_score": 2.867,
+      "n_items": 7
     }
   ],
   "key_comments": [
@@ -515,13 +515,13 @@
       "role": "institutional",
       "voting_2026": true,
       "lean_prior": "neutral",
-      "n_items": 3,
-      "mean_stance": 2.87,
-      "last_stance": 3.5,
-      "last_phrase": "necessary to maintain a tightening policy stance",
-      "last_headline": "BoK says necessary to be more cautious about risks related to house prices and household debt, adds inflation will exceed target in H2, adds will continue making market stabilising efforts and necessa",
-      "last_published_at": "2026-07-29T01:01:00+00:00",
-      "last_event_type": "statement"
+      "n_items": 4,
+      "mean_stance": 2.667,
+      "last_stance": 2.0,
+      "last_phrase": "timing and pace of any further rate hikes should be determined with primary emphasis on inflation",
+      "last_headline": "BoK Minutes states that one member said timing and pace of any further rate hikes should be determined with primary emphasis on inflation",
+      "last_published_at": "2026-08-04T07:05:00+00:00",
+      "last_event_type": "other"
     },
     {
       "name": "Shin Hyun Song",
