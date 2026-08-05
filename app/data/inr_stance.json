@@ -1,11 +1,11 @@
 {
   "cb": "inr",
-  "as_of": "2026-08-05T04:32:25.117693+00:00",
-  "commentary_score": 0.0,
-  "label": "neutral",
-  "n_items_window": 0,
+  "as_of": "2026-08-05T13:01:59.511637+00:00",
+  "commentary_score": -1.0,
+  "label": "lean dovish",
+  "n_items_window": 1,
   "commentary_window_days": 30,
-  "n_items_total": 19,
+  "n_items_total": 20,
   "history_90d": [
     {
       "date": "2026-05-08",
@@ -149,8 +149,8 @@
     },
     {
       "date": "2026-06-05",
-      "commentary_score": -1.0,
-      "n_items": 1
+      "commentary_score": -0.581,
+      "n_items": 2
     },
     {
       "date": "2026-06-06",
@@ -300,7 +300,7 @@
     {
       "date": "2026-07-05",
       "commentary_score": 0.0,
-      "n_items": 1
+      "n_items": 0
     },
     {
       "date": "2026-07-06",
@@ -454,12 +454,43 @@
     },
     {
       "date": "2026-08-05",
-      "commentary_score": 0.0,
-      "n_items": 0
+      "commentary_score": -1.0,
+      "n_items": 1
     }
   ],
-  "key_comments": [],
-  "speakers": [],
+  "key_comments": [
+    {
+      "published_at": "2026-08-05T04:32:00+00:00",
+      "speaker": "Sanjay Malhotra",
+      "role": "chair",
+      "lean_prior": "dove",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": -1.0,
+      "phrase": "policy stance is kept at neutral",
+      "headline": "RBI keeps Repurchase Rate unchanged at 5.25%, as expected, via unanimous decision, while policy stance is kept at neutral",
+      "importance": 4.0,
+      "reasons": [
+        "Chair spoke",
+        "dove-lean speaker sounded hawkish"
+      ]
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Sanjay Malhotra",
+      "role": "chair",
+      "voting_2026": true,
+      "lean_prior": "dove",
+      "n_items": 1,
+      "mean_stance": -1.0,
+      "last_stance": -1.0,
+      "last_phrase": "policy stance is kept at neutral",
+      "last_headline": "RBI keeps Repurchase Rate unchanged at 5.25%, as expected, via unanimous decision, while policy stance is kept at neutral",
+      "last_published_at": "2026-08-05T04:32:00+00:00",
+      "last_event_type": "other"
+    }
+  ],
   "methodology": {
     "commentary_window_days": 30,
     "commentary_window_days_default": 14,

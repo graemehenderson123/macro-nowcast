@@ -1,6 +1,6 @@
 {
   "cb": "norges",
-  "as_of": "2026-08-05T04:32:24.754272+00:00",
+  "as_of": "2026-08-05T13:01:59.116231+00:00",
   "commentary_score": 0.0,
   "label": "neutral",
   "n_items_window": 0,
@@ -9,8 +9,8 @@
   "history_90d": [
     {
       "date": "2026-05-08",
-      "commentary_score": 1.854,
-      "n_items": 3
+      "commentary_score": 0.938,
+      "n_items": 4
     },
     {
       "date": "2026-05-09",
@@ -44,8 +44,8 @@
     },
     {
       "date": "2026-05-15",
-      "commentary_score": 0.938,
-      "n_items": 4
+      "commentary_score": 0.936,
+      "n_items": 3
     },
     {
       "date": "2026-05-16",
@@ -154,13 +154,13 @@
     },
     {
       "date": "2026-06-06",
-      "commentary_score": 0.936,
-      "n_items": 3
+      "commentary_score": -1.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-07",
-      "commentary_score": -1.5,
-      "n_items": 1
+      "commentary_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-06-08",
@@ -214,8 +214,8 @@
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 0.0,
-      "n_items": 0
+      "commentary_score": 3.5,
+      "n_items": 1
     },
     {
       "date": "2026-06-19",
@@ -364,8 +364,8 @@
     },
     {
       "date": "2026-07-18",
-      "commentary_score": 3.5,
-      "n_items": 1
+      "commentary_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-07-19",
