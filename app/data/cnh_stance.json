@@ -1,17 +1,12 @@
 {
   "cb": "cnh",
-  "as_of": "2026-08-05T13:01:59.195149+00:00",
-  "commentary_score": -1.5,
-  "label": "lean dovish",
-  "n_items_window": 1,
+  "as_of": "2026-08-06T04:32:21.419402+00:00",
+  "commentary_score": 0.0,
+  "label": "neutral",
+  "n_items_window": 0,
   "commentary_window_days": 30,
   "n_items_total": 6,
   "history_90d": [
-    {
-      "date": "2026-05-08",
-      "commentary_score": 0.0,
-      "n_items": 0
-    },
     {
       "date": "2026-05-09",
       "commentary_score": 0.0,
@@ -456,40 +451,15 @@
       "date": "2026-08-05",
       "commentary_score": -1.5,
       "n_items": 1
-    }
-  ],
-  "key_comments": [
+    },
     {
-      "published_at": "2026-07-07T01:14:00+00:00",
-      "speaker": "Pan Gongsheng",
-      "role": "chair",
-      "lean_prior": "dove",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": -1.5,
-      "phrase": "monetary policy maintains a supportive stance",
-      "headline": "PBoC Governor Pan says monetary policy maintains a supportive stance, will be increasing the southbound bond connect quota to CNY 800bln from CNY 500bln",
-      "importance": 3.0,
-      "reasons": [
-        "Chair spoke"
-      ]
+      "date": "2026-08-06",
+      "commentary_score": 0.0,
+      "n_items": 0
     }
   ],
-  "speakers": [
-    {
-      "name": "Pan Gongsheng",
-      "role": "chair",
-      "voting_2026": true,
-      "lean_prior": "dove",
-      "n_items": 1,
-      "mean_stance": -1.5,
-      "last_stance": -1.5,
-      "last_phrase": "monetary policy maintains a supportive stance",
-      "last_headline": "PBoC Governor Pan says monetary policy maintains a supportive stance, will be increasing the southbound bond connect quota to CNY 800bln from CNY 500bln",
-      "last_published_at": "2026-07-07T01:14:00+00:00",
-      "last_event_type": "other"
-    }
-  ],
+  "key_comments": [],
+  "speakers": [],
   "methodology": {
     "commentary_window_days": 30,
     "commentary_window_days_default": 14,
