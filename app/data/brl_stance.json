@@ -1,17 +1,12 @@
 {
   "cb": "brl",
-  "as_of": "2026-08-06T13:01:46.896644+00:00",
-  "commentary_score": 0.0,
-  "label": "neutral",
-  "n_items_window": 1,
+  "as_of": "2026-08-07T04:35:15.942810+00:00",
+  "commentary_score": -2.011,
+  "label": "dovish",
+  "n_items_window": 2,
   "commentary_window_days": 30,
-  "n_items_total": 46,
+  "n_items_total": 47,
   "history_90d": [
-    {
-      "date": "2026-05-09",
-      "commentary_score": -1.935,
-      "n_items": 4
-    },
     {
       "date": "2026-05-10",
       "commentary_score": -1.935,
@@ -29,8 +24,8 @@
     },
     {
       "date": "2026-05-13",
-      "commentary_score": -1.036,
-      "n_items": 5
+      "commentary_score": -1.935,
+      "n_items": 4
     },
     {
       "date": "2026-05-14",
@@ -54,18 +49,18 @@
     },
     {
       "date": "2026-05-18",
+      "commentary_score": -0.968,
+      "n_items": 3
+    },
+    {
+      "date": "2026-05-19",
       "commentary_score": -0.384,
       "n_items": 4
     },
     {
-      "date": "2026-05-19",
-      "commentary_score": 0.769,
-      "n_items": 5
-    },
-    {
       "date": "2026-05-20",
-      "commentary_score": 0.131,
-      "n_items": 6
+      "commentary_score": 0.13,
+      "n_items": 7
     },
     {
       "date": "2026-05-21",
@@ -159,8 +154,8 @@
     },
     {
       "date": "2026-06-08",
-      "commentary_score": 0.101,
-      "n_items": 6
+      "commentary_score": 0.284,
+      "n_items": 5
     },
     {
       "date": "2026-06-09",
@@ -179,8 +174,8 @@
     },
     {
       "date": "2026-06-12",
-      "commentary_score": 0.103,
-      "n_items": 5
+      "commentary_score": 0.101,
+      "n_items": 6
     },
     {
       "date": "2026-06-13",
@@ -194,8 +189,8 @@
     },
     {
       "date": "2026-06-15",
-      "commentary_score": 0.044,
-      "n_items": 6
+      "commentary_score": 0.103,
+      "n_items": 5
     },
     {
       "date": "2026-06-16",
@@ -204,13 +199,13 @@
     },
     {
       "date": "2026-06-17",
-      "commentary_score": 0.046,
-      "n_items": 5
+      "commentary_score": 0.044,
+      "n_items": 6
     },
     {
       "date": "2026-06-18",
-      "commentary_score": -1.435,
-      "n_items": 5
+      "commentary_score": -1.346,
+      "n_items": 6
     },
     {
       "date": "2026-06-19",
@@ -234,8 +229,8 @@
     },
     {
       "date": "2026-06-23",
-      "commentary_score": -0.07,
-      "n_items": 4
+      "commentary_score": -1.44,
+      "n_items": 3
     },
     {
       "date": "2026-06-24",
@@ -244,8 +239,8 @@
     },
     {
       "date": "2026-06-25",
-      "commentary_score": -0.05,
-      "n_items": 5
+      "commentary_score": -0.07,
+      "n_items": 4
     },
     {
       "date": "2026-06-26",
@@ -309,8 +304,8 @@
     },
     {
       "date": "2026-07-08",
-      "commentary_score": -0.045,
-      "n_items": 5
+      "commentary_score": -0.043,
+      "n_items": 6
     },
     {
       "date": "2026-07-09",
@@ -344,8 +339,8 @@
     },
     {
       "date": "2026-07-15",
-      "commentary_score": -0.05,
-      "n_items": 4
+      "commentary_score": -0.045,
+      "n_items": 5
     },
     {
       "date": "2026-07-16",
@@ -384,8 +379,8 @@
     },
     {
       "date": "2026-07-23",
-      "commentary_score": 0.0,
-      "n_items": 2
+      "commentary_score": 0.635,
+      "n_items": 3
     },
     {
       "date": "2026-07-24",
@@ -395,7 +390,7 @@
     {
       "date": "2026-07-25",
       "commentary_score": 0.0,
-      "n_items": 1
+      "n_items": 2
     },
     {
       "date": "2026-07-26",
@@ -440,7 +435,7 @@
     {
       "date": "2026-08-03",
       "commentary_score": 0.0,
-      "n_items": 1
+      "n_items": 0
     },
     {
       "date": "2026-08-04",
@@ -454,12 +449,48 @@
     },
     {
       "date": "2026-08-06",
-      "commentary_score": 0.0,
-      "n_items": 1
+      "commentary_score": -2.011,
+      "n_items": 2
+    },
+    {
+      "date": "2026-08-07",
+      "commentary_score": -2.011,
+      "n_items": 2
     }
   ],
-  "key_comments": [],
-  "speakers": [],
+  "key_comments": [
+    {
+      "published_at": "2026-08-05T21:34:00+00:00",
+      "speaker": "BRL (institutional)",
+      "role": "institutional",
+      "lean_prior": "neutral",
+      "voting_2026": true,
+      "event_type": "statement",
+      "stance": -3.0,
+      "phrase": "Brazil Central Bank cuts Selic Rate by 25bps to 14.00%",
+      "headline": "Brazil Central Bank cuts Selic Rate by 25bps to 14.00%, as expected, reaffirms serenity and cautiousness in conducting monetary policy",
+      "importance": 4.5,
+      "reasons": [
+        "official CB statement (stance -3.00)",
+        "strong policy signal (|stance| = 3.0)"
+      ]
+    }
+  ],
+  "speakers": [
+    {
+      "name": "BRL (institutional)",
+      "role": "institutional",
+      "voting_2026": true,
+      "lean_prior": "neutral",
+      "n_items": 1,
+      "mean_stance": -3.0,
+      "last_stance": -3.0,
+      "last_phrase": "Brazil Central Bank cuts Selic Rate by 25bps to 14.00%",
+      "last_headline": "Brazil Central Bank cuts Selic Rate by 25bps to 14.00%, as expected, reaffirms serenity and cautiousness in conducting monetary policy",
+      "last_published_at": "2026-08-05T21:34:00+00:00",
+      "last_event_type": "statement"
+    }
+  ],
   "methodology": {
     "commentary_window_days": 30,
     "commentary_window_days_default": 14,

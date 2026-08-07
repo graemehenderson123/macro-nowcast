@@ -1,17 +1,12 @@
 {
   "cb": "rba",
-  "as_of": "2026-08-06T13:01:44.092828+00:00",
+  "as_of": "2026-08-07T04:35:14.645406+00:00",
   "commentary_score": 1.5,
   "label": "lean hawkish",
-  "n_items_window": 2,
+  "n_items_window": 1,
   "commentary_window_days": 30,
   "n_items_total": 48,
   "history_90d": [
-    {
-      "date": "2026-05-09",
-      "commentary_score": 0.0,
-      "n_items": 1
-    },
     {
       "date": "2026-05-10",
       "commentary_score": 0.0,
@@ -139,8 +134,8 @@
     },
     {
       "date": "2026-06-04",
-      "commentary_score": 1.542,
-      "n_items": 6
+      "commentary_score": 2.248,
+      "n_items": 3
     },
     {
       "date": "2026-06-05",
@@ -199,8 +194,8 @@
     },
     {
       "date": "2026-06-16",
-      "commentary_score": 2.529,
-      "n_items": 8
+      "commentary_score": 2.821,
+      "n_items": 7
     },
     {
       "date": "2026-06-17",
@@ -289,8 +284,8 @@
     },
     {
       "date": "2026-07-04",
-      "commentary_score": 3.005,
-      "n_items": 4
+      "commentary_score": 2.901,
+      "n_items": 7
     },
     {
       "date": "2026-07-05",
@@ -349,8 +344,8 @@
     },
     {
       "date": "2026-07-16",
-      "commentary_score": 2.427,
-      "n_items": 3
+      "commentary_score": 2.377,
+      "n_items": 4
     },
     {
       "date": "2026-07-17",
@@ -456,6 +451,11 @@
       "date": "2026-08-06",
       "commentary_score": 1.5,
       "n_items": 2
+    },
+    {
+      "date": "2026-08-07",
+      "commentary_score": 1.5,
+      "n_items": 1
     }
   ],
   "key_comments": [
@@ -473,38 +473,9 @@
       "reasons": [
         "Chair spoke"
       ]
-    },
-    {
-      "published_at": "2026-07-08T01:02:00+00:00",
-      "speaker": "Sarah Hunter",
-      "role": "vice_chair",
-      "lean_prior": "neutral",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": 1.5,
-      "phrase": "Monetary policy can potentially limit the indirect and second-round effects.",
-      "headline": "RBA Assistant Governor Hunter says the Board will act as needed to ensure inflation returns to target and the labour market to sustainable full employment",
-      "importance": 4.5,
-      "reasons": [
-        "Vice Chair spoke",
-        "notable move vs own recent tone"
-      ]
     }
   ],
   "speakers": [
-    {
-      "name": "Sarah Hunter",
-      "role": "vice_chair",
-      "voting_2026": true,
-      "lean_prior": "neutral",
-      "n_items": 1,
-      "mean_stance": 1.5,
-      "last_stance": 1.5,
-      "last_phrase": "Monetary policy can potentially limit the indirect and second-round effects.",
-      "last_headline": "RBA Assistant Governor Hunter says the Board will act as needed to ensure inflation returns to target and the labour market to sustainable full employment",
-      "last_published_at": "2026-07-08T01:02:00+00:00",
-      "last_event_type": "other"
-    },
     {
       "name": "Michele Bullock",
       "role": "chair",
