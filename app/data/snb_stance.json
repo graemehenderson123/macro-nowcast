@@ -1,17 +1,12 @@
 {
   "cb": "snb",
-  "as_of": "2026-08-07T13:02:32.586811+00:00",
-  "commentary_score": -1.711,
+  "as_of": "2026-08-08T04:32:30.261628+00:00",
+  "commentary_score": -1.5,
   "label": "lean dovish",
-  "n_items_window": 3,
+  "n_items_window": 1,
   "commentary_window_days": 30,
   "n_items_total": 53,
   "history_90d": [
-    {
-      "date": "2026-05-10",
-      "commentary_score": -1.243,
-      "n_items": 7
-    },
     {
       "date": "2026-05-11",
       "commentary_score": -1.243,
@@ -34,13 +29,13 @@
     },
     {
       "date": "2026-05-15",
-      "commentary_score": -1.34,
-      "n_items": 6
+      "commentary_score": -1.243,
+      "n_items": 7
     },
     {
       "date": "2026-05-16",
-      "commentary_score": -1.318,
-      "n_items": 5
+      "commentary_score": -1.34,
+      "n_items": 6
     },
     {
       "date": "2026-05-17",
@@ -79,8 +74,8 @@
     },
     {
       "date": "2026-05-24",
-      "commentary_score": -1.5,
-      "n_items": 2
+      "commentary_score": -1.469,
+      "n_items": 4
     },
     {
       "date": "2026-05-25",
@@ -94,13 +89,13 @@
     },
     {
       "date": "2026-05-27",
-      "commentary_score": -0.957,
-      "n_items": 3
+      "commentary_score": -1.5,
+      "n_items": 2
     },
     {
       "date": "2026-05-28",
-      "commentary_score": -0.682,
-      "n_items": 4
+      "commentary_score": -0.957,
+      "n_items": 3
     },
     {
       "date": "2026-05-29",
@@ -124,13 +119,13 @@
     },
     {
       "date": "2026-06-02",
-      "commentary_score": -1.153,
-      "n_items": 5
+      "commentary_score": -0.682,
+      "n_items": 4
     },
     {
       "date": "2026-06-03",
-      "commentary_score": -1.243,
-      "n_items": 6
+      "commentary_score": -1.153,
+      "n_items": 5
     },
     {
       "date": "2026-06-04",
@@ -204,8 +199,8 @@
     },
     {
       "date": "2026-06-18",
-      "commentary_score": -1.296,
-      "n_items": 9
+      "commentary_score": -1.241,
+      "n_items": 5
     },
     {
       "date": "2026-06-19",
@@ -234,8 +229,8 @@
     },
     {
       "date": "2026-06-24",
-      "commentary_score": -0.946,
-      "n_items": 10
+      "commentary_score": -1.291,
+      "n_items": 8
     },
     {
       "date": "2026-06-25",
@@ -244,13 +239,13 @@
     },
     {
       "date": "2026-06-26",
-      "commentary_score": -0.957,
-      "n_items": 9
+      "commentary_score": -0.946,
+      "n_items": 10
     },
     {
       "date": "2026-06-27",
-      "commentary_score": -0.969,
-      "n_items": 8
+      "commentary_score": -0.957,
+      "n_items": 9
     },
     {
       "date": "2026-06-28",
@@ -274,13 +269,13 @@
     },
     {
       "date": "2026-07-02",
-      "commentary_score": -0.935,
-      "n_items": 7
+      "commentary_score": -0.969,
+      "n_items": 8
     },
     {
       "date": "2026-07-03",
-      "commentary_score": -0.912,
-      "n_items": 6
+      "commentary_score": -0.935,
+      "n_items": 7
     },
     {
       "date": "2026-07-04",
@@ -344,8 +339,8 @@
     },
     {
       "date": "2026-07-16",
-      "commentary_score": -1.62,
-      "n_items": 9
+      "commentary_score": -1.746,
+      "n_items": 8
     },
     {
       "date": "2026-07-17",
@@ -354,8 +349,8 @@
     },
     {
       "date": "2026-07-18",
-      "commentary_score": -1.647,
-      "n_items": 5
+      "commentary_score": -1.62,
+      "n_items": 9
     },
     {
       "date": "2026-07-19",
@@ -384,8 +379,8 @@
     },
     {
       "date": "2026-07-24",
-      "commentary_score": -1.711,
-      "n_items": 3
+      "commentary_score": -1.647,
+      "n_items": 5
     },
     {
       "date": "2026-07-25",
@@ -456,38 +451,27 @@
       "date": "2026-08-07",
       "commentary_score": -1.711,
       "n_items": 3
+    },
+    {
+      "date": "2026-08-08",
+      "commentary_score": -1.5,
+      "n_items": 1
     }
   ],
   "key_comments": [
     {
-      "published_at": "2026-07-08T17:22:00+00:00",
+      "published_at": "2026-07-16T07:31:00+00:00",
       "speaker": "SNB (institutional)",
       "role": "institutional",
       "lean_prior": "neutral",
       "voting_2026": true,
       "event_type": "statement",
-      "stance": -2.0,
-      "phrase": "if necessary we would do it",
-      "headline": "SNB Chairman says we are at 0% rates, bar to go negative is high, but if necessary we would do it",
-      "importance": 3.0,
+      "stance": -1.5,
+      "phrase": "no immediate need for action",
+      "headline": "SNB Minutes (Jun): There has been an increase in companies' inflation expectations in the short term",
+      "importance": 2.5,
       "reasons": [
-        "official CB statement (stance -2.00)",
-        "strong policy signal (|stance| = 2.0)"
-      ]
-    },
-    {
-      "published_at": "2026-07-08T16:38:00+00:00",
-      "speaker": "Martin Schlegel",
-      "role": "chair",
-      "lean_prior": "dove",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": -2.0,
-      "phrase": "ready to intervene in the FX market if needed",
-      "headline": "SNB Chairman Schlegel says ready to intervene in the FX market if needed",
-      "importance": 3.0,
-      "reasons": [
-        "Chair spoke"
+        "official CB statement (stance -1.50)"
       ]
     }
   ],
@@ -497,26 +481,13 @@
       "role": "institutional",
       "voting_2026": true,
       "lean_prior": "neutral",
-      "n_items": 2,
-      "mean_stance": -1.75,
+      "n_items": 1,
+      "mean_stance": -1.5,
       "last_stance": -1.5,
       "last_phrase": "no immediate need for action",
       "last_headline": "SNB Minutes (Jun): There has been an increase in companies' inflation expectations in the short term",
       "last_published_at": "2026-07-16T07:31:00+00:00",
       "last_event_type": "statement"
-    },
-    {
-      "name": "Martin Schlegel",
-      "role": "chair",
-      "voting_2026": true,
-      "lean_prior": "dove",
-      "n_items": 1,
-      "mean_stance": -2.0,
-      "last_stance": -2.0,
-      "last_phrase": "ready to intervene in the FX market if needed",
-      "last_headline": "SNB Chairman Schlegel says ready to intervene in the FX market if needed",
-      "last_published_at": "2026-07-08T16:38:00+00:00",
-      "last_event_type": "other"
     }
   ],
   "methodology": {
