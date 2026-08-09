@@ -1,17 +1,12 @@
 {
   "cb": "pln",
-  "as_of": "2026-08-08T04:32:30.967871+00:00",
-  "commentary_score": -2.847,
+  "as_of": "2026-08-09T04:32:49.286082+00:00",
+  "commentary_score": -2.777,
   "label": "dovish",
-  "n_items_window": 3,
+  "n_items_window": 2,
   "commentary_window_days": 30,
   "n_items_total": 37,
   "history_90d": [
-    {
-      "date": "2026-05-11",
-      "commentary_score": 0.0,
-      "n_items": 2
-    },
     {
       "date": "2026-05-12",
       "commentary_score": 0.0,
@@ -456,6 +451,11 @@
       "date": "2026-08-08",
       "commentary_score": -2.847,
       "n_items": 3
+    },
+    {
+      "date": "2026-08-09",
+      "commentary_score": -2.777,
+      "n_items": 2
     }
   ],
   "key_comments": [
@@ -489,22 +489,6 @@
       "reasons": [
         "hawk-lean speaker sounded dovish"
       ]
-    },
-    {
-      "published_at": "2026-07-09T13:15:00+00:00",
-      "speaker": "Adam Glapinski",
-      "role": "chair",
-      "lean_prior": "dove",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": -3.0,
-      "phrase": "think a rate cut this year is likely",
-      "headline": "NBP Governor Glapinski says level of rates is appropriate; think a rate cut this year is likely; not worried about PLN FX level",
-      "importance": 4.5,
-      "reasons": [
-        "Chair spoke",
-        "cross-market extreme (|stance| = 3.0)"
-      ]
     }
   ],
   "speakers": [
@@ -519,19 +503,6 @@
       "last_phrase": "grounds to consider rate cuts later this year",
       "last_headline": "NBP's Kotecki says there are grounds to consider rate cuts later this year",
       "last_published_at": "2026-07-10T12:12:00+00:00",
-      "last_event_type": "other"
-    },
-    {
-      "name": "Adam Glapinski",
-      "role": "chair",
-      "voting_2026": true,
-      "lean_prior": "dove",
-      "n_items": 1,
-      "mean_stance": -3.0,
-      "last_stance": -3.0,
-      "last_phrase": "think a rate cut this year is likely",
-      "last_headline": "NBP Governor Glapinski says level of rates is appropriate; think a rate cut this year is likely; not worried about PLN FX level",
-      "last_published_at": "2026-07-09T13:15:00+00:00",
       "last_event_type": "other"
     },
     {
