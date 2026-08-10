@@ -1,17 +1,12 @@
 {
   "cb": "boc",
-  "as_of": "2026-08-09T04:32:48.395460+00:00",
+  "as_of": "2026-08-10T04:34:50.710167+00:00",
   "commentary_score": 0.885,
   "label": "lean hawkish",
   "n_items_window": 6,
   "commentary_window_days": 30,
   "n_items_total": 67,
   "history_90d": [
-    {
-      "date": "2026-05-12",
-      "commentary_score": 1.57,
-      "n_items": 8
-    },
     {
       "date": "2026-05-13",
       "commentary_score": 1.57,
@@ -456,6 +451,11 @@
       "date": "2026-08-09",
       "commentary_score": 0.885,
       "n_items": 6
+    },
+    {
+      "date": "2026-08-10",
+      "commentary_score": 0.885,
+      "n_items": 6
     }
   ],
   "key_comments": [
@@ -469,7 +469,7 @@
       "stance": 3.0,
       "phrase": "need for consecutive rate hikes to keep inflation under control",
       "headline": "BoC Governor Macklem says if oil prices do once again rise and feed into inflation; he expects to need consecutive rate hikes to keep inflation under control",
-      "importance": 6.72,
+      "importance": 6.43,
       "reasons": [
         "Chair spoke",
         "notable move vs own recent tone",
@@ -486,7 +486,7 @@
       "stance": 2.5,
       "phrase": "will not let higher oil prices become persistent inflation",
       "headline": "BoC's Macklem: \"Governing Council will continue to assess the strength of the Canadian economy and the outlook for inflation and is prepared to adjust monetary policy as needed. \"",
-      "importance": 5.47,
+      "importance": 5.18,
       "reasons": [
         "Chair spoke",
         "notable move vs own recent tone",

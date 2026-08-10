@@ -1,17 +1,12 @@
 {
   "cb": "czk",
-  "as_of": "2026-08-09T04:32:49.364918+00:00",
+  "as_of": "2026-08-10T04:34:51.692587+00:00",
   "commentary_score": 1.672,
   "label": "lean hawkish",
   "n_items_window": 3,
   "commentary_window_days": 30,
   "n_items_total": 41,
   "history_90d": [
-    {
-      "date": "2026-05-12",
-      "commentary_score": 0.551,
-      "n_items": 9
-    },
     {
       "date": "2026-05-13",
       "commentary_score": 0.551,
@@ -454,6 +449,11 @@
     },
     {
       "date": "2026-08-09",
+      "commentary_score": 1.672,
+      "n_items": 3
+    },
+    {
+      "date": "2026-08-10",
       "commentary_score": 1.672,
       "n_items": 3
     }

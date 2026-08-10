@@ -1,17 +1,12 @@
 {
   "cb": "pln",
-  "as_of": "2026-08-09T04:32:49.286082+00:00",
-  "commentary_score": -2.777,
+  "as_of": "2026-08-10T04:34:51.612895+00:00",
+  "commentary_score": -3.0,
   "label": "dovish",
-  "n_items_window": 2,
+  "n_items_window": 1,
   "commentary_window_days": 30,
   "n_items_total": 37,
   "history_90d": [
-    {
-      "date": "2026-05-12",
-      "commentary_score": 0.0,
-      "n_items": 2
-    },
     {
       "date": "2026-05-13",
       "commentary_score": 0.0,
@@ -456,6 +451,11 @@
       "date": "2026-08-09",
       "commentary_score": -2.777,
       "n_items": 2
+    },
+    {
+      "date": "2026-08-10",
+      "commentary_score": -3.0,
+      "n_items": 1
     }
   ],
   "key_comments": [
@@ -474,37 +474,9 @@
         "notable move vs own recent tone",
         "cross-market extreme (|stance| = 3.0)"
       ]
-    },
-    {
-      "published_at": "2026-07-10T12:12:00+00:00",
-      "speaker": "Ludwik Kotecki",
-      "role": "mpc_external",
-      "lean_prior": "hawk",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": -2.0,
-      "phrase": "grounds to consider rate cuts later this year",
-      "headline": "NBP's Kotecki says there are grounds to consider rate cuts later this year",
-      "importance": 7.0,
-      "reasons": [
-        "hawk-lean speaker sounded dovish"
-      ]
     }
   ],
   "speakers": [
-    {
-      "name": "Ludwik Kotecki",
-      "role": "mpc_external",
-      "voting_2026": true,
-      "lean_prior": "hawk",
-      "n_items": 1,
-      "mean_stance": -2.0,
-      "last_stance": -2.0,
-      "last_phrase": "grounds to consider rate cuts later this year",
-      "last_headline": "NBP's Kotecki says there are grounds to consider rate cuts later this year",
-      "last_published_at": "2026-07-10T12:12:00+00:00",
-      "last_event_type": "other"
-    },
     {
       "name": "Gabriela Maslowska",
       "role": "mpc_external",
