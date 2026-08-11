@@ -1,11 +1,11 @@
 {
   "cb": "sgd",
-  "as_of": "2026-08-11T04:32:45.778759+00:00",
+  "as_of": "2026-08-11T13:02:26.840703+00:00",
   "commentary_score": 0.0,
   "label": "neutral",
-  "n_items_window": 0,
+  "n_items_window": 1,
   "commentary_window_days": 30,
-  "n_items_total": 4,
+  "n_items_total": 5,
   "history_90d": [
     {
       "date": "2026-05-14",
@@ -455,11 +455,25 @@
     {
       "date": "2026-08-11",
       "commentary_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     }
   ],
   "key_comments": [],
-  "speakers": [],
+  "speakers": [
+    {
+      "name": "SGD (institutional)",
+      "role": "institutional",
+      "voting_2026": true,
+      "lean_prior": "neutral",
+      "n_items": 1,
+      "mean_stance": 0.0,
+      "last_stance": 0.0,
+      "last_phrase": "",
+      "last_headline": "Monetary Authority of Singapore official says monetary policy stance remains appropriate",
+      "last_published_at": "2026-08-11T00:56:28+00:00",
+      "last_event_type": "statement"
+    }
+  ],
   "methodology": {
     "commentary_window_days": 30,
     "commentary_window_days_default": 14,
