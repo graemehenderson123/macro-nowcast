@@ -1,9 +1,9 @@
 {
   "cb": "huf",
-  "as_of": "2026-08-12T04:31:27.536748+00:00",
-  "commentary_score": -3.0,
-  "label": "dovish",
-  "n_items_window": 1,
+  "as_of": "2026-08-12T13:01:56.391379+00:00",
+  "commentary_score": 0.0,
+  "label": "neutral",
+  "n_items_window": 0,
   "commentary_window_days": 30,
   "n_items_total": 9,
   "history_90d": [
@@ -84,8 +84,8 @@
     },
     {
       "date": "2026-05-30",
-      "commentary_score": 0.14,
-      "n_items": 2
+      "commentary_score": 0.0,
+      "n_items": 1
     },
     {
       "date": "2026-05-31",
@@ -304,8 +304,8 @@
     },
     {
       "date": "2026-07-13",
-      "commentary_score": -2.0,
-      "n_items": 1
+      "commentary_score": -2.856,
+      "n_items": 2
     },
     {
       "date": "2026-07-14",
@@ -454,44 +454,12 @@
     },
     {
       "date": "2026-08-12",
-      "commentary_score": -3.0,
-      "n_items": 1
+      "commentary_score": 0.0,
+      "n_items": 0
     }
   ],
-  "key_comments": [
-    {
-      "published_at": "2026-07-13T09:53:00+00:00",
-      "speaker": "Mihaly Varga",
-      "role": "chair",
-      "lean_prior": "hawk",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": -3.0,
-      "phrase": "scope for further rate cuts this summer",
-      "headline": "NBH Governor Varga says there is scope for further rate cuts this summer",
-      "importance": 13.5,
-      "reasons": [
-        "Chair spoke",
-        "hawk-lean speaker sounded dovish",
-        "cross-market extreme (|stance| = 3.0)"
-      ]
-    }
-  ],
-  "speakers": [
-    {
-      "name": "Mihaly Varga",
-      "role": "chair",
-      "voting_2026": true,
-      "lean_prior": "hawk",
-      "n_items": 1,
-      "mean_stance": -3.0,
-      "last_stance": -3.0,
-      "last_phrase": "scope for further rate cuts this summer",
-      "last_headline": "NBH Governor Varga says there is scope for further rate cuts this summer",
-      "last_published_at": "2026-07-13T09:53:00+00:00",
-      "last_event_type": "other"
-    }
-  ],
+  "key_comments": [],
+  "speakers": [],
   "methodology": {
     "commentary_window_days": 30,
     "commentary_window_days_default": 14,
