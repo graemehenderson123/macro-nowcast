@@ -1,9 +1,9 @@
 {
   "cb": "boe",
-  "as_of": "2026-08-13T04:32:20.664171+00:00",
-  "commentary_score": -0.207,
+  "as_of": "2026-08-13T13:03:13.685174+00:00",
+  "commentary_score": -0.554,
   "label": "neutral",
-  "n_items_window": 12,
+  "n_items_window": 3,
   "commentary_window_days": 14,
   "n_items_total": 235,
   "history_90d": [
@@ -19,8 +19,8 @@
     },
     {
       "date": "2026-05-18",
-      "commentary_score": -0.365,
-      "n_items": 3
+      "commentary_score": -0.493,
+      "n_items": 4
     },
     {
       "date": "2026-05-19",
@@ -34,8 +34,8 @@
     },
     {
       "date": "2026-05-21",
-      "commentary_score": -0.97,
-      "n_items": 9
+      "commentary_score": -1.023,
+      "n_items": 10
     },
     {
       "date": "2026-05-22",
@@ -69,13 +69,13 @@
     },
     {
       "date": "2026-05-28",
-      "commentary_score": -1.132,
-      "n_items": 11
+      "commentary_score": -0.971,
+      "n_items": 12
     },
     {
       "date": "2026-05-29",
-      "commentary_score": -1.111,
-      "n_items": 11
+      "commentary_score": -1.089,
+      "n_items": 12
     },
     {
       "date": "2026-05-30",
@@ -89,8 +89,8 @@
     },
     {
       "date": "2026-06-01",
-      "commentary_score": -0.925,
-      "n_items": 12
+      "commentary_score": -0.923,
+      "n_items": 11
     },
     {
       "date": "2026-06-02",
@@ -104,8 +104,8 @@
     },
     {
       "date": "2026-06-04",
-      "commentary_score": -0.274,
-      "n_items": 9
+      "commentary_score": -0.217,
+      "n_items": 8
     },
     {
       "date": "2026-06-05",
@@ -124,8 +124,8 @@
     },
     {
       "date": "2026-06-08",
-      "commentary_score": -0.043,
-      "n_items": 8
+      "commentary_score": -0.038,
+      "n_items": 9
     },
     {
       "date": "2026-06-09",
@@ -139,13 +139,13 @@
     },
     {
       "date": "2026-06-11",
-      "commentary_score": -0.038,
-      "n_items": 9
+      "commentary_score": -0.04,
+      "n_items": 8
     },
     {
       "date": "2026-06-12",
-      "commentary_score": -0.04,
-      "n_items": 8
+      "commentary_score": 0.071,
+      "n_items": 7
     },
     {
       "date": "2026-06-13",
@@ -174,8 +174,8 @@
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 0.0,
-      "n_items": 3
+      "commentary_score": 0.126,
+      "n_items": 10
     },
     {
       "date": "2026-06-19",
@@ -194,7 +194,7 @@
     },
     {
       "date": "2026-06-22",
-      "commentary_score": 0.131,
+      "commentary_score": 0.108,
       "n_items": 8
     },
     {
@@ -229,8 +229,8 @@
     },
     {
       "date": "2026-06-29",
-      "commentary_score": -0.155,
-      "n_items": 10
+      "commentary_score": -0.138,
+      "n_items": 11
     },
     {
       "date": "2026-06-30",
@@ -244,8 +244,8 @@
     },
     {
       "date": "2026-07-02",
-      "commentary_score": -0.469,
-      "n_items": 14
+      "commentary_score": -0.798,
+      "n_items": 7
     },
     {
       "date": "2026-07-03",
@@ -264,13 +264,13 @@
     },
     {
       "date": "2026-07-06",
-      "commentary_score": -0.205,
-      "n_items": 10
+      "commentary_score": -0.224,
+      "n_items": 9
     },
     {
       "date": "2026-07-07",
-      "commentary_score": -0.224,
-      "n_items": 9
+      "commentary_score": -0.119,
+      "n_items": 12
     },
     {
       "date": "2026-07-08",
@@ -299,13 +299,13 @@
     },
     {
       "date": "2026-07-13",
-      "commentary_score": 0.139,
-      "n_items": 11
+      "commentary_score": 0.144,
+      "n_items": 10
     },
     {
       "date": "2026-07-14",
-      "commentary_score": 0.144,
-      "n_items": 10
+      "commentary_score": 0.105,
+      "n_items": 11
     },
     {
       "date": "2026-07-15",
@@ -314,8 +314,8 @@
     },
     {
       "date": "2026-07-16",
-      "commentary_score": 0.317,
-      "n_items": 8
+      "commentary_score": -0.189,
+      "n_items": 9
     },
     {
       "date": "2026-07-17",
@@ -339,8 +339,8 @@
     },
     {
       "date": "2026-07-21",
-      "commentary_score": -0.356,
-      "n_items": 6
+      "commentary_score": -0.551,
+      "n_items": 3
     },
     {
       "date": "2026-07-22",
@@ -354,8 +354,8 @@
     },
     {
       "date": "2026-07-24",
-      "commentary_score": -0.919,
-      "n_items": 2
+      "commentary_score": -0.349,
+      "n_items": 3
     },
     {
       "date": "2026-07-25",
@@ -374,8 +374,8 @@
     },
     {
       "date": "2026-07-28",
-      "commentary_score": -0.349,
-      "n_items": 3
+      "commentary_score": -0.439,
+      "n_items": 2
     },
     {
       "date": "2026-07-29",
@@ -384,13 +384,13 @@
     },
     {
       "date": "2026-07-30",
-      "commentary_score": -0.439,
-      "n_items": 2
+      "commentary_score": -0.054,
+      "n_items": 10
     },
     {
       "date": "2026-07-31",
-      "commentary_score": -0.188,
-      "n_items": 11
+      "commentary_score": -0.196,
+      "n_items": 13
     },
     {
       "date": "2026-08-01",
@@ -424,8 +424,8 @@
     },
     {
       "date": "2026-08-07",
-      "commentary_score": -0.196,
-      "n_items": 13
+      "commentary_score": -0.207,
+      "n_items": 12
     },
     {
       "date": "2026-08-08",
@@ -454,8 +454,8 @@
     },
     {
       "date": "2026-08-13",
-      "commentary_score": -0.207,
-      "n_items": 12
+      "commentary_score": -0.554,
+      "n_items": 3
     }
   ],
   "key_comments": [
@@ -541,19 +541,6 @@
   ],
   "speakers": [
     {
-      "name": "Huw Pill",
-      "role": "chief_economist",
-      "voting_2026": true,
-      "lean_prior": "hawk",
-      "n_items": 2,
-      "mean_stance": 0.346,
-      "last_stance": -1.0,
-      "last_phrase": "not edging towards a hike",
-      "last_headline": "BoE Chief Economist Pill says MPC is not edging towards a hike",
-      "last_published_at": "2026-07-31T11:44:00+00:00",
-      "last_event_type": "other"
-    },
-    {
       "name": "BOE (institutional)",
       "role": "institutional",
       "voting_2026": true,
@@ -567,30 +554,30 @@
       "last_event_type": "statement"
     },
     {
+      "name": "Huw Pill",
+      "role": "chief_economist",
+      "voting_2026": true,
+      "lean_prior": "hawk",
+      "n_items": 1,
+      "mean_stance": -1.0,
+      "last_stance": -1.0,
+      "last_phrase": "not edging towards a hike",
+      "last_headline": "BoE Chief Economist Pill says MPC is not edging towards a hike",
+      "last_published_at": "2026-07-31T11:44:00+00:00",
+      "last_event_type": "other"
+    },
+    {
       "name": "Andrew Bailey",
       "role": "chair",
       "voting_2026": true,
       "lean_prior": "dove",
-      "n_items": 5,
-      "mean_stance": -0.371,
+      "n_items": 1,
+      "mean_stance": -1.5,
       "last_stance": -1.5,
       "last_phrase": "labour market is weakening gradually, disinflation is proceeding slowly",
       "last_headline": "BoE Governor Bailey says the labour market is weakening gradually, disinflation is proceeding slowly",
       "last_published_at": "2026-07-30T15:32:00+00:00",
       "last_event_type": "other"
-    },
-    {
-      "name": "Clare Lombardelli",
-      "role": "vice_chair",
-      "voting_2026": true,
-      "lean_prior": "neutral",
-      "n_items": 1,
-      "mean_stance": -1.0,
-      "last_stance": -1.0,
-      "last_phrase": "holding was the correct thing to do",
-      "last_headline": "BoE's Lombardelli (Q&A) says her vote in today's decision was not a close call, holding was the correct thing to do. Learnt more on the strength of UK disinflation.",
-      "last_published_at": "2026-07-30T12:22:00+00:00",
-      "last_event_type": "off-the-cuff"
     }
   ],
   "methodology": {
