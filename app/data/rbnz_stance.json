@@ -1,17 +1,12 @@
 {
   "cb": "rbnz",
-  "as_of": "2026-08-12T13:01:55.485906+00:00",
-  "commentary_score": 0.104,
+  "as_of": "2026-08-13T04:32:20.906219+00:00",
+  "commentary_score": 0.0,
   "label": "neutral",
-  "n_items_window": 3,
+  "n_items_window": 2,
   "commentary_window_days": 30,
   "n_items_total": 24,
   "history_90d": [
-    {
-      "date": "2026-05-15",
-      "commentary_score": 0.0,
-      "n_items": 0
-    },
     {
       "date": "2026-05-16",
       "commentary_score": 0.0,
@@ -250,7 +245,7 @@
     {
       "date": "2026-07-02",
       "commentary_score": 0.0,
-      "n_items": 1
+      "n_items": 0
     },
     {
       "date": "2026-07-03",
@@ -399,8 +394,8 @@
     },
     {
       "date": "2026-08-01",
-      "commentary_score": 1.348,
-      "n_items": 3
+      "commentary_score": 1.226,
+      "n_items": 4
     },
     {
       "date": "2026-08-02",
@@ -456,40 +451,15 @@
       "date": "2026-08-12",
       "commentary_score": 0.104,
       "n_items": 3
-    }
-  ],
-  "key_comments": [
-    {
-      "published_at": "2026-07-13T22:05:00+00:00",
-      "speaker": "Paul Conway",
-      "role": "chief_economist",
-      "lean_prior": "neutral",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": 2.5,
-      "phrase": "Further reduction in monetary stimulus is likely to be required.",
-      "headline": "RBNZ Chief Economist Conway says Middle East conflict complicates monetary policy like all supply shocks, adds understanding how firms respond to cost shocks is crucial in maintaining low and stable inflation",
-      "importance": 3.25,
-      "reasons": [
-        "notable move vs own recent tone",
-        "cross-market extreme (|stance| = 2.5)"
-      ]
-    }
-  ],
-  "speakers": [
-    {
-      "name": "Paul Conway",
-      "role": "chief_economist",
-      "voting_2026": true,
-      "lean_prior": "neutral",
-      "n_items": 1,
-      "mean_stance": 2.5,
-      "last_stance": 2.5,
-      "last_phrase": "Further reduction in monetary stimulus is likely to be required.",
-      "last_headline": "RBNZ Chief Economist Conway says Middle East conflict complicates monetary policy like all supply shocks, adds understanding how firms respond to cost shocks is crucial in maintaining low and stable i",
-      "last_published_at": "2026-07-13T22:05:00+00:00",
-      "last_event_type": "other"
     },
+    {
+      "date": "2026-08-13",
+      "commentary_score": 0.0,
+      "n_items": 2
+    }
+  ],
+  "key_comments": [],
+  "speakers": [
     {
       "name": "RBNZ (institutional)",
       "role": "institutional",
