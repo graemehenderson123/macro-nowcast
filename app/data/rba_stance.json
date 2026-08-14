@@ -1,11 +1,11 @@
 {
   "cb": "rba",
-  "as_of": "2026-08-14T04:32:25.068575+00:00",
-  "commentary_score": 2.228,
-  "label": "hawkish",
-  "n_items_window": 5,
+  "as_of": "2026-08-14T13:01:58.420332+00:00",
+  "commentary_score": 1.854,
+  "label": "lean hawkish",
+  "n_items_window": 6,
   "commentary_window_days": 30,
-  "n_items_total": 52,
+  "n_items_total": 53,
   "history_90d": [
     {
       "date": "2026-05-17",
@@ -99,8 +99,8 @@
     },
     {
       "date": "2026-06-04",
-      "commentary_score": 2.248,
-      "n_items": 3
+      "commentary_score": 1.542,
+      "n_items": 6
     },
     {
       "date": "2026-06-05",
@@ -159,8 +159,8 @@
     },
     {
       "date": "2026-06-16",
-      "commentary_score": 2.821,
-      "n_items": 7
+      "commentary_score": 2.529,
+      "n_items": 8
     },
     {
       "date": "2026-06-17",
@@ -249,8 +249,8 @@
     },
     {
       "date": "2026-07-04",
-      "commentary_score": 2.901,
-      "n_items": 7
+      "commentary_score": 3.005,
+      "n_items": 4
     },
     {
       "date": "2026-07-05",
@@ -309,8 +309,8 @@
     },
     {
       "date": "2026-07-16",
-      "commentary_score": 2.377,
-      "n_items": 4
+      "commentary_score": 2.427,
+      "n_items": 3
     },
     {
       "date": "2026-07-17",
@@ -439,8 +439,8 @@
     },
     {
       "date": "2026-08-11",
-      "commentary_score": 0.243,
-      "n_items": 2
+      "commentary_score": 2.304,
+      "n_items": 4
     },
     {
       "date": "2026-08-12",
@@ -454,8 +454,8 @@
     },
     {
       "date": "2026-08-14",
-      "commentary_score": 2.228,
-      "n_items": 5
+      "commentary_score": 1.854,
+      "n_items": 6
     }
   ],
   "key_comments": [
@@ -561,6 +561,19 @@
       "last_phrase": "monetary policy in Australia is somewhat restrictive",
       "last_headline": "RBA's Kent says Board sets level of the Cash Rate it judges will achieve low and stable inflation and full employment, adds borrowing costs have increased, mortgage payments have risen and conditions ",
       "last_published_at": "2026-08-13T00:24:59+00:00",
+      "last_event_type": "other"
+    },
+    {
+      "name": "Ian Harper",
+      "role": "mpc_external",
+      "voting_2026": true,
+      "lean_prior": "neutral",
+      "n_items": 1,
+      "mean_stance": 0.0,
+      "last_stance": 0.0,
+      "last_phrase": "",
+      "last_headline": "RBA's Harper will depart the monetary policy board and Melinda Cilento has been named as part-time member of the RBA board",
+      "last_published_at": "2026-08-14T00:58:47+00:00",
       "last_event_type": "other"
     }
   ],
