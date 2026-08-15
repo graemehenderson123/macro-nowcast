@@ -1,17 +1,12 @@
 {
   "cb": "krw",
-  "as_of": "2026-08-14T13:01:58.982087+00:00",
-  "commentary_score": 2.988,
+  "as_of": "2026-08-15T04:31:56.043794+00:00",
+  "commentary_score": 2.987,
   "label": "hawkish",
-  "n_items_window": 4,
+  "n_items_window": 3,
   "commentary_window_days": 30,
   "n_items_total": 34,
   "history_90d": [
-    {
-      "date": "2026-05-17",
-      "commentary_score": -1.0,
-      "n_items": 1
-    },
     {
       "date": "2026-05-18",
       "commentary_score": -1.0,
@@ -404,8 +399,8 @@
     },
     {
       "date": "2026-08-04",
-      "commentary_score": 2.867,
-      "n_items": 7
+      "commentary_score": 3.208,
+      "n_items": 6
     },
     {
       "date": "2026-08-05",
@@ -456,6 +451,11 @@
       "date": "2026-08-14",
       "commentary_score": 2.988,
       "n_items": 4
+    },
+    {
+      "date": "2026-08-15",
+      "commentary_score": 2.987,
+      "n_items": 3
     }
   ],
   "key_comments": [
@@ -512,8 +512,8 @@
       "role": "institutional",
       "voting_2026": true,
       "lean_prior": "neutral",
-      "n_items": 3,
-      "mean_stance": 2.87,
+      "n_items": 2,
+      "mean_stance": 2.8,
       "last_stance": 2.0,
       "last_phrase": "timing and pace of any further rate hikes should be determined with primary emphasis on inflation",
       "last_headline": "BoK Minutes states that one member said timing and pace of any further rate hikes should be determined with primary emphasis on inflation",
