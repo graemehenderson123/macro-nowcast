@@ -1,17 +1,12 @@
 {
   "cb": "rba",
-  "as_of": "2026-08-15T04:31:55.493836+00:00",
+  "as_of": "2026-08-16T04:32:35.983923+00:00",
   "commentary_score": 1.854,
   "label": "lean hawkish",
   "n_items_window": 6,
   "commentary_window_days": 30,
   "n_items_total": 53,
   "history_90d": [
-    {
-      "date": "2026-05-18",
-      "commentary_score": 0.0,
-      "n_items": 1
-    },
     {
       "date": "2026-05-19",
       "commentary_score": 2.289,
@@ -456,6 +451,11 @@
       "date": "2026-08-15",
       "commentary_score": 1.854,
       "n_items": 6
+    },
+    {
+      "date": "2026-08-16",
+      "commentary_score": 1.854,
+      "n_items": 6
     }
   ],
   "key_comments": [
@@ -516,10 +516,9 @@
       "stance": 1.5,
       "phrase": "Policy works with a lag, meaning the full impact of this year's rate increases has yet to emerge.",
       "headline": "RBA Governor Bullock says board is ready to hike cash rate further if needed, while key question is if tightening already delivered is enough to slow inflation",
-      "importance": 4.0,
+      "importance": 3.0,
       "reasons": [
-        "Chair spoke",
-        "hawk-lean speaker sounded dovish"
+        "Chair spoke"
       ]
     }
   ],

@@ -1,17 +1,12 @@
 {
   "cb": "snb",
-  "as_of": "2026-08-15T04:31:55.732413+00:00",
-  "commentary_score": -1.5,
-  "label": "lean dovish",
-  "n_items_window": 1,
+  "as_of": "2026-08-16T04:32:36.222106+00:00",
+  "commentary_score": 0.0,
+  "label": "neutral",
+  "n_items_window": 0,
   "commentary_window_days": 30,
   "n_items_total": 53,
   "history_90d": [
-    {
-      "date": "2026-05-18",
-      "commentary_score": -1.301,
-      "n_items": 4
-    },
     {
       "date": "2026-05-19",
       "commentary_score": -1.301,
@@ -456,40 +451,15 @@
       "date": "2026-08-15",
       "commentary_score": -1.5,
       "n_items": 1
-    }
-  ],
-  "key_comments": [
+    },
     {
-      "published_at": "2026-07-16T07:31:00+00:00",
-      "speaker": "SNB (institutional)",
-      "role": "institutional",
-      "lean_prior": "neutral",
-      "voting_2026": true,
-      "event_type": "statement",
-      "stance": -1.5,
-      "phrase": "no immediate need for action",
-      "headline": "SNB Minutes (Jun): There has been an increase in companies' inflation expectations in the short term",
-      "importance": 2.5,
-      "reasons": [
-        "official CB statement (stance -1.50)"
-      ]
+      "date": "2026-08-16",
+      "commentary_score": 0.0,
+      "n_items": 0
     }
   ],
-  "speakers": [
-    {
-      "name": "SNB (institutional)",
-      "role": "institutional",
-      "voting_2026": true,
-      "lean_prior": "neutral",
-      "n_items": 1,
-      "mean_stance": -1.5,
-      "last_stance": -1.5,
-      "last_phrase": "no immediate need for action",
-      "last_headline": "SNB Minutes (Jun): There has been an increase in companies' inflation expectations in the short term",
-      "last_published_at": "2026-07-16T07:31:00+00:00",
-      "last_event_type": "statement"
-    }
-  ],
+  "key_comments": [],
+  "speakers": [],
   "methodology": {
     "commentary_window_days": 30,
     "commentary_window_days_default": 14,

@@ -1,17 +1,12 @@
 {
   "cb": "pln",
-  "as_of": "2026-08-15T04:31:56.519251+00:00",
+  "as_of": "2026-08-16T04:32:36.991292+00:00",
   "commentary_score": -3.0,
   "label": "dovish",
   "n_items_window": 1,
   "commentary_window_days": 30,
   "n_items_total": 37,
   "history_90d": [
-    {
-      "date": "2026-05-18",
-      "commentary_score": 0.563,
-      "n_items": 2
-    },
     {
       "date": "2026-05-19",
       "commentary_score": 0.563,
@@ -454,6 +449,11 @@
     },
     {
       "date": "2026-08-15",
+      "commentary_score": -3.0,
+      "n_items": 1
+    },
+    {
+      "date": "2026-08-16",
       "commentary_score": -3.0,
       "n_items": 1
     }

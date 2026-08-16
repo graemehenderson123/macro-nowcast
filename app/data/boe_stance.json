@@ -1,17 +1,12 @@
 {
   "cb": "boe",
-  "as_of": "2026-08-15T04:31:55.333178+00:00",
+  "as_of": "2026-08-16T04:32:35.818760+00:00",
   "commentary_score": 3.0,
   "label": "hawkish",
   "n_items_window": 1,
   "commentary_window_days": 14,
   "n_items_total": 236,
   "history_90d": [
-    {
-      "date": "2026-05-18",
-      "commentary_score": -0.365,
-      "n_items": 3
-    },
     {
       "date": "2026-05-19",
       "commentary_score": -0.493,
@@ -456,6 +451,11 @@
       "date": "2026-08-15",
       "commentary_score": 3.0,
       "n_items": 1
+    },
+    {
+      "date": "2026-08-16",
+      "commentary_score": 3.0,
+      "n_items": 1
     }
   ],
   "key_comments": [
@@ -520,22 +520,6 @@
       "reasons": [
         "Chair spoke",
         "dove-lean speaker sounded hawkish"
-      ]
-    },
-    {
-      "published_at": "2026-07-16T08:00:00+00:00",
-      "speaker": "Sarah Breeden",
-      "role": "vice_chair",
-      "lean_prior": "neutral",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": -2.0,
-      "phrase": "softish economic outlook; we have slack in the labour market",
-      "headline": "BoE's Breeden says it is important firms are stress testing AI valuations; Iran war shock is less likely to become embedded and lead to inflationary dynamics that members might need to lean against",
-      "importance": 5.0,
-      "reasons": [
-        "Vice Chair spoke",
-        "notable move vs own recent tone"
       ]
     }
   ],

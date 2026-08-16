@@ -1,17 +1,12 @@
 {
   "cb": "norges",
-  "as_of": "2026-08-15T04:31:55.889053+00:00",
+  "as_of": "2026-08-16T04:32:36.378148+00:00",
   "commentary_score": 2.5,
   "label": "hawkish",
   "n_items_window": 1,
   "commentary_window_days": 30,
   "n_items_total": 20,
   "history_90d": [
-    {
-      "date": "2026-05-18",
-      "commentary_score": 0.936,
-      "n_items": 3
-    },
     {
       "date": "2026-05-19",
       "commentary_score": 0.936,
@@ -454,6 +449,11 @@
     },
     {
       "date": "2026-08-15",
+      "commentary_score": 2.5,
+      "n_items": 1
+    },
+    {
+      "date": "2026-08-16",
       "commentary_score": 2.5,
       "n_items": 1
     }

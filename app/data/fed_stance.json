@@ -1,17 +1,12 @@
 {
   "cb": "fed",
-  "as_of": "2026-08-15T04:31:55.158271+00:00",
+  "as_of": "2026-08-16T04:32:35.639814+00:00",
   "commentary_score": 1.444,
   "label": "lean hawkish",
   "n_items_window": 23,
   "commentary_window_days": 14,
   "n_items_total": 1004,
   "history_90d": [
-    {
-      "date": "2026-05-18",
-      "commentary_score": -0.968,
-      "n_items": 22
-    },
     {
       "date": "2026-05-19",
       "commentary_score": -0.772,
@@ -456,6 +451,11 @@
       "date": "2026-08-15",
       "commentary_score": 1.444,
       "n_items": 23
+    },
+    {
+      "date": "2026-08-16",
+      "commentary_score": 1.444,
+      "n_items": 23
     }
   ],
   "key_comments": [
@@ -491,6 +491,22 @@
       ]
     },
     {
+      "published_at": "2026-08-04T12:00:00+00:00",
+      "speaker": "Anna Paulson",
+      "role": "regional_president",
+      "lean_prior": "neutral",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": 2.5,
+      "phrase": "A more restrictive policy may be needed if inflation remains stubbornly high.",
+      "headline": "Fed\u2019s Paulson (2026 voter) says she is keeping an open mind on the monetary policy outlook amid elevated inflation",
+      "importance": 3.25,
+      "reasons": [
+        "notable move vs own recent tone",
+        "cross-market extreme (|stance| = 2.5)"
+      ]
+    },
+    {
       "published_at": "2026-07-29T19:28:00+00:00",
       "speaker": "Kevin Warsh",
       "role": "chair",
@@ -521,22 +537,6 @@
         "Chair spoke",
         "hawk-lean speaker sounded dovish",
         "cross-market extreme (|stance| = 3.0)"
-      ]
-    },
-    {
-      "published_at": "2026-07-16T23:01:00+00:00",
-      "speaker": "Philip Jefferson",
-      "role": "vice_chair",
-      "lean_prior": "dove",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": 1.5,
-      "phrase": "it could be appropriate to reconsider stance and ensure we deliver price stability",
-      "headline": "Fed's Jefferson (voter) says current policy stance should support the job market and allow inflation to resume decline towards 2% as tariff effects and energy price pass through",
-      "importance": 9.0,
-      "reasons": [
-        "Vice Chair spoke",
-        "dove-lean speaker sounded hawkish"
       ]
     }
   ],
