@@ -1,17 +1,12 @@
 {
   "cb": "fed",
-  "as_of": "2026-08-16T04:32:35.639814+00:00",
+  "as_of": "2026-08-17T04:32:47.520222+00:00",
   "commentary_score": 1.444,
   "label": "lean hawkish",
   "n_items_window": 23,
   "commentary_window_days": 14,
   "n_items_total": 1004,
   "history_90d": [
-    {
-      "date": "2026-05-19",
-      "commentary_score": -0.772,
-      "n_items": 22
-    },
     {
       "date": "2026-05-20",
       "commentary_score": -0.465,
@@ -456,6 +451,11 @@
       "date": "2026-08-16",
       "commentary_score": 1.444,
       "n_items": 23
+    },
+    {
+      "date": "2026-08-17",
+      "commentary_score": 1.444,
+      "n_items": 23
     }
   ],
   "key_comments": [
@@ -516,7 +516,7 @@
       "stance": -1.0,
       "phrase": "Warsh would love to see lower interest rates",
       "headline": "US President Trump says Fed Chair Warsh is brilliant; Warsh has a board, and it is a political one. Warsh would love to see lower interest rates",
-      "importance": 8.28,
+      "importance": 7.7,
       "reasons": [
         "Chair spoke",
         "hawk-lean speaker sounded dovish"
@@ -532,7 +532,7 @@
       "stance": -3.0,
       "phrase": "Rates should be lowered.",
       "headline": "US President Trump says read a very good inflation report the other day; costs are going down rapidly; as soon as the war is over, you'll see a big drop in prices; Fed Chair Warsh is great, but he has a board",
-      "importance": 13.78,
+      "importance": 13.2,
       "reasons": [
         "Chair spoke",
         "hawk-lean speaker sounded dovish",

@@ -1,17 +1,12 @@
 {
   "cb": "boj",
-  "as_of": "2026-08-16T04:32:35.903582+00:00",
-  "commentary_score": 1.293,
+  "as_of": "2026-08-17T04:32:47.782993+00:00",
+  "commentary_score": 1.332,
   "label": "lean hawkish",
-  "n_items_window": 9,
+  "n_items_window": 8,
   "commentary_window_days": 30,
   "n_items_total": 187,
   "history_90d": [
-    {
-      "date": "2026-05-19",
-      "commentary_score": 1.079,
-      "n_items": 13
-    },
     {
       "date": "2026-05-20",
       "commentary_score": 1.168,
@@ -456,6 +451,11 @@
       "date": "2026-08-16",
       "commentary_score": 1.293,
       "n_items": 9
+    },
+    {
+      "date": "2026-08-17",
+      "commentary_score": 1.332,
+      "n_items": 8
     }
   ],
   "key_comments": [
@@ -542,8 +542,8 @@
       "role": "institutional",
       "voting_2026": true,
       "lean_prior": "neutral",
-      "n_items": 4,
-      "mean_stance": 1.05,
+      "n_items": 3,
+      "mean_stance": 1.432,
       "last_stance": -1.5,
       "last_phrase": "financial conditions remain supportive, with short-term real interest rates still negative",
       "last_headline": "BoJ Summary of Opinions from the July meeting stated a member said Middle East Development, expanding AI-related demand and weak yen all work towards pushing up inflation",
