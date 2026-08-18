@@ -1,17 +1,12 @@
 {
   "cb": "mxn",
-  "as_of": "2026-08-17T13:05:01.658403+00:00",
+  "as_of": "2026-08-18T04:32:46.105725+00:00",
   "commentary_score": 0.0,
   "label": "neutral",
   "n_items_window": 0,
   "commentary_window_days": 30,
   "n_items_total": 11,
   "history_90d": [
-    {
-      "date": "2026-05-20",
-      "commentary_score": -2.693,
-      "n_items": 2
-    },
     {
       "date": "2026-05-21",
       "commentary_score": -2.693,
@@ -454,6 +449,11 @@
     },
     {
       "date": "2026-08-17",
+      "commentary_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-08-18",
       "commentary_score": 0.0,
       "n_items": 0
     }
