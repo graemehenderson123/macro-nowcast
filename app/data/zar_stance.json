@@ -1,6 +1,6 @@
 {
   "cb": "zar",
-  "as_of": "2026-08-19T04:32:42.485325+00:00",
+  "as_of": "2026-08-19T13:03:00.748553+00:00",
   "commentary_score": 0.0,
   "label": "neutral",
   "n_items_window": 2,
@@ -360,7 +360,7 @@
     {
       "date": "2026-07-31",
       "commentary_score": 0.0,
-      "n_items": 1
+      "n_items": 2
     },
     {
       "date": "2026-08-01",
