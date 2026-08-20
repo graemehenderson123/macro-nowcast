@@ -1,11 +1,11 @@
 {
   "cb": "riksbank",
-  "as_of": "2026-08-20T04:34:33.173768+00:00",
-  "commentary_score": 0.0,
-  "label": "neutral",
-  "n_items_window": 0,
+  "as_of": "2026-08-20T13:03:18.392219+00:00",
+  "commentary_score": 2.171,
+  "label": "hawkish",
+  "n_items_window": 2,
   "commentary_window_days": 30,
-  "n_items_total": 33,
+  "n_items_total": 35,
   "history_90d": [
     {
       "date": "2026-05-23",
@@ -39,8 +39,8 @@
     },
     {
       "date": "2026-05-29",
-      "commentary_score": 0.199,
-      "n_items": 5
+      "commentary_score": 0.082,
+      "n_items": 6
     },
     {
       "date": "2026-05-30",
@@ -69,8 +69,8 @@
     },
     {
       "date": "2026-06-04",
-      "commentary_score": 0.082,
-      "n_items": 6
+      "commentary_score": -0.64,
+      "n_items": 7
     },
     {
       "date": "2026-06-05",
@@ -79,8 +79,8 @@
     },
     {
       "date": "2026-06-06",
-      "commentary_score": -0.64,
-      "n_items": 7
+      "commentary_score": -0.637,
+      "n_items": 4
     },
     {
       "date": "2026-06-07",
@@ -109,8 +109,8 @@
     },
     {
       "date": "2026-06-12",
-      "commentary_score": -0.637,
-      "n_items": 4
+      "commentary_score": -0.737,
+      "n_items": 3
     },
     {
       "date": "2026-06-13",
@@ -134,13 +134,13 @@
     },
     {
       "date": "2026-06-17",
-      "commentary_score": -0.737,
-      "n_items": 3
+      "commentary_score": 1.053,
+      "n_items": 4
     },
     {
       "date": "2026-06-18",
       "commentary_score": 1.053,
-      "n_items": 4
+      "n_items": 3
     },
     {
       "date": "2026-06-19",
@@ -169,8 +169,8 @@
     },
     {
       "date": "2026-06-24",
-      "commentary_score": 1.053,
-      "n_items": 3
+      "commentary_score": 1.036,
+      "n_items": 4
     },
     {
       "date": "2026-06-25",
@@ -189,8 +189,8 @@
     },
     {
       "date": "2026-06-28",
-      "commentary_score": 1.036,
-      "n_items": 4
+      "commentary_score": 1.094,
+      "n_items": 3
     },
     {
       "date": "2026-06-29",
@@ -219,8 +219,8 @@
     },
     {
       "date": "2026-07-04",
-      "commentary_score": 1.094,
-      "n_items": 3
+      "commentary_score": 1.316,
+      "n_items": 2
     },
     {
       "date": "2026-07-05",
@@ -284,8 +284,8 @@
     },
     {
       "date": "2026-07-17",
-      "commentary_score": 1.316,
-      "n_items": 2
+      "commentary_score": 1.0,
+      "n_items": 1
     },
     {
       "date": "2026-07-18",
@@ -319,8 +319,8 @@
     },
     {
       "date": "2026-07-24",
-      "commentary_score": 1.0,
-      "n_items": 1
+      "commentary_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-07-25",
@@ -454,12 +454,72 @@
     },
     {
       "date": "2026-08-20",
-      "commentary_score": 0.0,
-      "n_items": 0
+      "commentary_score": 2.171,
+      "n_items": 2
     }
   ],
-  "key_comments": [],
-  "speakers": [],
+  "key_comments": [
+    {
+      "published_at": "2026-08-20T09:04:20+00:00",
+      "speaker": "Erik Thed\u00e9en",
+      "role": "chair",
+      "lean_prior": "neutral",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": 1.5,
+      "phrase": "the Riksbank would adjust its monetary policy in a tighter direction",
+      "headline": "Riksbank's Thedeen says they are somewhat concerned about the recent inflation outcomes",
+      "importance": 4.5,
+      "reasons": [
+        "Chair spoke",
+        "notable move vs own recent tone"
+      ]
+    },
+    {
+      "published_at": "2026-08-20T07:30:26+00:00",
+      "speaker": "RIKSBANK (institutional)",
+      "role": "institutional",
+      "lean_prior": "neutral",
+      "voting_2026": true,
+      "event_type": "statement",
+      "stance": 2.5,
+      "phrase": "the Riksbank would adjust its monetary policy in a tighter direction",
+      "headline": "Riksbank maintains its rate at 1.75% as expected; assesses that the probability of a rate increase later this year remains; there is considerable uncertainty and developments call for vigilance",
+      "importance": 3.75,
+      "reasons": [
+        "official CB statement (stance +2.50)",
+        "strong policy signal (|stance| = 2.5)"
+      ]
+    }
+  ],
+  "speakers": [
+    {
+      "name": "RIKSBANK (institutional)",
+      "role": "institutional",
+      "voting_2026": true,
+      "lean_prior": "neutral",
+      "n_items": 1,
+      "mean_stance": 2.5,
+      "last_stance": 2.5,
+      "last_phrase": "the Riksbank would adjust its monetary policy in a tighter direction",
+      "last_headline": "Riksbank maintains its rate at 1.75% as expected; assesses that the probability of a rate increase later this year remains; there is considerable uncertainty and developments call for vigilance",
+      "last_published_at": "2026-08-20T07:30:26+00:00",
+      "last_event_type": "statement"
+    },
+    {
+      "name": "Erik Thed\u00e9en",
+      "role": "chair",
+      "voting_2026": true,
+      "lean_prior": "neutral",
+      "n_items": 1,
+      "mean_stance": 1.5,
+      "last_stance": 1.5,
+      "last_phrase": "the Riksbank would adjust its monetary policy in a tighter direction",
+      "last_headline": "Riksbank's Thedeen says they are somewhat concerned about the recent inflation outcomes",
+      "last_published_at": "2026-08-20T09:04:20+00:00",
+      "last_event_type": "other"
+    }
+  ],
   "methodology": {
     "commentary_window_days": 30,
     "commentary_window_days_default": 14,

@@ -1,11 +1,11 @@
 {
   "cb": "fed",
-  "as_of": "2026-08-20T04:34:32.506851+00:00",
-  "commentary_score": 0.903,
+  "as_of": "2026-08-20T13:03:17.717190+00:00",
+  "commentary_score": 0.862,
   "label": "lean hawkish",
-  "n_items_window": 16,
+  "n_items_window": 17,
   "commentary_window_days": 14,
-  "n_items_total": 1010,
+  "n_items_total": 1015,
   "history_90d": [
     {
       "date": "2026-05-23",
@@ -29,18 +29,18 @@
     },
     {
       "date": "2026-05-27",
-      "commentary_score": 1.761,
-      "n_items": 17
+      "commentary_score": 1.735,
+      "n_items": 18
     },
     {
       "date": "2026-05-28",
-      "commentary_score": 1.651,
-      "n_items": 19
+      "commentary_score": 2.164,
+      "n_items": 17
     },
     {
       "date": "2026-05-29",
-      "commentary_score": 2.173,
-      "n_items": 18
+      "commentary_score": 1.818,
+      "n_items": 23
     },
     {
       "date": "2026-05-30",
@@ -59,8 +59,8 @@
     },
     {
       "date": "2026-06-02",
-      "commentary_score": 1.485,
-      "n_items": 25
+      "commentary_score": 1.307,
+      "n_items": 27
     },
     {
       "date": "2026-06-03",
@@ -99,8 +99,8 @@
     },
     {
       "date": "2026-06-10",
-      "commentary_score": 0.764,
-      "n_items": 28
+      "commentary_score": 0.744,
+      "n_items": 27
     },
     {
       "date": "2026-06-11",
@@ -109,8 +109,8 @@
     },
     {
       "date": "2026-06-12",
-      "commentary_score": 0.556,
-      "n_items": 20
+      "commentary_score": 0.54,
+      "n_items": 15
     },
     {
       "date": "2026-06-13",
@@ -129,8 +129,8 @@
     },
     {
       "date": "2026-06-16",
-      "commentary_score": 0.683,
-      "n_items": 12
+      "commentary_score": 0.761,
+      "n_items": 10
     },
     {
       "date": "2026-06-17",
@@ -164,13 +164,13 @@
     },
     {
       "date": "2026-06-23",
-      "commentary_score": 1.91,
-      "n_items": 22
+      "commentary_score": 1.705,
+      "n_items": 23
     },
     {
       "date": "2026-06-24",
-      "commentary_score": 1.554,
-      "n_items": 24
+      "commentary_score": 1.551,
+      "n_items": 25
     },
     {
       "date": "2026-06-25",
@@ -179,8 +179,8 @@
     },
     {
       "date": "2026-06-26",
-      "commentary_score": 1.385,
-      "n_items": 29
+      "commentary_score": 1.305,
+      "n_items": 30
     },
     {
       "date": "2026-06-27",
@@ -194,8 +194,8 @@
     },
     {
       "date": "2026-06-29",
-      "commentary_score": 1.287,
-      "n_items": 32
+      "commentary_score": 1.228,
+      "n_items": 33
     },
     {
       "date": "2026-06-30",
@@ -209,8 +209,8 @@
     },
     {
       "date": "2026-07-02",
-      "commentary_score": 0.358,
-      "n_items": 24
+      "commentary_score": 0.303,
+      "n_items": 25
     },
     {
       "date": "2026-07-03",
@@ -234,13 +234,13 @@
     },
     {
       "date": "2026-07-07",
-      "commentary_score": 0.331,
-      "n_items": 28
+      "commentary_score": 0.38,
+      "n_items": 27
     },
     {
       "date": "2026-07-08",
-      "commentary_score": 0.373,
-      "n_items": 27
+      "commentary_score": 0.34,
+      "n_items": 26
     },
     {
       "date": "2026-07-09",
@@ -249,8 +249,8 @@
     },
     {
       "date": "2026-07-10",
-      "commentary_score": 0.808,
-      "n_items": 26
+      "commentary_score": 0.827,
+      "n_items": 25
     },
     {
       "date": "2026-07-11",
@@ -264,23 +264,23 @@
     },
     {
       "date": "2026-07-13",
-      "commentary_score": 0.835,
-      "n_items": 25
+      "commentary_score": 0.849,
+      "n_items": 24
     },
     {
       "date": "2026-07-14",
-      "commentary_score": 1.31,
-      "n_items": 22
+      "commentary_score": 1.468,
+      "n_items": 23
     },
     {
       "date": "2026-07-15",
-      "commentary_score": 1.536,
-      "n_items": 25
+      "commentary_score": 1.612,
+      "n_items": 26
     },
     {
       "date": "2026-07-16",
-      "commentary_score": 1.34,
-      "n_items": 26
+      "commentary_score": 1.357,
+      "n_items": 25
     },
     {
       "date": "2026-07-17",
@@ -304,8 +304,8 @@
     },
     {
       "date": "2026-07-21",
-      "commentary_score": 1.61,
-      "n_items": 26
+      "commentary_score": 1.43,
+      "n_items": 27
     },
     {
       "date": "2026-07-22",
@@ -339,12 +339,12 @@
     },
     {
       "date": "2026-07-28",
-      "commentary_score": 0.377,
-      "n_items": 17
+      "commentary_score": 0.205,
+      "n_items": 16
     },
     {
       "date": "2026-07-29",
-      "commentary_score": -0.032,
+      "commentary_score": -0.131,
       "n_items": 14
     },
     {
@@ -354,8 +354,8 @@
     },
     {
       "date": "2026-07-31",
-      "commentary_score": 0.446,
-      "n_items": 24
+      "commentary_score": 0.571,
+      "n_items": 26
     },
     {
       "date": "2026-08-01",
@@ -369,23 +369,23 @@
     },
     {
       "date": "2026-08-03",
-      "commentary_score": 0.664,
-      "n_items": 27
-    },
-    {
-      "date": "2026-08-04",
       "commentary_score": 0.785,
       "n_items": 28
     },
     {
+      "date": "2026-08-04",
+      "commentary_score": 0.903,
+      "n_items": 29
+    },
+    {
       "date": "2026-08-05",
-      "commentary_score": 0.959,
-      "n_items": 30
+      "commentary_score": 1.04,
+      "n_items": 31
     },
     {
       "date": "2026-08-06",
-      "commentary_score": 1.065,
-      "n_items": 35
+      "commentary_score": 1.178,
+      "n_items": 36
     },
     {
       "date": "2026-08-07",
@@ -414,18 +414,18 @@
     },
     {
       "date": "2026-08-12",
-      "commentary_score": 1.379,
-      "n_items": 42
+      "commentary_score": 1.396,
+      "n_items": 41
     },
     {
       "date": "2026-08-13",
-      "commentary_score": 1.829,
-      "n_items": 23
+      "commentary_score": 1.812,
+      "n_items": 25
     },
     {
       "date": "2026-08-14",
-      "commentary_score": 1.521,
-      "n_items": 27
+      "commentary_score": 1.485,
+      "n_items": 25
     },
     {
       "date": "2026-08-15",
@@ -439,23 +439,23 @@
     },
     {
       "date": "2026-08-17",
-      "commentary_score": 1.444,
-      "n_items": 23
-    },
-    {
-      "date": "2026-08-18",
       "commentary_score": 1.394,
       "n_items": 22
     },
     {
+      "date": "2026-08-18",
+      "commentary_score": 1.353,
+      "n_items": 20
+    },
+    {
       "date": "2026-08-19",
-      "commentary_score": 1.042,
+      "commentary_score": 0.936,
       "n_items": 20
     },
     {
       "date": "2026-08-20",
-      "commentary_score": 0.903,
-      "n_items": 16
+      "commentary_score": 0.862,
+      "n_items": 17
     }
   ],
   "key_comments": [
@@ -485,7 +485,7 @@
       "stance": 1.5,
       "phrase": "Fed should be prepared to act if the inflation situation gets out of hand.",
       "headline": "Fed's Daly (2027 voter) says Fed is facing different types of risks when it comes to setting rate policy, while she is completely supportive of holding rates steady in July and noted Fed still needs to gather data to set",
-      "importance": 6.0,
+      "importance": 3.8,
       "reasons": [
         "dove-lean speaker sounded hawkish"
       ]
@@ -516,7 +516,7 @@
       "stance": -1.0,
       "phrase": "Warsh would love to see lower interest rates",
       "headline": "US President Trump says Fed Chair Warsh is brilliant; Warsh has a board, and it is a political one. Warsh would love to see lower interest rates",
-      "importance": 7.7,
+      "importance": 7.78,
       "reasons": [
         "Chair spoke",
         "hawk-lean speaker sounded dovish"
@@ -532,7 +532,7 @@
       "stance": -3.0,
       "phrase": "Rates should be lowered.",
       "headline": "US President Trump says read a very good inflation report the other day; costs are going down rapidly; as soon as the war is over, you'll see a big drop in prices; Fed Chair Warsh is great, but he has a board",
-      "importance": 13.2,
+      "importance": 13.28,
       "reasons": [
         "Chair spoke",
         "hawk-lean speaker sounded dovish",
@@ -586,12 +586,12 @@
       "voting_2026": true,
       "lean_prior": "hawk",
       "n_items": 1,
-      "mean_stance": 2.5,
-      "last_stance": 2.5,
-      "last_phrase": "willing to hike in September if inflation prints in the coming weeks are hot",
-      "last_headline": "Fed Chair Warsh is to stick with lean Fed messaging, despite backlash, FT reports citing sources. Warsh would be willing to hike in September if inflation prints in the coming weeks are hot, & markets",
-      "last_published_at": "2026-08-06T11:00:00+00:00",
-      "last_event_type": "off-the-cuff"
+      "mean_stance": 2.0,
+      "last_stance": 2.0,
+      "last_phrase": "higher rates would likely be necessary if inflation did not fall",
+      "last_headline": "FOMC MINUTES: Most participants assessed higher rates would likely be necessary if inflation did not fall; Most participants at Fed's July 28-29 meeting supported keeping interest rates unchanged, but",
+      "last_published_at": "2026-08-19T18:00:30+00:00",
+      "last_event_type": "minutes"
     },
     {
       "name": "FED (institutional)",
@@ -617,6 +617,19 @@
       "last_phrase": "the labour market is not as strong as the data suggest and considers it vulnerable",
       "last_headline": "Fed's Barkin (2027 voter) says it is hard to know whether policy is restrictive given the uncertainty around economic models",
       "last_published_at": "2026-08-13T14:45:58+00:00",
+      "last_event_type": "other"
+    },
+    {
+      "name": "Mary Daly",
+      "role": "regional_president",
+      "voting_2026": false,
+      "lean_prior": "dove",
+      "n_items": 1,
+      "mean_stance": -1.0,
+      "last_stance": -1.0,
+      "last_phrase": "Modal outlook expects for inflation pressures to fade",
+      "last_headline": "Fed's Daly (2027 voter) says a rise in long-term bond yields is a global issue, which reduces its usefulness as a signal for Fed",
+      "last_published_at": "2026-08-20T12:34:28+00:00",
       "last_event_type": "other"
     },
     {
