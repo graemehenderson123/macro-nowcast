@@ -1,17 +1,12 @@
 {
   "cb": "rbnz",
-  "as_of": "2026-08-19T13:02:59.545198+00:00",
+  "as_of": "2026-08-20T04:34:32.933168+00:00",
   "commentary_score": 0.0,
   "label": "neutral",
-  "n_items_window": 3,
+  "n_items_window": 2,
   "commentary_window_days": 30,
   "n_items_total": 25,
   "history_90d": [
-    {
-      "date": "2026-05-22",
-      "commentary_score": 0.0,
-      "n_items": 0
-    },
     {
       "date": "2026-05-23",
       "commentary_score": 0.0,
@@ -215,7 +210,7 @@
     {
       "date": "2026-07-02",
       "commentary_score": 0.0,
-      "n_items": 1
+      "n_items": 0
     },
     {
       "date": "2026-07-03",
@@ -364,8 +359,8 @@
     },
     {
       "date": "2026-08-01",
-      "commentary_score": 1.348,
-      "n_items": 3
+      "commentary_score": 1.226,
+      "n_items": 4
     },
     {
       "date": "2026-08-02",
@@ -456,6 +451,11 @@
       "date": "2026-08-19",
       "commentary_score": 0.0,
       "n_items": 3
+    },
+    {
+      "date": "2026-08-20",
+      "commentary_score": 0.0,
+      "n_items": 2
     }
   ],
   "key_comments": [],
@@ -465,7 +465,7 @@
       "role": "institutional",
       "voting_2026": true,
       "lean_prior": "neutral",
-      "n_items": 3,
+      "n_items": 2,
       "mean_stance": 0.0,
       "last_stance": 0.0,
       "last_phrase": "",
