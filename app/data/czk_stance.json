@@ -1,17 +1,12 @@
 {
   "cb": "czk",
-  "as_of": "2026-08-22T04:37:43.050918+00:00",
-  "commentary_score": 0.083,
+  "as_of": "2026-08-23T04:32:42.184386+00:00",
+  "commentary_score": 0.015,
   "label": "neutral",
-  "n_items_window": 5,
+  "n_items_window": 4,
   "commentary_window_days": 30,
   "n_items_total": 43,
   "history_90d": [
-    {
-      "date": "2026-05-25",
-      "commentary_score": 1.226,
-      "n_items": 9
-    },
     {
       "date": "2026-05-26",
       "commentary_score": 1.226,
@@ -456,6 +451,11 @@
       "date": "2026-08-22",
       "commentary_score": 0.083,
       "n_items": 5
+    },
+    {
+      "date": "2026-08-23",
+      "commentary_score": 0.015,
+      "n_items": 4
     }
   ],
   "key_comments": [
@@ -474,37 +474,9 @@
         "official CB statement (stance +2.50)",
         "strong policy signal (|stance| = 2.5)"
       ]
-    },
-    {
-      "published_at": "2026-07-23T06:59:00+00:00",
-      "speaker": "Jan Kubicek",
-      "role": "governor",
-      "lean_prior": "hawk",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": 3.0,
-      "phrase": "the central bank may need to raise rates once more",
-      "headline": "CNB member Kubicek says the central bank may need to raise rates once more",
-      "importance": 1.5,
-      "reasons": [
-        "cross-market extreme (|stance| = 3.0)"
-      ]
     }
   ],
   "speakers": [
-    {
-      "name": "Jan Kubicek",
-      "role": "governor",
-      "voting_2026": true,
-      "lean_prior": "hawk",
-      "n_items": 1,
-      "mean_stance": 3.0,
-      "last_stance": 3.0,
-      "last_phrase": "the central bank may need to raise rates once more",
-      "last_headline": "CNB member Kubicek says the central bank may need to raise rates once more",
-      "last_published_at": "2026-07-23T06:59:00+00:00",
-      "last_event_type": "other"
-    },
     {
       "name": "CZK (institutional)",
       "role": "institutional",
