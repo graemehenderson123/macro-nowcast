@@ -1,17 +1,12 @@
 {
   "cb": "fed",
-  "as_of": "2026-08-23T04:32:40.730510+00:00",
+  "as_of": "2026-08-24T04:32:55.010884+00:00",
   "commentary_score": 0.534,
   "label": "neutral",
   "n_items_window": 15,
   "commentary_window_days": 14,
   "n_items_total": 1017,
   "history_90d": [
-    {
-      "date": "2026-05-26",
-      "commentary_score": 1.525,
-      "n_items": 18
-    },
     {
       "date": "2026-05-27",
       "commentary_score": 1.761,
@@ -454,6 +449,11 @@
     },
     {
       "date": "2026-08-23",
+      "commentary_score": 0.534,
+      "n_items": 15
+    },
+    {
+      "date": "2026-08-24",
       "commentary_score": 0.534,
       "n_items": 15
     }

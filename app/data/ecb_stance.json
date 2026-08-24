@@ -1,17 +1,12 @@
 {
   "cb": "ecb",
-  "as_of": "2026-08-23T04:32:40.825553+00:00",
+  "as_of": "2026-08-24T04:32:55.103648+00:00",
   "commentary_score": -0.378,
   "label": "neutral",
   "n_items_window": 5,
   "commentary_window_days": 14,
   "n_items_total": 547,
   "history_90d": [
-    {
-      "date": "2026-05-26",
-      "commentary_score": 0.84,
-      "n_items": 16
-    },
     {
       "date": "2026-05-27",
       "commentary_score": 1.224,
@@ -456,6 +451,11 @@
       "date": "2026-08-23",
       "commentary_score": -0.378,
       "n_items": 5
+    },
+    {
+      "date": "2026-08-24",
+      "commentary_score": -0.378,
+      "n_items": 5
     }
   ],
   "key_comments": [
@@ -502,36 +502,6 @@
       "importance": 1.5,
       "reasons": [
         "cross-market extreme (|stance| = 3.0)"
-      ]
-    },
-    {
-      "published_at": "2026-07-24T10:30:00+00:00",
-      "speaker": "Gabriel Makhlouf",
-      "role": "regional_president",
-      "lean_prior": "neutral",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": -1.0,
-      "phrase": "inflationary pressures have not yet eased",
-      "headline": "ECB's Makhlouf says inflationary pressures have not yet eased, more information will be available in September",
-      "importance": 1.0,
-      "reasons": [
-        "notable move vs own recent tone"
-      ]
-    },
-    {
-      "published_at": "2026-07-24T09:48:00+00:00",
-      "speaker": "Gediminas Simkus",
-      "role": "regional_president",
-      "lean_prior": "hawk",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": 2.0,
-      "phrase": "probability of a hike as higher than a hold",
-      "headline": "ECB's Simkus says uncertainty has been evident over the past six weeks, oil over USD 100/bbl will have repercussions; inflationary environment has increased with risks to the upside",
-      "importance": 0.5,
-      "reasons": [
-        "voter's tone moved more hawkish"
       ]
     }
   ],

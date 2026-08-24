@@ -1,17 +1,12 @@
 {
   "cb": "boj",
-  "as_of": "2026-08-23T04:32:40.996125+00:00",
+  "as_of": "2026-08-24T04:32:55.270252+00:00",
   "commentary_score": 1.332,
   "label": "lean hawkish",
   "n_items_window": 8,
   "commentary_window_days": 30,
   "n_items_total": 187,
   "history_90d": [
-    {
-      "date": "2026-05-26",
-      "commentary_score": 1.532,
-      "n_items": 17
-    },
     {
       "date": "2026-05-27",
       "commentary_score": 1.643,
@@ -456,6 +451,11 @@
       "date": "2026-08-23",
       "commentary_score": 1.332,
       "n_items": 8
+    },
+    {
+      "date": "2026-08-24",
+      "commentary_score": 1.332,
+      "n_items": 8
     }
   ],
   "key_comments": [
@@ -469,7 +469,7 @@
       "stance": 3.0,
       "phrase": "the Bank of Japan now has no choice but to raise interest rates",
       "headline": "September rate hike signal from the BoJ resulted in the US joining in on intervention, Kyodo reports citing sources; BoJ now has \"no choice but to raise interest rates\" in September",
-      "importance": 5.77,
+      "importance": 7.5,
       "reasons": [
         "Chair spoke",
         "notable move vs own recent tone",
@@ -502,7 +502,7 @@
       "stance": 2.5,
       "phrase": "Bank will conduct monetary policy to ensure it does not fall behind the curve.",
       "headline": "BoJ Governor Ueda (Press Conference) says the Bank is gathering information on how the Kumamoto earthquake is affecting the economy and prices",
-      "importance": 4.52,
+      "importance": 6.25,
       "reasons": [
         "Chair spoke",
         "notable move vs own recent tone",

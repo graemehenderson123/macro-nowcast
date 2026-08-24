@@ -1,17 +1,12 @@
 {
   "cb": "boe",
-  "as_of": "2026-08-23T04:32:40.912799+00:00",
+  "as_of": "2026-08-24T04:32:55.189200+00:00",
   "commentary_score": 3.0,
   "label": "hawkish",
   "n_items_window": 1,
   "commentary_window_days": 14,
   "n_items_total": 236,
   "history_90d": [
-    {
-      "date": "2026-05-26",
-      "commentary_score": -1.166,
-      "n_items": 12
-    },
     {
       "date": "2026-05-27",
       "commentary_score": -1.166,
@@ -454,6 +449,11 @@
     },
     {
       "date": "2026-08-23",
+      "commentary_score": 3.0,
+      "n_items": 1
+    },
+    {
+      "date": "2026-08-24",
       "commentary_score": 3.0,
       "n_items": 1
     }
