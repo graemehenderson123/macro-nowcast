@@ -1,11 +1,11 @@
 {
   "cb": "rba",
-  "as_of": "2026-08-25T04:33:11.534013+00:00",
-  "commentary_score": 1.854,
-  "label": "lean hawkish",
-  "n_items_window": 6,
+  "as_of": "2026-08-25T13:02:44.880758+00:00",
+  "commentary_score": 0.594,
+  "label": "neutral",
+  "n_items_window": 8,
   "commentary_window_days": 30,
-  "n_items_total": 53,
+  "n_items_total": 55,
   "history_90d": [
     {
       "date": "2026-05-28",
@@ -44,8 +44,8 @@
     },
     {
       "date": "2026-06-04",
-      "commentary_score": 2.248,
-      "n_items": 3
+      "commentary_score": 1.542,
+      "n_items": 6
     },
     {
       "date": "2026-06-05",
@@ -104,8 +104,8 @@
     },
     {
       "date": "2026-06-16",
-      "commentary_score": 2.821,
-      "n_items": 7
+      "commentary_score": 2.529,
+      "n_items": 8
     },
     {
       "date": "2026-06-17",
@@ -194,8 +194,8 @@
     },
     {
       "date": "2026-07-04",
-      "commentary_score": 2.901,
-      "n_items": 7
+      "commentary_score": 3.005,
+      "n_items": 4
     },
     {
       "date": "2026-07-05",
@@ -254,8 +254,8 @@
     },
     {
       "date": "2026-07-16",
-      "commentary_score": 2.377,
-      "n_items": 4
+      "commentary_score": 2.427,
+      "n_items": 3
     },
     {
       "date": "2026-07-17",
@@ -384,8 +384,8 @@
     },
     {
       "date": "2026-08-11",
-      "commentary_score": 0.243,
-      "n_items": 2
+      "commentary_score": 2.304,
+      "n_items": 4
     },
     {
       "date": "2026-08-12",
@@ -454,8 +454,8 @@
     },
     {
       "date": "2026-08-25",
-      "commentary_score": 1.854,
-      "n_items": 6
+      "commentary_score": 0.594,
+      "n_items": 8
     }
   ],
   "key_comments": [
@@ -524,19 +524,6 @@
   ],
   "speakers": [
     {
-      "name": "RBA (institutional)",
-      "role": "institutional",
-      "voting_2026": true,
-      "lean_prior": "neutral",
-      "n_items": 1,
-      "mean_stance": 3.5,
-      "last_stance": 3.5,
-      "last_phrase": "Board will continue to do what it considers necessary to return inflation sustainably to target, including raising the cash rate further if upside risks materialise.",
-      "last_headline": "RBA keeps the Cash rate unchanged at 4.35%, as expected, while it stated that inflation is still elevated and risks are skewed to the upside, but noted financial conditions appear to somewhat restrict",
-      "last_published_at": "2026-08-11T04:35:50+00:00",
-      "last_event_type": "statement"
-    },
-    {
       "name": "Michele Bullock",
       "role": "chair",
       "voting_2026": true,
@@ -561,6 +548,19 @@
       "last_headline": "RBA's Kent says Board sets level of the Cash Rate it judges will achieve low and stable inflation and full employment, adds borrowing costs have increased, mortgage payments have risen and conditions ",
       "last_published_at": "2026-08-13T00:24:59+00:00",
       "last_event_type": "other"
+    },
+    {
+      "name": "RBA (institutional)",
+      "role": "institutional",
+      "voting_2026": true,
+      "lean_prior": "neutral",
+      "n_items": 3,
+      "mean_stance": 1.283,
+      "last_stance": -1.5,
+      "last_phrase": "active liquidity management will become more important",
+      "last_headline": "RBA's markets head Jacobs goal is a system that can flexibly supply whatever quantity the banking system demands, while keeping the cash rate close to the board's target",
+      "last_published_at": "2026-08-25T04:04:52+00:00",
+      "last_event_type": "statement"
     },
     {
       "name": "Ian Harper",

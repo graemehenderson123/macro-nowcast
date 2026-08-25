@@ -1,11 +1,11 @@
 {
   "cb": "riksbank",
-  "as_of": "2026-08-25T04:33:11.868293+00:00",
-  "commentary_score": 2.171,
-  "label": "hawkish",
-  "n_items_window": 2,
+  "as_of": "2026-08-25T13:02:45.202733+00:00",
+  "commentary_score": 1.988,
+  "label": "lean hawkish",
+  "n_items_window": 3,
   "commentary_window_days": 30,
-  "n_items_total": 36,
+  "n_items_total": 37,
   "history_90d": [
     {
       "date": "2026-05-28",
@@ -14,8 +14,8 @@
     },
     {
       "date": "2026-05-29",
-      "commentary_score": 0.199,
-      "n_items": 5
+      "commentary_score": 0.082,
+      "n_items": 6
     },
     {
       "date": "2026-05-30",
@@ -44,8 +44,8 @@
     },
     {
       "date": "2026-06-04",
-      "commentary_score": 0.082,
-      "n_items": 6
+      "commentary_score": -0.64,
+      "n_items": 7
     },
     {
       "date": "2026-06-05",
@@ -54,8 +54,8 @@
     },
     {
       "date": "2026-06-06",
-      "commentary_score": -0.64,
-      "n_items": 7
+      "commentary_score": -0.637,
+      "n_items": 4
     },
     {
       "date": "2026-06-07",
@@ -84,8 +84,8 @@
     },
     {
       "date": "2026-06-12",
-      "commentary_score": -0.637,
-      "n_items": 4
+      "commentary_score": -0.737,
+      "n_items": 3
     },
     {
       "date": "2026-06-13",
@@ -109,13 +109,13 @@
     },
     {
       "date": "2026-06-17",
-      "commentary_score": -0.737,
-      "n_items": 3
+      "commentary_score": 1.053,
+      "n_items": 4
     },
     {
       "date": "2026-06-18",
       "commentary_score": 1.053,
-      "n_items": 4
+      "n_items": 3
     },
     {
       "date": "2026-06-19",
@@ -144,8 +144,8 @@
     },
     {
       "date": "2026-06-24",
-      "commentary_score": 1.053,
-      "n_items": 3
+      "commentary_score": 1.036,
+      "n_items": 4
     },
     {
       "date": "2026-06-25",
@@ -164,8 +164,8 @@
     },
     {
       "date": "2026-06-28",
-      "commentary_score": 1.036,
-      "n_items": 4
+      "commentary_score": 1.094,
+      "n_items": 3
     },
     {
       "date": "2026-06-29",
@@ -194,8 +194,8 @@
     },
     {
       "date": "2026-07-04",
-      "commentary_score": 1.094,
-      "n_items": 3
+      "commentary_score": 1.316,
+      "n_items": 2
     },
     {
       "date": "2026-07-05",
@@ -259,8 +259,8 @@
     },
     {
       "date": "2026-07-17",
-      "commentary_score": 1.316,
-      "n_items": 2
+      "commentary_score": 1.0,
+      "n_items": 1
     },
     {
       "date": "2026-07-18",
@@ -294,8 +294,8 @@
     },
     {
       "date": "2026-07-24",
-      "commentary_score": 1.0,
-      "n_items": 1
+      "commentary_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-07-25",
@@ -429,8 +429,8 @@
     },
     {
       "date": "2026-08-20",
-      "commentary_score": 0.0,
-      "n_items": 0
+      "commentary_score": 2.171,
+      "n_items": 2
     },
     {
       "date": "2026-08-21",
@@ -454,11 +454,26 @@
     },
     {
       "date": "2026-08-25",
-      "commentary_score": 2.171,
-      "n_items": 2
+      "commentary_score": 1.988,
+      "n_items": 3
     }
   ],
   "key_comments": [
+    {
+      "published_at": "2026-08-25T07:32:11+00:00",
+      "speaker": "Anna Seim",
+      "role": "governor",
+      "lean_prior": "neutral",
+      "voting_2026": true,
+      "event_type": "minutes",
+      "stance": 1.5,
+      "phrase": "the level of vigilance with regard to rising inflation must be high",
+      "headline": "Riksbank Minutes: Seim says still concerned that inflation might become too high",
+      "importance": 1.5,
+      "reasons": [
+        "notable move vs own recent tone"
+      ]
+    },
     {
       "published_at": "2026-08-20T09:04:20+00:00",
       "speaker": "Erik Thed\u00e9en",
@@ -518,6 +533,19 @@
       "last_headline": "Riksbank's Thedeen says they are somewhat concerned about the recent inflation outcomes",
       "last_published_at": "2026-08-20T09:04:20+00:00",
       "last_event_type": "other"
+    },
+    {
+      "name": "Anna Seim",
+      "role": "governor",
+      "voting_2026": true,
+      "lean_prior": "neutral",
+      "n_items": 1,
+      "mean_stance": 1.5,
+      "last_stance": 1.5,
+      "last_phrase": "the level of vigilance with regard to rising inflation must be high",
+      "last_headline": "Riksbank Minutes: Seim says still concerned that inflation might become too high",
+      "last_published_at": "2026-08-25T07:32:11+00:00",
+      "last_event_type": "minutes"
     }
   ],
   "methodology": {
