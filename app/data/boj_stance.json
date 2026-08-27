@@ -1,16 +1,16 @@
 {
   "cb": "boj",
-  "as_of": "2026-08-27T04:34:50.094228+00:00",
-  "commentary_score": 1.633,
-  "label": "lean hawkish",
-  "n_items_window": 10,
+  "as_of": "2026-08-27T13:02:25.097895+00:00",
+  "commentary_score": 2.05,
+  "label": "hawkish",
+  "n_items_window": 12,
   "commentary_window_days": 30,
-  "n_items_total": 189,
+  "n_items_total": 191,
   "history_90d": [
     {
       "date": "2026-05-30",
-      "commentary_score": 1.702,
-      "n_items": 11
+      "commentary_score": 1.719,
+      "n_items": 10
     },
     {
       "date": "2026-05-31",
@@ -29,8 +29,8 @@
     },
     {
       "date": "2026-06-03",
-      "commentary_score": 0.477,
-      "n_items": 11
+      "commentary_score": 0.702,
+      "n_items": 12
     },
     {
       "date": "2026-06-04",
@@ -54,8 +54,8 @@
     },
     {
       "date": "2026-06-08",
-      "commentary_score": 0.695,
-      "n_items": 11
+      "commentary_score": 0.457,
+      "n_items": 12
     },
     {
       "date": "2026-06-09",
@@ -64,13 +64,13 @@
     },
     {
       "date": "2026-06-10",
-      "commentary_score": 0.457,
-      "n_items": 12
+      "commentary_score": 0.746,
+      "n_items": 14
     },
     {
       "date": "2026-06-11",
-      "commentary_score": 0.643,
-      "n_items": 14
+      "commentary_score": 0.653,
+      "n_items": 13
     },
     {
       "date": "2026-06-12",
@@ -94,8 +94,8 @@
     },
     {
       "date": "2026-06-16",
-      "commentary_score": 0.947,
-      "n_items": 14
+      "commentary_score": 0.966,
+      "n_items": 16
     },
     {
       "date": "2026-06-17",
@@ -104,18 +104,18 @@
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 0.887,
-      "n_items": 17
+      "commentary_score": 0.451,
+      "n_items": 18
     },
     {
       "date": "2026-06-19",
-      "commentary_score": 0.473,
-      "n_items": 19
+      "commentary_score": 0.44,
+      "n_items": 20
     },
     {
       "date": "2026-06-20",
-      "commentary_score": 0.43,
-      "n_items": 19
+      "commentary_score": 0.429,
+      "n_items": 18
     },
     {
       "date": "2026-06-21",
@@ -134,13 +134,13 @@
     },
     {
       "date": "2026-06-24",
-      "commentary_score": 0.144,
-      "n_items": 21
+      "commentary_score": 0.039,
+      "n_items": 22
     },
     {
       "date": "2026-06-25",
-      "commentary_score": 0.241,
-      "n_items": 22
+      "commentary_score": 0.365,
+      "n_items": 23
     },
     {
       "date": "2026-06-26",
@@ -179,8 +179,8 @@
     },
     {
       "date": "2026-07-03",
-      "commentary_score": 0.383,
-      "n_items": 20
+      "commentary_score": 0.369,
+      "n_items": 19
     },
     {
       "date": "2026-07-04",
@@ -204,8 +204,8 @@
     },
     {
       "date": "2026-07-08",
-      "commentary_score": -0.551,
-      "n_items": 21
+      "commentary_score": -0.561,
+      "n_items": 20
     },
     {
       "date": "2026-07-09",
@@ -214,8 +214,8 @@
     },
     {
       "date": "2026-07-10",
-      "commentary_score": -0.561,
-      "n_items": 20
+      "commentary_score": -0.638,
+      "n_items": 18
     },
     {
       "date": "2026-07-11",
@@ -244,23 +244,23 @@
     },
     {
       "date": "2026-07-16",
-      "commentary_score": -0.512,
-      "n_items": 16
-    },
-    {
-      "date": "2026-07-17",
       "commentary_score": -0.609,
       "n_items": 14
     },
     {
+      "date": "2026-07-17",
+      "commentary_score": -0.298,
+      "n_items": 15
+    },
+    {
       "date": "2026-07-18",
-      "commentary_score": -0.301,
-      "n_items": 14
+      "commentary_score": -0.274,
+      "n_items": 13
     },
     {
       "date": "2026-07-19",
-      "commentary_score": -0.302,
-      "n_items": 11
+      "commentary_score": -0.306,
+      "n_items": 10
     },
     {
       "date": "2026-07-20",
@@ -284,13 +284,13 @@
     },
     {
       "date": "2026-07-24",
-      "commentary_score": -0.283,
-      "n_items": 7
+      "commentary_score": -0.265,
+      "n_items": 6
     },
     {
       "date": "2026-07-25",
-      "commentary_score": -0.338,
-      "n_items": 5
+      "commentary_score": -0.394,
+      "n_items": 4
     },
     {
       "date": "2026-07-26",
@@ -319,8 +319,8 @@
     },
     {
       "date": "2026-07-31",
-      "commentary_score": 0.471,
-      "n_items": 5
+      "commentary_score": 1.262,
+      "n_items": 7
     },
     {
       "date": "2026-08-01",
@@ -339,8 +339,8 @@
     },
     {
       "date": "2026-08-04",
-      "commentary_score": 1.102,
-      "n_items": 8
+      "commentary_score": 1.27,
+      "n_items": 9
     },
     {
       "date": "2026-08-05",
@@ -369,8 +369,8 @@
     },
     {
       "date": "2026-08-10",
-      "commentary_score": 0.921,
-      "n_items": 9
+      "commentary_score": 1.282,
+      "n_items": 10
     },
     {
       "date": "2026-08-11",
@@ -399,8 +399,8 @@
     },
     {
       "date": "2026-08-16",
-      "commentary_score": 1.293,
-      "n_items": 9
+      "commentary_score": 1.332,
+      "n_items": 8
     },
     {
       "date": "2026-08-17",
@@ -454,11 +454,45 @@
     },
     {
       "date": "2026-08-27",
-      "commentary_score": 1.633,
-      "n_items": 10
+      "commentary_score": 2.05,
+      "n_items": 12
     }
   ],
   "key_comments": [
+    {
+      "published_at": "2026-08-27T05:10:37+00:00",
+      "speaker": "Ryozo Himino",
+      "role": "vice_chair",
+      "lean_prior": "neutral",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": 2.5,
+      "phrase": "Could speed up rate hikes if financial conditions remain too loose",
+      "headline": "BoJ Deputy Governor Himino says won't comment on market expectations regarding BoJ rate hike moves, adds BOJ will look at likelihood of its scenario and risks including Middle East conflict, AI demand, FX impact, in dete",
+      "importance": 6.25,
+      "reasons": [
+        "Vice Chair spoke",
+        "notable move vs own recent tone",
+        "cross-market extreme (|stance| = 2.5)"
+      ]
+    },
+    {
+      "published_at": "2026-08-27T01:39:08+00:00",
+      "speaker": "Ryozo Himino",
+      "role": "vice_chair",
+      "lean_prior": "neutral",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": 3.5,
+      "phrase": "BoJ should continue to raise the policy interest rate and adjust the degree of monetary accommodation",
+      "headline": "BoJ Deputy Governor Himino says believe the BoJ should continue to raise the policy interest rate and adjust the degree of monetary accommodation in accordance with developments in economic activity, prices and financial",
+      "importance": 8.75,
+      "reasons": [
+        "Vice Chair spoke",
+        "notable move vs own recent tone",
+        "cross-market extreme (|stance| = 3.5)"
+      ]
+    },
     {
       "published_at": "2026-08-10T12:08:59+00:00",
       "speaker": "Kazuo Ueda",
@@ -511,6 +545,19 @@
     }
   ],
   "speakers": [
+    {
+      "name": "Ryozo Himino",
+      "role": "vice_chair",
+      "voting_2026": true,
+      "lean_prior": "neutral",
+      "n_items": 2,
+      "mean_stance": 3.033,
+      "last_stance": 2.5,
+      "last_phrase": "Could speed up rate hikes if financial conditions remain too loose",
+      "last_headline": "BoJ Deputy Governor Himino says won't comment on market expectations regarding BoJ rate hike moves, adds BOJ will look at likelihood of its scenario and risks including Middle East conflict, AI demand",
+      "last_published_at": "2026-08-27T05:10:37+00:00",
+      "last_event_type": "other"
+    },
     {
       "name": "BOJ (institutional)",
       "role": "institutional",

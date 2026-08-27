@@ -1,11 +1,11 @@
 {
   "cb": "fed",
-  "as_of": "2026-08-27T04:34:49.818505+00:00",
-  "commentary_score": 1.312,
+  "as_of": "2026-08-27T13:02:24.828532+00:00",
+  "commentary_score": 1.07,
   "label": "lean hawkish",
-  "n_items_window": 13,
+  "n_items_window": 14,
   "commentary_window_days": 14,
-  "n_items_total": 1022,
+  "n_items_total": 1026,
   "history_90d": [
     {
       "date": "2026-05-30",
@@ -24,8 +24,8 @@
     },
     {
       "date": "2026-06-02",
-      "commentary_score": 1.485,
-      "n_items": 25
+      "commentary_score": 1.307,
+      "n_items": 27
     },
     {
       "date": "2026-06-03",
@@ -64,8 +64,8 @@
     },
     {
       "date": "2026-06-10",
-      "commentary_score": 0.764,
-      "n_items": 28
+      "commentary_score": 0.744,
+      "n_items": 27
     },
     {
       "date": "2026-06-11",
@@ -74,8 +74,8 @@
     },
     {
       "date": "2026-06-12",
-      "commentary_score": 0.556,
-      "n_items": 20
+      "commentary_score": 0.54,
+      "n_items": 15
     },
     {
       "date": "2026-06-13",
@@ -94,8 +94,8 @@
     },
     {
       "date": "2026-06-16",
-      "commentary_score": 0.683,
-      "n_items": 12
+      "commentary_score": 0.761,
+      "n_items": 10
     },
     {
       "date": "2026-06-17",
@@ -129,13 +129,13 @@
     },
     {
       "date": "2026-06-23",
-      "commentary_score": 1.91,
-      "n_items": 22
+      "commentary_score": 1.705,
+      "n_items": 23
     },
     {
       "date": "2026-06-24",
-      "commentary_score": 1.554,
-      "n_items": 24
+      "commentary_score": 1.551,
+      "n_items": 25
     },
     {
       "date": "2026-06-25",
@@ -144,8 +144,8 @@
     },
     {
       "date": "2026-06-26",
-      "commentary_score": 1.385,
-      "n_items": 29
+      "commentary_score": 1.305,
+      "n_items": 30
     },
     {
       "date": "2026-06-27",
@@ -159,8 +159,8 @@
     },
     {
       "date": "2026-06-29",
-      "commentary_score": 1.287,
-      "n_items": 32
+      "commentary_score": 1.228,
+      "n_items": 33
     },
     {
       "date": "2026-06-30",
@@ -174,8 +174,8 @@
     },
     {
       "date": "2026-07-02",
-      "commentary_score": 0.358,
-      "n_items": 24
+      "commentary_score": 0.303,
+      "n_items": 25
     },
     {
       "date": "2026-07-03",
@@ -199,13 +199,13 @@
     },
     {
       "date": "2026-07-07",
-      "commentary_score": 0.331,
-      "n_items": 28
+      "commentary_score": 0.38,
+      "n_items": 27
     },
     {
       "date": "2026-07-08",
-      "commentary_score": 0.373,
-      "n_items": 27
+      "commentary_score": 0.34,
+      "n_items": 26
     },
     {
       "date": "2026-07-09",
@@ -214,8 +214,8 @@
     },
     {
       "date": "2026-07-10",
-      "commentary_score": 0.808,
-      "n_items": 26
+      "commentary_score": 0.827,
+      "n_items": 25
     },
     {
       "date": "2026-07-11",
@@ -229,23 +229,23 @@
     },
     {
       "date": "2026-07-13",
-      "commentary_score": 0.835,
-      "n_items": 25
+      "commentary_score": 0.849,
+      "n_items": 24
     },
     {
       "date": "2026-07-14",
-      "commentary_score": 1.31,
-      "n_items": 22
+      "commentary_score": 1.468,
+      "n_items": 23
     },
     {
       "date": "2026-07-15",
-      "commentary_score": 1.536,
-      "n_items": 25
+      "commentary_score": 1.612,
+      "n_items": 26
     },
     {
       "date": "2026-07-16",
-      "commentary_score": 1.34,
-      "n_items": 26
+      "commentary_score": 1.357,
+      "n_items": 25
     },
     {
       "date": "2026-07-17",
@@ -269,8 +269,8 @@
     },
     {
       "date": "2026-07-21",
-      "commentary_score": 1.61,
-      "n_items": 26
+      "commentary_score": 1.43,
+      "n_items": 27
     },
     {
       "date": "2026-07-22",
@@ -304,12 +304,12 @@
     },
     {
       "date": "2026-07-28",
-      "commentary_score": 0.377,
-      "n_items": 17
+      "commentary_score": 0.205,
+      "n_items": 16
     },
     {
       "date": "2026-07-29",
-      "commentary_score": -0.032,
+      "commentary_score": -0.131,
       "n_items": 14
     },
     {
@@ -319,8 +319,8 @@
     },
     {
       "date": "2026-07-31",
-      "commentary_score": 0.446,
-      "n_items": 24
+      "commentary_score": 0.571,
+      "n_items": 26
     },
     {
       "date": "2026-08-01",
@@ -334,23 +334,23 @@
     },
     {
       "date": "2026-08-03",
-      "commentary_score": 0.664,
-      "n_items": 27
-    },
-    {
-      "date": "2026-08-04",
       "commentary_score": 0.785,
       "n_items": 28
     },
     {
+      "date": "2026-08-04",
+      "commentary_score": 0.903,
+      "n_items": 29
+    },
+    {
       "date": "2026-08-05",
-      "commentary_score": 0.959,
-      "n_items": 30
+      "commentary_score": 1.04,
+      "n_items": 31
     },
     {
       "date": "2026-08-06",
-      "commentary_score": 1.065,
-      "n_items": 35
+      "commentary_score": 1.178,
+      "n_items": 36
     },
     {
       "date": "2026-08-07",
@@ -379,18 +379,18 @@
     },
     {
       "date": "2026-08-12",
-      "commentary_score": 1.379,
-      "n_items": 42
+      "commentary_score": 1.396,
+      "n_items": 41
     },
     {
       "date": "2026-08-13",
-      "commentary_score": 1.829,
-      "n_items": 23
+      "commentary_score": 1.812,
+      "n_items": 25
     },
     {
       "date": "2026-08-14",
-      "commentary_score": 1.521,
-      "n_items": 27
+      "commentary_score": 1.485,
+      "n_items": 25
     },
     {
       "date": "2026-08-15",
@@ -404,22 +404,22 @@
     },
     {
       "date": "2026-08-17",
-      "commentary_score": 1.444,
-      "n_items": 23
-    },
-    {
-      "date": "2026-08-18",
       "commentary_score": 1.394,
       "n_items": 22
     },
     {
+      "date": "2026-08-18",
+      "commentary_score": 1.353,
+      "n_items": 20
+    },
+    {
       "date": "2026-08-19",
-      "commentary_score": 1.042,
+      "commentary_score": 0.936,
       "n_items": 20
     },
     {
       "date": "2026-08-20",
-      "commentary_score": 1.079,
+      "commentary_score": 0.862,
       "n_items": 17
     },
     {
@@ -454,8 +454,8 @@
     },
     {
       "date": "2026-08-27",
-      "commentary_score": 1.312,
-      "n_items": 13
+      "commentary_score": 1.07,
+      "n_items": 14
     }
   ],
   "key_comments": [
@@ -540,19 +540,6 @@
   ],
   "speakers": [
     {
-      "name": "Beth Hammack",
-      "role": "regional_president",
-      "voting_2026": true,
-      "lean_prior": "hawk",
-      "n_items": 1,
-      "mean_stance": 3.0,
-      "last_stance": 3.0,
-      "last_phrase": "Need some restraint from monetary policy to bring down inflation",
-      "last_headline": "Fed's Hammack (Voter, Hawkish Dissenter) reiterates the need to raise rates right now; labour market is stable, inflation data amid recent shocks has risen",
-      "last_published_at": "2026-08-13T12:37:17+00:00",
-      "last_event_type": "other"
-    },
-    {
       "name": "FED (institutional)",
       "role": "institutional",
       "voting_2026": true,
@@ -576,6 +563,19 @@
       "last_phrase": "It would be appropriate to raise interest rates soon absent evidence of sustained disinflation.",
       "last_headline": "Fed's Collins (2028 Voter) says inflation is still too high, and is concerned about price stability part of the Fed's mandate; labour market consistent with full employment, economy growing at a near-",
       "last_published_at": "2026-08-25T14:03:31+00:00",
+      "last_event_type": "other"
+    },
+    {
+      "name": "Jeffrey Schmid",
+      "role": "regional_president",
+      "voting_2026": false,
+      "lean_prior": "hawk",
+      "n_items": 1,
+      "mean_stance": 1.5,
+      "last_stance": 1.5,
+      "last_phrase": "Inflation is stubborn and sticky.",
+      "last_headline": "Fed's Schmid says mid-terms will not affect the Fed's October meeting, does not see Fed's credibility as damaged in recent weeks; would probably have supported rate hike in July meeting",
+      "last_published_at": "2026-08-27T11:32:23+00:00",
       "last_event_type": "other"
     },
     {
@@ -605,29 +605,29 @@
       "last_event_type": "other"
     },
     {
-      "name": "Thomas Barkin",
-      "role": "regional_president",
-      "voting_2026": false,
-      "lean_prior": "neutral",
-      "n_items": 2,
-      "mean_stance": -1.25,
-      "last_stance": -1.5,
-      "last_phrase": "the labour market is not as strong as the data suggest and considers it vulnerable",
-      "last_headline": "Fed's Barkin (2027 voter) says it is hard to know whether policy is restrictive given the uncertainty around economic models",
-      "last_published_at": "2026-08-13T14:45:58+00:00",
-      "last_event_type": "other"
-    },
-    {
       "name": "Austan Goolsbee",
       "role": "regional_president",
       "voting_2026": false,
       "lean_prior": "dove",
+      "n_items": 2,
+      "mean_stance": -1.273,
+      "last_stance": -1.0,
+      "last_phrase": "Political interference on central banks generally leads to inflation.",
+      "last_headline": "Fed's Goolsbee (2027 voter, neutral) says he is trying to figure out if inflation shocks are persistent",
+      "last_published_at": "2026-08-27T11:56:14+00:00",
+      "last_event_type": "other"
+    },
+    {
+      "name": "Thomas Barkin",
+      "role": "regional_president",
+      "voting_2026": false,
+      "lean_prior": "neutral",
       "n_items": 1,
       "mean_stance": -1.5,
       "last_stance": -1.5,
-      "last_phrase": "can get inflation heading back to 2%",
-      "last_headline": "Fed's Goolsbee (2027 voter) says have been getting a little bit better readings on inflation, which he hopes will continue",
-      "last_published_at": "2026-08-13T22:15:11+00:00",
+      "last_phrase": "the labour market is not as strong as the data suggest and considers it vulnerable",
+      "last_headline": "Fed's Barkin (2027 voter) says it is hard to know whether policy is restrictive given the uncertainty around economic models",
+      "last_published_at": "2026-08-13T14:45:58+00:00",
       "last_event_type": "other"
     },
     {

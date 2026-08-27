@@ -1,11 +1,11 @@
 {
   "cb": "krw",
-  "as_of": "2026-08-27T04:34:50.745319+00:00",
-  "commentary_score": 2.987,
+  "as_of": "2026-08-27T13:02:25.783067+00:00",
+  "commentary_score": 2.897,
   "label": "hawkish",
-  "n_items_window": 3,
+  "n_items_window": 5,
   "commentary_window_days": 30,
-  "n_items_total": 34,
+  "n_items_total": 36,
   "history_90d": [
     {
       "date": "2026-05-30",
@@ -339,8 +339,8 @@
     },
     {
       "date": "2026-08-04",
-      "commentary_score": 3.208,
-      "n_items": 6
+      "commentary_score": 2.867,
+      "n_items": 7
     },
     {
       "date": "2026-08-05",
@@ -454,11 +454,28 @@
     },
     {
       "date": "2026-08-27",
-      "commentary_score": 2.987,
-      "n_items": 3
+      "commentary_score": 2.897,
+      "n_items": 5
     }
   ],
   "key_comments": [
+    {
+      "published_at": "2026-08-27T02:25:29+00:00",
+      "speaker": "Shin Hyun Song",
+      "role": "chair",
+      "lean_prior": "neutral",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": 3.5,
+      "phrase": "back-to-back rate hike was necessary to preemptively respond",
+      "headline": "BoK Governor Shin says inflationary pressure looks like it is here to stay, and back-to-back rate hike was necessary to preemptively respond, and needed to act by raising interest rates before inflationary pressures grow",
+      "importance": 5.8,
+      "reasons": [
+        "Chair spoke",
+        "notable move vs own recent tone",
+        "cross-market extreme (|stance| = 3.5)"
+      ]
+    },
     {
       "published_at": "2026-07-29T03:38:00+00:00",
       "speaker": "Shin Hyun Song",
@@ -469,7 +486,7 @@
       "stance": 3.5,
       "phrase": "most rational to maintain a tightening stance to control core inflation",
       "headline": "BoK Governor Shin says most rational to maintain a tightening stance to control core inflation, adds timing and degree of policy response will depend on upcoming data and economic conditions",
-      "importance": 8.75,
+      "importance": 5.8,
       "reasons": [
         "Chair spoke",
         "notable move vs own recent tone",
@@ -499,12 +516,12 @@
       "role": "chair",
       "voting_2026": true,
       "lean_prior": "neutral",
-      "n_items": 1,
+      "n_items": 2,
       "mean_stance": 3.5,
       "last_stance": 3.5,
-      "last_phrase": "most rational to maintain a tightening stance to control core inflation",
-      "last_headline": "BoK Governor Shin says most rational to maintain a tightening stance to control core inflation, adds timing and degree of policy response will depend on upcoming data and economic conditions",
-      "last_published_at": "2026-07-29T03:38:00+00:00",
+      "last_phrase": "back-to-back rate hike was necessary to preemptively respond",
+      "last_headline": "BoK Governor Shin says inflationary pressure looks like it is here to stay, and back-to-back rate hike was necessary to preemptively respond, and needed to act by raising interest rates before inflati",
+      "last_published_at": "2026-08-27T02:25:29+00:00",
       "last_event_type": "other"
     },
     {
@@ -512,13 +529,13 @@
       "role": "institutional",
       "voting_2026": true,
       "lean_prior": "neutral",
-      "n_items": 2,
-      "mean_stance": 2.8,
-      "last_stance": 2.0,
-      "last_phrase": "timing and pace of any further rate hikes should be determined with primary emphasis on inflation",
-      "last_headline": "BoK Minutes states that one member said timing and pace of any further rate hikes should be determined with primary emphasis on inflation",
-      "last_published_at": "2026-08-04T07:05:00+00:00",
-      "last_event_type": "other"
+      "n_items": 3,
+      "mean_stance": 2.705,
+      "last_stance": 2.5,
+      "last_phrase": "inflation is projected to remain above target level for a considerable time",
+      "last_headline": "BoK says rate decision was not unanimouse as Board Member Hwang dissented on rate decision, while inflation is projected to remain above target level for a considerable time",
+      "last_published_at": "2026-08-27T01:39:49+00:00",
+      "last_event_type": "statement"
     }
   ],
   "methodology": {
