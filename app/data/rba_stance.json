@@ -1,17 +1,12 @@
 {
   "cb": "rba",
-  "as_of": "2026-08-26T04:33:59.840401+00:00",
-  "commentary_score": 0.594,
+  "as_of": "2026-08-27T04:34:50.176553+00:00",
+  "commentary_score": 0.583,
   "label": "neutral",
-  "n_items_window": 8,
+  "n_items_window": 7,
   "commentary_window_days": 30,
   "n_items_total": 55,
   "history_90d": [
-    {
-      "date": "2026-05-29",
-      "commentary_score": 2.289,
-      "n_items": 3
-    },
     {
       "date": "2026-05-30",
       "commentary_score": 2.289,
@@ -456,6 +451,11 @@
       "date": "2026-08-26",
       "commentary_score": 0.594,
       "n_items": 8
+    },
+    {
+      "date": "2026-08-27",
+      "commentary_score": 0.583,
+      "n_items": 7
     }
   ],
   "key_comments": [
@@ -505,21 +505,6 @@
         "official CB statement (stance +3.50)",
         "strong policy signal (|stance| = 3.5)"
       ]
-    },
-    {
-      "published_at": "2026-07-28T03:05:00+00:00",
-      "speaker": "Michele Bullock",
-      "role": "chair",
-      "lean_prior": "hawk",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": 1.5,
-      "phrase": "Policy works with a lag, meaning the full impact of this year's rate increases has yet to emerge.",
-      "headline": "RBA Governor Bullock says board is ready to hike cash rate further if needed, while key question is if tightening already delivered is enough to slow inflation",
-      "importance": 3.0,
-      "reasons": [
-        "Chair spoke"
-      ]
     }
   ],
   "speakers": [
@@ -528,8 +513,8 @@
       "role": "chair",
       "voting_2026": true,
       "lean_prior": "hawk",
-      "n_items": 2,
-      "mean_stance": 2.25,
+      "n_items": 1,
+      "mean_stance": 3.0,
       "last_stance": 3.0,
       "last_phrase": "will raise rates again if needed",
       "last_headline": "RBA Governor Bullock says board hopes to slow the economy the economy, sees upside risks to inflation; will raise rates again if needed",

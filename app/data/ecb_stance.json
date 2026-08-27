@@ -1,17 +1,12 @@
 {
   "cb": "ecb",
-  "as_of": "2026-08-26T04:33:59.590881+00:00",
-  "commentary_score": -0.314,
+  "as_of": "2026-08-27T04:34:49.917462+00:00",
+  "commentary_score": 0.626,
   "label": "neutral",
-  "n_items_window": 6,
+  "n_items_window": 7,
   "commentary_window_days": 14,
-  "n_items_total": 548,
+  "n_items_total": 550,
   "history_90d": [
-    {
-      "date": "2026-05-29",
-      "commentary_score": 1.58,
-      "n_items": 15
-    },
     {
       "date": "2026-05-30",
       "commentary_score": 1.599,
@@ -456,9 +451,29 @@
       "date": "2026-08-26",
       "commentary_score": -0.314,
       "n_items": 6
+    },
+    {
+      "date": "2026-08-27",
+      "commentary_score": 0.626,
+      "n_items": 7
     }
   ],
   "key_comments": [
+    {
+      "published_at": "2026-08-26T05:17:01+00:00",
+      "speaker": "Isabel Schnabel",
+      "role": "governor",
+      "lean_prior": "hawk",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": 3.5,
+      "phrase": "rates must increase further on inflation risks",
+      "headline": "ECB's Schnabel says rates must increase further on inflation risks and ECB must prevent second round effects early on",
+      "importance": 2.25,
+      "reasons": [
+        "cross-market extreme (|stance| = 3.5)"
+      ]
+    },
     {
       "published_at": "2026-08-21T07:15:18+00:00",
       "speaker": "Martins Kazaks",
@@ -488,24 +503,22 @@
       "reasons": [
         "notable move vs own recent tone"
       ]
-    },
-    {
-      "published_at": "2026-07-27T08:00:00+00:00",
-      "speaker": "Peter Kazimir",
-      "role": "regional_president",
-      "lean_prior": "hawk",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": 3.0,
-      "phrase": "at least one more hike needed as part of measured adjustment to inflation risks",
-      "headline": "ECB\u2019s Kazimir says second round effects are costly to reverse, ECB must act before they are visible; at least one more hike needed as part of measured adjustment to inflation risks",
-      "importance": 1.5,
-      "reasons": [
-        "cross-market extreme (|stance| = 3.0)"
-      ]
     }
   ],
   "speakers": [
+    {
+      "name": "Isabel Schnabel",
+      "role": "governor",
+      "voting_2026": true,
+      "lean_prior": "hawk",
+      "n_items": 1,
+      "mean_stance": 3.5,
+      "last_stance": 3.5,
+      "last_phrase": "rates must increase further on inflation risks",
+      "last_headline": "ECB's Schnabel says rates must increase further on inflation risks and ECB must prevent second round effects early on",
+      "last_published_at": "2026-08-26T05:17:01+00:00",
+      "last_event_type": "other"
+    },
     {
       "name": "Philip Lane",
       "role": "chief_economist",

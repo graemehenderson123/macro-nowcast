@@ -1,17 +1,12 @@
 {
   "cb": "snb",
-  "as_of": "2026-08-26T04:34:00.079505+00:00",
-  "commentary_score": -3.0,
-  "label": "dovish",
-  "n_items_window": 1,
+  "as_of": "2026-08-27T04:34:50.422989+00:00",
+  "commentary_score": -0.961,
+  "label": "lean dovish",
+  "n_items_window": 2,
   "commentary_window_days": 30,
-  "n_items_total": 54,
+  "n_items_total": 55,
   "history_90d": [
-    {
-      "date": "2026-05-29",
-      "commentary_score": -0.682,
-      "n_items": 4
-    },
     {
       "date": "2026-05-30",
       "commentary_score": -0.682,
@@ -456,6 +451,11 @@
       "date": "2026-08-26",
       "commentary_score": -3.0,
       "n_items": 1
+    },
+    {
+      "date": "2026-08-27",
+      "commentary_score": -0.961,
+      "n_items": 2
     }
   ],
   "key_comments": [
@@ -476,6 +476,19 @@
     }
   ],
   "speakers": [
+    {
+      "name": "Antoine Martin",
+      "role": "vice_chair",
+      "voting_2026": true,
+      "lean_prior": "dove",
+      "n_items": 1,
+      "mean_stance": 0.0,
+      "last_stance": 0.0,
+      "last_phrase": "",
+      "last_headline": "SNB's Martin backs government's proposals for tougher capital rules for UBS (UBSG SW)",
+      "last_published_at": "2026-08-26T16:17:37+00:00",
+      "last_event_type": "other"
+    },
     {
       "name": "Petra Tschudin",
       "role": "governor",

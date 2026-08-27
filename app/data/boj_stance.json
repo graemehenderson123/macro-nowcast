@@ -1,17 +1,12 @@
 {
   "cb": "boj",
-  "as_of": "2026-08-26T04:33:59.758615+00:00",
-  "commentary_score": 2.289,
-  "label": "hawkish",
-  "n_items_window": 9,
+  "as_of": "2026-08-27T04:34:50.094228+00:00",
+  "commentary_score": 1.633,
+  "label": "lean hawkish",
+  "n_items_window": 10,
   "commentary_window_days": 30,
-  "n_items_total": 188,
+  "n_items_total": 189,
   "history_90d": [
-    {
-      "date": "2026-05-29",
-      "commentary_score": 1.702,
-      "n_items": 11
-    },
     {
       "date": "2026-05-30",
       "commentary_score": 1.702,
@@ -454,8 +449,13 @@
     },
     {
       "date": "2026-08-26",
-      "commentary_score": 2.289,
-      "n_items": 9
+      "commentary_score": 1.633,
+      "n_items": 10
+    },
+    {
+      "date": "2026-08-27",
+      "commentary_score": 1.633,
+      "n_items": 10
     }
   ],
   "key_comments": [
@@ -512,19 +512,6 @@
   ],
   "speakers": [
     {
-      "name": "Kazuo Ueda",
-      "role": "chair",
-      "voting_2026": true,
-      "lean_prior": "neutral",
-      "n_items": 2,
-      "mean_stance": 2.75,
-      "last_stance": 3.0,
-      "last_phrase": "the Bank of Japan now has no choice but to raise interest rates",
-      "last_headline": "September rate hike signal from the BoJ resulted in the US joining in on intervention, Kyodo reports citing sources; BoJ now has \"no choice but to raise interest rates\" in September",
-      "last_published_at": "2026-08-10T12:08:59+00:00",
-      "last_event_type": "other"
-    },
-    {
       "name": "BOJ (institutional)",
       "role": "institutional",
       "voting_2026": true,
@@ -536,6 +523,19 @@
       "last_headline": "Former BoJ Board Member Adachi says the BoJ will probably raise the benchmark interest rate next month, stating the BoJ is pretty much boxed in, markets have almost fully priced in a hike, and if the ",
       "last_published_at": "2026-08-24T21:31:47+00:00",
       "last_event_type": "statement"
+    },
+    {
+      "name": "Kazuo Ueda",
+      "role": "chair",
+      "voting_2026": true,
+      "lean_prior": "neutral",
+      "n_items": 3,
+      "mean_stance": 1.76,
+      "last_stance": 0.0,
+      "last_phrase": "",
+      "last_headline": "BoJ Governor Ueda will not attend this week's Jackson Hole meeting, with Board Member Tamura to attend on Ueda's behalf",
+      "last_published_at": "2026-08-26T00:55:48+00:00",
+      "last_event_type": "other"
     },
     {
       "name": "Hajime Takata",
