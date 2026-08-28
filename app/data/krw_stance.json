@@ -1,17 +1,12 @@
 {
   "cb": "krw",
-  "as_of": "2026-08-27T13:02:25.783067+00:00",
-  "commentary_score": 2.897,
+  "as_of": "2026-08-28T04:33:03.227223+00:00",
+  "commentary_score": 2.862,
   "label": "hawkish",
-  "n_items_window": 5,
+  "n_items_window": 3,
   "commentary_window_days": 30,
   "n_items_total": 36,
   "history_90d": [
-    {
-      "date": "2026-05-30",
-      "commentary_score": 1.111,
-      "n_items": 6
-    },
     {
       "date": "2026-05-31",
       "commentary_score": 1.111,
@@ -339,8 +334,8 @@
     },
     {
       "date": "2026-08-04",
-      "commentary_score": 2.867,
-      "n_items": 7
+      "commentary_score": 3.208,
+      "n_items": 6
     },
     {
       "date": "2026-08-05",
@@ -456,6 +451,11 @@
       "date": "2026-08-27",
       "commentary_score": 2.897,
       "n_items": 5
+    },
+    {
+      "date": "2026-08-28",
+      "commentary_score": 2.862,
+      "n_items": 3
     }
   ],
   "key_comments": [
@@ -477,36 +477,19 @@
       ]
     },
     {
-      "published_at": "2026-07-29T03:38:00+00:00",
-      "speaker": "Shin Hyun Song",
-      "role": "chair",
-      "lean_prior": "neutral",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": 3.5,
-      "phrase": "most rational to maintain a tightening stance to control core inflation",
-      "headline": "BoK Governor Shin says most rational to maintain a tightening stance to control core inflation, adds timing and degree of policy response will depend on upcoming data and economic conditions",
-      "importance": 5.8,
-      "reasons": [
-        "Chair spoke",
-        "notable move vs own recent tone",
-        "cross-market extreme (|stance| = 3.5)"
-      ]
-    },
-    {
-      "published_at": "2026-07-29T01:01:00+00:00",
+      "published_at": "2026-08-27T01:39:49+00:00",
       "speaker": "KRW (institutional)",
       "role": "institutional",
       "lean_prior": "neutral",
       "voting_2026": true,
       "event_type": "statement",
-      "stance": 3.5,
-      "phrase": "necessary to maintain a tightening policy stance",
-      "headline": "BoK says necessary to be more cautious about risks related to house prices and household debt, adds inflation will exceed target in H2, adds will continue making market stabilising efforts and necessary to maintain a tig",
-      "importance": 5.25,
+      "stance": 2.5,
+      "phrase": "inflation is projected to remain above target level for a considerable time",
+      "headline": "BoK says rate decision was not unanimouse as Board Member Hwang dissented on rate decision, while inflation is projected to remain above target level for a considerable time",
+      "importance": 3.75,
       "reasons": [
-        "official CB statement (stance +3.50)",
-        "strong policy signal (|stance| = 3.5)"
+        "official CB statement (stance +2.50)",
+        "strong policy signal (|stance| = 2.5)"
       ]
     }
   ],
@@ -516,7 +499,7 @@
       "role": "chair",
       "voting_2026": true,
       "lean_prior": "neutral",
-      "n_items": 2,
+      "n_items": 1,
       "mean_stance": 3.5,
       "last_stance": 3.5,
       "last_phrase": "back-to-back rate hike was necessary to preemptively respond",
@@ -529,8 +512,8 @@
       "role": "institutional",
       "voting_2026": true,
       "lean_prior": "neutral",
-      "n_items": 3,
-      "mean_stance": 2.705,
+      "n_items": 2,
+      "mean_stance": 2.25,
       "last_stance": 2.5,
       "last_phrase": "inflation is projected to remain above target level for a considerable time",
       "last_headline": "BoK says rate decision was not unanimouse as Board Member Hwang dissented on rate decision, while inflation is projected to remain above target level for a considerable time",
