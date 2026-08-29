@@ -1,21 +1,16 @@
 {
   "cb": "boe",
-  "as_of": "2026-08-28T13:02:49.808929+00:00",
-  "commentary_score": 0.0,
-  "label": "neutral",
-  "n_items_window": 0,
+  "as_of": "2026-08-29T04:32:42.941392+00:00",
+  "commentary_score": -0.86,
+  "label": "lean dovish",
+  "n_items_window": 2,
   "commentary_window_days": 14,
-  "n_items_total": 236,
+  "n_items_total": 238,
   "history_90d": [
     {
-      "date": "2026-05-31",
-      "commentary_score": -0.93,
-      "n_items": 13
-    },
-    {
       "date": "2026-06-01",
-      "commentary_score": -0.923,
-      "n_items": 11
+      "commentary_score": -0.925,
+      "n_items": 12
     },
     {
       "date": "2026-06-02",
@@ -29,8 +24,8 @@
     },
     {
       "date": "2026-06-04",
-      "commentary_score": -0.217,
-      "n_items": 8
+      "commentary_score": -0.274,
+      "n_items": 9
     },
     {
       "date": "2026-06-05",
@@ -49,8 +44,8 @@
     },
     {
       "date": "2026-06-08",
-      "commentary_score": -0.038,
-      "n_items": 9
+      "commentary_score": -0.043,
+      "n_items": 8
     },
     {
       "date": "2026-06-09",
@@ -64,13 +59,13 @@
     },
     {
       "date": "2026-06-11",
-      "commentary_score": -0.04,
-      "n_items": 8
+      "commentary_score": -0.038,
+      "n_items": 9
     },
     {
       "date": "2026-06-12",
-      "commentary_score": 0.071,
-      "n_items": 7
+      "commentary_score": -0.04,
+      "n_items": 8
     },
     {
       "date": "2026-06-13",
@@ -99,8 +94,8 @@
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 0.126,
-      "n_items": 10
+      "commentary_score": 0.0,
+      "n_items": 3
     },
     {
       "date": "2026-06-19",
@@ -119,7 +114,7 @@
     },
     {
       "date": "2026-06-22",
-      "commentary_score": 0.108,
+      "commentary_score": 0.131,
       "n_items": 8
     },
     {
@@ -154,8 +149,8 @@
     },
     {
       "date": "2026-06-29",
-      "commentary_score": -0.138,
-      "n_items": 11
+      "commentary_score": -0.155,
+      "n_items": 10
     },
     {
       "date": "2026-06-30",
@@ -169,8 +164,8 @@
     },
     {
       "date": "2026-07-02",
-      "commentary_score": -0.798,
-      "n_items": 7
+      "commentary_score": -0.469,
+      "n_items": 14
     },
     {
       "date": "2026-07-03",
@@ -189,13 +184,13 @@
     },
     {
       "date": "2026-07-06",
-      "commentary_score": -0.224,
-      "n_items": 9
+      "commentary_score": -0.205,
+      "n_items": 10
     },
     {
       "date": "2026-07-07",
-      "commentary_score": -0.119,
-      "n_items": 12
+      "commentary_score": -0.224,
+      "n_items": 9
     },
     {
       "date": "2026-07-08",
@@ -224,13 +219,13 @@
     },
     {
       "date": "2026-07-13",
-      "commentary_score": 0.144,
-      "n_items": 10
+      "commentary_score": 0.139,
+      "n_items": 11
     },
     {
       "date": "2026-07-14",
-      "commentary_score": 0.105,
-      "n_items": 11
+      "commentary_score": 0.144,
+      "n_items": 10
     },
     {
       "date": "2026-07-15",
@@ -239,8 +234,8 @@
     },
     {
       "date": "2026-07-16",
-      "commentary_score": -0.189,
-      "n_items": 9
+      "commentary_score": 0.317,
+      "n_items": 8
     },
     {
       "date": "2026-07-17",
@@ -264,8 +259,8 @@
     },
     {
       "date": "2026-07-21",
-      "commentary_score": -0.551,
-      "n_items": 3
+      "commentary_score": -0.356,
+      "n_items": 6
     },
     {
       "date": "2026-07-22",
@@ -279,8 +274,8 @@
     },
     {
       "date": "2026-07-24",
-      "commentary_score": -0.349,
-      "n_items": 3
+      "commentary_score": -0.919,
+      "n_items": 2
     },
     {
       "date": "2026-07-25",
@@ -299,8 +294,8 @@
     },
     {
       "date": "2026-07-28",
-      "commentary_score": -0.439,
-      "n_items": 2
+      "commentary_score": -0.349,
+      "n_items": 3
     },
     {
       "date": "2026-07-29",
@@ -309,13 +304,13 @@
     },
     {
       "date": "2026-07-30",
-      "commentary_score": -0.054,
-      "n_items": 10
+      "commentary_score": -0.439,
+      "n_items": 2
     },
     {
       "date": "2026-07-31",
-      "commentary_score": -0.196,
-      "n_items": 13
+      "commentary_score": -0.188,
+      "n_items": 11
     },
     {
       "date": "2026-08-01",
@@ -349,8 +344,8 @@
     },
     {
       "date": "2026-08-07",
-      "commentary_score": -0.207,
-      "n_items": 12
+      "commentary_score": -0.196,
+      "n_items": 13
     },
     {
       "date": "2026-08-08",
@@ -379,13 +374,13 @@
     },
     {
       "date": "2026-08-13",
-      "commentary_score": -0.554,
-      "n_items": 3
+      "commentary_score": -0.207,
+      "n_items": 12
     },
     {
       "date": "2026-08-14",
-      "commentary_score": 3.0,
-      "n_items": 1
+      "commentary_score": 1.787,
+      "n_items": 3
     },
     {
       "date": "2026-08-15",
@@ -456,6 +451,11 @@
       "date": "2026-08-28",
       "commentary_score": 0.0,
       "n_items": 0
+    },
+    {
+      "date": "2026-08-29",
+      "commentary_score": -0.86,
+      "n_items": 2
     }
   ],
   "key_comments": [
@@ -484,7 +484,7 @@
       "stance": 1.0,
       "phrase": "risks to inflation tilted to the upside",
       "headline": "BoE's Bailey (Q&A) says the received information on the upside risk for food inflation is lower than what they previously thought it would be, which is encouraging, though subject to risk and uncertainty",
-      "importance": 6.28,
+      "importance": 6.48,
       "reasons": [
         "Chair spoke",
         "dove-lean speaker sounded hawkish"
@@ -516,14 +516,28 @@
       "stance": 1.0,
       "phrase": "stands ready to adjust policy stance as the outlook changes",
       "headline": "BoE Governor Bailey (opening remarks) says there is no evidence of 2nd-round effects, but we cannot draw too much comfort from this; stands ready to adjust policy stance as the outlook changes",
-      "importance": 6.28,
+      "importance": 6.48,
       "reasons": [
         "Chair spoke",
         "dove-lean speaker sounded hawkish"
       ]
     }
   ],
-  "speakers": [],
+  "speakers": [
+    {
+      "name": "Andrew Bailey",
+      "role": "chair",
+      "voting_2026": true,
+      "lean_prior": "dove",
+      "n_items": 1,
+      "mean_stance": -1.5,
+      "last_stance": -1.5,
+      "last_phrase": "Cannot promise that muted second round effects will continue.",
+      "last_headline": "BoE Governor Bailey says they are seeing quite subdued second round effects so far and can watch this situation for now",
+      "last_published_at": "2026-08-28T15:50:11+00:00",
+      "last_event_type": "other"
+    }
+  ],
   "methodology": {
     "commentary_window_days": 14,
     "commentary_window_days_default": 14,
