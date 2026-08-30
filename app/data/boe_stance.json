@@ -1,17 +1,12 @@
 {
   "cb": "boe",
-  "as_of": "2026-08-29T04:32:42.941392+00:00",
+  "as_of": "2026-08-30T04:31:52.018291+00:00",
   "commentary_score": -0.86,
   "label": "lean dovish",
   "n_items_window": 2,
   "commentary_window_days": 14,
   "n_items_total": 238,
   "history_90d": [
-    {
-      "date": "2026-06-01",
-      "commentary_score": -0.925,
-      "n_items": 12
-    },
     {
       "date": "2026-06-02",
       "commentary_score": -0.923,
@@ -456,9 +451,29 @@
       "date": "2026-08-29",
       "commentary_score": -0.86,
       "n_items": 2
+    },
+    {
+      "date": "2026-08-30",
+      "commentary_score": -0.86,
+      "n_items": 2
     }
   ],
   "key_comments": [
+    {
+      "published_at": "2026-08-28T15:50:11+00:00",
+      "speaker": "Andrew Bailey",
+      "role": "chair",
+      "lean_prior": "dove",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": -1.5,
+      "phrase": "Cannot promise that muted second round effects will continue.",
+      "headline": "BoE Governor Bailey says they are seeing quite subdued second round effects so far and can watch this situation for now",
+      "importance": 3.0,
+      "reasons": [
+        "Chair spoke"
+      ]
+    },
     {
       "published_at": "2026-07-31T11:44:00+00:00",
       "speaker": "Huw Pill",
@@ -472,54 +487,6 @@
       "importance": 4.78,
       "reasons": [
         "hawk-lean speaker sounded dovish"
-      ]
-    },
-    {
-      "published_at": "2026-07-30T12:24:00+00:00",
-      "speaker": "Andrew Bailey",
-      "role": "chair",
-      "lean_prior": "dove",
-      "voting_2026": true,
-      "event_type": "off-the-cuff",
-      "stance": 1.0,
-      "phrase": "risks to inflation tilted to the upside",
-      "headline": "BoE's Bailey (Q&A) says the received information on the upside risk for food inflation is lower than what they previously thought it would be, which is encouraging, though subject to risk and uncertainty",
-      "importance": 6.48,
-      "reasons": [
-        "Chair spoke",
-        "dove-lean speaker sounded hawkish"
-      ]
-    },
-    {
-      "published_at": "2026-07-30T12:22:00+00:00",
-      "speaker": "Clare Lombardelli",
-      "role": "vice_chair",
-      "lean_prior": "neutral",
-      "voting_2026": true,
-      "event_type": "off-the-cuff",
-      "stance": -1.0,
-      "phrase": "holding was the correct thing to do",
-      "headline": "BoE's Lombardelli (Q&A) says her vote in today's decision was not a close call, holding was the correct thing to do. Learnt more on the strength of UK disinflation.",
-      "importance": 4.0,
-      "reasons": [
-        "Vice Chair spoke",
-        "notable move vs own recent tone"
-      ]
-    },
-    {
-      "published_at": "2026-07-30T12:04:00+00:00",
-      "speaker": "Andrew Bailey",
-      "role": "chair",
-      "lean_prior": "dove",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": 1.0,
-      "phrase": "stands ready to adjust policy stance as the outlook changes",
-      "headline": "BoE Governor Bailey (opening remarks) says there is no evidence of 2nd-round effects, but we cannot draw too much comfort from this; stands ready to adjust policy stance as the outlook changes",
-      "importance": 6.48,
-      "reasons": [
-        "Chair spoke",
-        "dove-lean speaker sounded hawkish"
       ]
     }
   ],

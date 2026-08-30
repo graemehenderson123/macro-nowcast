@@ -1,17 +1,12 @@
 {
   "cb": "ecb",
-  "as_of": "2026-08-29T04:32:42.858164+00:00",
+  "as_of": "2026-08-30T04:31:51.932903+00:00",
   "commentary_score": 1.089,
   "label": "lean hawkish",
   "n_items_window": 9,
   "commentary_window_days": 14,
   "n_items_total": 552,
   "history_90d": [
-    {
-      "date": "2026-06-01",
-      "commentary_score": 1.736,
-      "n_items": 17
-    },
     {
       "date": "2026-06-02",
       "commentary_score": 1.597,
@@ -456,24 +451,14 @@
       "date": "2026-08-29",
       "commentary_score": 1.089,
       "n_items": 9
+    },
+    {
+      "date": "2026-08-30",
+      "commentary_score": 1.089,
+      "n_items": 9
     }
   ],
   "key_comments": [
-    {
-      "published_at": "2026-08-28T05:21:13+00:00",
-      "speaker": "Martins Kazaks",
-      "role": "regional_president",
-      "lean_prior": "hawk",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": 2.0,
-      "phrase": "inflation must not be allowed to take root",
-      "headline": "ECB's Kazaks says that inflation must not be allowed to take root",
-      "importance": 2.38,
-      "reasons": [
-        "voter's tone moved more hawkish"
-      ]
-    },
     {
       "published_at": "2026-08-27T11:32:49+00:00",
       "speaker": "ECB (institutional)",
@@ -502,6 +487,21 @@
       "importance": 2.25,
       "reasons": [
         "cross-market extreme (|stance| = 3.5)"
+      ]
+    },
+    {
+      "published_at": "2026-08-21T07:15:18+00:00",
+      "speaker": "Martins Kazaks",
+      "role": "regional_president",
+      "lean_prior": "hawk",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": -1.0,
+      "phrase": "wage growth gradually slowing; the ECB is well placed to act, if needed",
+      "headline": "ECB's Kazaks says he sees wage growth gradually slowing; the ECB is well placed to act, if needed",
+      "importance": 5.0,
+      "reasons": [
+        "hawk-lean speaker sounded dovish"
       ]
     },
     {

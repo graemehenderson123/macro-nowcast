@@ -1,17 +1,12 @@
 {
   "cb": "boj",
-  "as_of": "2026-08-29T04:32:43.018233+00:00",
-  "commentary_score": 1.637,
+  "as_of": "2026-08-30T04:31:52.099709+00:00",
+  "commentary_score": 1.638,
   "label": "lean hawkish",
-  "n_items_window": 13,
+  "n_items_window": 12,
   "commentary_window_days": 30,
   "n_items_total": 192,
   "history_90d": [
-    {
-      "date": "2026-06-01",
-      "commentary_score": 1.719,
-      "n_items": 10
-    },
     {
       "date": "2026-06-02",
       "commentary_score": 0.477,
@@ -456,6 +451,11 @@
       "date": "2026-08-29",
       "commentary_score": 1.637,
       "n_items": 13
+    },
+    {
+      "date": "2026-08-30",
+      "commentary_score": 1.638,
+      "n_items": 12
     }
   ],
   "key_comments": [
@@ -570,19 +570,6 @@
       "last_headline": "Former BoJ Board Member Adachi says the BoJ will probably raise the benchmark interest rate next month, stating the BoJ is pretty much boxed in, markets have almost fully priced in a hike, and if the ",
       "last_published_at": "2026-08-24T21:31:47+00:00",
       "last_event_type": "statement"
-    },
-    {
-      "name": "Hajime Takata",
-      "role": "governor",
-      "voting_2026": true,
-      "lean_prior": "hawk",
-      "n_items": 1,
-      "mean_stance": 1.5,
-      "last_stance": 1.5,
-      "last_phrase": "Risks to prices are skewed to the upside.",
-      "last_headline": "BoJ keeps rates unchanged at 1.00%, as expected, through 8-1 vote, while it stated that it will consider the timing and pace of rate hikes while examining the likelihood of realising baseline scenario",
-      "last_published_at": "2026-07-31T03:14:00+00:00",
-      "last_event_type": "other"
     },
     {
       "name": "Kazuo Ueda",
