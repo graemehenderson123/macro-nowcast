@@ -1,17 +1,12 @@
 {
   "cb": "rba",
-  "as_of": "2026-08-30T04:31:52.179429+00:00",
+  "as_of": "2026-08-31T04:32:43.100196+00:00",
   "commentary_score": 0.51,
   "label": "neutral",
   "n_items_window": 8,
   "commentary_window_days": 30,
   "n_items_total": 56,
   "history_90d": [
-    {
-      "date": "2026-06-02",
-      "commentary_score": 2.13,
-      "n_items": 4
-    },
     {
       "date": "2026-06-03",
       "commentary_score": 2.13,
@@ -454,6 +449,11 @@
     },
     {
       "date": "2026-08-30",
+      "commentary_score": 0.51,
+      "n_items": 8
+    },
+    {
+      "date": "2026-08-31",
       "commentary_score": 0.51,
       "n_items": 8
     }

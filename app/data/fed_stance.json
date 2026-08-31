@@ -1,17 +1,12 @@
 {
   "cb": "fed",
-  "as_of": "2026-08-30T04:31:51.840828+00:00",
+  "as_of": "2026-08-31T04:32:42.787857+00:00",
   "commentary_score": 1.539,
   "label": "lean hawkish",
   "n_items_window": 17,
   "commentary_window_days": 14,
   "n_items_total": 1038,
   "history_90d": [
-    {
-      "date": "2026-06-02",
-      "commentary_score": 1.485,
-      "n_items": 25
-    },
     {
       "date": "2026-06-03",
       "commentary_score": 1.048,
@@ -454,6 +449,11 @@
     },
     {
       "date": "2026-08-30",
+      "commentary_score": 1.539,
+      "n_items": 17
+    },
+    {
+      "date": "2026-08-31",
       "commentary_score": 1.539,
       "n_items": 17
     }

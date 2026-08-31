@@ -1,17 +1,12 @@
 {
   "cb": "boe",
-  "as_of": "2026-08-30T04:31:52.018291+00:00",
+  "as_of": "2026-08-31T04:32:42.951234+00:00",
   "commentary_score": -0.86,
   "label": "lean dovish",
   "n_items_window": 2,
   "commentary_window_days": 14,
   "n_items_total": 238,
   "history_90d": [
-    {
-      "date": "2026-06-02",
-      "commentary_score": -0.923,
-      "n_items": 11
-    },
     {
       "date": "2026-06-03",
       "commentary_score": -0.472,
@@ -456,6 +451,11 @@
       "date": "2026-08-30",
       "commentary_score": -0.86,
       "n_items": 2
+    },
+    {
+      "date": "2026-08-31",
+      "commentary_score": -0.86,
+      "n_items": 2
     }
   ],
   "key_comments": [
@@ -475,18 +475,18 @@
       ]
     },
     {
-      "published_at": "2026-07-31T11:44:00+00:00",
+      "published_at": "2026-08-13T14:37:41+00:00",
       "speaker": "Huw Pill",
       "role": "chief_economist",
       "lean_prior": "hawk",
       "voting_2026": true,
-      "event_type": "other",
-      "stance": -1.0,
-      "phrase": "not edging towards a hike",
-      "headline": "BoE Chief Economist Pill says MPC is not edging towards a hike",
-      "importance": 4.78,
+      "event_type": "off-the-cuff",
+      "stance": 3.0,
+      "phrase": "the UK growth outlook increases the case for a rate hike",
+      "headline": "BoE\u2019s Pill says the UK growth outlook increases the case for a rate hike, via WSJ interview",
+      "importance": 1.5,
       "reasons": [
-        "hawk-lean speaker sounded dovish"
+        "cross-market extreme (|stance| = 3.0)"
       ]
     }
   ],

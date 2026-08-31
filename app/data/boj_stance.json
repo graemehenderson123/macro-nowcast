@@ -1,17 +1,12 @@
 {
   "cb": "boj",
-  "as_of": "2026-08-30T04:31:52.099709+00:00",
-  "commentary_score": 1.638,
+  "as_of": "2026-08-31T04:32:43.025823+00:00",
+  "commentary_score": 1.652,
   "label": "lean hawkish",
-  "n_items_window": 12,
+  "n_items_window": 9,
   "commentary_window_days": 30,
   "n_items_total": 192,
   "history_90d": [
-    {
-      "date": "2026-06-02",
-      "commentary_score": 0.477,
-      "n_items": 11
-    },
     {
       "date": "2026-06-03",
       "commentary_score": 0.477,
@@ -456,6 +451,11 @@
       "date": "2026-08-30",
       "commentary_score": 1.638,
       "n_items": 12
+    },
+    {
+      "date": "2026-08-31",
+      "commentary_score": 1.652,
+      "n_items": 9
     }
   ],
   "key_comments": [
@@ -525,23 +525,6 @@
         "official CB statement (stance +3.50)",
         "strong policy signal (|stance| = 3.5)"
       ]
-    },
-    {
-      "published_at": "2026-07-31T06:32:00+00:00",
-      "speaker": "Kazuo Ueda",
-      "role": "chair",
-      "lean_prior": "neutral",
-      "voting_2026": true,
-      "event_type": "press-conf",
-      "stance": 2.5,
-      "phrase": "Bank will conduct monetary policy to ensure it does not fall behind the curve.",
-      "headline": "BoJ Governor Ueda (Press Conference) says the Bank is gathering information on how the Kumamoto earthquake is affecting the economy and prices",
-      "importance": 6.25,
-      "reasons": [
-        "Chair spoke",
-        "notable move vs own recent tone",
-        "cross-market extreme (|stance| = 2.5)"
-      ]
     }
   ],
   "speakers": [
@@ -576,8 +559,8 @@
       "role": "chair",
       "voting_2026": true,
       "lean_prior": "neutral",
-      "n_items": 4,
-      "mean_stance": 1.294,
+      "n_items": 3,
+      "mean_stance": 0.923,
       "last_stance": 0.0,
       "last_phrase": "",
       "last_headline": "BoJ Governor Ueda will attend the G20 meeting from August 30th, according to reports",
