@@ -1,6 +1,6 @@
 {
   "cb": "krw",
-  "as_of": "2026-09-01T04:31:43.101742+00:00",
+  "as_of": "2026-09-01T13:04:15.926154+00:00",
   "commentary_score": 2.862,
   "label": "hawkish",
   "n_items_window": 3,
@@ -314,8 +314,8 @@
     },
     {
       "date": "2026-08-04",
-      "commentary_score": 3.208,
-      "n_items": 6
+      "commentary_score": 2.867,
+      "n_items": 7
     },
     {
       "date": "2026-08-05",

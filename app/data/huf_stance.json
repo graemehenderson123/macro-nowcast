@@ -1,6 +1,6 @@
 {
   "cb": "huf",
-  "as_of": "2026-09-01T04:31:43.474798+00:00",
+  "as_of": "2026-09-01T13:04:16.302131+00:00",
   "commentary_score": 0.0,
   "label": "neutral",
   "n_items_window": 0,
@@ -204,8 +204,8 @@
     },
     {
       "date": "2026-07-13",
-      "commentary_score": -2.0,
-      "n_items": 1
+      "commentary_score": -2.856,
+      "n_items": 2
     },
     {
       "date": "2026-07-14",
@@ -354,8 +354,8 @@
     },
     {
       "date": "2026-08-12",
-      "commentary_score": -3.0,
-      "n_items": 1
+      "commentary_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-08-13",
