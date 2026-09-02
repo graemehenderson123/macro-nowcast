@@ -1,11 +1,11 @@
 {
   "cb": "cnh",
-  "as_of": "2026-09-02T04:33:36.265328+00:00",
-  "commentary_score": 0.0,
-  "label": "neutral",
-  "n_items_window": 0,
+  "as_of": "2026-09-02T13:02:15.102387+00:00",
+  "commentary_score": -1.5,
+  "label": "lean dovish",
+  "n_items_window": 1,
   "commentary_window_days": 30,
-  "n_items_total": 6,
+  "n_items_total": 7,
   "history_90d": [
     {
       "date": "2026-06-05",
@@ -454,12 +454,42 @@
     },
     {
       "date": "2026-09-02",
-      "commentary_score": 0.0,
-      "n_items": 0
+      "commentary_score": -1.5,
+      "n_items": 1
     }
   ],
-  "key_comments": [],
-  "speakers": [],
+  "key_comments": [
+    {
+      "published_at": "2026-09-02T10:08:10+00:00",
+      "speaker": "Pan Gongsheng",
+      "role": "chair",
+      "lean_prior": "dove",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": -1.5,
+      "phrase": "Monetary policy will remain appropriately accommodative to support stable growth and financial-market stability.",
+      "headline": "PBoC Governor Pan, at the G20, said China will not deliberately pursue a trade surplus and will expand domestic demand while maintaining high-level opening",
+      "importance": 3.0,
+      "reasons": [
+        "Chair spoke"
+      ]
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Pan Gongsheng",
+      "role": "chair",
+      "voting_2026": true,
+      "lean_prior": "dove",
+      "n_items": 1,
+      "mean_stance": -1.5,
+      "last_stance": -1.5,
+      "last_phrase": "Monetary policy will remain appropriately accommodative to support stable growth and financial-market stability.",
+      "last_headline": "PBoC Governor Pan, at the G20, said China will not deliberately pursue a trade surplus and will expand domestic demand while maintaining high-level opening",
+      "last_published_at": "2026-09-02T10:08:10+00:00",
+      "last_event_type": "other"
+    }
+  ],
   "methodology": {
     "commentary_window_days": 30,
     "commentary_window_days_default": 14,
