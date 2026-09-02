@@ -1,17 +1,12 @@
 {
   "cb": "boe",
-  "as_of": "2026-09-01T13:04:15.212222+00:00",
-  "commentary_score": -0.86,
-  "label": "lean dovish",
-  "n_items_window": 2,
+  "as_of": "2026-09-02T04:33:35.668293+00:00",
+  "commentary_score": 0.02,
+  "label": "neutral",
+  "n_items_window": 3,
   "commentary_window_days": 14,
-  "n_items_total": 238,
+  "n_items_total": 239,
   "history_90d": [
-    {
-      "date": "2026-06-04",
-      "commentary_score": -0.217,
-      "n_items": 8
-    },
     {
       "date": "2026-06-05",
       "commentary_score": -0.049,
@@ -29,8 +24,8 @@
     },
     {
       "date": "2026-06-08",
-      "commentary_score": -0.038,
-      "n_items": 9
+      "commentary_score": -0.043,
+      "n_items": 8
     },
     {
       "date": "2026-06-09",
@@ -44,13 +39,13 @@
     },
     {
       "date": "2026-06-11",
-      "commentary_score": -0.04,
-      "n_items": 8
+      "commentary_score": -0.038,
+      "n_items": 9
     },
     {
       "date": "2026-06-12",
-      "commentary_score": 0.071,
-      "n_items": 7
+      "commentary_score": -0.04,
+      "n_items": 8
     },
     {
       "date": "2026-06-13",
@@ -79,8 +74,8 @@
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 0.126,
-      "n_items": 10
+      "commentary_score": 0.0,
+      "n_items": 3
     },
     {
       "date": "2026-06-19",
@@ -99,7 +94,7 @@
     },
     {
       "date": "2026-06-22",
-      "commentary_score": 0.108,
+      "commentary_score": 0.131,
       "n_items": 8
     },
     {
@@ -134,8 +129,8 @@
     },
     {
       "date": "2026-06-29",
-      "commentary_score": -0.138,
-      "n_items": 11
+      "commentary_score": -0.155,
+      "n_items": 10
     },
     {
       "date": "2026-06-30",
@@ -149,8 +144,8 @@
     },
     {
       "date": "2026-07-02",
-      "commentary_score": -0.798,
-      "n_items": 7
+      "commentary_score": -0.469,
+      "n_items": 14
     },
     {
       "date": "2026-07-03",
@@ -169,13 +164,13 @@
     },
     {
       "date": "2026-07-06",
-      "commentary_score": -0.224,
-      "n_items": 9
+      "commentary_score": -0.205,
+      "n_items": 10
     },
     {
       "date": "2026-07-07",
-      "commentary_score": -0.119,
-      "n_items": 12
+      "commentary_score": -0.224,
+      "n_items": 9
     },
     {
       "date": "2026-07-08",
@@ -204,13 +199,13 @@
     },
     {
       "date": "2026-07-13",
-      "commentary_score": 0.144,
-      "n_items": 10
+      "commentary_score": 0.139,
+      "n_items": 11
     },
     {
       "date": "2026-07-14",
-      "commentary_score": 0.105,
-      "n_items": 11
+      "commentary_score": 0.144,
+      "n_items": 10
     },
     {
       "date": "2026-07-15",
@@ -219,8 +214,8 @@
     },
     {
       "date": "2026-07-16",
-      "commentary_score": -0.189,
-      "n_items": 9
+      "commentary_score": 0.317,
+      "n_items": 8
     },
     {
       "date": "2026-07-17",
@@ -244,8 +239,8 @@
     },
     {
       "date": "2026-07-21",
-      "commentary_score": -0.551,
-      "n_items": 3
+      "commentary_score": -0.356,
+      "n_items": 6
     },
     {
       "date": "2026-07-22",
@@ -259,8 +254,8 @@
     },
     {
       "date": "2026-07-24",
-      "commentary_score": -0.349,
-      "n_items": 3
+      "commentary_score": -0.919,
+      "n_items": 2
     },
     {
       "date": "2026-07-25",
@@ -279,8 +274,8 @@
     },
     {
       "date": "2026-07-28",
-      "commentary_score": -0.439,
-      "n_items": 2
+      "commentary_score": -0.349,
+      "n_items": 3
     },
     {
       "date": "2026-07-29",
@@ -289,13 +284,13 @@
     },
     {
       "date": "2026-07-30",
-      "commentary_score": -0.054,
-      "n_items": 10
+      "commentary_score": -0.439,
+      "n_items": 2
     },
     {
       "date": "2026-07-31",
-      "commentary_score": -0.196,
-      "n_items": 13
+      "commentary_score": -0.188,
+      "n_items": 11
     },
     {
       "date": "2026-08-01",
@@ -329,8 +324,8 @@
     },
     {
       "date": "2026-08-07",
-      "commentary_score": -0.207,
-      "n_items": 12
+      "commentary_score": -0.196,
+      "n_items": 13
     },
     {
       "date": "2026-08-08",
@@ -359,13 +354,13 @@
     },
     {
       "date": "2026-08-13",
-      "commentary_score": -0.554,
-      "n_items": 3
+      "commentary_score": -0.207,
+      "n_items": 12
     },
     {
       "date": "2026-08-14",
-      "commentary_score": 3.0,
-      "n_items": 1
+      "commentary_score": 1.787,
+      "n_items": 3
     },
     {
       "date": "2026-08-15",
@@ -456,6 +451,11 @@
       "date": "2026-09-01",
       "commentary_score": -0.86,
       "n_items": 2
+    },
+    {
+      "date": "2026-09-02",
+      "commentary_score": 0.02,
+      "n_items": 3
     }
   ],
   "key_comments": [
@@ -491,6 +491,19 @@
     }
   ],
   "speakers": [
+    {
+      "name": "Catherine Mann",
+      "role": "mpc_external",
+      "voting_2026": true,
+      "lean_prior": "hawk",
+      "n_items": 1,
+      "mean_stance": 1.5,
+      "last_stance": 1.5,
+      "last_phrase": "better for interest rates to be a little bit too high",
+      "last_headline": "BoE's Mann says it is better for interest rates to be a little bit too high and then of course and correct if necessary",
+      "last_published_at": "2026-09-01T15:05:29+00:00",
+      "last_event_type": "other"
+    },
     {
       "name": "Andrew Bailey",
       "role": "chair",
