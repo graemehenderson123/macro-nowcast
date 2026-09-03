@@ -1,17 +1,12 @@
 {
   "cb": "mxn",
-  "as_of": "2026-09-02T13:02:16.000226+00:00",
-  "commentary_score": 0.0,
-  "label": "neutral",
-  "n_items_window": 0,
+  "as_of": "2026-09-03T04:33:18.610205+00:00",
+  "commentary_score": -1.5,
+  "label": "lean dovish",
+  "n_items_window": 1,
   "commentary_window_days": 30,
-  "n_items_total": 11,
+  "n_items_total": 12,
   "history_90d": [
-    {
-      "date": "2026-06-05",
-      "commentary_score": -3.0,
-      "n_items": 1
-    },
     {
       "date": "2026-06-06",
       "commentary_score": -3.0,
@@ -456,10 +451,45 @@
       "date": "2026-09-02",
       "commentary_score": 0.0,
       "n_items": 0
+    },
+    {
+      "date": "2026-09-03",
+      "commentary_score": -1.5,
+      "n_items": 1
     }
   ],
-  "key_comments": [],
-  "speakers": [],
+  "key_comments": [
+    {
+      "published_at": "2026-09-02T13:14:44+00:00",
+      "speaker": "Jonathan Heath",
+      "role": "governor",
+      "lean_prior": "hawk",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": -1.5,
+      "phrase": "no rate cuts in the short-term as it is necessary to check progress on inflation",
+      "headline": "Banxico Deputy Governor Heath says recent inflation data is very good, but not a victory",
+      "importance": 6.0,
+      "reasons": [
+        "hawk-lean speaker sounded dovish"
+      ]
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Jonathan Heath",
+      "role": "governor",
+      "voting_2026": true,
+      "lean_prior": "hawk",
+      "n_items": 1,
+      "mean_stance": -1.5,
+      "last_stance": -1.5,
+      "last_phrase": "no rate cuts in the short-term as it is necessary to check progress on inflation",
+      "last_headline": "Banxico Deputy Governor Heath says recent inflation data is very good, but not a victory",
+      "last_published_at": "2026-09-02T13:14:44+00:00",
+      "last_event_type": "other"
+    }
+  ],
   "methodology": {
     "commentary_window_days": 30,
     "commentary_window_days_default": 14,
