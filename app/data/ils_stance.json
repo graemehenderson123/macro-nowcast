@@ -1,6 +1,6 @@
 {
   "cb": "ils",
-  "as_of": "2026-09-03T04:33:18.385473+00:00",
+  "as_of": "2026-09-03T13:02:19.066441+00:00",
   "commentary_score": 0.0,
   "label": "neutral",
   "n_items_window": 0,
@@ -139,8 +139,8 @@
     },
     {
       "date": "2026-07-02",
-      "commentary_score": -2.0,
-      "n_items": 1
+      "commentary_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-07-03",

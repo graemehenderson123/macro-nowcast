@@ -1,9 +1,9 @@
 {
   "cb": "krw",
-  "as_of": "2026-09-03T04:33:17.814192+00:00",
-  "commentary_score": 2.862,
+  "as_of": "2026-09-03T13:02:18.456157+00:00",
+  "commentary_score": 2.889,
   "label": "hawkish",
-  "n_items_window": 3,
+  "n_items_window": 2,
   "commentary_window_days": 30,
   "n_items_total": 36,
   "history_90d": [
@@ -304,8 +304,8 @@
     },
     {
       "date": "2026-08-04",
-      "commentary_score": 3.208,
-      "n_items": 6
+      "commentary_score": 2.867,
+      "n_items": 7
     },
     {
       "date": "2026-08-05",
@@ -454,8 +454,8 @@
     },
     {
       "date": "2026-09-03",
-      "commentary_score": 2.862,
-      "n_items": 3
+      "commentary_score": 2.889,
+      "n_items": 2
     }
   ],
   "key_comments": [
@@ -512,8 +512,8 @@
       "role": "institutional",
       "voting_2026": true,
       "lean_prior": "neutral",
-      "n_items": 2,
-      "mean_stance": 2.25,
+      "n_items": 1,
+      "mean_stance": 2.5,
       "last_stance": 2.5,
       "last_phrase": "inflation is projected to remain above target level for a considerable time",
       "last_headline": "BoK says rate decision was not unanimouse as Board Member Hwang dissented on rate decision, while inflation is projected to remain above target level for a considerable time",
