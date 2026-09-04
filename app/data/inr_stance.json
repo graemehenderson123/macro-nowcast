@@ -1,17 +1,12 @@
 {
   "cb": "inr",
-  "as_of": "2026-09-03T13:02:18.684908+00:00",
-  "commentary_score": -0.327,
+  "as_of": "2026-09-04T04:33:17.897328+00:00",
+  "commentary_score": 0.0,
   "label": "neutral",
-  "n_items_window": 2,
+  "n_items_window": 0,
   "commentary_window_days": 30,
   "n_items_total": 22,
   "history_90d": [
-    {
-      "date": "2026-06-06",
-      "commentary_score": -0.581,
-      "n_items": 2
-    },
     {
       "date": "2026-06-07",
       "commentary_score": -0.581,
@@ -155,7 +150,7 @@
     {
       "date": "2026-07-05",
       "commentary_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-07-06",
@@ -456,54 +451,15 @@
       "date": "2026-09-03",
       "commentary_score": -0.327,
       "n_items": 2
-    }
-  ],
-  "key_comments": [
-    {
-      "published_at": "2026-08-05T04:32:00+00:00",
-      "speaker": "Sanjay Malhotra",
-      "role": "chair",
-      "lean_prior": "dove",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": -1.0,
-      "phrase": "policy stance is kept at neutral",
-      "headline": "RBI keeps Repurchase Rate unchanged at 5.25%, as expected, via unanimous decision, while policy stance is kept at neutral",
-      "importance": 4.0,
-      "reasons": [
-        "Chair spoke",
-        "dove-lean speaker sounded hawkish"
-      ]
-    }
-  ],
-  "speakers": [
-    {
-      "name": "INR (institutional)",
-      "role": "institutional",
-      "voting_2026": true,
-      "lean_prior": "neutral",
-      "n_items": 1,
-      "mean_stance": 0.0,
-      "last_stance": 0.0,
-      "last_phrase": "",
-      "last_headline": "Indian RBI Interest Rate Decision 5.25% vs. Exp. 5.25% (Prev. 5.25%)",
-      "last_published_at": "2026-08-05T04:30:00+00:00",
-      "last_event_type": "statement"
     },
     {
-      "name": "Sanjay Malhotra",
-      "role": "chair",
-      "voting_2026": true,
-      "lean_prior": "dove",
-      "n_items": 1,
-      "mean_stance": -1.0,
-      "last_stance": -1.0,
-      "last_phrase": "policy stance is kept at neutral",
-      "last_headline": "RBI keeps Repurchase Rate unchanged at 5.25%, as expected, via unanimous decision, while policy stance is kept at neutral",
-      "last_published_at": "2026-08-05T04:32:00+00:00",
-      "last_event_type": "other"
+      "date": "2026-09-04",
+      "commentary_score": 0.0,
+      "n_items": 0
     }
   ],
+  "key_comments": [],
+  "speakers": [],
   "methodology": {
     "commentary_window_days": 30,
     "commentary_window_days_default": 14,
