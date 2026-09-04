@@ -1,11 +1,11 @@
 {
   "cb": "inr",
-  "as_of": "2026-09-04T04:33:17.897328+00:00",
+  "as_of": "2026-09-04T13:02:16.009330+00:00",
   "commentary_score": 0.0,
   "label": "neutral",
-  "n_items_window": 0,
+  "n_items_window": 1,
   "commentary_window_days": 30,
-  "n_items_total": 22,
+  "n_items_total": 23,
   "history_90d": [
     {
       "date": "2026-06-07",
@@ -150,7 +150,7 @@
     {
       "date": "2026-07-05",
       "commentary_score": 0.0,
-      "n_items": 1
+      "n_items": 0
     },
     {
       "date": "2026-07-06",
@@ -455,11 +455,25 @@
     {
       "date": "2026-09-04",
       "commentary_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     }
   ],
   "key_comments": [],
-  "speakers": [],
+  "speakers": [
+    {
+      "name": "INR (institutional)",
+      "role": "institutional",
+      "voting_2026": true,
+      "lean_prior": "neutral",
+      "n_items": 1,
+      "mean_stance": 0.0,
+      "last_stance": 0.0,
+      "last_phrase": "",
+      "last_headline": "RBI is to conduct second 3-day variable rate reverse repo auction for INR 1.5tln under its LAF today",
+      "last_published_at": "2026-09-04T05:29:15+00:00",
+      "last_event_type": "other"
+    }
+  ],
   "methodology": {
     "commentary_window_days": 30,
     "commentary_window_days_default": 14,

@@ -1,6 +1,6 @@
 {
   "cb": "riksbank",
-  "as_of": "2026-09-04T04:33:17.475500+00:00",
+  "as_of": "2026-09-04T13:02:15.526867+00:00",
   "commentary_score": 0.028,
   "label": "neutral",
   "n_items_window": 5,
@@ -34,8 +34,8 @@
     },
     {
       "date": "2026-06-12",
-      "commentary_score": -0.637,
-      "n_items": 4
+      "commentary_score": -0.737,
+      "n_items": 3
     },
     {
       "date": "2026-06-13",
@@ -59,13 +59,13 @@
     },
     {
       "date": "2026-06-17",
-      "commentary_score": -0.737,
-      "n_items": 3
+      "commentary_score": 1.053,
+      "n_items": 4
     },
     {
       "date": "2026-06-18",
       "commentary_score": 1.053,
-      "n_items": 4
+      "n_items": 3
     },
     {
       "date": "2026-06-19",
@@ -94,8 +94,8 @@
     },
     {
       "date": "2026-06-24",
-      "commentary_score": 1.053,
-      "n_items": 3
+      "commentary_score": 1.036,
+      "n_items": 4
     },
     {
       "date": "2026-06-25",
@@ -114,8 +114,8 @@
     },
     {
       "date": "2026-06-28",
-      "commentary_score": 1.036,
-      "n_items": 4
+      "commentary_score": 1.094,
+      "n_items": 3
     },
     {
       "date": "2026-06-29",
@@ -144,8 +144,8 @@
     },
     {
       "date": "2026-07-04",
-      "commentary_score": 1.094,
-      "n_items": 3
+      "commentary_score": 1.316,
+      "n_items": 2
     },
     {
       "date": "2026-07-05",
@@ -209,8 +209,8 @@
     },
     {
       "date": "2026-07-17",
-      "commentary_score": 1.316,
-      "n_items": 2
+      "commentary_score": 1.0,
+      "n_items": 1
     },
     {
       "date": "2026-07-18",
@@ -244,8 +244,8 @@
     },
     {
       "date": "2026-07-24",
-      "commentary_score": 1.0,
-      "n_items": 1
+      "commentary_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-07-25",
@@ -379,8 +379,8 @@
     },
     {
       "date": "2026-08-20",
-      "commentary_score": 0.0,
-      "n_items": 0
+      "commentary_score": 2.171,
+      "n_items": 2
     },
     {
       "date": "2026-08-21",
@@ -404,8 +404,8 @@
     },
     {
       "date": "2026-08-25",
-      "commentary_score": 2.171,
-      "n_items": 2
+      "commentary_score": 1.988,
+      "n_items": 3
     },
     {
       "date": "2026-08-26",
@@ -434,8 +434,8 @@
     },
     {
       "date": "2026-08-31",
-      "commentary_score": 1.988,
-      "n_items": 3
+      "commentary_score": 1.468,
+      "n_items": 4
     },
     {
       "date": "2026-09-01",
@@ -449,8 +449,8 @@
     },
     {
       "date": "2026-09-03",
-      "commentary_score": 1.468,
-      "n_items": 4
+      "commentary_score": 0.028,
+      "n_items": 5
     },
     {
       "date": "2026-09-04",
