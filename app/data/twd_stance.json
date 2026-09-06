@@ -1,22 +1,12 @@
 {
   "cb": "twd",
-  "as_of": "2026-09-04T13:02:15.849118+00:00",
+  "as_of": "2026-09-06T04:31:29.064845+00:00",
   "commentary_score": 0.0,
   "label": "neutral",
   "n_items_window": 0,
   "commentary_window_days": 30,
   "n_items_total": 2,
   "history_90d": [
-    {
-      "date": "2026-06-07",
-      "commentary_score": 0.0,
-      "n_items": 0
-    },
-    {
-      "date": "2026-06-08",
-      "commentary_score": 0.0,
-      "n_items": 0
-    },
     {
       "date": "2026-06-09",
       "commentary_score": 0.0,
@@ -65,7 +55,7 @@
     {
       "date": "2026-06-18",
       "commentary_score": 0.0,
-      "n_items": 1
+      "n_items": 0
     },
     {
       "date": "2026-06-19",
@@ -215,7 +205,7 @@
     {
       "date": "2026-07-18",
       "commentary_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-07-19",
@@ -454,6 +444,16 @@
     },
     {
       "date": "2026-09-04",
+      "commentary_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-09-05",
+      "commentary_score": 0.0,
+      "n_items": 0
+    },
+    {
+      "date": "2026-09-06",
       "commentary_score": 0.0,
       "n_items": 0
     }

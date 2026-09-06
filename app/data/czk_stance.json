@@ -1,22 +1,12 @@
 {
   "cb": "czk",
-  "as_of": "2026-09-04T13:02:16.327482+00:00",
-  "commentary_score": 0.015,
-  "label": "neutral",
-  "n_items_window": 4,
+  "as_of": "2026-09-06T04:31:29.511945+00:00",
+  "commentary_score": -0.983,
+  "label": "lean dovish",
+  "n_items_window": 2,
   "commentary_window_days": 30,
   "n_items_total": 43,
   "history_90d": [
-    {
-      "date": "2026-06-07",
-      "commentary_score": 1.454,
-      "n_items": 4
-    },
-    {
-      "date": "2026-06-08",
-      "commentary_score": 1.454,
-      "n_items": 4
-    },
     {
       "date": "2026-06-09",
       "commentary_score": 1.454,
@@ -24,8 +14,8 @@
     },
     {
       "date": "2026-06-10",
-      "commentary_score": 1.131,
-      "n_items": 3
+      "commentary_score": 1.454,
+      "n_items": 4
     },
     {
       "date": "2026-06-11",
@@ -34,8 +24,8 @@
     },
     {
       "date": "2026-06-12",
-      "commentary_score": 1.105,
-      "n_items": 2
+      "commentary_score": 1.131,
+      "n_items": 3
     },
     {
       "date": "2026-06-13",
@@ -44,8 +34,8 @@
     },
     {
       "date": "2026-06-14",
-      "commentary_score": 1.0,
-      "n_items": 1
+      "commentary_score": 1.105,
+      "n_items": 2
     },
     {
       "date": "2026-06-15",
@@ -64,8 +54,8 @@
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 1.612,
-      "n_items": 4
+      "commentary_score": 1.0,
+      "n_items": 1
     },
     {
       "date": "2026-06-19",
@@ -174,8 +164,8 @@
     },
     {
       "date": "2026-07-10",
-      "commentary_score": 1.665,
-      "n_items": 4
+      "commentary_score": 1.598,
+      "n_items": 5
     },
     {
       "date": "2026-07-11",
@@ -214,8 +204,8 @@
     },
     {
       "date": "2026-07-18",
-      "commentary_score": 1.5,
-      "n_items": 1
+      "commentary_score": 1.665,
+      "n_items": 4
     },
     {
       "date": "2026-07-19",
@@ -239,8 +229,8 @@
     },
     {
       "date": "2026-07-23",
-      "commentary_score": 3.0,
-      "n_items": 1
+      "commentary_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-07-24",
@@ -309,8 +299,8 @@
     },
     {
       "date": "2026-08-06",
-      "commentary_score": 1.672,
-      "n_items": 3
+      "commentary_score": 3.0,
+      "n_items": 1
     },
     {
       "date": "2026-08-07",
@@ -334,8 +324,8 @@
     },
     {
       "date": "2026-08-11",
-      "commentary_score": 0.104,
-      "n_items": 4
+      "commentary_score": 1.672,
+      "n_items": 3
     },
     {
       "date": "2026-08-12",
@@ -349,8 +339,8 @@
     },
     {
       "date": "2026-08-14",
-      "commentary_score": 0.083,
-      "n_items": 5
+      "commentary_score": 0.104,
+      "n_items": 4
     },
     {
       "date": "2026-08-15",
@@ -389,8 +379,8 @@
     },
     {
       "date": "2026-08-22",
-      "commentary_score": 0.015,
-      "n_items": 4
+      "commentary_score": 0.083,
+      "n_items": 5
     },
     {
       "date": "2026-08-23",
@@ -456,23 +446,32 @@
       "date": "2026-09-04",
       "commentary_score": 0.015,
       "n_items": 4
+    },
+    {
+      "date": "2026-09-05",
+      "commentary_score": 0.015,
+      "n_items": 4
+    },
+    {
+      "date": "2026-09-06",
+      "commentary_score": -0.983,
+      "n_items": 2
     }
   ],
   "key_comments": [
     {
-      "published_at": "2026-08-06T13:00:00+00:00",
+      "published_at": "2026-08-11T11:01:20+00:00",
       "speaker": "CZK (institutional)",
       "role": "institutional",
       "lean_prior": "neutral",
       "voting_2026": true,
       "event_type": "statement",
-      "stance": 2.5,
-      "phrase": "Relatively restrictive policy is still required",
-      "headline": "CNB Statement: Relatively restrictive policy is still required; board voted 7-0 to leave rates on hold.",
-      "importance": 3.75,
+      "stance": -1.5,
+      "phrase": "arguments for increased caution in monetary policy",
+      "headline": "CNB says July's core inflation of 3.0% Y/Y was above the 2.9% outlook, the decline in food prices is relatively across-the-board",
+      "importance": 2.5,
       "reasons": [
-        "official CB statement (stance +2.50)",
-        "strong policy signal (|stance| = 2.5)"
+        "official CB statement (stance -1.50)"
       ]
     }
   ],
@@ -482,8 +481,8 @@
       "role": "institutional",
       "voting_2026": true,
       "lean_prior": "neutral",
-      "n_items": 3,
-      "mean_stance": 0.318,
+      "n_items": 1,
+      "mean_stance": -1.5,
       "last_stance": -1.5,
       "last_phrase": "arguments for increased caution in monetary policy",
       "last_headline": "CNB says July's core inflation of 3.0% Y/Y was above the 2.9% outlook, the decline in food prices is relatively across-the-board",
