@@ -1,17 +1,12 @@
 {
   "cb": "krw",
-  "as_of": "2026-09-06T04:31:28.990713+00:00",
+  "as_of": "2026-09-07T04:31:35.544806+00:00",
   "commentary_score": 2.889,
   "label": "hawkish",
   "n_items_window": 2,
   "commentary_window_days": 30,
   "n_items_total": 36,
   "history_90d": [
-    {
-      "date": "2026-06-09",
-      "commentary_score": 1.156,
-      "n_items": 5
-    },
     {
       "date": "2026-06-10",
       "commentary_score": 1.156,
@@ -456,6 +451,11 @@
       "date": "2026-09-06",
       "commentary_score": 2.889,
       "n_items": 2
+    },
+    {
+      "date": "2026-09-07",
+      "commentary_score": 2.889,
+      "n_items": 2
     }
   ],
   "key_comments": [
@@ -469,7 +469,7 @@
       "stance": 3.5,
       "phrase": "back-to-back rate hike was necessary to preemptively respond",
       "headline": "BoK Governor Shin says inflationary pressure looks like it is here to stay, and back-to-back rate hike was necessary to preemptively respond, and needed to act by raising interest rates before inflationary pressures grow",
-      "importance": 5.8,
+      "importance": 8.75,
       "reasons": [
         "Chair spoke",
         "notable move vs own recent tone",
