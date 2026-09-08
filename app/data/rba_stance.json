@@ -1,11 +1,11 @@
 {
   "cb": "rba",
-  "as_of": "2026-09-08T04:31:35.405101+00:00",
-  "commentary_score": 0.414,
-  "label": "neutral",
-  "n_items_window": 9,
+  "as_of": "2026-09-08T13:02:01.598891+00:00",
+  "commentary_score": 0.849,
+  "label": "lean hawkish",
+  "n_items_window": 11,
   "commentary_window_days": 30,
-  "n_items_total": 57,
+  "n_items_total": 59,
   "history_90d": [
     {
       "date": "2026-06-11",
@@ -34,8 +34,8 @@
     },
     {
       "date": "2026-06-16",
-      "commentary_score": 2.821,
-      "n_items": 7
+      "commentary_score": 2.529,
+      "n_items": 8
     },
     {
       "date": "2026-06-17",
@@ -124,8 +124,8 @@
     },
     {
       "date": "2026-07-04",
-      "commentary_score": 2.901,
-      "n_items": 7
+      "commentary_score": 3.005,
+      "n_items": 4
     },
     {
       "date": "2026-07-05",
@@ -184,8 +184,8 @@
     },
     {
       "date": "2026-07-16",
-      "commentary_score": 2.377,
-      "n_items": 4
+      "commentary_score": 2.427,
+      "n_items": 3
     },
     {
       "date": "2026-07-17",
@@ -314,8 +314,8 @@
     },
     {
       "date": "2026-08-11",
-      "commentary_score": 0.243,
-      "n_items": 2
+      "commentary_score": 2.304,
+      "n_items": 4
     },
     {
       "date": "2026-08-12",
@@ -429,8 +429,8 @@
     },
     {
       "date": "2026-09-03",
-      "commentary_score": 0.51,
-      "n_items": 8
+      "commentary_score": 0.414,
+      "n_items": 9
     },
     {
       "date": "2026-09-04",
@@ -454,11 +454,44 @@
     },
     {
       "date": "2026-09-08",
-      "commentary_score": 0.414,
-      "n_items": 9
+      "commentary_score": 0.849,
+      "n_items": 11
     }
   ],
   "key_comments": [
+    {
+      "published_at": "2026-09-08T03:44:40+00:00",
+      "speaker": "Sarah Hunter",
+      "role": "vice_chair",
+      "lean_prior": "neutral",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": 3.5,
+      "phrase": "the board may have to raise rates if there is a sense inflation will be stronger",
+      "headline": "RBA's Assistant Governor Hunter says the board is concerned about inflation and has low tolerance, adds the board may have to raise rates if there is a sense inflation will be stronger",
+      "importance": 8.75,
+      "reasons": [
+        "Vice Chair spoke",
+        "notable move vs own recent tone",
+        "cross-market extreme (|stance| = 3.5)"
+      ]
+    },
+    {
+      "published_at": "2026-09-08T03:27:07+00:00",
+      "speaker": "Sarah Hunter",
+      "role": "vice_chair",
+      "lean_prior": "neutral",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": -1.5,
+      "phrase": "Impacts of changes in house prices on consumer spending is actually quite small",
+      "headline": "RBA Assistant Governor Hunter says the housing market is a crucial mechanism through which monetary policy affects the economy",
+      "importance": 4.5,
+      "reasons": [
+        "Vice Chair spoke",
+        "notable move vs own recent tone"
+      ]
+    },
     {
       "published_at": "2026-08-13T00:24:59+00:00",
       "speaker": "Christopher Kent",
@@ -532,6 +565,19 @@
       "last_phrase": "monetary policy in Australia is somewhat restrictive",
       "last_headline": "RBA's Kent says Board sets level of the Cash Rate it judges will achieve low and stable inflation and full employment, adds borrowing costs have increased, mortgage payments have risen and conditions ",
       "last_published_at": "2026-08-13T00:24:59+00:00",
+      "last_event_type": "other"
+    },
+    {
+      "name": "Sarah Hunter",
+      "role": "vice_chair",
+      "voting_2026": true,
+      "lean_prior": "neutral",
+      "n_items": 2,
+      "mean_stance": 1.357,
+      "last_stance": 3.5,
+      "last_phrase": "the board may have to raise rates if there is a sense inflation will be stronger",
+      "last_headline": "RBA's Assistant Governor Hunter says the board is concerned about inflation and has low tolerance, adds the board may have to raise rates if there is a sense inflation will be stronger",
+      "last_published_at": "2026-09-08T03:44:40+00:00",
       "last_event_type": "other"
     },
     {
