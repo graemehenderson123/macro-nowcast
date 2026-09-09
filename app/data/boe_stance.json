@@ -1,21 +1,16 @@
 {
   "cb": "boe",
-  "as_of": "2026-09-08T13:02:01.431807+00:00",
-  "commentary_score": 0.313,
+  "as_of": "2026-09-09T04:31:44.360555+00:00",
+  "commentary_score": -0.476,
   "label": "neutral",
-  "n_items_window": 7,
+  "n_items_window": 14,
   "commentary_window_days": 14,
-  "n_items_total": 243,
+  "n_items_total": 250,
   "history_90d": [
     {
-      "date": "2026-06-11",
+      "date": "2026-06-12",
       "commentary_score": -0.04,
       "n_items": 8
-    },
-    {
-      "date": "2026-06-12",
-      "commentary_score": 0.071,
-      "n_items": 7
     },
     {
       "date": "2026-06-13",
@@ -44,8 +39,8 @@
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 0.126,
-      "n_items": 10
+      "commentary_score": 0.0,
+      "n_items": 3
     },
     {
       "date": "2026-06-19",
@@ -64,7 +59,7 @@
     },
     {
       "date": "2026-06-22",
-      "commentary_score": 0.108,
+      "commentary_score": 0.131,
       "n_items": 8
     },
     {
@@ -99,8 +94,8 @@
     },
     {
       "date": "2026-06-29",
-      "commentary_score": -0.138,
-      "n_items": 11
+      "commentary_score": -0.155,
+      "n_items": 10
     },
     {
       "date": "2026-06-30",
@@ -114,8 +109,8 @@
     },
     {
       "date": "2026-07-02",
-      "commentary_score": -0.798,
-      "n_items": 7
+      "commentary_score": -0.469,
+      "n_items": 14
     },
     {
       "date": "2026-07-03",
@@ -134,13 +129,13 @@
     },
     {
       "date": "2026-07-06",
-      "commentary_score": -0.224,
-      "n_items": 9
+      "commentary_score": -0.205,
+      "n_items": 10
     },
     {
       "date": "2026-07-07",
-      "commentary_score": -0.119,
-      "n_items": 12
+      "commentary_score": -0.224,
+      "n_items": 9
     },
     {
       "date": "2026-07-08",
@@ -169,13 +164,13 @@
     },
     {
       "date": "2026-07-13",
-      "commentary_score": 0.144,
-      "n_items": 10
+      "commentary_score": 0.139,
+      "n_items": 11
     },
     {
       "date": "2026-07-14",
-      "commentary_score": 0.105,
-      "n_items": 11
+      "commentary_score": 0.144,
+      "n_items": 10
     },
     {
       "date": "2026-07-15",
@@ -184,8 +179,8 @@
     },
     {
       "date": "2026-07-16",
-      "commentary_score": -0.189,
-      "n_items": 9
+      "commentary_score": 0.317,
+      "n_items": 8
     },
     {
       "date": "2026-07-17",
@@ -209,8 +204,8 @@
     },
     {
       "date": "2026-07-21",
-      "commentary_score": -0.551,
-      "n_items": 3
+      "commentary_score": -0.356,
+      "n_items": 6
     },
     {
       "date": "2026-07-22",
@@ -224,8 +219,8 @@
     },
     {
       "date": "2026-07-24",
-      "commentary_score": -0.349,
-      "n_items": 3
+      "commentary_score": -0.919,
+      "n_items": 2
     },
     {
       "date": "2026-07-25",
@@ -244,8 +239,8 @@
     },
     {
       "date": "2026-07-28",
-      "commentary_score": -0.439,
-      "n_items": 2
+      "commentary_score": -0.349,
+      "n_items": 3
     },
     {
       "date": "2026-07-29",
@@ -254,13 +249,13 @@
     },
     {
       "date": "2026-07-30",
-      "commentary_score": -0.054,
-      "n_items": 10
+      "commentary_score": -0.439,
+      "n_items": 2
     },
     {
       "date": "2026-07-31",
-      "commentary_score": -0.196,
-      "n_items": 13
+      "commentary_score": -0.188,
+      "n_items": 11
     },
     {
       "date": "2026-08-01",
@@ -294,8 +289,8 @@
     },
     {
       "date": "2026-08-07",
-      "commentary_score": -0.207,
-      "n_items": 12
+      "commentary_score": -0.196,
+      "n_items": 13
     },
     {
       "date": "2026-08-08",
@@ -324,13 +319,13 @@
     },
     {
       "date": "2026-08-13",
-      "commentary_score": -0.554,
-      "n_items": 3
+      "commentary_score": -0.207,
+      "n_items": 12
     },
     {
       "date": "2026-08-14",
-      "commentary_score": 3.0,
-      "n_items": 1
+      "commentary_score": 1.787,
+      "n_items": 3
     },
     {
       "date": "2026-08-15",
@@ -429,13 +424,13 @@
     },
     {
       "date": "2026-09-03",
-      "commentary_score": 0.012,
-      "n_items": 4
+      "commentary_score": 0.02,
+      "n_items": 3
     },
     {
       "date": "2026-09-04",
-      "commentary_score": 0.313,
-      "n_items": 7
+      "commentary_score": 0.429,
+      "n_items": 6
     },
     {
       "date": "2026-09-05",
@@ -456,37 +451,88 @@
       "date": "2026-09-08",
       "commentary_score": 0.313,
       "n_items": 7
+    },
+    {
+      "date": "2026-09-09",
+      "commentary_score": -0.476,
+      "n_items": 14
     }
   ],
   "key_comments": [
     {
-      "published_at": "2026-08-28T15:50:11+00:00",
+      "published_at": "2026-09-08T14:24:30+00:00",
       "speaker": "Andrew Bailey",
       "role": "chair",
       "lean_prior": "dove",
       "voting_2026": true,
       "event_type": "other",
-      "stance": -1.5,
-      "phrase": "Cannot promise that muted second round effects will continue.",
-      "headline": "BoE Governor Bailey says they are seeing quite subdued second round effects so far and can watch this situation for now",
+      "stance": -2.0,
+      "phrase": "the labour market is softening and the hiring rate has declined",
+      "headline": "BoE Governor Bailey says the labour market is softening and the hiring rate has declined",
       "importance": 3.0,
       "reasons": [
         "Chair spoke"
       ]
     },
     {
-      "published_at": "2026-08-13T14:37:41+00:00",
-      "speaker": "Huw Pill",
-      "role": "chief_economist",
+      "published_at": "2026-09-08T14:06:24+00:00",
+      "speaker": "Dave Ramsden",
+      "role": "vice_chair",
+      "lean_prior": "dove",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": 1.0,
+      "phrase": "increased frequency of supply shocks may lead to a ratcheting-up of prices",
+      "headline": "BoE's Ramsden says the increased frequency of supply shocks may lead to a ratcheting-up of prices",
+      "importance": 8.0,
+      "reasons": [
+        "Vice Chair spoke",
+        "dove-lean speaker sounded hawkish"
+      ]
+    },
+    {
+      "published_at": "2026-09-08T13:32:58+00:00",
+      "speaker": "Dave Ramsden",
+      "role": "vice_chair",
+      "lean_prior": "dove",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": -2.0,
+      "phrase": "domestic inflation position is relatively benign",
+      "headline": "BoE's Ramsden says that domestic inflation position is relatively benign; gets reassurance on inflation from the labour market, adding that UK wages has come in below what was expected before the conflict",
+      "importance": 3.0,
+      "reasons": [
+        "Vice Chair spoke"
+      ]
+    },
+    {
+      "published_at": "2026-09-08T13:30:40+00:00",
+      "speaker": "Megan Greene",
+      "role": "mpc_external",
       "lean_prior": "hawk",
       "voting_2026": true,
-      "event_type": "off-the-cuff",
-      "stance": 3.0,
-      "phrase": "the UK growth outlook increases the case for a rate hike",
-      "headline": "BoE\u2019s Pill says the UK growth outlook increases the case for a rate hike, via WSJ interview",
-      "importance": 1.5,
+      "event_type": "other",
+      "stance": -1.0,
+      "phrase": "length of time oil prices has been high worries her",
+      "headline": "BoE's Greene says that the length of time oil prices has been high for, worries her, in relation to potential second round effects",
+      "importance": 5.0,
       "reasons": [
-        "cross-market extreme (|stance| = 3.0)"
+        "hawk-lean speaker sounded dovish"
+      ]
+    },
+    {
+      "published_at": "2026-09-08T13:23:47+00:00",
+      "speaker": "Andrew Bailey",
+      "role": "chair",
+      "lean_prior": "dove",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": -1.0,
+      "phrase": "Food inflation risks are to the upside",
+      "headline": "BoE Governor Bailey says the US Iran war has led to high energy prices and they could be still be higher",
+      "importance": 3.0,
+      "reasons": [
+        "Chair spoke"
       ]
     }
   ],
@@ -518,16 +564,55 @@
       "last_event_type": "other"
     },
     {
+      "name": "Dave Ramsden",
+      "role": "vice_chair",
+      "voting_2026": true,
+      "lean_prior": "dove",
+      "n_items": 2,
+      "mean_stance": -0.714,
+      "last_stance": 1.0,
+      "last_phrase": "increased frequency of supply shocks may lead to a ratcheting-up of prices",
+      "last_headline": "BoE's Ramsden says the increased frequency of supply shocks may lead to a ratcheting-up of prices",
+      "last_published_at": "2026-09-08T14:06:24+00:00",
+      "last_event_type": "other"
+    },
+    {
+      "name": "Megan Greene",
+      "role": "mpc_external",
+      "voting_2026": true,
+      "lean_prior": "hawk",
+      "n_items": 1,
+      "mean_stance": -1.0,
+      "last_stance": -1.0,
+      "last_phrase": "length of time oil prices has been high worries her",
+      "last_headline": "BoE's Greene says that the length of time oil prices has been high for, worries her, in relation to potential second round effects",
+      "last_published_at": "2026-09-08T13:30:40+00:00",
+      "last_event_type": "other"
+    },
+    {
+      "name": "Alan Taylor",
+      "role": "mpc_external",
+      "voting_2026": true,
+      "lean_prior": "dove",
+      "n_items": 1,
+      "mean_stance": -1.0,
+      "last_stance": -1.0,
+      "last_phrase": "the case for easing becoming stronger",
+      "last_headline": "BoE's Taylor judges that, for now, holding at a \"moderately restrictive level\" provides insurance. However, the conflict subsiding, energy moderating and underlying disinflation continuing would see t",
+      "last_published_at": "2026-09-08T13:34:57+00:00",
+      "last_event_type": "other"
+    },
+    {
       "name": "Andrew Bailey",
       "role": "chair",
       "voting_2026": true,
       "lean_prior": "dove",
-      "n_items": 1,
-      "mean_stance": -1.5,
-      "last_stance": -1.5,
-      "last_phrase": "Cannot promise that muted second round effects will continue.",
-      "last_headline": "BoE Governor Bailey says they are seeing quite subdued second round effects so far and can watch this situation for now",
-      "last_published_at": "2026-08-28T15:50:11+00:00",
+      "n_items": 3,
+      "mean_stance": -1.579,
+      "last_stance": -2.0,
+      "last_phrase": "the labour market is softening and the hiring rate has declined",
+      "last_headline": "BoE Governor Bailey says the labour market is softening and the hiring rate has declined",
+      "last_published_at": "2026-09-08T14:24:30+00:00",
       "last_event_type": "other"
     }
   ],
