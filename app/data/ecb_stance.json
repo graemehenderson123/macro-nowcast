@@ -1,11 +1,11 @@
 {
   "cb": "ecb",
-  "as_of": "2026-09-10T04:31:39.082933+00:00",
-  "commentary_score": 0.955,
+  "as_of": "2026-09-10T13:03:09.377580+00:00",
+  "commentary_score": 1.031,
   "label": "lean hawkish",
-  "n_items_window": 9,
+  "n_items_window": 13,
   "commentary_window_days": 14,
-  "n_items_total": 564,
+  "n_items_total": 569,
   "history_90d": [
     {
       "date": "2026-06-13",
@@ -19,28 +19,28 @@
     },
     {
       "date": "2026-06-15",
-      "commentary_score": 0.547,
-      "n_items": 28
-    },
-    {
-      "date": "2026-06-16",
       "commentary_score": 0.575,
       "n_items": 30
     },
     {
+      "date": "2026-06-16",
+      "commentary_score": 0.522,
+      "n_items": 29
+    },
+    {
       "date": "2026-06-17",
-      "commentary_score": 0.619,
-      "n_items": 32
+      "commentary_score": 0.623,
+      "n_items": 31
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 0.615,
-      "n_items": 32
+      "commentary_score": 0.654,
+      "n_items": 33
     },
     {
       "date": "2026-06-19",
-      "commentary_score": 0.594,
-      "n_items": 34
+      "commentary_score": 0.59,
+      "n_items": 36
     },
     {
       "date": "2026-06-20",
@@ -54,13 +54,13 @@
     },
     {
       "date": "2026-06-22",
-      "commentary_score": 0.59,
-      "n_items": 36
+      "commentary_score": 0.268,
+      "n_items": 39
     },
     {
       "date": "2026-06-23",
-      "commentary_score": 0.167,
-      "n_items": 40
+      "commentary_score": 0.158,
+      "n_items": 44
     },
     {
       "date": "2026-06-24",
@@ -69,13 +69,13 @@
     },
     {
       "date": "2026-06-25",
-      "commentary_score": 0.231,
-      "n_items": 47
+      "commentary_score": 0.268,
+      "n_items": 44
     },
     {
       "date": "2026-06-26",
-      "commentary_score": 0.229,
-      "n_items": 29
+      "commentary_score": 0.185,
+      "n_items": 26
     },
     {
       "date": "2026-06-27",
@@ -89,28 +89,28 @@
     },
     {
       "date": "2026-06-29",
-      "commentary_score": 0.159,
+      "commentary_score": -0.056,
       "n_items": 24
     },
     {
       "date": "2026-06-30",
-      "commentary_score": 0.154,
-      "n_items": 25
+      "commentary_score": 0.15,
+      "n_items": 26
     },
     {
       "date": "2026-07-01",
-      "commentary_score": -0.064,
-      "n_items": 25
+      "commentary_score": -0.18,
+      "n_items": 27
     },
     {
       "date": "2026-07-02",
-      "commentary_score": -0.182,
-      "n_items": 29
+      "commentary_score": -0.211,
+      "n_items": 28
     },
     {
       "date": "2026-07-03",
-      "commentary_score": 0.094,
-      "n_items": 29
+      "commentary_score": 0.077,
+      "n_items": 28
     },
     {
       "date": "2026-07-04",
@@ -124,23 +124,23 @@
     },
     {
       "date": "2026-07-06",
-      "commentary_score": 0.101,
-      "n_items": 30
+      "commentary_score": 0.198,
+      "n_items": 27
     },
     {
       "date": "2026-07-07",
-      "commentary_score": 0.234,
-      "n_items": 28
+      "commentary_score": 0.242,
+      "n_items": 24
     },
     {
       "date": "2026-07-08",
-      "commentary_score": 0.246,
-      "n_items": 23
+      "commentary_score": 0.213,
+      "n_items": 24
     },
     {
       "date": "2026-07-09",
-      "commentary_score": 0.177,
-      "n_items": 22
+      "commentary_score": 0.133,
+      "n_items": 21
     },
     {
       "date": "2026-07-10",
@@ -159,17 +159,17 @@
     },
     {
       "date": "2026-07-13",
-      "commentary_score": 0.122,
-      "n_items": 22
+      "commentary_score": 0.195,
+      "n_items": 19
     },
     {
       "date": "2026-07-14",
-      "commentary_score": 0.106,
-      "n_items": 18
+      "commentary_score": 0.117,
+      "n_items": 16
     },
     {
       "date": "2026-07-15",
-      "commentary_score": 0.211,
+      "commentary_score": 0.239,
       "n_items": 14
     },
     {
@@ -179,8 +179,8 @@
     },
     {
       "date": "2026-07-17",
-      "commentary_score": 0.038,
-      "n_items": 9
+      "commentary_score": 0.042,
+      "n_items": 8
     },
     {
       "date": "2026-07-18",
@@ -194,28 +194,28 @@
     },
     {
       "date": "2026-07-20",
-      "commentary_score": -0.006,
-      "n_items": 6
+      "commentary_score": -0.003,
+      "n_items": 7
     },
     {
       "date": "2026-07-21",
-      "commentary_score": -0.017,
-      "n_items": 5
-    },
-    {
-      "date": "2026-07-22",
       "commentary_score": -0.012,
       "n_items": 6
     },
     {
-      "date": "2026-07-23",
+      "date": "2026-07-22",
       "commentary_score": -0.013,
       "n_items": 5
     },
     {
+      "date": "2026-07-23",
+      "commentary_score": -0.494,
+      "n_items": 7
+    },
+    {
       "date": "2026-07-24",
-      "commentary_score": -0.371,
-      "n_items": 20
+      "commentary_score": -0.286,
+      "n_items": 25
     },
     {
       "date": "2026-07-25",
@@ -229,8 +229,8 @@
     },
     {
       "date": "2026-07-27",
-      "commentary_score": -0.279,
-      "n_items": 26
+      "commentary_score": -0.152,
+      "n_items": 27
     },
     {
       "date": "2026-07-28",
@@ -239,8 +239,8 @@
     },
     {
       "date": "2026-07-29",
-      "commentary_score": -0.152,
-      "n_items": 27
+      "commentary_score": -0.153,
+      "n_items": 25
     },
     {
       "date": "2026-07-30",
@@ -249,8 +249,8 @@
     },
     {
       "date": "2026-07-31",
-      "commentary_score": -0.153,
-      "n_items": 25
+      "commentary_score": -0.145,
+      "n_items": 26
     },
     {
       "date": "2026-08-01",
@@ -264,28 +264,28 @@
     },
     {
       "date": "2026-08-03",
-      "commentary_score": -0.145,
-      "n_items": 26
-    },
-    {
-      "date": "2026-08-04",
       "commentary_score": -0.154,
       "n_items": 25
     },
     {
-      "date": "2026-08-05",
+      "date": "2026-08-04",
       "commentary_score": -0.159,
       "n_items": 24
     },
     {
-      "date": "2026-08-06",
+      "date": "2026-08-05",
       "commentary_score": -0.143,
       "n_items": 25
     },
     {
+      "date": "2026-08-06",
+      "commentary_score": -0.048,
+      "n_items": 23
+    },
+    {
       "date": "2026-08-07",
-      "commentary_score": 0.4,
-      "n_items": 9
+      "commentary_score": 0.514,
+      "n_items": 4
     },
     {
       "date": "2026-08-08",
@@ -299,8 +299,8 @@
     },
     {
       "date": "2026-08-10",
-      "commentary_score": 0.577,
-      "n_items": 3
+      "commentary_score": 0.0,
+      "n_items": 2
     },
     {
       "date": "2026-08-11",
@@ -320,7 +320,7 @@
     {
       "date": "2026-08-14",
       "commentary_score": 0.0,
-      "n_items": 2
+      "n_items": 1
     },
     {
       "date": "2026-08-15",
@@ -335,17 +335,17 @@
     {
       "date": "2026-08-17",
       "commentary_score": 0.0,
-      "n_items": 1
+      "n_items": 2
     },
     {
       "date": "2026-08-18",
       "commentary_score": 0.0,
-      "n_items": 2
+      "n_items": 3
     },
     {
       "date": "2026-08-19",
-      "commentary_score": 0.0,
-      "n_items": 3
+      "commentary_score": -0.264,
+      "n_items": 4
     },
     {
       "date": "2026-08-20",
@@ -354,8 +354,8 @@
     },
     {
       "date": "2026-08-21",
-      "commentary_score": -0.264,
-      "n_items": 4
+      "commentary_score": -0.378,
+      "n_items": 5
     },
     {
       "date": "2026-08-22",
@@ -369,8 +369,8 @@
     },
     {
       "date": "2026-08-24",
-      "commentary_score": -0.378,
-      "n_items": 5
+      "commentary_score": -0.314,
+      "n_items": 6
     },
     {
       "date": "2026-08-25",
@@ -379,18 +379,18 @@
     },
     {
       "date": "2026-08-26",
-      "commentary_score": -0.314,
-      "n_items": 6
-    },
-    {
-      "date": "2026-08-27",
       "commentary_score": 0.626,
       "n_items": 7
     },
     {
-      "date": "2026-08-28",
+      "date": "2026-08-27",
       "commentary_score": 0.963,
       "n_items": 8
+    },
+    {
+      "date": "2026-08-28",
+      "commentary_score": 1.089,
+      "n_items": 9
     },
     {
       "date": "2026-08-29",
@@ -404,28 +404,28 @@
     },
     {
       "date": "2026-08-31",
-      "commentary_score": 1.089,
-      "n_items": 9
-    },
-    {
-      "date": "2026-09-01",
       "commentary_score": 1.173,
       "n_items": 8
     },
     {
-      "date": "2026-09-02",
-      "commentary_score": 1.018,
-      "n_items": 11
+      "date": "2026-09-01",
+      "commentary_score": 0.79,
+      "n_items": 9
     },
     {
-      "date": "2026-09-03",
+      "date": "2026-09-02",
       "commentary_score": 1.492,
       "n_items": 10
     },
     {
-      "date": "2026-09-04",
+      "date": "2026-09-03",
       "commentary_score": 1.248,
       "n_items": 11
+    },
+    {
+      "date": "2026-09-04",
+      "commentary_score": 1.307,
+      "n_items": 10
     },
     {
       "date": "2026-09-05",
@@ -439,8 +439,8 @@
     },
     {
       "date": "2026-09-07",
-      "commentary_score": 1.307,
-      "n_items": 10
+      "commentary_score": 1.353,
+      "n_items": 9
     },
     {
       "date": "2026-09-08",
@@ -449,16 +449,32 @@
     },
     {
       "date": "2026-09-09",
-      "commentary_score": 1.097,
-      "n_items": 10
+      "commentary_score": 0.955,
+      "n_items": 9
     },
     {
       "date": "2026-09-10",
-      "commentary_score": 0.955,
-      "n_items": 9
+      "commentary_score": 1.031,
+      "n_items": 13
     }
   ],
   "key_comments": [
+    {
+      "published_at": "2026-09-10T12:15:12+00:00",
+      "speaker": "ECB (institutional)",
+      "role": "institutional",
+      "lean_prior": "neutral",
+      "voting_2026": true,
+      "event_type": "statement",
+      "stance": 3.0,
+      "phrase": "inflation is set to remain well above target for an extended period",
+      "headline": "ECB raises its rates by 25bps as expected; ECB reiterates it is not pre-committing to a particular rate path; says inflation is set to remain well above target for an extended period",
+      "importance": 4.5,
+      "reasons": [
+        "official CB statement (stance +3.00)",
+        "strong policy signal (|stance| = 3.0)"
+      ]
+    },
     {
       "published_at": "2026-09-02T04:05:54+00:00",
       "speaker": "Gabriel Makhlouf",
@@ -506,21 +522,6 @@
       ]
     },
     {
-      "published_at": "2026-08-27T11:32:49+00:00",
-      "speaker": "ECB (institutional)",
-      "role": "institutional",
-      "lean_prior": "neutral",
-      "voting_2026": true,
-      "event_type": "statement",
-      "stance": 1.5,
-      "phrase": "another rate hike would likely be necessary unless the inflation outlook improved significantly",
-      "headline": "ECB MINUTES: it was argued that a rate increase would not address the underlying cause of the rise in inflation",
-      "importance": 2.5,
-      "reasons": [
-        "official CB statement (stance +1.50)"
-      ]
-    },
-    {
       "published_at": "2026-08-21T07:15:18+00:00",
       "speaker": "Martins Kazaks",
       "role": "regional_president",
@@ -551,6 +552,19 @@
       "last_event_type": "off-the-cuff"
     },
     {
+      "name": "ECB (institutional)",
+      "role": "institutional",
+      "voting_2026": true,
+      "lean_prior": "neutral",
+      "n_items": 2,
+      "mean_stance": 2.571,
+      "last_stance": 3.0,
+      "last_phrase": "inflation is set to remain well above target for an extended period",
+      "last_headline": "ECB raises its rates by 25bps as expected; ECB reiterates it is not pre-committing to a particular rate path; says inflation is set to remain well above target for an extended period",
+      "last_published_at": "2026-09-10T12:15:12+00:00",
+      "last_event_type": "statement"
+    },
+    {
       "name": "Martins Kazaks",
       "role": "regional_president",
       "voting_2026": true,
@@ -575,19 +589,6 @@
       "last_headline": "ECB's Nagel says that markets see a more than 95% chance of a September rate hike; markets understand rather well, the ECB's way of reacting",
       "last_published_at": "2026-09-02T05:46:26+00:00",
       "last_event_type": "other"
-    },
-    {
-      "name": "ECB (institutional)",
-      "role": "institutional",
-      "voting_2026": true,
-      "lean_prior": "neutral",
-      "n_items": 1,
-      "mean_stance": 1.5,
-      "last_stance": 1.5,
-      "last_phrase": "another rate hike would likely be necessary unless the inflation outlook improved significantly",
-      "last_headline": "ECB MINUTES: it was argued that a rate increase would not address the underlying cause of the rise in inflation",
-      "last_published_at": "2026-08-27T11:32:49+00:00",
-      "last_event_type": "statement"
     },
     {
       "name": "Isabel Schnabel",
@@ -626,6 +627,19 @@
       "last_phrase": "a hike in September is \"not going to be enough\"",
       "last_headline": "ECB's Simkus says a hike in September is \"not going to be enough\", Econostream reports. 50bps hike is not needed.",
       "last_published_at": "2026-09-01T13:05:36+00:00",
+      "last_event_type": "other"
+    },
+    {
+      "name": "Christine Lagarde",
+      "role": "chair",
+      "voting_2026": true,
+      "lean_prior": "dove",
+      "n_items": 1,
+      "mean_stance": -2.0,
+      "last_stance": -2.0,
+      "last_phrase": "risks to the growth outlook are to the downside",
+      "last_headline": "ECB President Lagarde (statement): risks to the growth outlook are to the downside (reiteration)",
+      "last_published_at": "2026-09-10T12:59:37+00:00",
       "last_event_type": "other"
     }
   ],

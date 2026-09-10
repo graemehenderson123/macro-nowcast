@@ -1,6 +1,6 @@
 {
   "cb": "boc",
-  "as_of": "2026-09-10T04:31:39.496841+00:00",
+  "as_of": "2026-09-10T13:03:09.829061+00:00",
   "commentary_score": 1.425,
   "label": "lean hawkish",
   "n_items_window": 5,
@@ -69,8 +69,8 @@
     },
     {
       "date": "2026-06-25",
-      "commentary_score": 0.237,
-      "n_items": 9
+      "commentary_score": 0.255,
+      "n_items": 8
     },
     {
       "date": "2026-06-26",
@@ -415,7 +415,7 @@
     {
       "date": "2026-09-02",
       "commentary_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-09-03",

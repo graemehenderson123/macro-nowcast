@@ -1,11 +1,11 @@
 {
   "cb": "huf",
-  "as_of": "2026-09-10T04:31:40.283415+00:00",
-  "commentary_score": 0.0,
-  "label": "neutral",
-  "n_items_window": 0,
+  "as_of": "2026-09-10T13:03:10.634414+00:00",
+  "commentary_score": -2.0,
+  "label": "dovish",
+  "n_items_window": 1,
   "commentary_window_days": 30,
-  "n_items_total": 9,
+  "n_items_total": 10,
   "history_90d": [
     {
       "date": "2026-06-13",
@@ -159,8 +159,8 @@
     },
     {
       "date": "2026-07-13",
-      "commentary_score": -2.0,
-      "n_items": 1
+      "commentary_score": -2.856,
+      "n_items": 2
     },
     {
       "date": "2026-07-14",
@@ -309,8 +309,8 @@
     },
     {
       "date": "2026-08-12",
-      "commentary_score": -3.0,
-      "n_items": 1
+      "commentary_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-08-13",
@@ -454,12 +454,43 @@
     },
     {
       "date": "2026-09-10",
-      "commentary_score": 0.0,
-      "n_items": 0
+      "commentary_score": -2.0,
+      "n_items": 1
     }
   ],
-  "key_comments": [],
-  "speakers": [],
+  "key_comments": [
+    {
+      "published_at": "2026-09-10T09:20:34+00:00",
+      "speaker": "Mihaly Varga",
+      "role": "chair",
+      "lean_prior": "hawk",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": -2.0,
+      "phrase": "prepared to gradually lower its inflation target",
+      "headline": "NBH's Governor Varga says the bank is prepared to gradually lower its inflation target",
+      "importance": 10.0,
+      "reasons": [
+        "Chair spoke",
+        "hawk-lean speaker sounded dovish"
+      ]
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Mihaly Varga",
+      "role": "chair",
+      "voting_2026": true,
+      "lean_prior": "hawk",
+      "n_items": 1,
+      "mean_stance": -2.0,
+      "last_stance": -2.0,
+      "last_phrase": "prepared to gradually lower its inflation target",
+      "last_headline": "NBH's Governor Varga says the bank is prepared to gradually lower its inflation target",
+      "last_published_at": "2026-09-10T09:20:34+00:00",
+      "last_event_type": "other"
+    }
+  ],
   "methodology": {
     "commentary_window_days": 30,
     "commentary_window_days_default": 14,

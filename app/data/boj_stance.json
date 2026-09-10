@@ -1,11 +1,11 @@
 {
   "cb": "boj",
-  "as_of": "2026-09-10T04:31:39.253727+00:00",
-  "commentary_score": 1.837,
+  "as_of": "2026-09-10T13:03:09.585651+00:00",
+  "commentary_score": 1.588,
   "label": "lean hawkish",
-  "n_items_window": 11,
+  "n_items_window": 13,
   "commentary_window_days": 30,
-  "n_items_total": 202,
+  "n_items_total": 204,
   "history_90d": [
     {
       "date": "2026-06-13",
@@ -24,8 +24,8 @@
     },
     {
       "date": "2026-06-16",
-      "commentary_score": 0.947,
-      "n_items": 14
+      "commentary_score": 0.966,
+      "n_items": 16
     },
     {
       "date": "2026-06-17",
@@ -34,18 +34,18 @@
     },
     {
       "date": "2026-06-18",
-      "commentary_score": 0.887,
-      "n_items": 17
+      "commentary_score": 0.451,
+      "n_items": 18
     },
     {
       "date": "2026-06-19",
-      "commentary_score": 0.473,
-      "n_items": 19
+      "commentary_score": 0.44,
+      "n_items": 20
     },
     {
       "date": "2026-06-20",
-      "commentary_score": 0.43,
-      "n_items": 19
+      "commentary_score": 0.429,
+      "n_items": 18
     },
     {
       "date": "2026-06-21",
@@ -64,13 +64,13 @@
     },
     {
       "date": "2026-06-24",
-      "commentary_score": 0.144,
-      "n_items": 21
+      "commentary_score": 0.039,
+      "n_items": 22
     },
     {
       "date": "2026-06-25",
-      "commentary_score": 0.241,
-      "n_items": 22
+      "commentary_score": 0.365,
+      "n_items": 23
     },
     {
       "date": "2026-06-26",
@@ -109,8 +109,8 @@
     },
     {
       "date": "2026-07-03",
-      "commentary_score": 0.383,
-      "n_items": 20
+      "commentary_score": 0.369,
+      "n_items": 19
     },
     {
       "date": "2026-07-04",
@@ -134,8 +134,8 @@
     },
     {
       "date": "2026-07-08",
-      "commentary_score": -0.551,
-      "n_items": 21
+      "commentary_score": -0.561,
+      "n_items": 20
     },
     {
       "date": "2026-07-09",
@@ -144,8 +144,8 @@
     },
     {
       "date": "2026-07-10",
-      "commentary_score": -0.561,
-      "n_items": 20
+      "commentary_score": -0.638,
+      "n_items": 18
     },
     {
       "date": "2026-07-11",
@@ -174,23 +174,23 @@
     },
     {
       "date": "2026-07-16",
-      "commentary_score": -0.512,
-      "n_items": 16
-    },
-    {
-      "date": "2026-07-17",
       "commentary_score": -0.609,
       "n_items": 14
     },
     {
+      "date": "2026-07-17",
+      "commentary_score": -0.298,
+      "n_items": 15
+    },
+    {
       "date": "2026-07-18",
-      "commentary_score": -0.301,
-      "n_items": 14
+      "commentary_score": -0.274,
+      "n_items": 13
     },
     {
       "date": "2026-07-19",
-      "commentary_score": -0.302,
-      "n_items": 11
+      "commentary_score": -0.306,
+      "n_items": 10
     },
     {
       "date": "2026-07-20",
@@ -214,13 +214,13 @@
     },
     {
       "date": "2026-07-24",
-      "commentary_score": -0.283,
-      "n_items": 7
+      "commentary_score": -0.265,
+      "n_items": 6
     },
     {
       "date": "2026-07-25",
-      "commentary_score": -0.338,
-      "n_items": 5
+      "commentary_score": -0.394,
+      "n_items": 4
     },
     {
       "date": "2026-07-26",
@@ -249,8 +249,8 @@
     },
     {
       "date": "2026-07-31",
-      "commentary_score": 0.471,
-      "n_items": 5
+      "commentary_score": 1.262,
+      "n_items": 7
     },
     {
       "date": "2026-08-01",
@@ -269,8 +269,8 @@
     },
     {
       "date": "2026-08-04",
-      "commentary_score": 1.102,
-      "n_items": 8
+      "commentary_score": 1.27,
+      "n_items": 9
     },
     {
       "date": "2026-08-05",
@@ -299,8 +299,8 @@
     },
     {
       "date": "2026-08-10",
-      "commentary_score": 0.921,
-      "n_items": 9
+      "commentary_score": 1.282,
+      "n_items": 10
     },
     {
       "date": "2026-08-11",
@@ -329,8 +329,8 @@
     },
     {
       "date": "2026-08-16",
-      "commentary_score": 1.293,
-      "n_items": 9
+      "commentary_score": 1.332,
+      "n_items": 8
     },
     {
       "date": "2026-08-17",
@@ -384,13 +384,13 @@
     },
     {
       "date": "2026-08-27",
-      "commentary_score": 1.977,
-      "n_items": 11
+      "commentary_score": 2.05,
+      "n_items": 12
     },
     {
       "date": "2026-08-28",
-      "commentary_score": 2.05,
-      "n_items": 12
+      "commentary_score": 1.637,
+      "n_items": 13
     },
     {
       "date": "2026-08-29",
@@ -399,8 +399,8 @@
     },
     {
       "date": "2026-08-30",
-      "commentary_score": 1.638,
-      "n_items": 12
+      "commentary_score": 1.64,
+      "n_items": 10
     },
     {
       "date": "2026-08-31",
@@ -414,13 +414,13 @@
     },
     {
       "date": "2026-09-02",
-      "commentary_score": 0.98,
-      "n_items": 13
+      "commentary_score": 1.126,
+      "n_items": 14
     },
     {
       "date": "2026-09-03",
-      "commentary_score": 1.126,
-      "n_items": 14
+      "commentary_score": 1.12,
+      "n_items": 13
     },
     {
       "date": "2026-09-04",
@@ -444,21 +444,36 @@
     },
     {
       "date": "2026-09-08",
-      "commentary_score": 1.078,
-      "n_items": 12
+      "commentary_score": 1.797,
+      "n_items": 13
     },
     {
       "date": "2026-09-09",
-      "commentary_score": 1.85,
-      "n_items": 12
+      "commentary_score": 1.837,
+      "n_items": 11
     },
     {
       "date": "2026-09-10",
-      "commentary_score": 1.837,
-      "n_items": 11
+      "commentary_score": 1.588,
+      "n_items": 13
     }
   ],
   "key_comments": [
+    {
+      "published_at": "2026-09-10T01:34:44+00:00",
+      "speaker": "Kazuyuki Masu",
+      "role": "governor",
+      "lean_prior": "neutral",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": 1.5,
+      "phrase": "BoJ is expected to continue raising interest rates given current accommodative financial conditions.",
+      "headline": "BoJ Board Member Masu says one\u2011 to two\u2011year real interest rates remain negative and need to keep price trend from going above 2%, adds underlying inflation is still below 2% but quite close to that level",
+      "importance": 1.5,
+      "reasons": [
+        "notable move vs own recent tone"
+      ]
+    },
     {
       "published_at": "2026-09-08T09:31:57+00:00",
       "speaker": "BOJ (institutional)",
@@ -473,21 +488,6 @@
       "reasons": [
         "official CB statement (stance +3.00)",
         "strong policy signal (|stance| = 3.0)"
-      ]
-    },
-    {
-      "published_at": "2026-09-02T05:16:22+00:00",
-      "speaker": "Hajime Takata",
-      "role": "governor",
-      "lean_prior": "hawk",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": 2.5,
-      "phrase": "a different response is needed from the normal semi-annual pace of tightening.",
-      "headline": "BoJ's Takata says they need to consider a broad range of options, not just a 25bps hike each time. Adds, a different response is needed from the normal semi-annual pace of tightening.",
-      "importance": 0.75,
-      "reasons": [
-        "cross-market extreme (|stance| = 2.5)"
       ]
     },
     {
@@ -579,6 +579,19 @@
       "last_phrase": "a different response is needed from the normal semi-annual pace of tightening.",
       "last_headline": "BoJ's Takata says they need to consider a broad range of options, not just a 25bps hike each time. Adds, a different response is needed from the normal semi-annual pace of tightening.",
       "last_published_at": "2026-09-02T05:16:22+00:00",
+      "last_event_type": "other"
+    },
+    {
+      "name": "Kazuyuki Masu",
+      "role": "governor",
+      "voting_2026": true,
+      "lean_prior": "neutral",
+      "n_items": 1,
+      "mean_stance": 1.5,
+      "last_stance": 1.5,
+      "last_phrase": "BoJ is expected to continue raising interest rates given current accommodative financial conditions.",
+      "last_headline": "BoJ Board Member Masu says one\u2011 to two\u2011year real interest rates remain negative and need to keep price trend from going above 2%, adds underlying inflation is still below 2% but quite close to that le",
+      "last_published_at": "2026-09-10T01:34:44+00:00",
       "last_event_type": "other"
     },
     {
