@@ -1,17 +1,12 @@
 {
   "cb": "snb",
-  "as_of": "2026-09-10T13:03:09.913547+00:00",
-  "commentary_score": -0.798,
-  "label": "lean dovish",
-  "n_items_window": 4,
+  "as_of": "2026-09-11T13:02:08.352648+00:00",
+  "commentary_score": -0.693,
+  "label": "neutral",
+  "n_items_window": 6,
   "commentary_window_days": 30,
-  "n_items_total": 57,
+  "n_items_total": 59,
   "history_90d": [
-    {
-      "date": "2026-06-13",
-      "commentary_score": -1.241,
-      "n_items": 5
-    },
     {
       "date": "2026-06-14",
       "commentary_score": -1.241,
@@ -456,9 +451,29 @@
       "date": "2026-09-10",
       "commentary_score": -0.798,
       "n_items": 4
+    },
+    {
+      "date": "2026-09-11",
+      "commentary_score": -0.693,
+      "n_items": 6
     }
   ],
   "key_comments": [
+    {
+      "published_at": "2026-09-11T09:23:33+00:00",
+      "speaker": "Martin Schlegel",
+      "role": "chair",
+      "lean_prior": "dove",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": -1.5,
+      "phrase": "inflation has recently ticker higher",
+      "headline": "SNB's Schlegel says inflation has recently ticker higher",
+      "importance": 3.0,
+      "reasons": [
+        "Chair spoke"
+      ]
+    },
     {
       "published_at": "2026-08-21T15:01:50+00:00",
       "speaker": "Petra Tschudin",
@@ -487,6 +502,19 @@
       "last_phrase": "",
       "last_headline": "SNB's Martin backs government's proposals for tougher capital rules for UBS (UBSG SW)",
       "last_published_at": "2026-08-26T16:17:37+00:00",
+      "last_event_type": "other"
+    },
+    {
+      "name": "Martin Schlegel",
+      "role": "chair",
+      "voting_2026": true,
+      "lean_prior": "dove",
+      "n_items": 1,
+      "mean_stance": -1.5,
+      "last_stance": -1.5,
+      "last_phrase": "inflation has recently ticker higher",
+      "last_headline": "SNB's Schlegel says inflation has recently ticker higher",
+      "last_published_at": "2026-09-11T09:23:33+00:00",
       "last_event_type": "other"
     },
     {

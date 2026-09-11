@@ -1,17 +1,12 @@
 {
   "cb": "fed",
-  "as_of": "2026-09-10T13:03:09.285383+00:00",
-  "commentary_score": 0.422,
+  "as_of": "2026-09-11T13:02:07.747491+00:00",
+  "commentary_score": 0.341,
   "label": "neutral",
-  "n_items_window": 27,
+  "n_items_window": 23,
   "commentary_window_days": 14,
   "n_items_total": 1065,
   "history_90d": [
-    {
-      "date": "2026-06-13",
-      "commentary_score": 0.648,
-      "n_items": 13
-    },
     {
       "date": "2026-06-14",
       "commentary_score": 0.648,
@@ -456,6 +451,11 @@
       "date": "2026-09-10",
       "commentary_score": 0.422,
       "n_items": 27
+    },
+    {
+      "date": "2026-09-11",
+      "commentary_score": 0.341,
+      "n_items": 23
     }
   ],
   "key_comments": [
@@ -540,6 +540,19 @@
   ],
   "speakers": [
     {
+      "name": "Beth Hammack",
+      "role": "regional_president",
+      "voting_2026": true,
+      "lean_prior": "hawk",
+      "n_items": 2,
+      "mean_stance": 3.286,
+      "last_stance": 3.0,
+      "last_phrase": "Fed policy not restrictive and inflation is too high",
+      "last_headline": "Fed's Hammack (2026 voter) says Fed policy not restrictive and inflation is too high; local contact views indicate now is the time for Fed hike to control inflation",
+      "last_published_at": "2026-09-04T16:32:16+00:00",
+      "last_event_type": "other"
+    },
+    {
       "name": "Michael Barr",
       "role": "governor",
       "voting_2026": true,
@@ -550,19 +563,6 @@
       "last_phrase": "if inflation appears not to be moderating sufficiently, then think we should act decisively to raise rates.",
       "last_headline": "Fed's Barr (voter) says if inflation doesn't moderate soon, will be time for an interest rate hike",
       "last_published_at": "2026-09-01T13:05:56+00:00",
-      "last_event_type": "other"
-    },
-    {
-      "name": "Beth Hammack",
-      "role": "regional_president",
-      "voting_2026": true,
-      "lean_prior": "hawk",
-      "n_items": 4,
-      "mean_stance": 2.768,
-      "last_stance": 3.0,
-      "last_phrase": "Fed policy not restrictive and inflation is too high",
-      "last_headline": "Fed's Hammack (2026 voter) says Fed policy not restrictive and inflation is too high; local contact views indicate now is the time for Fed hike to control inflation",
-      "last_published_at": "2026-09-04T16:32:16+00:00",
       "last_event_type": "other"
     },
     {
@@ -590,19 +590,6 @@
       "last_headline": "TREASURY WRAP: T-NOTE FUTURES (Z6) SETTLES 7 TICKS LOWER AT 107-21",
       "last_published_at": "2026-08-31T19:25:00+00:00",
       "last_event_type": "other"
-    },
-    {
-      "name": "Susan Collins",
-      "role": "regional_president",
-      "voting_2026": false,
-      "lean_prior": "neutral",
-      "n_items": 2,
-      "mean_stance": 1.0,
-      "last_stance": 1.0,
-      "last_phrase": "rate increase is warranted if inflation disappoints",
-      "last_headline": "Fed's Collins (2028 voter, neutral) says rate increase is warranted if inflation disappoints, reports WSJ",
-      "last_published_at": "2026-08-27T18:09:29+00:00",
-      "last_event_type": "off-the-cuff"
     },
     {
       "name": "FED (institutional)",

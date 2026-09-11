@@ -1,17 +1,12 @@
 {
   "cb": "ecb",
-  "as_of": "2026-09-10T13:03:09.377580+00:00",
-  "commentary_score": 1.031,
+  "as_of": "2026-09-11T13:02:07.842660+00:00",
+  "commentary_score": 1.092,
   "label": "lean hawkish",
-  "n_items_window": 13,
+  "n_items_window": 20,
   "commentary_window_days": 14,
-  "n_items_total": 569,
+  "n_items_total": 583,
   "history_90d": [
-    {
-      "date": "2026-06-13",
-      "commentary_score": 0.573,
-      "n_items": 29
-    },
     {
       "date": "2026-06-14",
       "commentary_score": 0.573,
@@ -456,23 +451,44 @@
       "date": "2026-09-10",
       "commentary_score": 1.031,
       "n_items": 13
+    },
+    {
+      "date": "2026-09-11",
+      "commentary_score": 1.092,
+      "n_items": 20
     }
   ],
   "key_comments": [
     {
-      "published_at": "2026-09-10T12:15:12+00:00",
-      "speaker": "ECB (institutional)",
-      "role": "institutional",
-      "lean_prior": "neutral",
+      "published_at": "2026-09-10T13:55:27+00:00",
+      "speaker": "Christine Lagarde",
+      "role": "chair",
+      "lean_prior": "dove",
       "voting_2026": true,
-      "event_type": "statement",
-      "stance": 3.0,
-      "phrase": "inflation is set to remain well above target for an extended period",
-      "headline": "ECB raises its rates by 25bps as expected; ECB reiterates it is not pre-committing to a particular rate path; says inflation is set to remain well above target for an extended period",
-      "importance": 4.5,
+      "event_type": "other",
+      "stance": 1.0,
+      "phrase": "inflation has been lower than forecast, but is now expected to be longer lasting",
+      "headline": "[ANALYSIS] ECB REVIEW: Largely as expected, with nothing to significantly shift market pricing as we await further data and energy developments",
+      "importance": 6.34,
       "reasons": [
-        "official CB statement (stance +3.00)",
-        "strong policy signal (|stance| = 3.0)"
+        "Chair spoke",
+        "dove-lean speaker sounded hawkish"
+      ]
+    },
+    {
+      "published_at": "2026-09-10T13:28:34+00:00",
+      "speaker": "Christine Lagarde",
+      "role": "chair",
+      "lean_prior": "dove",
+      "voting_2026": true,
+      "event_type": "off-the-cuff",
+      "stance": 1.0,
+      "phrase": "the 25bps hike taken in September was robust",
+      "headline": "ECB President Lagarde (Q&A): new additional scenarios will be published \"tomorrow, or in the next few days\" with respect to the forecasts. Will be a \"benign\", \"adverse\" and \"severe\" scenarios. Differences are primarily d",
+      "importance": 6.34,
+      "reasons": [
+        "Chair spoke",
+        "dove-lean speaker sounded hawkish"
       ]
     },
     {
@@ -492,21 +508,6 @@
       ]
     },
     {
-      "published_at": "2026-09-01T13:05:36+00:00",
-      "speaker": "Gediminas Simkus",
-      "role": "regional_president",
-      "lean_prior": "hawk",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": -1.5,
-      "phrase": "a hike in September is \"not going to be enough\"",
-      "headline": "ECB's Simkus says a hike in September is \"not going to be enough\", Econostream reports. 50bps hike is not needed.",
-      "importance": 6.0,
-      "reasons": [
-        "hawk-lean speaker sounded dovish"
-      ]
-    },
-    {
       "published_at": "2026-09-01T12:37:18+00:00",
       "speaker": "Joachim Nagel",
       "role": "regional_president",
@@ -516,7 +517,7 @@
       "stance": -1.0,
       "phrase": "global economy remains on a growth trajectory",
       "headline": "ECB's Nagel says that despite the ongoing Middle East crisis, the global economy remains on a growth trajectory; easing in core and services is good news, and not seeing second-round effects",
-      "importance": 5.0,
+      "importance": 5.42,
       "reasons": [
         "hawk-lean speaker sounded dovish"
       ]
@@ -539,55 +540,55 @@
   ],
   "speakers": [
     {
-      "name": "Gabriel Makhlouf",
-      "role": "regional_president",
-      "voting_2026": true,
-      "lean_prior": "neutral",
-      "n_items": 1,
-      "mean_stance": 3.5,
-      "last_stance": 3.5,
-      "last_phrase": "must be prepared to lift interest rates further",
-      "last_headline": "ECB's Makhlouf says the central bank must be prepared to lift interest rates further and that the combination of eurozone inflation above 3% and robust growth makes him uneasy, according to FT",
-      "last_published_at": "2026-09-02T04:05:54+00:00",
-      "last_event_type": "off-the-cuff"
-    },
-    {
       "name": "ECB (institutional)",
       "role": "institutional",
       "voting_2026": true,
       "lean_prior": "neutral",
-      "n_items": 2,
-      "mean_stance": 2.571,
+      "n_items": 3,
+      "mean_stance": 2.727,
       "last_stance": 3.0,
-      "last_phrase": "inflation is set to remain well above target for an extended period",
-      "last_headline": "ECB raises its rates by 25bps as expected; ECB reiterates it is not pre-committing to a particular rate path; says inflation is set to remain well above target for an extended period",
-      "last_published_at": "2026-09-10T12:15:12+00:00",
+      "last_phrase": "further policy tightening is likely",
+      "last_headline": "ECB governors think further policy tightening is likely, and they may debate another hike as soon as October",
+      "last_published_at": "2026-09-10T16:09:46+00:00",
       "last_event_type": "statement"
-    },
-    {
-      "name": "Martins Kazaks",
-      "role": "regional_president",
-      "voting_2026": true,
-      "lean_prior": "hawk",
-      "n_items": 1,
-      "mean_stance": 2.0,
-      "last_stance": 2.0,
-      "last_phrase": "inflation must not be allowed to take root",
-      "last_headline": "ECB's Kazaks says that inflation must not be allowed to take root",
-      "last_published_at": "2026-08-28T05:21:13+00:00",
-      "last_event_type": "other"
     },
     {
       "name": "Joachim Nagel",
       "role": "regional_president",
       "voting_2026": true,
       "lean_prior": "hawk",
+      "n_items": 3,
+      "mean_stance": 1.881,
+      "last_stance": 2.5,
+      "last_phrase": "Would not exclude going into mildly restrictive territory.",
+      "last_headline": "ECB's Nagel tells CNBC that it is too early to speculate on rate hikes, recent rate hike is a clear commitment on inflation",
+      "last_published_at": "2026-09-11T06:34:32+00:00",
+      "last_event_type": "off-the-cuff"
+    },
+    {
+      "name": "Gabriel Makhlouf",
+      "role": "regional_president",
+      "voting_2026": true,
+      "lean_prior": "neutral",
       "n_items": 2,
-      "mean_stance": 1.571,
-      "last_stance": 3.5,
-      "last_phrase": "markets see a more than 95% chance of a September rate hike",
-      "last_headline": "ECB's Nagel says that markets see a more than 95% chance of a September rate hike; markets understand rather well, the ECB's way of reacting",
-      "last_published_at": "2026-09-02T05:46:26+00:00",
+      "mean_stance": 1.417,
+      "last_stance": -1.5,
+      "last_phrase": "hiking much more could hurt economic growth",
+      "last_headline": "ECB's Makhlouf says hiking much more could hurt economic growth and highlights that a longer Iran war risks keeping inflation elevated",
+      "last_published_at": "2026-09-11T10:34:26+00:00",
+      "last_event_type": "other"
+    },
+    {
+      "name": "Gediminas Simkus",
+      "role": "regional_president",
+      "voting_2026": true,
+      "lean_prior": "hawk",
+      "n_items": 2,
+      "mean_stance": 0.115,
+      "last_stance": 2.0,
+      "last_phrase": "inflation is too high in both the EU and Lithuania",
+      "last_headline": "ECB's Simkus says inflation is too high in both the EU and Lithuania",
+      "last_published_at": "2026-09-11T05:54:27+00:00",
       "last_event_type": "other"
     },
     {
@@ -617,29 +618,16 @@
       "last_event_type": "other"
     },
     {
-      "name": "Gediminas Simkus",
-      "role": "regional_president",
-      "voting_2026": true,
-      "lean_prior": "hawk",
-      "n_items": 1,
-      "mean_stance": -1.5,
-      "last_stance": -1.5,
-      "last_phrase": "a hike in September is \"not going to be enough\"",
-      "last_headline": "ECB's Simkus says a hike in September is \"not going to be enough\", Econostream reports. 50bps hike is not needed.",
-      "last_published_at": "2026-09-01T13:05:36+00:00",
-      "last_event_type": "other"
-    },
-    {
       "name": "Christine Lagarde",
       "role": "chair",
       "voting_2026": true,
       "lean_prior": "dove",
-      "n_items": 1,
-      "mean_stance": -2.0,
-      "last_stance": -2.0,
-      "last_phrase": "risks to the growth outlook are to the downside",
-      "last_headline": "ECB President Lagarde (statement): risks to the growth outlook are to the downside (reiteration)",
-      "last_published_at": "2026-09-10T12:59:37+00:00",
+      "n_items": 4,
+      "mean_stance": -0.348,
+      "last_stance": 1.0,
+      "last_phrase": "inflation has been lower than forecast, but is now expected to be longer lasting",
+      "last_headline": "[ANALYSIS] ECB REVIEW: Largely as expected, with nothing to significantly shift market pricing as we await further data and energy developments",
+      "last_published_at": "2026-09-10T13:55:27+00:00",
       "last_event_type": "other"
     }
   ],

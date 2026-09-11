@@ -1,17 +1,12 @@
 {
   "cb": "pln",
-  "as_of": "2026-09-10T13:03:10.713537+00:00",
-  "commentary_score": -2.0,
-  "label": "dovish",
-  "n_items_window": 1,
+  "as_of": "2026-09-11T13:02:09.218766+00:00",
+  "commentary_score": -0.976,
+  "label": "lean dovish",
+  "n_items_window": 4,
   "commentary_window_days": 30,
-  "n_items_total": 38,
+  "n_items_total": 41,
   "history_90d": [
-    {
-      "date": "2026-06-13",
-      "commentary_score": -0.712,
-      "n_items": 3
-    },
     {
       "date": "2026-06-14",
       "commentary_score": -0.712,
@@ -456,9 +451,45 @@
       "date": "2026-09-10",
       "commentary_score": -2.0,
       "n_items": 1
+    },
+    {
+      "date": "2026-09-11",
+      "commentary_score": -0.976,
+      "n_items": 4
     }
   ],
   "key_comments": [
+    {
+      "published_at": "2026-09-11T07:34:28+00:00",
+      "speaker": "Ludwik Kotecki",
+      "role": "mpc_external",
+      "lean_prior": "hawk",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": 2.0,
+      "phrase": "rate cuts are not currently an option, but could consider rate hikes in November",
+      "headline": "NBP's Kotecki says that rate cuts are not currently an option, but could consider rate hikes in November",
+      "importance": 0.5,
+      "reasons": [
+        "voter's tone moved more hawkish"
+      ]
+    },
+    {
+      "published_at": "2026-09-10T13:43:38+00:00",
+      "speaker": "Adam Glapinski",
+      "role": "chair",
+      "lean_prior": "dove",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": -3.0,
+      "phrase": "rate cuts seen as unrealistic, the bank is in wait-and-see mode",
+      "headline": "NBP Governor Glapinski says there will not be any change in rates soon with rate cuts seen as unrealistic, the bank is in wait-and-see mode, sees rates on hold until about mid-2027",
+      "importance": 4.5,
+      "reasons": [
+        "Chair spoke",
+        "cross-market extreme (|stance| = 3.0)"
+      ]
+    },
     {
       "published_at": "2026-09-03T11:56:06+00:00",
       "speaker": "Iwona Duda",
@@ -477,6 +508,19 @@
   ],
   "speakers": [
     {
+      "name": "Ludwik Kotecki",
+      "role": "mpc_external",
+      "voting_2026": true,
+      "lean_prior": "hawk",
+      "n_items": 1,
+      "mean_stance": 2.0,
+      "last_stance": 2.0,
+      "last_phrase": "rate cuts are not currently an option, but could consider rate hikes in November",
+      "last_headline": "NBP's Kotecki says that rate cuts are not currently an option, but could consider rate hikes in November",
+      "last_published_at": "2026-09-11T07:34:28+00:00",
+      "last_event_type": "other"
+    },
+    {
       "name": "Iwona Duda",
       "role": "mpc_external",
       "voting_2026": true,
@@ -487,6 +531,19 @@
       "last_phrase": "rates to stay unchanged through at least end-2026",
       "last_headline": "NBP member Duda expects rates to stay unchanged through at least end-2026, with any cut dependent on inflation stabilising at the 2.5% target; notes of a possible temporary rise above 3.5% next year",
       "last_published_at": "2026-09-03T11:56:06+00:00",
+      "last_event_type": "other"
+    },
+    {
+      "name": "Adam Glapinski",
+      "role": "chair",
+      "voting_2026": true,
+      "lean_prior": "dove",
+      "n_items": 1,
+      "mean_stance": -3.0,
+      "last_stance": -3.0,
+      "last_phrase": "rate cuts seen as unrealistic, the bank is in wait-and-see mode",
+      "last_headline": "NBP Governor Glapinski says there will not be any change in rates soon with rate cuts seen as unrealistic, the bank is in wait-and-see mode, sees rates on hold until about mid-2027",
+      "last_published_at": "2026-09-10T13:43:38+00:00",
       "last_event_type": "other"
     }
   ],
