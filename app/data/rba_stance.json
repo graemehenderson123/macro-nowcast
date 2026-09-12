@@ -1,17 +1,12 @@
 {
   "cb": "rba",
-  "as_of": "2026-09-11T13:02:08.106402+00:00",
-  "commentary_score": 0.722,
+  "as_of": "2026-09-12T04:31:35.890558+00:00",
+  "commentary_score": 0.714,
   "label": "neutral",
-  "n_items_window": 8,
+  "n_items_window": 7,
   "commentary_window_days": 30,
   "n_items_total": 59,
   "history_90d": [
-    {
-      "date": "2026-06-14",
-      "commentary_score": 1.542,
-      "n_items": 6
-    },
     {
       "date": "2026-06-15",
       "commentary_score": 1.542,
@@ -19,8 +14,8 @@
     },
     {
       "date": "2026-06-16",
-      "commentary_score": 2.529,
-      "n_items": 8
+      "commentary_score": 2.821,
+      "n_items": 7
     },
     {
       "date": "2026-06-17",
@@ -109,8 +104,8 @@
     },
     {
       "date": "2026-07-04",
-      "commentary_score": 3.005,
-      "n_items": 4
+      "commentary_score": 2.901,
+      "n_items": 7
     },
     {
       "date": "2026-07-05",
@@ -169,8 +164,8 @@
     },
     {
       "date": "2026-07-16",
-      "commentary_score": 2.427,
-      "n_items": 3
+      "commentary_score": 2.377,
+      "n_items": 4
     },
     {
       "date": "2026-07-17",
@@ -299,8 +294,8 @@
     },
     {
       "date": "2026-08-11",
-      "commentary_score": 2.304,
-      "n_items": 4
+      "commentary_score": 0.243,
+      "n_items": 2
     },
     {
       "date": "2026-08-12",
@@ -414,8 +409,8 @@
     },
     {
       "date": "2026-09-03",
-      "commentary_score": 0.414,
-      "n_items": 9
+      "commentary_score": 0.51,
+      "n_items": 8
     },
     {
       "date": "2026-09-04",
@@ -449,13 +444,18 @@
     },
     {
       "date": "2026-09-10",
-      "commentary_score": 0.722,
-      "n_items": 8
+      "commentary_score": 0.87,
+      "n_items": 10
     },
     {
       "date": "2026-09-11",
       "commentary_score": 0.722,
       "n_items": 8
+    },
+    {
+      "date": "2026-09-12",
+      "commentary_score": 0.714,
+      "n_items": 7
     }
   ],
   "key_comments": [
@@ -506,37 +506,9 @@
       "reasons": [
         "official CB statement (stance -1.50)"
       ]
-    },
-    {
-      "published_at": "2026-08-13T00:24:59+00:00",
-      "speaker": "Christopher Kent",
-      "role": "deputy_governor",
-      "lean_prior": "neutral",
-      "voting_2026": false,
-      "event_type": "other",
-      "stance": 1.5,
-      "phrase": "monetary policy in Australia is somewhat restrictive",
-      "headline": "RBA's Kent says Board sets level of the Cash Rate it judges will achieve low and stable inflation and full employment, adds borrowing costs have increased, mortgage payments have risen and conditions in the established h",
-      "importance": 1.5,
-      "reasons": [
-        "notable move vs own recent tone"
-      ]
     }
   ],
   "speakers": [
-    {
-      "name": "Christopher Kent",
-      "role": "deputy_governor",
-      "voting_2026": false,
-      "lean_prior": "neutral",
-      "n_items": 1,
-      "mean_stance": 1.5,
-      "last_stance": 1.5,
-      "last_phrase": "monetary policy in Australia is somewhat restrictive",
-      "last_headline": "RBA's Kent says Board sets level of the Cash Rate it judges will achieve low and stable inflation and full employment, adds borrowing costs have increased, mortgage payments have risen and conditions ",
-      "last_published_at": "2026-08-13T00:24:59+00:00",
-      "last_event_type": "other"
-    },
     {
       "name": "Sarah Hunter",
       "role": "vice_chair",

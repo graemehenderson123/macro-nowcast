@@ -1,17 +1,12 @@
 {
   "cb": "rbnz",
-  "as_of": "2026-09-11T13:02:08.186990+00:00",
-  "commentary_score": 1.048,
+  "as_of": "2026-09-12T04:31:35.962608+00:00",
+  "commentary_score": 1.069,
   "label": "lean hawkish",
-  "n_items_window": 5,
+  "n_items_window": 4,
   "commentary_window_days": 30,
   "n_items_total": 29,
   "history_90d": [
-    {
-      "date": "2026-06-14",
-      "commentary_score": 2.908,
-      "n_items": 3
-    },
     {
       "date": "2026-06-15",
       "commentary_score": 2.908,
@@ -100,7 +95,7 @@
     {
       "date": "2026-07-02",
       "commentary_score": 0.0,
-      "n_items": 1
+      "n_items": 0
     },
     {
       "date": "2026-07-03",
@@ -249,8 +244,8 @@
     },
     {
       "date": "2026-08-01",
-      "commentary_score": 1.348,
-      "n_items": 3
+      "commentary_score": 1.226,
+      "n_items": 4
     },
     {
       "date": "2026-08-02",
@@ -456,6 +451,11 @@
       "date": "2026-09-11",
       "commentary_score": 1.048,
       "n_items": 5
+    },
+    {
+      "date": "2026-09-12",
+      "commentary_score": 1.069,
+      "n_items": 4
     }
   ],
   "key_comments": [
@@ -498,8 +498,8 @@
       "role": "institutional",
       "voting_2026": true,
       "lean_prior": "neutral",
-      "n_items": 3,
-      "mean_stance": 1.478,
+      "n_items": 2,
+      "mean_stance": 2.267,
       "last_stance": 2.5,
       "last_phrase": "gradually removing monetary stimulus is appropriate to return inflation to the 2% target mid-point",
       "last_headline": "RBNZ raised the OCR by 25bps to 2.75%, as expected, while the Committee judges that gradually removing monetary stimulus is appropriate to return inflation to the 2% target mid-point while supporting ",
