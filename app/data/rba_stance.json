@@ -1,17 +1,12 @@
 {
   "cb": "rba",
-  "as_of": "2026-09-12T04:31:35.890558+00:00",
-  "commentary_score": 0.714,
+  "as_of": "2026-09-13T04:31:39.332590+00:00",
+  "commentary_score": 0.729,
   "label": "neutral",
-  "n_items_window": 7,
+  "n_items_window": 6,
   "commentary_window_days": 30,
   "n_items_total": 59,
   "history_90d": [
-    {
-      "date": "2026-06-15",
-      "commentary_score": 1.542,
-      "n_items": 6
-    },
     {
       "date": "2026-06-16",
       "commentary_score": 2.821,
@@ -456,6 +451,11 @@
       "date": "2026-09-12",
       "commentary_score": 0.714,
       "n_items": 7
+    },
+    {
+      "date": "2026-09-13",
+      "commentary_score": 0.729,
+      "n_items": 6
     }
   ],
   "key_comments": [
@@ -534,19 +534,6 @@
       "last_headline": "RBA's markets head Jacobs goal is a system that can flexibly supply whatever quantity the banking system demands, while keeping the cash rate close to the board's target",
       "last_published_at": "2026-08-25T04:04:52+00:00",
       "last_event_type": "statement"
-    },
-    {
-      "name": "Ian Harper",
-      "role": "mpc_external",
-      "voting_2026": true,
-      "lean_prior": "neutral",
-      "n_items": 1,
-      "mean_stance": 0.0,
-      "last_stance": 0.0,
-      "last_phrase": "",
-      "last_headline": "RBA's Harper will depart the monetary policy board and Melinda Cilento has been named as part-time member of the RBA board",
-      "last_published_at": "2026-08-14T00:58:47+00:00",
-      "last_event_type": "other"
     }
   ],
   "methodology": {

@@ -1,17 +1,12 @@
 {
   "cb": "fed",
-  "as_of": "2026-09-12T04:31:35.571752+00:00",
+  "as_of": "2026-09-13T04:31:38.993907+00:00",
   "commentary_score": 0.089,
   "label": "neutral",
   "n_items_window": 18,
   "commentary_window_days": 14,
   "n_items_total": 1065,
   "history_90d": [
-    {
-      "date": "2026-06-15",
-      "commentary_score": 0.683,
-      "n_items": 12
-    },
     {
       "date": "2026-06-16",
       "commentary_score": 0.683,
@@ -456,6 +451,11 @@
       "date": "2026-09-12",
       "commentary_score": 0.089,
       "n_items": 18
+    },
+    {
+      "date": "2026-09-13",
+      "commentary_score": 0.089,
+      "n_items": 18
     }
   ],
   "key_comments": [
@@ -517,7 +517,7 @@
       "stance": 2.5,
       "phrase": "inflation has continued for longer than expected",
       "headline": "Fed's Goolsbee (2027 Voter) agreed with Warsh about details of the economy and agrees inflation is the main issue right now",
-      "importance": 6.79,
+      "importance": 6.31,
       "reasons": [
         "dove-lean speaker sounded hawkish",
         "cross-market extreme (|stance| = 2.5)"
