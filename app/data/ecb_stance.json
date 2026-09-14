@@ -1,17 +1,12 @@
 {
   "cb": "ecb",
-  "as_of": "2026-09-13T04:31:39.086836+00:00",
+  "as_of": "2026-09-14T04:31:36.072325+00:00",
   "commentary_score": 1.092,
   "label": "lean hawkish",
   "n_items_window": 20,
   "commentary_window_days": 14,
   "n_items_total": 583,
   "history_90d": [
-    {
-      "date": "2026-06-16",
-      "commentary_score": 0.575,
-      "n_items": 30
-    },
     {
       "date": "2026-06-17",
       "commentary_score": 0.619,
@@ -456,6 +451,11 @@
       "date": "2026-09-13",
       "commentary_score": 1.092,
       "n_items": 20
+    },
+    {
+      "date": "2026-09-14",
+      "commentary_score": 1.092,
+      "n_items": 20
     }
   ],
   "key_comments": [
@@ -517,7 +517,7 @@
       "stance": -1.0,
       "phrase": "global economy remains on a growth trajectory",
       "headline": "ECB's Nagel says that despite the ongoing Middle East crisis, the global economy remains on a growth trajectory; easing in core and services is good news, and not seeing second-round effects",
-      "importance": 5.42,
+      "importance": 5.76,
       "reasons": [
         "hawk-lean speaker sounded dovish"
       ]

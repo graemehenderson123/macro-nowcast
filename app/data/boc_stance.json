@@ -1,17 +1,12 @@
 {
   "cb": "boc",
-  "as_of": "2026-09-13T04:31:39.489538+00:00",
+  "as_of": "2026-09-14T04:31:36.448396+00:00",
   "commentary_score": 1.425,
   "label": "lean hawkish",
   "n_items_window": 5,
   "commentary_window_days": 30,
   "n_items_total": 72,
   "history_90d": [
-    {
-      "date": "2026-06-16",
-      "commentary_score": -0.014,
-      "n_items": 6
-    },
     {
       "date": "2026-06-17",
       "commentary_score": -0.014,
@@ -456,6 +451,11 @@
       "date": "2026-09-13",
       "commentary_score": 1.425,
       "n_items": 5
+    },
+    {
+      "date": "2026-09-14",
+      "commentary_score": 1.425,
+      "n_items": 5
     }
   ],
   "key_comments": [
@@ -469,9 +469,10 @@
       "stance": 3.0,
       "phrase": "inflation remains too high and must be closely monitored",
       "headline": "BoC Governor Macklem says inflation is too high, inflation is very concentrated in gasoline and oil prices; risks are shifting, prepared to adjust monetary policy as needed",
-      "importance": 4.5,
+      "importance": 7.5,
       "reasons": [
         "Chair spoke",
+        "notable move vs own recent tone",
         "cross-market extreme (|stance| = 3.0)"
       ]
     },
