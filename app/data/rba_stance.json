@@ -1,11 +1,11 @@
 {
   "cb": "rba",
-  "as_of": "2026-09-14T04:31:36.303471+00:00",
-  "commentary_score": 0.729,
-  "label": "neutral",
-  "n_items_window": 6,
+  "as_of": "2026-09-14T13:03:31.292444+00:00",
+  "commentary_score": 0.949,
+  "label": "lean hawkish",
+  "n_items_window": 7,
   "commentary_window_days": 30,
-  "n_items_total": 59,
+  "n_items_total": 60,
   "history_90d": [
     {
       "date": "2026-06-17",
@@ -94,8 +94,8 @@
     },
     {
       "date": "2026-07-04",
-      "commentary_score": 2.901,
-      "n_items": 7
+      "commentary_score": 3.005,
+      "n_items": 4
     },
     {
       "date": "2026-07-05",
@@ -154,8 +154,8 @@
     },
     {
       "date": "2026-07-16",
-      "commentary_score": 2.377,
-      "n_items": 4
+      "commentary_score": 2.427,
+      "n_items": 3
     },
     {
       "date": "2026-07-17",
@@ -284,8 +284,8 @@
     },
     {
       "date": "2026-08-11",
-      "commentary_score": 0.243,
-      "n_items": 2
+      "commentary_score": 2.304,
+      "n_items": 4
     },
     {
       "date": "2026-08-12",
@@ -399,8 +399,8 @@
     },
     {
       "date": "2026-09-03",
-      "commentary_score": 0.51,
-      "n_items": 8
+      "commentary_score": 0.414,
+      "n_items": 9
     },
     {
       "date": "2026-09-04",
@@ -434,8 +434,8 @@
     },
     {
       "date": "2026-09-10",
-      "commentary_score": 0.87,
-      "n_items": 10
+      "commentary_score": 0.722,
+      "n_items": 8
     },
     {
       "date": "2026-09-11",
@@ -454,8 +454,8 @@
     },
     {
       "date": "2026-09-14",
-      "commentary_score": 0.729,
-      "n_items": 6
+      "commentary_score": 0.949,
+      "n_items": 7
     }
   ],
   "key_comments": [
@@ -469,7 +469,7 @@
       "stance": 3.5,
       "phrase": "the board may have to raise rates if there is a sense inflation will be stronger",
       "headline": "RBA's Assistant Governor Hunter says the board is concerned about inflation and has low tolerance, adds the board may have to raise rates if there is a sense inflation will be stronger",
-      "importance": 8.75,
+      "importance": 7.35,
       "reasons": [
         "Vice Chair spoke",
         "notable move vs own recent tone",
@@ -486,7 +486,7 @@
       "stance": -1.5,
       "phrase": "Impacts of changes in house prices on consumer spending is actually quite small",
       "headline": "RBA Assistant Governor Hunter says the housing market is a crucial mechanism through which monetary policy affects the economy",
-      "importance": 4.5,
+      "importance": 5.9,
       "reasons": [
         "Vice Chair spoke",
         "notable move vs own recent tone"
@@ -514,12 +514,12 @@
       "role": "vice_chair",
       "voting_2026": true,
       "lean_prior": "neutral",
-      "n_items": 2,
-      "mean_stance": 1.357,
-      "last_stance": 3.5,
-      "last_phrase": "the board may have to raise rates if there is a sense inflation will be stronger",
-      "last_headline": "RBA's Assistant Governor Hunter says the board is concerned about inflation and has low tolerance, adds the board may have to raise rates if there is a sense inflation will be stronger",
-      "last_published_at": "2026-09-08T03:44:40+00:00",
+      "n_items": 3,
+      "mean_stance": 1.4,
+      "last_stance": 1.5,
+      "last_phrase": "inflation in Australia is still above its target",
+      "last_headline": "RBA's Assistant Governor Hunter says Australia household spending is holding up okay, adds inflation in Australia is still above its target, while Australia's business investment is showing signs of s",
+      "last_published_at": "2026-09-14T02:38:30+00:00",
       "last_event_type": "other"
     },
     {
