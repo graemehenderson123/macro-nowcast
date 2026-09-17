@@ -1,17 +1,12 @@
 {
   "cb": "rbnz",
-  "as_of": "2026-09-16T04:31:40.099064+00:00",
-  "commentary_score": 1.069,
-  "label": "lean hawkish",
-  "n_items_window": 4,
+  "as_of": "2026-09-17T07:05:24.218328+00:00",
+  "commentary_score": 0.677,
+  "label": "neutral",
+  "n_items_window": 5,
   "commentary_window_days": 30,
-  "n_items_total": 29,
+  "n_items_total": 30,
   "history_90d": [
-    {
-      "date": "2026-06-19",
-      "commentary_score": 2.908,
-      "n_items": 3
-    },
     {
       "date": "2026-06-20",
       "commentary_score": 2.908,
@@ -75,7 +70,7 @@
     {
       "date": "2026-07-02",
       "commentary_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-07-03",
@@ -224,8 +219,8 @@
     },
     {
       "date": "2026-08-01",
-      "commentary_score": 1.226,
-      "n_items": 4
+      "commentary_score": 1.348,
+      "n_items": 3
     },
     {
       "date": "2026-08-02",
@@ -454,8 +449,13 @@
     },
     {
       "date": "2026-09-16",
-      "commentary_score": 1.069,
-      "n_items": 4
+      "commentary_score": 0.677,
+      "n_items": 5
+    },
+    {
+      "date": "2026-09-17",
+      "commentary_score": 0.677,
+      "n_items": 5
     }
   ],
   "key_comments": [
@@ -511,12 +511,12 @@
       "role": "vice_chair",
       "voting_2026": true,
       "lean_prior": "neutral",
-      "n_items": 1,
-      "mean_stance": -1.5,
-      "last_stance": -1.5,
-      "last_phrase": "RBNZ wants to support continuing improvement in the economy",
-      "last_headline": "RBNZ Assitant Governor Silk says hike in October or December is still open, adds a hike is more likely in December and the RBNZ wants to support continuing improvement in the economy",
-      "last_published_at": "2026-09-04T01:22:40+00:00",
+      "n_items": 2,
+      "mean_stance": -0.6,
+      "last_stance": 0.0,
+      "last_phrase": "",
+      "last_headline": "RBNZ Assistant Governor Silk is to leave the central bank after December rate decision",
+      "last_published_at": "2026-09-15T22:31:27+00:00",
       "last_event_type": "other"
     }
   ],

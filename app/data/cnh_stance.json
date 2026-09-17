@@ -1,17 +1,12 @@
 {
   "cb": "cnh",
-  "as_of": "2026-09-16T04:31:40.505902+00:00",
-  "commentary_score": -0.717,
-  "label": "neutral",
-  "n_items_window": 2,
+  "as_of": "2026-09-17T07:05:24.599756+00:00",
+  "commentary_score": -1.225,
+  "label": "lean dovish",
+  "n_items_window": 3,
   "commentary_window_days": 30,
-  "n_items_total": 8,
+  "n_items_total": 9,
   "history_90d": [
-    {
-      "date": "2026-06-19",
-      "commentary_score": 0.0,
-      "n_items": 0
-    },
     {
       "date": "2026-06-20",
       "commentary_score": 0.0,
@@ -454,11 +449,31 @@
     },
     {
       "date": "2026-09-16",
-      "commentary_score": -0.717,
-      "n_items": 2
+      "commentary_score": -1.225,
+      "n_items": 3
+    },
+    {
+      "date": "2026-09-17",
+      "commentary_score": -1.225,
+      "n_items": 3
     }
   ],
   "key_comments": [
+    {
+      "published_at": "2026-09-16T01:44:56+00:00",
+      "speaker": "Pan Gongsheng",
+      "role": "chair",
+      "lean_prior": "dove",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": -1.5,
+      "phrase": "support local government financing vehicles to resolve debt risks",
+      "headline": "PBoC Governor Pan says slower loan growth may become 'new grateful' and that slower credit growth can stabilise debt levels",
+      "importance": 3.0,
+      "reasons": [
+        "Chair spoke"
+      ]
+    },
     {
       "published_at": "2026-09-02T10:08:10+00:00",
       "speaker": "Pan Gongsheng",
@@ -481,12 +496,12 @@
       "role": "chair",
       "voting_2026": true,
       "lean_prior": "dove",
-      "n_items": 1,
+      "n_items": 2,
       "mean_stance": -1.5,
       "last_stance": -1.5,
-      "last_phrase": "Monetary policy will remain appropriately accommodative to support stable growth and financial-market stability.",
-      "last_headline": "PBoC Governor Pan, at the G20, said China will not deliberately pursue a trade surplus and will expand domestic demand while maintaining high-level opening",
-      "last_published_at": "2026-09-02T10:08:10+00:00",
+      "last_phrase": "support local government financing vehicles to resolve debt risks",
+      "last_headline": "PBoC Governor Pan says slower loan growth may become 'new grateful' and that slower credit growth can stabilise debt levels",
+      "last_published_at": "2026-09-16T01:44:56+00:00",
       "last_event_type": "other"
     }
   ],

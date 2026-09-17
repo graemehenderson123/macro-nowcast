@@ -1,17 +1,12 @@
 {
   "cb": "fed",
-  "as_of": "2026-09-16T04:31:39.689566+00:00",
-  "commentary_score": 0.419,
+  "as_of": "2026-09-17T07:05:23.753305+00:00",
+  "commentary_score": 0.485,
   "label": "neutral",
-  "n_items_window": 15,
+  "n_items_window": 13,
   "commentary_window_days": 14,
   "n_items_total": 1067,
   "history_90d": [
-    {
-      "date": "2026-06-19",
-      "commentary_score": 1.923,
-      "n_items": 22
-    },
     {
       "date": "2026-06-20",
       "commentary_score": 1.919,
@@ -384,8 +379,8 @@
     },
     {
       "date": "2026-09-02",
-      "commentary_score": 1.655,
-      "n_items": 23
+      "commentary_score": 1.531,
+      "n_items": 24
     },
     {
       "date": "2026-09-03",
@@ -454,8 +449,13 @@
     },
     {
       "date": "2026-09-16",
-      "commentary_score": 0.419,
-      "n_items": 15
+      "commentary_score": 0.436,
+      "n_items": 14
+    },
+    {
+      "date": "2026-09-17",
+      "commentary_score": 0.485,
+      "n_items": 13
     }
   ],
   "key_comments": [
@@ -577,19 +577,6 @@
       "last_phrase": "",
       "last_headline": "65 out of 93 economists expect the Fed to hold rates in September, according to a Reuters poll",
       "last_published_at": "2026-09-09T13:25:13+00:00",
-      "last_event_type": "other"
-    },
-    {
-      "name": "John Williams",
-      "role": "nyfed_president",
-      "voting_2026": true,
-      "lean_prior": "neutral",
-      "n_items": 1,
-      "mean_stance": -1.0,
-      "last_stance": -1.0,
-      "last_phrase": "Not seeing second round effects. Inflation expectations are well anchored.",
-      "last_headline": "Fed's Williams (Voter, Neutral) says bond market driven by strong US economy and big investments in AI",
-      "last_published_at": "2026-09-02T12:17:18+00:00",
       "last_event_type": "other"
     },
     {
