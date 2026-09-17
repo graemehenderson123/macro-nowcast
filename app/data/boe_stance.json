@@ -1,11 +1,11 @@
 {
   "cb": "boe",
-  "as_of": "2026-09-17T07:05:23.971774+00:00",
-  "commentary_score": -0.46,
+  "as_of": "2026-09-17T13:03:01.595251+00:00",
+  "commentary_score": -0.153,
   "label": "neutral",
-  "n_items_window": 12,
+  "n_items_window": 13,
   "commentary_window_days": 14,
-  "n_items_total": 252,
+  "n_items_total": 260,
   "history_90d": [
     {
       "date": "2026-06-20",
@@ -19,8 +19,8 @@
     },
     {
       "date": "2026-06-22",
-      "commentary_score": 0.134,
-      "n_items": 7
+      "commentary_score": 0.108,
+      "n_items": 8
     },
     {
       "date": "2026-06-23",
@@ -69,8 +69,8 @@
     },
     {
       "date": "2026-07-02",
-      "commentary_score": -0.469,
-      "n_items": 14
+      "commentary_score": -0.798,
+      "n_items": 7
     },
     {
       "date": "2026-07-03",
@@ -89,13 +89,13 @@
     },
     {
       "date": "2026-07-06",
-      "commentary_score": -0.205,
-      "n_items": 10
+      "commentary_score": -0.224,
+      "n_items": 9
     },
     {
       "date": "2026-07-07",
-      "commentary_score": -0.224,
-      "n_items": 9
+      "commentary_score": -0.119,
+      "n_items": 12
     },
     {
       "date": "2026-07-08",
@@ -129,8 +129,8 @@
     },
     {
       "date": "2026-07-14",
-      "commentary_score": 0.144,
-      "n_items": 10
+      "commentary_score": 0.105,
+      "n_items": 11
     },
     {
       "date": "2026-07-15",
@@ -139,8 +139,8 @@
     },
     {
       "date": "2026-07-16",
-      "commentary_score": 0.317,
-      "n_items": 8
+      "commentary_score": -0.189,
+      "n_items": 9
     },
     {
       "date": "2026-07-17",
@@ -164,8 +164,8 @@
     },
     {
       "date": "2026-07-21",
-      "commentary_score": -0.356,
-      "n_items": 6
+      "commentary_score": -0.551,
+      "n_items": 3
     },
     {
       "date": "2026-07-22",
@@ -179,8 +179,8 @@
     },
     {
       "date": "2026-07-24",
-      "commentary_score": -0.919,
-      "n_items": 2
+      "commentary_score": -0.349,
+      "n_items": 3
     },
     {
       "date": "2026-07-25",
@@ -199,8 +199,8 @@
     },
     {
       "date": "2026-07-28",
-      "commentary_score": -0.349,
-      "n_items": 3
+      "commentary_score": -0.439,
+      "n_items": 2
     },
     {
       "date": "2026-07-29",
@@ -209,13 +209,13 @@
     },
     {
       "date": "2026-07-30",
-      "commentary_score": -0.439,
-      "n_items": 2
+      "commentary_score": -0.054,
+      "n_items": 10
     },
     {
       "date": "2026-07-31",
-      "commentary_score": -0.188,
-      "n_items": 11
+      "commentary_score": -0.196,
+      "n_items": 13
     },
     {
       "date": "2026-08-01",
@@ -249,8 +249,8 @@
     },
     {
       "date": "2026-08-07",
-      "commentary_score": -0.196,
-      "n_items": 13
+      "commentary_score": -0.207,
+      "n_items": 12
     },
     {
       "date": "2026-08-08",
@@ -279,13 +279,13 @@
     },
     {
       "date": "2026-08-13",
-      "commentary_score": -0.207,
-      "n_items": 12
+      "commentary_score": -0.554,
+      "n_items": 3
     },
     {
       "date": "2026-08-14",
-      "commentary_score": 1.787,
-      "n_items": 3
+      "commentary_score": 3.0,
+      "n_items": 1
     },
     {
       "date": "2026-08-15",
@@ -384,13 +384,13 @@
     },
     {
       "date": "2026-09-03",
-      "commentary_score": 0.02,
-      "n_items": 3
+      "commentary_score": 0.012,
+      "n_items": 4
     },
     {
       "date": "2026-09-04",
-      "commentary_score": 0.429,
-      "n_items": 6
+      "commentary_score": 0.313,
+      "n_items": 7
     },
     {
       "date": "2026-09-05",
@@ -439,8 +439,8 @@
     },
     {
       "date": "2026-09-14",
-      "commentary_score": -0.452,
-      "n_items": 12
+      "commentary_score": -0.397,
+      "n_items": 13
     },
     {
       "date": "2026-09-15",
@@ -454,8 +454,8 @@
     },
     {
       "date": "2026-09-17",
-      "commentary_score": -0.46,
-      "n_items": 12
+      "commentary_score": -0.153,
+      "n_items": 13
     }
   ],
   "key_comments": [
@@ -543,11 +543,11 @@
       "voting_2026": true,
       "lean_prior": "hawk",
       "n_items": 2,
-      "mean_stance": 1.167,
-      "last_stance": 2.5,
-      "last_phrase": "need to raise bank rate to 4%",
-      "last_headline": "BoE's Pill explains why he supported raising bank rate to 4% in recent MPC meetings; argues that clear, prompt and decisive policy action and communication would help steer markets, reduce uncertainty",
-      "last_published_at": "2026-09-03T15:01:55+00:00",
+      "mean_stance": 2.038,
+      "last_stance": 1.5,
+      "last_phrase": "inflation risks are tilted further to the upside",
+      "last_headline": "STATEMENT: BoE holds rates at 3.75%, as expected; votes 6-3 (exp. 6-3), with Greene, Mann and Pill voting for a 25bps hike; APF gilt sales to be paused until April 2027",
+      "last_published_at": "2026-09-17T11:00:57+00:00",
       "last_event_type": "other"
     },
     {
