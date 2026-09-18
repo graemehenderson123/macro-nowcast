@@ -1,11 +1,11 @@
 {
   "cb": "pln",
-  "as_of": "2026-09-18T04:31:38.979299+00:00",
-  "commentary_score": -1.551,
+  "as_of": "2026-09-18T13:18:02.088132+00:00",
+  "commentary_score": -0.76,
   "label": "lean dovish",
-  "n_items_window": 5,
+  "n_items_window": 6,
   "commentary_window_days": 30,
-  "n_items_total": 43,
+  "n_items_total": 44,
   "history_90d": [
     {
       "date": "2026-06-21",
@@ -69,8 +69,8 @@
     },
     {
       "date": "2026-07-03",
-      "commentary_score": -0.71,
-      "n_items": 5
+      "commentary_score": -0.761,
+      "n_items": 3
     },
     {
       "date": "2026-07-04",
@@ -99,13 +99,13 @@
     },
     {
       "date": "2026-07-09",
-      "commentary_score": -0.761,
+      "commentary_score": -2.786,
       "n_items": 3
     },
     {
       "date": "2026-07-10",
-      "commentary_score": -2.786,
-      "n_items": 3
+      "commentary_score": -2.542,
+      "n_items": 4
     },
     {
       "date": "2026-07-11",
@@ -129,8 +129,8 @@
     },
     {
       "date": "2026-07-15",
-      "commentary_score": -2.542,
-      "n_items": 4
+      "commentary_score": -2.575,
+      "n_items": 3
     },
     {
       "date": "2026-07-16",
@@ -144,8 +144,8 @@
     },
     {
       "date": "2026-07-18",
-      "commentary_score": -2.575,
-      "n_items": 3
+      "commentary_score": -2.669,
+      "n_items": 2
     },
     {
       "date": "2026-07-19",
@@ -154,8 +154,8 @@
     },
     {
       "date": "2026-07-20",
-      "commentary_score": -2.669,
-      "n_items": 2
+      "commentary_score": -2.847,
+      "n_items": 3
     },
     {
       "date": "2026-07-21",
@@ -249,13 +249,13 @@
     },
     {
       "date": "2026-08-08",
-      "commentary_score": -2.847,
-      "n_items": 3
+      "commentary_score": -2.777,
+      "n_items": 2
     },
     {
       "date": "2026-08-09",
-      "commentary_score": -2.777,
-      "n_items": 2
+      "commentary_score": -3.0,
+      "n_items": 1
     },
     {
       "date": "2026-08-10",
@@ -304,8 +304,8 @@
     },
     {
       "date": "2026-08-19",
-      "commentary_score": -3.0,
-      "n_items": 1
+      "commentary_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-08-20",
@@ -379,8 +379,8 @@
     },
     {
       "date": "2026-09-03",
-      "commentary_score": 0.0,
-      "n_items": 0
+      "commentary_score": -2.0,
+      "n_items": 1
     },
     {
       "date": "2026-09-04",
@@ -414,13 +414,13 @@
     },
     {
       "date": "2026-09-10",
-      "commentary_score": -2.0,
-      "n_items": 1
+      "commentary_score": -0.59,
+      "n_items": 2
     },
     {
       "date": "2026-09-11",
-      "commentary_score": -1.869,
-      "n_items": 3
+      "commentary_score": -0.976,
+      "n_items": 4
     },
     {
       "date": "2026-09-12",
@@ -439,8 +439,8 @@
     },
     {
       "date": "2026-09-15",
-      "commentary_score": -0.976,
-      "n_items": 4
+      "commentary_score": -1.551,
+      "n_items": 5
     },
     {
       "date": "2026-09-16",
@@ -454,11 +454,26 @@
     },
     {
       "date": "2026-09-18",
-      "commentary_score": -1.551,
-      "n_items": 5
+      "commentary_score": -0.76,
+      "n_items": 6
     }
   ],
   "key_comments": [
+    {
+      "published_at": "2026-09-18T10:28:43+00:00",
+      "speaker": "Wieslaw Janczyk",
+      "role": "mpc_external",
+      "lean_prior": "dove",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": 2.0,
+      "phrase": "energy-related risks could prompt rate hikes",
+      "headline": "NBP's Janczyk warns that energy-related risks could prompt rate hikes",
+      "importance": 7.0,
+      "reasons": [
+        "dove-lean speaker sounded hawkish"
+      ]
+    },
     {
       "published_at": "2026-09-15T10:28:05+00:00",
       "speaker": "Ireneusz Dabrowski",
@@ -533,6 +548,19 @@
       "last_phrase": "rate cuts are not currently an option, but could consider rate hikes in November",
       "last_headline": "NBP's Kotecki says that rate cuts are not currently an option, but could consider rate hikes in November",
       "last_published_at": "2026-09-11T07:34:28+00:00",
+      "last_event_type": "other"
+    },
+    {
+      "name": "Wieslaw Janczyk",
+      "role": "mpc_external",
+      "voting_2026": true,
+      "lean_prior": "dove",
+      "n_items": 1,
+      "mean_stance": 2.0,
+      "last_stance": 2.0,
+      "last_phrase": "energy-related risks could prompt rate hikes",
+      "last_headline": "NBP's Janczyk warns that energy-related risks could prompt rate hikes",
+      "last_published_at": "2026-09-18T10:28:43+00:00",
       "last_event_type": "other"
     },
     {

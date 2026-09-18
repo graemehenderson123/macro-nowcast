@@ -1,11 +1,11 @@
 {
   "cb": "boj",
-  "as_of": "2026-09-18T04:31:37.989814+00:00",
-  "commentary_score": 1.588,
+  "as_of": "2026-09-18T13:18:01.085161+00:00",
+  "commentary_score": 1.897,
   "label": "lean hawkish",
-  "n_items_window": 13,
+  "n_items_window": 16,
   "commentary_window_days": 30,
-  "n_items_total": 204,
+  "n_items_total": 207,
   "history_90d": [
     {
       "date": "2026-06-21",
@@ -24,13 +24,13 @@
     },
     {
       "date": "2026-06-24",
-      "commentary_score": 0.144,
-      "n_items": 21
+      "commentary_score": 0.039,
+      "n_items": 22
     },
     {
       "date": "2026-06-25",
-      "commentary_score": 0.241,
-      "n_items": 22
+      "commentary_score": 0.365,
+      "n_items": 23
     },
     {
       "date": "2026-06-26",
@@ -69,8 +69,8 @@
     },
     {
       "date": "2026-07-03",
-      "commentary_score": 0.383,
-      "n_items": 20
+      "commentary_score": 0.369,
+      "n_items": 19
     },
     {
       "date": "2026-07-04",
@@ -94,8 +94,8 @@
     },
     {
       "date": "2026-07-08",
-      "commentary_score": -0.551,
-      "n_items": 21
+      "commentary_score": -0.561,
+      "n_items": 20
     },
     {
       "date": "2026-07-09",
@@ -104,8 +104,8 @@
     },
     {
       "date": "2026-07-10",
-      "commentary_score": -0.561,
-      "n_items": 20
+      "commentary_score": -0.638,
+      "n_items": 18
     },
     {
       "date": "2026-07-11",
@@ -134,23 +134,23 @@
     },
     {
       "date": "2026-07-16",
-      "commentary_score": -0.512,
-      "n_items": 16
-    },
-    {
-      "date": "2026-07-17",
       "commentary_score": -0.609,
       "n_items": 14
     },
     {
+      "date": "2026-07-17",
+      "commentary_score": -0.298,
+      "n_items": 15
+    },
+    {
       "date": "2026-07-18",
-      "commentary_score": -0.301,
-      "n_items": 14
+      "commentary_score": -0.274,
+      "n_items": 13
     },
     {
       "date": "2026-07-19",
-      "commentary_score": -0.302,
-      "n_items": 11
+      "commentary_score": -0.306,
+      "n_items": 10
     },
     {
       "date": "2026-07-20",
@@ -174,13 +174,13 @@
     },
     {
       "date": "2026-07-24",
-      "commentary_score": -0.283,
-      "n_items": 7
+      "commentary_score": -0.265,
+      "n_items": 6
     },
     {
       "date": "2026-07-25",
-      "commentary_score": -0.338,
-      "n_items": 5
+      "commentary_score": -0.394,
+      "n_items": 4
     },
     {
       "date": "2026-07-26",
@@ -209,8 +209,8 @@
     },
     {
       "date": "2026-07-31",
-      "commentary_score": 0.471,
-      "n_items": 5
+      "commentary_score": 1.262,
+      "n_items": 7
     },
     {
       "date": "2026-08-01",
@@ -229,8 +229,8 @@
     },
     {
       "date": "2026-08-04",
-      "commentary_score": 1.102,
-      "n_items": 8
+      "commentary_score": 1.27,
+      "n_items": 9
     },
     {
       "date": "2026-08-05",
@@ -259,8 +259,8 @@
     },
     {
       "date": "2026-08-10",
-      "commentary_score": 0.921,
-      "n_items": 9
+      "commentary_score": 1.282,
+      "n_items": 10
     },
     {
       "date": "2026-08-11",
@@ -289,8 +289,8 @@
     },
     {
       "date": "2026-08-16",
-      "commentary_score": 1.293,
-      "n_items": 9
+      "commentary_score": 1.332,
+      "n_items": 8
     },
     {
       "date": "2026-08-17",
@@ -344,13 +344,13 @@
     },
     {
       "date": "2026-08-27",
-      "commentary_score": 1.977,
-      "n_items": 11
+      "commentary_score": 2.05,
+      "n_items": 12
     },
     {
       "date": "2026-08-28",
-      "commentary_score": 2.05,
-      "n_items": 12
+      "commentary_score": 1.637,
+      "n_items": 13
     },
     {
       "date": "2026-08-29",
@@ -359,8 +359,8 @@
     },
     {
       "date": "2026-08-30",
-      "commentary_score": 1.638,
-      "n_items": 12
+      "commentary_score": 1.64,
+      "n_items": 10
     },
     {
       "date": "2026-08-31",
@@ -374,13 +374,13 @@
     },
     {
       "date": "2026-09-02",
-      "commentary_score": 0.98,
-      "n_items": 13
+      "commentary_score": 1.126,
+      "n_items": 14
     },
     {
       "date": "2026-09-03",
-      "commentary_score": 1.126,
-      "n_items": 14
+      "commentary_score": 1.12,
+      "n_items": 13
     },
     {
       "date": "2026-09-04",
@@ -404,18 +404,18 @@
     },
     {
       "date": "2026-09-08",
-      "commentary_score": 1.078,
-      "n_items": 12
+      "commentary_score": 1.797,
+      "n_items": 13
     },
     {
       "date": "2026-09-09",
-      "commentary_score": 1.85,
-      "n_items": 12
+      "commentary_score": 1.837,
+      "n_items": 11
     },
     {
       "date": "2026-09-10",
-      "commentary_score": 1.796,
-      "n_items": 12
+      "commentary_score": 1.588,
+      "n_items": 13
     },
     {
       "date": "2026-09-11",
@@ -454,24 +454,25 @@
     },
     {
       "date": "2026-09-18",
-      "commentary_score": 1.588,
-      "n_items": 13
+      "commentary_score": 1.897,
+      "n_items": 16
     }
   ],
   "key_comments": [
     {
-      "published_at": "2026-09-10T01:34:44+00:00",
-      "speaker": "Kazuyuki Masu",
+      "published_at": "2026-09-18T02:59:46+00:00",
+      "speaker": "Toichiro Asada",
       "role": "governor",
-      "lean_prior": "neutral",
+      "lean_prior": "dove",
       "voting_2026": true,
       "event_type": "other",
-      "stance": 1.5,
-      "phrase": "BoJ is expected to continue raising interest rates given current accommodative financial conditions.",
-      "headline": "BoJ Board Member Masu says one\u2011 to two\u2011year real interest rates remain negative and need to keep price trend from going above 2%, adds underlying inflation is still below 2% but quite close to that level",
-      "importance": 1.5,
+      "stance": 2.5,
+      "phrase": "BoJ will continue to raise rates in response to economic and price developments",
+      "headline": "BoJ hikes rates by 25bps to 1.25%, as expected, with the decision made by 7-2 vote as board members Asada and Sato dissented, while BoJ says it will continue to raise rates in response to economic and price developments ",
+      "importance": 8.75,
       "reasons": [
-        "notable move vs own recent tone"
+        "dove-lean speaker sounded hawkish",
+        "cross-market extreme (|stance| = 2.5)"
       ]
     },
     {
@@ -500,7 +501,7 @@
       "stance": -1.5,
       "phrase": "strong support for Japan's decisive market and monetary steps to address the substantial undervaluation of the Yen",
       "headline": "US Treasury Secretary Bessent says he emphasised the importance of sound formulation and communication of monetary policy to anchor inflation expectations in meeting with the BoJ Governor Ueda",
-      "importance": 5.96,
+      "importance": 5.97,
       "reasons": [
         "Chair spoke",
         "notable move vs own recent tone"
@@ -560,12 +561,12 @@
       "role": "institutional",
       "voting_2026": true,
       "lean_prior": "neutral",
-      "n_items": 2,
-      "mean_stance": 3.0,
-      "last_stance": 3.0,
-      "last_phrase": "BoJ plans to raise rates by 25bps to 1.25%",
-      "last_headline": "BoJ plans to raise rates by 25bps to 1.25% at the September 18 meeting, Kyodo reports",
-      "last_published_at": "2026-09-08T09:31:57+00:00",
+      "n_items": 3,
+      "mean_stance": 2.84,
+      "last_stance": 2.5,
+      "last_phrase": "BoJ says it will continue to raise rates in response to economic and price developments",
+      "last_headline": "Japanese BoJ Interest Rate Decision 1.25% vs. Exp. 1.25% (Prev. 1%)",
+      "last_published_at": "2026-09-18T03:00:00+00:00",
       "last_event_type": "statement"
     },
     {
@@ -579,6 +580,19 @@
       "last_phrase": "a different response is needed from the normal semi-annual pace of tightening.",
       "last_headline": "BoJ's Takata says they need to consider a broad range of options, not just a 25bps hike each time. Adds, a different response is needed from the normal semi-annual pace of tightening.",
       "last_published_at": "2026-09-02T05:16:22+00:00",
+      "last_event_type": "other"
+    },
+    {
+      "name": "Toichiro Asada",
+      "role": "governor",
+      "voting_2026": true,
+      "lean_prior": "dove",
+      "n_items": 1,
+      "mean_stance": 2.5,
+      "last_stance": 2.5,
+      "last_phrase": "BoJ will continue to raise rates in response to economic and price developments",
+      "last_headline": "BoJ hikes rates by 25bps to 1.25%, as expected, with the decision made by 7-2 vote as board members Asada and Sato dissented, while BoJ says it will continue to raise rates in response to economic and",
+      "last_published_at": "2026-09-18T02:59:46+00:00",
       "last_event_type": "other"
     },
     {
@@ -599,13 +613,13 @@
       "role": "chair",
       "voting_2026": true,
       "lean_prior": "neutral",
-      "n_items": 3,
-      "mean_stance": -0.42,
-      "last_stance": -1.5,
-      "last_phrase": "strong support for Japan's decisive market and monetary steps to address the substantial undervaluation of the Yen",
-      "last_headline": "US Treasury Secretary Bessent says he emphasised the importance of sound formulation and communication of monetary policy to anchor inflation expectations in meeting with the BoJ Governor Ueda",
-      "last_published_at": "2026-09-01T15:44:31+00:00",
-      "last_event_type": "other"
+      "n_items": 4,
+      "mean_stance": 0.0,
+      "last_stance": 1.5,
+      "last_phrase": "BoJ judged it appropriate to adjust the degree of monetary easing to sustainably and stably achieve the 2% price target",
+      "last_headline": "[PRESS CONFERENCE] BoJ Governor Ueda says Japan\u2019s economy is recovering moderately, albeit with some weakness; Japan\u2019s economy is likely to continue growing moderately",
+      "last_published_at": "2026-09-18T06:33:52+00:00",
+      "last_event_type": "press-conf"
     }
   ],
   "methodology": {
