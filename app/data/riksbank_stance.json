@@ -1,17 +1,12 @@
 {
   "cb": "riksbank",
-  "as_of": "2026-09-19T04:33:14.221709+00:00",
-  "commentary_score": 0.028,
-  "label": "neutral",
-  "n_items_window": 5,
+  "as_of": "2026-09-20T04:33:00.566477+00:00",
+  "commentary_score": -0.953,
+  "label": "lean dovish",
+  "n_items_window": 3,
   "commentary_window_days": 30,
   "n_items_total": 40,
   "history_90d": [
-    {
-      "date": "2026-06-22",
-      "commentary_score": 1.053,
-      "n_items": 3
-    },
     {
       "date": "2026-06-23",
       "commentary_score": 1.053,
@@ -456,6 +451,11 @@
       "date": "2026-09-19",
       "commentary_score": 0.028,
       "n_items": 5
+    },
+    {
+      "date": "2026-09-20",
+      "commentary_score": -0.953,
+      "n_items": 3
     }
   ],
   "key_comments": [
@@ -489,54 +489,9 @@
       "reasons": [
         "notable move vs own recent tone"
       ]
-    },
-    {
-      "published_at": "2026-08-20T09:04:20+00:00",
-      "speaker": "Erik Thed\u00e9en",
-      "role": "chair",
-      "lean_prior": "neutral",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": 1.5,
-      "phrase": "the Riksbank would adjust its monetary policy in a tighter direction",
-      "headline": "Riksbank's Thedeen says they are somewhat concerned about the recent inflation outcomes",
-      "importance": 4.5,
-      "reasons": [
-        "Chair spoke",
-        "notable move vs own recent tone"
-      ]
-    },
-    {
-      "published_at": "2026-08-20T07:30:26+00:00",
-      "speaker": "RIKSBANK (institutional)",
-      "role": "institutional",
-      "lean_prior": "neutral",
-      "voting_2026": true,
-      "event_type": "statement",
-      "stance": 2.5,
-      "phrase": "the Riksbank would adjust its monetary policy in a tighter direction",
-      "headline": "Riksbank maintains its rate at 1.75% as expected; assesses that the probability of a rate increase later this year remains; there is considerable uncertainty and developments call for vigilance",
-      "importance": 3.75,
-      "reasons": [
-        "official CB statement (stance +2.50)",
-        "strong policy signal (|stance| = 2.5)"
-      ]
     }
   ],
   "speakers": [
-    {
-      "name": "RIKSBANK (institutional)",
-      "role": "institutional",
-      "voting_2026": true,
-      "lean_prior": "neutral",
-      "n_items": 1,
-      "mean_stance": 2.5,
-      "last_stance": 2.5,
-      "last_phrase": "the Riksbank would adjust its monetary policy in a tighter direction",
-      "last_headline": "Riksbank maintains its rate at 1.75% as expected; assesses that the probability of a rate increase later this year remains; there is considerable uncertainty and developments call for vigilance",
-      "last_published_at": "2026-08-20T07:30:26+00:00",
-      "last_event_type": "statement"
-    },
     {
       "name": "Anna Seim",
       "role": "governor",
@@ -555,8 +510,8 @@
       "role": "chair",
       "voting_2026": true,
       "lean_prior": "neutral",
-      "n_items": 2,
-      "mean_stance": -0.25,
+      "n_items": 1,
+      "mean_stance": -2.0,
       "last_stance": -2.0,
       "last_phrase": "do not see any clear signs of a lasting, broad upturn in inflation",
       "last_headline": "Riksbank's Thedeen says they must have a high level of vigilance, do not see any clear signs of a lasting, broad upturn in inflation",

@@ -1,17 +1,12 @@
 {
   "cb": "fed",
-  "as_of": "2026-09-19T04:33:13.628731+00:00",
+  "as_of": "2026-09-20T04:32:59.985837+00:00",
   "commentary_score": 2.348,
   "label": "hawkish",
   "n_items_window": 17,
   "commentary_window_days": 14,
   "n_items_total": 1096,
   "history_90d": [
-    {
-      "date": "2026-06-22",
-      "commentary_score": 1.919,
-      "n_items": 21
-    },
     {
       "date": "2026-06-23",
       "commentary_score": 1.91,
@@ -456,6 +451,11 @@
       "date": "2026-09-19",
       "commentary_score": 2.348,
       "n_items": 17
+    },
+    {
+      "date": "2026-09-20",
+      "commentary_score": 2.348,
+      "n_items": 17
     }
   ],
   "key_comments": [
@@ -508,6 +508,22 @@
       ]
     },
     {
+      "published_at": "2026-09-01T13:05:56+00:00",
+      "speaker": "Michael Barr",
+      "role": "governor",
+      "lean_prior": "neutral",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": 3.0,
+      "phrase": "if inflation appears not to be moderating sufficiently, then think we should act decisively to raise rates.",
+      "headline": "Fed's Barr (voter) says if inflation doesn't moderate soon, will be time for an interest rate hike",
+      "importance": 4.5,
+      "reasons": [
+        "notable move vs own recent tone",
+        "cross-market extreme (|stance| = 3.0)"
+      ]
+    },
+    {
       "published_at": "2026-08-28T16:44:32+00:00",
       "speaker": "Austan Goolsbee",
       "role": "regional_president",
@@ -521,21 +537,6 @@
       "reasons": [
         "dove-lean speaker sounded hawkish",
         "cross-market extreme (|stance| = 2.5)"
-      ]
-    },
-    {
-      "published_at": "2026-08-20T15:28:47+00:00",
-      "speaker": "Alberto Musalem",
-      "role": "regional_president",
-      "lean_prior": "hawk",
-      "voting_2026": false,
-      "event_type": "other",
-      "stance": -1.5,
-      "phrase": "Monetary policy is neutral or accommodative right now.",
-      "headline": "Fed's Musalem (2028 voter) says strong growth and investment influencing bond market",
-      "importance": 5.54,
-      "reasons": [
-        "hawk-lean speaker sounded dovish"
       ]
     }
   ],
