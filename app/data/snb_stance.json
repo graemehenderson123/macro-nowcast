@@ -1,17 +1,12 @@
 {
   "cb": "snb",
-  "as_of": "2026-09-20T04:33:00.500087+00:00",
-  "commentary_score": -0.693,
+  "as_of": "2026-09-21T04:36:13.866041+00:00",
+  "commentary_score": -0.615,
   "label": "neutral",
-  "n_items_window": 6,
+  "n_items_window": 5,
   "commentary_window_days": 30,
   "n_items_total": 59,
   "history_90d": [
-    {
-      "date": "2026-06-23",
-      "commentary_score": -1.291,
-      "n_items": 8
-    },
     {
       "date": "2026-06-24",
       "commentary_score": -1.291,
@@ -456,6 +451,11 @@
       "date": "2026-09-20",
       "commentary_score": -0.693,
       "n_items": 6
+    },
+    {
+      "date": "2026-09-21",
+      "commentary_score": -0.615,
+      "n_items": 5
     }
   ],
   "key_comments": [
@@ -472,21 +472,6 @@
       "importance": 3.0,
       "reasons": [
         "Chair spoke"
-      ]
-    },
-    {
-      "published_at": "2026-08-21T15:01:50+00:00",
-      "speaker": "Petra Tschudin",
-      "role": "governor",
-      "lean_prior": "dove",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": -3.0,
-      "phrase": "Ready to take interest rates below zero if necessary.",
-      "headline": "SNB\u2019s Tschudin said the bank would cut its policy rate below 0% if warranted by inflation",
-      "importance": 1.5,
-      "reasons": [
-        "cross-market extreme (|stance| = 3.0)"
       ]
     }
   ],
@@ -505,6 +490,19 @@
       "last_event_type": "other"
     },
     {
+      "name": "Petra Tschudin",
+      "role": "governor",
+      "voting_2026": true,
+      "lean_prior": "dove",
+      "n_items": 1,
+      "mean_stance": -1.5,
+      "last_stance": -1.5,
+      "last_phrase": "more willingness to intervene on FX if needed",
+      "last_headline": "SNB's Tschudin says more willingness to intervene on FX if needed",
+      "last_published_at": "2026-08-31T10:17:06+00:00",
+      "last_event_type": "other"
+    },
+    {
       "name": "Martin Schlegel",
       "role": "chair",
       "voting_2026": true,
@@ -515,19 +513,6 @@
       "last_phrase": "inflation has recently ticker higher",
       "last_headline": "SNB's Schlegel says inflation has recently ticker higher",
       "last_published_at": "2026-09-11T09:23:33+00:00",
-      "last_event_type": "other"
-    },
-    {
-      "name": "Petra Tschudin",
-      "role": "governor",
-      "voting_2026": true,
-      "lean_prior": "dove",
-      "n_items": 2,
-      "mean_stance": -2.3,
-      "last_stance": -1.5,
-      "last_phrase": "more willingness to intervene on FX if needed",
-      "last_headline": "SNB's Tschudin says more willingness to intervene on FX if needed",
-      "last_published_at": "2026-08-31T10:17:06+00:00",
       "last_event_type": "other"
     }
   ],

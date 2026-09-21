@@ -1,17 +1,12 @@
 {
   "cb": "rba",
-  "as_of": "2026-09-20T04:33:00.297376+00:00",
+  "as_of": "2026-09-21T04:36:13.631934+00:00",
   "commentary_score": 1.563,
   "label": "lean hawkish",
   "n_items_window": 9,
   "commentary_window_days": 30,
   "n_items_total": 62,
   "history_90d": [
-    {
-      "date": "2026-06-23",
-      "commentary_score": 2.527,
-      "n_items": 6
-    },
     {
       "date": "2026-06-24",
       "commentary_score": 2.527,
@@ -254,8 +249,8 @@
     },
     {
       "date": "2026-08-11",
-      "commentary_score": 0.243,
-      "n_items": 2
+      "commentary_score": 2.109,
+      "n_items": 3
     },
     {
       "date": "2026-08-12",
@@ -404,8 +399,8 @@
     },
     {
       "date": "2026-09-10",
-      "commentary_score": 0.87,
-      "n_items": 10
+      "commentary_score": 0.766,
+      "n_items": 9
     },
     {
       "date": "2026-09-11",
@@ -454,6 +449,11 @@
     },
     {
       "date": "2026-09-20",
+      "commentary_score": 1.563,
+      "n_items": 9
+    },
+    {
+      "date": "2026-09-21",
       "commentary_score": 1.563,
       "n_items": 9
     }

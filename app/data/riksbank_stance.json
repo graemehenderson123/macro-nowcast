@@ -1,17 +1,12 @@
 {
   "cb": "riksbank",
-  "as_of": "2026-09-20T04:33:00.566477+00:00",
+  "as_of": "2026-09-21T04:36:13.938146+00:00",
   "commentary_score": -0.953,
   "label": "lean dovish",
   "n_items_window": 3,
   "commentary_window_days": 30,
   "n_items_total": 40,
   "history_90d": [
-    {
-      "date": "2026-06-23",
-      "commentary_score": 1.053,
-      "n_items": 3
-    },
     {
       "date": "2026-06-24",
       "commentary_score": 1.053,
@@ -454,6 +449,11 @@
     },
     {
       "date": "2026-09-20",
+      "commentary_score": -0.953,
+      "n_items": 3
+    },
+    {
+      "date": "2026-09-21",
       "commentary_score": -0.953,
       "n_items": 3
     }

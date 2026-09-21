@@ -1,17 +1,12 @@
 {
   "cb": "ecb",
-  "as_of": "2026-09-20T04:33:00.065140+00:00",
+  "as_of": "2026-09-21T04:36:13.404702+00:00",
   "commentary_score": 0.717,
   "label": "neutral",
   "n_items_window": 31,
   "commentary_window_days": 14,
   "n_items_total": 607,
   "history_90d": [
-    {
-      "date": "2026-06-23",
-      "commentary_score": 0.167,
-      "n_items": 40
-    },
     {
       "date": "2026-06-24",
       "commentary_score": 0.153,
@@ -456,6 +451,11 @@
       "date": "2026-09-20",
       "commentary_score": 0.717,
       "n_items": 31
+    },
+    {
+      "date": "2026-09-21",
+      "commentary_score": 0.717,
+      "n_items": 31
     }
   ],
   "key_comments": [
@@ -507,6 +507,22 @@
       ]
     },
     {
+      "published_at": "2026-09-02T04:05:54+00:00",
+      "speaker": "Gabriel Makhlouf",
+      "role": "regional_president",
+      "lean_prior": "neutral",
+      "voting_2026": true,
+      "event_type": "off-the-cuff",
+      "stance": 3.5,
+      "phrase": "must be prepared to lift interest rates further",
+      "headline": "ECB's Makhlouf says the central bank must be prepared to lift interest rates further and that the combination of eurozone inflation above 3% and robust growth makes him uneasy, according to FT",
+      "importance": 5.05,
+      "reasons": [
+        "notable move vs own recent tone",
+        "cross-market extreme (|stance| = 3.5)"
+      ]
+    },
+    {
       "published_at": "2026-09-01T12:37:18+00:00",
       "speaker": "Joachim Nagel",
       "role": "regional_president",
@@ -517,21 +533,6 @@
       "phrase": "global economy remains on a growth trajectory",
       "headline": "ECB's Nagel says that despite the ongoing Middle East crisis, the global economy remains on a growth trajectory; easing in core and services is good news, and not seeing second-round effects",
       "importance": 5.76,
-      "reasons": [
-        "hawk-lean speaker sounded dovish"
-      ]
-    },
-    {
-      "published_at": "2026-08-21T07:15:18+00:00",
-      "speaker": "Martins Kazaks",
-      "role": "regional_president",
-      "lean_prior": "hawk",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": -1.0,
-      "phrase": "wage growth gradually slowing; the ECB is well placed to act, if needed",
-      "headline": "ECB's Kazaks says he sees wage growth gradually slowing; the ECB is well placed to act, if needed",
-      "importance": 5.66,
       "reasons": [
         "hawk-lean speaker sounded dovish"
       ]
