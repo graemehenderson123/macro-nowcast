@@ -1,11 +1,11 @@
 {
   "cb": "fed",
-  "as_of": "2026-09-22T04:34:26.086860+00:00",
-  "commentary_score": 2.348,
+  "as_of": "2026-09-22T13:02:30.323053+00:00",
+  "commentary_score": 2.406,
   "label": "hawkish",
-  "n_items_window": 17,
+  "n_items_window": 23,
   "commentary_window_days": 14,
-  "n_items_total": 1096,
+  "n_items_total": 1106,
   "history_90d": [
     {
       "date": "2026-06-25",
@@ -14,8 +14,8 @@
     },
     {
       "date": "2026-06-26",
-      "commentary_score": 1.385,
-      "n_items": 29
+      "commentary_score": 1.305,
+      "n_items": 30
     },
     {
       "date": "2026-06-27",
@@ -29,8 +29,8 @@
     },
     {
       "date": "2026-06-29",
-      "commentary_score": 1.287,
-      "n_items": 32
+      "commentary_score": 1.228,
+      "n_items": 33
     },
     {
       "date": "2026-06-30",
@@ -44,8 +44,8 @@
     },
     {
       "date": "2026-07-02",
-      "commentary_score": 0.358,
-      "n_items": 24
+      "commentary_score": 0.303,
+      "n_items": 25
     },
     {
       "date": "2026-07-03",
@@ -69,13 +69,13 @@
     },
     {
       "date": "2026-07-07",
-      "commentary_score": 0.331,
-      "n_items": 28
+      "commentary_score": 0.38,
+      "n_items": 27
     },
     {
       "date": "2026-07-08",
-      "commentary_score": 0.373,
-      "n_items": 27
+      "commentary_score": 0.34,
+      "n_items": 26
     },
     {
       "date": "2026-07-09",
@@ -84,8 +84,8 @@
     },
     {
       "date": "2026-07-10",
-      "commentary_score": 0.808,
-      "n_items": 26
+      "commentary_score": 0.827,
+      "n_items": 25
     },
     {
       "date": "2026-07-11",
@@ -99,23 +99,23 @@
     },
     {
       "date": "2026-07-13",
-      "commentary_score": 0.835,
-      "n_items": 25
+      "commentary_score": 0.849,
+      "n_items": 24
     },
     {
       "date": "2026-07-14",
-      "commentary_score": 1.31,
-      "n_items": 22
+      "commentary_score": 1.468,
+      "n_items": 23
     },
     {
       "date": "2026-07-15",
-      "commentary_score": 1.536,
-      "n_items": 25
+      "commentary_score": 1.612,
+      "n_items": 26
     },
     {
       "date": "2026-07-16",
-      "commentary_score": 1.34,
-      "n_items": 26
+      "commentary_score": 1.357,
+      "n_items": 25
     },
     {
       "date": "2026-07-17",
@@ -139,8 +139,8 @@
     },
     {
       "date": "2026-07-21",
-      "commentary_score": 1.61,
-      "n_items": 26
+      "commentary_score": 1.43,
+      "n_items": 27
     },
     {
       "date": "2026-07-22",
@@ -174,12 +174,12 @@
     },
     {
       "date": "2026-07-28",
-      "commentary_score": 0.377,
-      "n_items": 17
+      "commentary_score": 0.205,
+      "n_items": 16
     },
     {
       "date": "2026-07-29",
-      "commentary_score": -0.032,
+      "commentary_score": -0.131,
       "n_items": 14
     },
     {
@@ -189,8 +189,8 @@
     },
     {
       "date": "2026-07-31",
-      "commentary_score": 0.446,
-      "n_items": 24
+      "commentary_score": 0.571,
+      "n_items": 26
     },
     {
       "date": "2026-08-01",
@@ -204,23 +204,23 @@
     },
     {
       "date": "2026-08-03",
-      "commentary_score": 0.664,
-      "n_items": 27
-    },
-    {
-      "date": "2026-08-04",
       "commentary_score": 0.785,
       "n_items": 28
     },
     {
+      "date": "2026-08-04",
+      "commentary_score": 0.903,
+      "n_items": 29
+    },
+    {
       "date": "2026-08-05",
-      "commentary_score": 0.959,
-      "n_items": 30
+      "commentary_score": 1.04,
+      "n_items": 31
     },
     {
       "date": "2026-08-06",
-      "commentary_score": 1.065,
-      "n_items": 35
+      "commentary_score": 1.178,
+      "n_items": 36
     },
     {
       "date": "2026-08-07",
@@ -249,18 +249,18 @@
     },
     {
       "date": "2026-08-12",
-      "commentary_score": 1.379,
-      "n_items": 42
+      "commentary_score": 1.396,
+      "n_items": 41
     },
     {
       "date": "2026-08-13",
-      "commentary_score": 1.829,
-      "n_items": 23
+      "commentary_score": 1.812,
+      "n_items": 25
     },
     {
       "date": "2026-08-14",
-      "commentary_score": 1.521,
-      "n_items": 27
+      "commentary_score": 1.485,
+      "n_items": 25
     },
     {
       "date": "2026-08-15",
@@ -274,22 +274,22 @@
     },
     {
       "date": "2026-08-17",
-      "commentary_score": 1.444,
-      "n_items": 23
-    },
-    {
-      "date": "2026-08-18",
       "commentary_score": 1.394,
       "n_items": 22
     },
     {
+      "date": "2026-08-18",
+      "commentary_score": 1.353,
+      "n_items": 20
+    },
+    {
       "date": "2026-08-19",
-      "commentary_score": 1.042,
+      "commentary_score": 0.936,
       "n_items": 20
     },
     {
       "date": "2026-08-20",
-      "commentary_score": 1.079,
+      "commentary_score": 0.862,
       "n_items": 17
     },
     {
@@ -324,7 +324,7 @@
     },
     {
       "date": "2026-08-27",
-      "commentary_score": 1.188,
+      "commentary_score": 1.07,
       "n_items": 14
     },
     {
@@ -354,18 +354,18 @@
     },
     {
       "date": "2026-09-02",
-      "commentary_score": 1.655,
-      "n_items": 23
+      "commentary_score": 1.394,
+      "n_items": 24
     },
     {
       "date": "2026-09-03",
-      "commentary_score": 1.379,
-      "n_items": 23
+      "commentary_score": 1.162,
+      "n_items": 25
     },
     {
       "date": "2026-09-04",
-      "commentary_score": 0.241,
-      "n_items": 27
+      "commentary_score": 0.228,
+      "n_items": 28
     },
     {
       "date": "2026-09-05",
@@ -394,8 +394,8 @@
     },
     {
       "date": "2026-09-10",
-      "commentary_score": 0.421,
-      "n_items": 29
+      "commentary_score": 0.422,
+      "n_items": 27
     },
     {
       "date": "2026-09-11",
@@ -424,41 +424,57 @@
     },
     {
       "date": "2026-09-16",
-      "commentary_score": 0.419,
-      "n_items": 15
+      "commentary_score": 0.485,
+      "n_items": 13
     },
     {
       "date": "2026-09-17",
-      "commentary_score": 2.086,
-      "n_items": 26
+      "commentary_score": 2.133,
+      "n_items": 23
     },
     {
       "date": "2026-09-18",
-      "commentary_score": 2.347,
-      "n_items": 20
+      "commentary_score": 2.37,
+      "n_items": 19
     },
     {
       "date": "2026-09-19",
-      "commentary_score": 2.348,
-      "n_items": 17
+      "commentary_score": 2.365,
+      "n_items": 18
     },
     {
       "date": "2026-09-20",
-      "commentary_score": 2.348,
-      "n_items": 17
+      "commentary_score": 2.365,
+      "n_items": 18
     },
     {
       "date": "2026-09-21",
-      "commentary_score": 2.348,
-      "n_items": 17
+      "commentary_score": 2.366,
+      "n_items": 21
     },
     {
       "date": "2026-09-22",
-      "commentary_score": 2.348,
-      "n_items": 17
+      "commentary_score": 2.406,
+      "n_items": 23
     }
   ],
   "key_comments": [
+    {
+      "published_at": "2026-09-21T10:30:25+00:00",
+      "speaker": "Austan Goolsbee",
+      "role": "regional_president",
+      "lean_prior": "dove",
+      "voting_2026": false,
+      "event_type": "other",
+      "stance": 3.0,
+      "phrase": "Evidence is needed that supply-driven inflation is fading, or it is hard to see a credible path back to 2% inflation.",
+      "headline": "Fed's Goolsbee (2027 Voter) says strong demand may be adding to inflation along with energy, tariff and other supply shocks",
+      "importance": 5.64,
+      "reasons": [
+        "dove-lean speaker sounded hawkish",
+        "cross-market extreme (|stance| = 3.0)"
+      ]
+    },
     {
       "published_at": "2026-09-16T22:29:04+00:00",
       "speaker": "Kevin Warsh",
@@ -522,25 +538,35 @@
         "notable move vs own recent tone",
         "cross-market extreme (|stance| = 3.0)"
       ]
-    },
-    {
-      "published_at": "2026-08-28T16:44:32+00:00",
-      "speaker": "Austan Goolsbee",
-      "role": "regional_president",
-      "lean_prior": "dove",
-      "voting_2026": false,
-      "event_type": "other",
-      "stance": 2.5,
-      "phrase": "inflation has continued for longer than expected",
-      "headline": "Fed's Goolsbee (2027 Voter) agreed with Warsh about details of the economy and agrees inflation is the main issue right now",
-      "importance": 6.31,
-      "reasons": [
-        "dove-lean speaker sounded hawkish",
-        "cross-market extreme (|stance| = 2.5)"
-      ]
     }
   ],
   "speakers": [
+    {
+      "name": "Alberto Musalem",
+      "role": "regional_president",
+      "voting_2026": false,
+      "lean_prior": "hawk",
+      "n_items": 1,
+      "mean_stance": 4.0,
+      "last_stance": 4.0,
+      "last_phrase": "Interest rates likely need to climb further to tame inflation that is both demand- and supply-driven.",
+      "last_headline": "Fed's Musalem (2028 voter, Hawk) says without further policy restraint, it is more likely inflation will remain substantially above 2% target 18 months from now",
+      "last_published_at": "2026-09-21T18:21:06+00:00",
+      "last_event_type": "other"
+    },
+    {
+      "name": "Jeffrey Schmid",
+      "role": "regional_president",
+      "voting_2026": false,
+      "lean_prior": "hawk",
+      "n_items": 1,
+      "mean_stance": 3.0,
+      "last_stance": 3.0,
+      "last_phrase": "Current inflation problem 'not just about energy', price growth has been hot across a broad set of goods and services.",
+      "last_headline": "Fed's Schmid (2028 voter) says he supported rate hike and recent data suggests inflation trending above 3%",
+      "last_published_at": "2026-09-18T15:33:11+00:00",
+      "last_event_type": "other"
+    },
     {
       "name": "FED (institutional)",
       "role": "institutional",
@@ -555,6 +581,19 @@
       "last_event_type": "statement"
     },
     {
+      "name": "Austan Goolsbee",
+      "role": "regional_president",
+      "voting_2026": false,
+      "lean_prior": "dove",
+      "n_items": 3,
+      "mean_stance": 2.381,
+      "last_stance": 2.0,
+      "last_phrase": "If inflation is mostly demand-driven, the rate response will have to be more aggressive and more front-loaded.",
+      "last_headline": "Fed's Goolsbee (2027 Voter) says that a mix of supply and demand pressures on inflation has more impact on PCE than destination",
+      "last_published_at": "2026-09-21T13:00:39+00:00",
+      "last_event_type": "other"
+    },
+    {
       "name": "Kevin Warsh",
       "role": "chair",
       "voting_2026": true,
@@ -565,6 +604,19 @@
       "last_phrase": "reaffirmed the Fed's commitment to price stability",
       "last_headline": "US EQUITY OPEN: Stocks pare hawkish Fed reaction while yields and crude prices drop",
       "last_published_at": "2026-09-17T13:55:55+00:00",
+      "last_event_type": "other"
+    },
+    {
+      "name": "Susan Collins",
+      "role": "regional_president",
+      "voting_2026": false,
+      "lean_prior": "neutral",
+      "n_items": 1,
+      "mean_stance": 2.0,
+      "last_stance": 2.0,
+      "last_phrase": "There were reasons to see an increased likelihood of some of the scenarios in which inflation gets stuck above 2%.",
+      "last_headline": "Fed's Collins (2028 voter) says renewal of combat in Iran war was a key reason she supported rate hikes last week; pencilled in another rate hike this year but expects rates on hold in 2027, via AP",
+      "last_published_at": "2026-09-21T20:32:49+00:00",
       "last_event_type": "other"
     }
   ],

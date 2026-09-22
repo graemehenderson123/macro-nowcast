@@ -1,16 +1,16 @@
 {
   "cb": "boc",
-  "as_of": "2026-09-22T04:34:26.537738+00:00",
-  "commentary_score": 1.425,
+  "as_of": "2026-09-22T13:02:30.805572+00:00",
+  "commentary_score": 1.043,
   "label": "lean hawkish",
-  "n_items_window": 5,
+  "n_items_window": 7,
   "commentary_window_days": 30,
-  "n_items_total": 72,
+  "n_items_total": 74,
   "history_90d": [
     {
       "date": "2026-06-25",
-      "commentary_score": 0.237,
-      "n_items": 9
+      "commentary_score": 0.255,
+      "n_items": 8
     },
     {
       "date": "2026-06-26",
@@ -355,7 +355,7 @@
     {
       "date": "2026-09-02",
       "commentary_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-09-03",
@@ -454,11 +454,27 @@
     },
     {
       "date": "2026-09-22",
-      "commentary_score": 1.425,
-      "n_items": 5
+      "commentary_score": 1.043,
+      "n_items": 7
     }
   ],
   "key_comments": [
+    {
+      "published_at": "2026-09-21T16:36:15+00:00",
+      "speaker": "Tiff Macklem",
+      "role": "chair",
+      "lean_prior": "neutral",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": 1.5,
+      "phrase": "if we were too slow to raise rates we would have to raise them very quickly",
+      "headline": "BoC Governor Macklem says new era of uncertainty is not going away any time soon",
+      "importance": 4.5,
+      "reasons": [
+        "Chair spoke",
+        "notable move vs own recent tone"
+      ]
+    },
     {
       "published_at": "2026-09-02T14:42:15+00:00",
       "speaker": "Tiff Macklem",
@@ -499,12 +515,12 @@
       "role": "chair",
       "voting_2026": true,
       "lean_prior": "neutral",
-      "n_items": 1,
-      "mean_stance": 3.0,
-      "last_stance": 3.0,
-      "last_phrase": "inflation remains too high and must be closely monitored",
-      "last_headline": "BoC Governor Macklem says inflation is too high, inflation is very concentrated in gasoline and oil prices; risks are shifting, prepared to adjust monetary policy as needed",
-      "last_published_at": "2026-09-02T14:42:15+00:00",
+      "n_items": 2,
+      "mean_stance": 2.3,
+      "last_stance": 1.5,
+      "last_phrase": "if we were too slow to raise rates we would have to raise them very quickly",
+      "last_headline": "BoC Governor Macklem says new era of uncertainty is not going away any time soon",
+      "last_published_at": "2026-09-21T16:36:15+00:00",
       "last_event_type": "other"
     },
     {

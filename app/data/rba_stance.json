@@ -1,11 +1,11 @@
 {
   "cb": "rba",
-  "as_of": "2026-09-22T04:34:26.398524+00:00",
-  "commentary_score": 1.563,
+  "as_of": "2026-09-22T13:02:30.656022+00:00",
+  "commentary_score": 0.847,
   "label": "lean hawkish",
-  "n_items_window": 9,
+  "n_items_window": 12,
   "commentary_window_days": 30,
-  "n_items_total": 62,
+  "n_items_total": 65,
   "history_90d": [
     {
       "date": "2026-06-25",
@@ -54,8 +54,8 @@
     },
     {
       "date": "2026-07-04",
-      "commentary_score": 2.901,
-      "n_items": 7
+      "commentary_score": 3.005,
+      "n_items": 4
     },
     {
       "date": "2026-07-05",
@@ -114,8 +114,8 @@
     },
     {
       "date": "2026-07-16",
-      "commentary_score": 2.377,
-      "n_items": 4
+      "commentary_score": 2.427,
+      "n_items": 3
     },
     {
       "date": "2026-07-17",
@@ -244,8 +244,8 @@
     },
     {
       "date": "2026-08-11",
-      "commentary_score": 0.243,
-      "n_items": 2
+      "commentary_score": 2.304,
+      "n_items": 4
     },
     {
       "date": "2026-08-12",
@@ -359,8 +359,8 @@
     },
     {
       "date": "2026-09-03",
-      "commentary_score": 0.51,
-      "n_items": 8
+      "commentary_score": 0.414,
+      "n_items": 9
     },
     {
       "date": "2026-09-04",
@@ -394,8 +394,8 @@
     },
     {
       "date": "2026-09-10",
-      "commentary_score": 0.87,
-      "n_items": 10
+      "commentary_score": 0.722,
+      "n_items": 8
     },
     {
       "date": "2026-09-11",
@@ -449,30 +449,46 @@
     },
     {
       "date": "2026-09-21",
-      "commentary_score": 1.563,
-      "n_items": 9
+      "commentary_score": 1.718,
+      "n_items": 10
     },
     {
       "date": "2026-09-22",
-      "commentary_score": 1.563,
-      "n_items": 9
+      "commentary_score": 0.847,
+      "n_items": 12
     }
   ],
   "key_comments": [
     {
-      "published_at": "2026-09-18T00:50:49+00:00",
+      "published_at": "2026-09-22T03:15:56+00:00",
       "speaker": "Michele Bullock",
       "role": "chair",
       "lean_prior": "hawk",
       "voting_2026": true,
       "event_type": "other",
-      "stance": 1.5,
-      "phrase": "thinking about whether we have a tight enough policy",
-      "headline": "RBA Governor Bullock says the drop in housing prices is not that significant in the scheme of things, adds thinking about whether we have a tight enough policy",
-      "importance": 4.28,
+      "stance": -1.5,
+      "phrase": "supply shocks are difficult for monetary policy to deal with",
+      "headline": "RBA Governor Bullock says supply shocks are difficult for monetary policy to deal with, and policy needs to deal with second round effects on inflation",
+      "importance": 8.86,
       "reasons": [
         "Chair spoke",
         "hawk-lean speaker sounded dovish"
+      ]
+    },
+    {
+      "published_at": "2026-09-21T00:32:34+00:00",
+      "speaker": "RBA (institutional)",
+      "role": "institutional",
+      "lean_prior": "neutral",
+      "voting_2026": true,
+      "event_type": "statement",
+      "stance": 2.0,
+      "phrase": "CBA has brought forward its RBA rate hike call to September",
+      "headline": "CBA has brought forward its RBA rate hike call to September from November, while ANZ now expects the RBA to raise rates by 25bps in September and November",
+      "importance": 3.0,
+      "reasons": [
+        "official CB statement (stance +2.00)",
+        "strong policy signal (|stance| = 2.0)"
       ]
     },
     {
@@ -501,7 +517,7 @@
       "stance": 3.5,
       "phrase": "the board may have to raise rates if there is a sense inflation will be stronger",
       "headline": "RBA's Assistant Governor Hunter says the board is concerned about inflation and has low tolerance, adds the board may have to raise rates if there is a sense inflation will be stronger",
-      "importance": 7.35,
+      "importance": 7.83,
       "reasons": [
         "Vice Chair spoke",
         "notable move vs own recent tone",
@@ -518,53 +534,38 @@
       "stance": -1.5,
       "phrase": "Impacts of changes in house prices on consumer spending is actually quite small",
       "headline": "RBA Assistant Governor Hunter says the housing market is a crucial mechanism through which monetary policy affects the economy",
-      "importance": 5.9,
+      "importance": 5.42,
       "reasons": [
         "Vice Chair spoke",
         "notable move vs own recent tone"
-      ]
-    },
-    {
-      "published_at": "2026-08-25T04:04:52+00:00",
-      "speaker": "RBA (institutional)",
-      "role": "institutional",
-      "lean_prior": "neutral",
-      "voting_2026": true,
-      "event_type": "statement",
-      "stance": -1.5,
-      "phrase": "active liquidity management will become more important",
-      "headline": "RBA's markets head Jacobs goal is a system that can flexibly supply whatever quantity the banking system demands, while keeping the cash rate close to the board's target",
-      "importance": 2.5,
-      "reasons": [
-        "official CB statement (stance -1.50)"
       ]
     }
   ],
   "speakers": [
     {
-      "name": "Michele Bullock",
-      "role": "chair",
-      "voting_2026": true,
-      "lean_prior": "hawk",
-      "n_items": 2,
-      "mean_stance": 2.033,
-      "last_stance": 1.5,
-      "last_phrase": "thinking about whether we have a tight enough policy",
-      "last_headline": "RBA Governor Bullock says the drop in housing prices is not that significant in the scheme of things, adds thinking about whether we have a tight enough policy",
-      "last_published_at": "2026-09-18T00:50:49+00:00",
-      "last_event_type": "other"
-    },
-    {
       "name": "Sarah Hunter",
       "role": "vice_chair",
       "voting_2026": true,
       "lean_prior": "neutral",
+      "n_items": 4,
+      "mean_stance": 0.92,
+      "last_stance": -1.0,
+      "last_phrase": "inflation being above target including the conflict in the Middle East",
+      "last_headline": "RBA's Hunter says she thinks there are several factors behind inflation being above target including the conflict in the Middle East and domestic capacity constraints",
+      "last_published_at": "2026-09-22T00:41:49+00:00",
+      "last_event_type": "other"
+    },
+    {
+      "name": "Michele Bullock",
+      "role": "chair",
+      "voting_2026": true,
+      "lean_prior": "hawk",
       "n_items": 3,
-      "mean_stance": 1.4,
-      "last_stance": 1.5,
-      "last_phrase": "inflation in Australia is still above its target",
-      "last_headline": "RBA's Assistant Governor Hunter says Australia household spending is holding up okay, adds inflation in Australia is still above its target, while Australia's business investment is showing signs of s",
-      "last_published_at": "2026-09-14T02:38:30+00:00",
+      "mean_stance": 0.909,
+      "last_stance": -1.5,
+      "last_phrase": "supply shocks are difficult for monetary policy to deal with",
+      "last_headline": "RBA Governor Bullock says supply shocks are difficult for monetary policy to deal with, and policy needs to deal with second round effects on inflation",
+      "last_published_at": "2026-09-22T03:15:56+00:00",
       "last_event_type": "other"
     },
     {
@@ -572,12 +573,12 @@
       "role": "institutional",
       "voting_2026": true,
       "lean_prior": "neutral",
-      "n_items": 2,
-      "mean_stance": 0.1,
-      "last_stance": -1.5,
-      "last_phrase": "active liquidity management will become more important",
-      "last_headline": "RBA's markets head Jacobs goal is a system that can flexibly supply whatever quantity the banking system demands, while keeping the cash rate close to the board's target",
-      "last_published_at": "2026-08-25T04:04:52+00:00",
+      "n_items": 3,
+      "mean_stance": 0.643,
+      "last_stance": 2.0,
+      "last_phrase": "CBA has brought forward its RBA rate hike call to September",
+      "last_headline": "CBA has brought forward its RBA rate hike call to September from November, while ANZ now expects the RBA to raise rates by 25bps in September and November",
+      "last_published_at": "2026-09-21T00:32:34+00:00",
       "last_event_type": "statement"
     }
   ],
