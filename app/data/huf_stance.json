@@ -1,6 +1,6 @@
 {
   "cb": "huf",
-  "as_of": "2026-09-24T04:35:57.046816+00:00",
+  "as_of": "2026-09-24T13:06:40.254623+00:00",
   "commentary_score": -2.0,
   "label": "dovish",
   "n_items_window": 1,
@@ -89,8 +89,8 @@
     },
     {
       "date": "2026-07-13",
-      "commentary_score": -2.0,
-      "n_items": 1
+      "commentary_score": -2.856,
+      "n_items": 2
     },
     {
       "date": "2026-07-14",
@@ -239,8 +239,8 @@
     },
     {
       "date": "2026-08-12",
-      "commentary_score": -3.0,
-      "n_items": 1
+      "commentary_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-08-13",
@@ -384,8 +384,8 @@
     },
     {
       "date": "2026-09-10",
-      "commentary_score": 0.0,
-      "n_items": 0
+      "commentary_score": -2.0,
+      "n_items": 1
     },
     {
       "date": "2026-09-11",
