@@ -1,21 +1,16 @@
 {
   "cb": "riksbank",
-  "as_of": "2026-09-24T13:06:39.652092+00:00",
-  "commentary_score": -1.462,
-  "label": "lean dovish",
-  "n_items_window": 2,
+  "as_of": "2026-09-25T04:32:02.694060+00:00",
+  "commentary_score": -0.114,
+  "label": "neutral",
+  "n_items_window": 3,
   "commentary_window_days": 30,
-  "n_items_total": 40,
+  "n_items_total": 41,
   "history_90d": [
     {
-      "date": "2026-06-27",
+      "date": "2026-06-28",
       "commentary_score": 1.036,
       "n_items": 4
-    },
-    {
-      "date": "2026-06-28",
-      "commentary_score": 1.094,
-      "n_items": 3
     },
     {
       "date": "2026-06-29",
@@ -44,8 +39,8 @@
     },
     {
       "date": "2026-07-04",
-      "commentary_score": 1.316,
-      "n_items": 2
+      "commentary_score": 1.094,
+      "n_items": 3
     },
     {
       "date": "2026-07-05",
@@ -109,8 +104,8 @@
     },
     {
       "date": "2026-07-17",
-      "commentary_score": 1.0,
-      "n_items": 1
+      "commentary_score": 1.316,
+      "n_items": 2
     },
     {
       "date": "2026-07-18",
@@ -144,8 +139,8 @@
     },
     {
       "date": "2026-07-24",
-      "commentary_score": 0.0,
-      "n_items": 0
+      "commentary_score": 1.0,
+      "n_items": 1
     },
     {
       "date": "2026-07-25",
@@ -279,8 +274,8 @@
     },
     {
       "date": "2026-08-20",
-      "commentary_score": 2.171,
-      "n_items": 2
+      "commentary_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-08-21",
@@ -304,8 +299,8 @@
     },
     {
       "date": "2026-08-25",
-      "commentary_score": 1.988,
-      "n_items": 3
+      "commentary_score": 2.171,
+      "n_items": 2
     },
     {
       "date": "2026-08-26",
@@ -334,8 +329,8 @@
     },
     {
       "date": "2026-08-31",
-      "commentary_score": 1.468,
-      "n_items": 4
+      "commentary_score": 1.988,
+      "n_items": 3
     },
     {
       "date": "2026-09-01",
@@ -349,8 +344,8 @@
     },
     {
       "date": "2026-09-03",
-      "commentary_score": 0.028,
-      "n_items": 5
+      "commentary_score": 1.468,
+      "n_items": 4
     },
     {
       "date": "2026-09-04",
@@ -429,8 +424,8 @@
     },
     {
       "date": "2026-09-19",
-      "commentary_score": -0.953,
-      "n_items": 3
+      "commentary_score": 0.028,
+      "n_items": 5
     },
     {
       "date": "2026-09-20",
@@ -454,8 +449,13 @@
     },
     {
       "date": "2026-09-24",
-      "commentary_score": -1.462,
-      "n_items": 2
+      "commentary_score": -0.953,
+      "n_items": 3
+    },
+    {
+      "date": "2026-09-25",
+      "commentary_score": -0.114,
+      "n_items": 3
     }
   ],
   "key_comments": [
@@ -477,6 +477,19 @@
     }
   ],
   "speakers": [
+    {
+      "name": "RIKSBANK (institutional)",
+      "role": "institutional",
+      "voting_2026": true,
+      "lean_prior": "neutral",
+      "n_items": 1,
+      "mean_stance": 0.0,
+      "last_stance": 0.0,
+      "last_phrase": "",
+      "last_headline": "Swedish Riksbank Rate Decision 1.75% vs. Exp. 1.75% (Prev. 1.75%)",
+      "last_published_at": "2026-09-24T07:30:00+00:00",
+      "last_event_type": "statement"
+    },
     {
       "name": "Erik Thed\u00e9en",
       "role": "chair",

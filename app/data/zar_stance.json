@@ -1,17 +1,12 @@
 {
   "cb": "zar",
-  "as_of": "2026-09-24T13:06:40.554489+00:00",
-  "commentary_score": 0.0,
-  "label": "neutral",
-  "n_items_window": 0,
+  "as_of": "2026-09-25T04:32:03.575551+00:00",
+  "commentary_score": 1.5,
+  "label": "lean hawkish",
+  "n_items_window": 1,
   "commentary_window_days": 30,
-  "n_items_total": 9,
+  "n_items_total": 10,
   "history_90d": [
-    {
-      "date": "2026-06-27",
-      "commentary_score": 0.0,
-      "n_items": 0
-    },
     {
       "date": "2026-06-28",
       "commentary_score": 0.0,
@@ -140,7 +135,7 @@
     {
       "date": "2026-07-23",
       "commentary_score": 0.0,
-      "n_items": 1
+      "n_items": 0
     },
     {
       "date": "2026-07-24",
@@ -180,7 +175,7 @@
     {
       "date": "2026-07-31",
       "commentary_score": 0.0,
-      "n_items": 2
+      "n_items": 1
     },
     {
       "date": "2026-08-01",
@@ -290,7 +285,7 @@
     {
       "date": "2026-08-22",
       "commentary_score": 0.0,
-      "n_items": 1
+      "n_items": 2
     },
     {
       "date": "2026-08-23",
@@ -330,7 +325,7 @@
     {
       "date": "2026-08-30",
       "commentary_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-08-31",
@@ -454,12 +449,47 @@
     },
     {
       "date": "2026-09-24",
-      "commentary_score": 0.0,
-      "n_items": 0
+      "commentary_score": 1.5,
+      "n_items": 1
+    },
+    {
+      "date": "2026-09-25",
+      "commentary_score": 1.5,
+      "n_items": 1
     }
   ],
-  "key_comments": [],
-  "speakers": [],
+  "key_comments": [
+    {
+      "published_at": "2026-09-23T13:02:29+00:00",
+      "speaker": "ZAR (institutional)",
+      "role": "institutional",
+      "lean_prior": "neutral",
+      "voting_2026": true,
+      "event_type": "statement",
+      "stance": 1.5,
+      "phrase": "upside risks to inflation and downside risks to growth",
+      "headline": "SARB Statement: Sees upside risks to inflation and downside risks to growth, fuel-price shock has intensified and global rates are moving higher",
+      "importance": 2.5,
+      "reasons": [
+        "official CB statement (stance +1.50)"
+      ]
+    }
+  ],
+  "speakers": [
+    {
+      "name": "ZAR (institutional)",
+      "role": "institutional",
+      "voting_2026": true,
+      "lean_prior": "neutral",
+      "n_items": 1,
+      "mean_stance": 1.5,
+      "last_stance": 1.5,
+      "last_phrase": "upside risks to inflation and downside risks to growth",
+      "last_headline": "SARB Statement: Sees upside risks to inflation and downside risks to growth, fuel-price shock has intensified and global rates are moving higher",
+      "last_published_at": "2026-09-23T13:02:29+00:00",
+      "last_event_type": "statement"
+    }
+  ],
   "methodology": {
     "commentary_window_days": 30,
     "commentary_window_days_default": 14,

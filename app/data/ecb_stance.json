@@ -1,17 +1,12 @@
 {
   "cb": "ecb",
-  "as_of": "2026-09-24T13:06:39.099546+00:00",
-  "commentary_score": 0.624,
+  "as_of": "2026-09-25T04:32:02.142573+00:00",
+  "commentary_score": 0.74,
   "label": "neutral",
-  "n_items_window": 26,
+  "n_items_window": 27,
   "commentary_window_days": 14,
-  "n_items_total": 609,
+  "n_items_total": 616,
   "history_90d": [
-    {
-      "date": "2026-06-27",
-      "commentary_score": 0.159,
-      "n_items": 24
-    },
     {
       "date": "2026-06-28",
       "commentary_score": 0.159,
@@ -19,28 +14,28 @@
     },
     {
       "date": "2026-06-29",
-      "commentary_score": -0.056,
+      "commentary_score": 0.159,
       "n_items": 24
     },
     {
       "date": "2026-06-30",
-      "commentary_score": 0.15,
-      "n_items": 26
+      "commentary_score": 0.154,
+      "n_items": 25
     },
     {
       "date": "2026-07-01",
-      "commentary_score": -0.188,
-      "n_items": 27
+      "commentary_score": -0.064,
+      "n_items": 25
     },
     {
       "date": "2026-07-02",
-      "commentary_score": -0.211,
-      "n_items": 28
+      "commentary_score": -0.182,
+      "n_items": 29
     },
     {
       "date": "2026-07-03",
-      "commentary_score": 0.077,
-      "n_items": 28
+      "commentary_score": 0.094,
+      "n_items": 29
     },
     {
       "date": "2026-07-04",
@@ -54,23 +49,23 @@
     },
     {
       "date": "2026-07-06",
-      "commentary_score": 0.198,
-      "n_items": 27
+      "commentary_score": 0.101,
+      "n_items": 30
     },
     {
       "date": "2026-07-07",
-      "commentary_score": 0.242,
-      "n_items": 24
+      "commentary_score": 0.234,
+      "n_items": 28
     },
     {
       "date": "2026-07-08",
-      "commentary_score": 0.213,
-      "n_items": 24
+      "commentary_score": 0.246,
+      "n_items": 23
     },
     {
       "date": "2026-07-09",
-      "commentary_score": 0.133,
-      "n_items": 21
+      "commentary_score": 0.177,
+      "n_items": 22
     },
     {
       "date": "2026-07-10",
@@ -89,18 +84,18 @@
     },
     {
       "date": "2026-07-13",
-      "commentary_score": 0.195,
-      "n_items": 19
+      "commentary_score": 0.122,
+      "n_items": 22
     },
     {
       "date": "2026-07-14",
-      "commentary_score": 0.117,
-      "n_items": 16
+      "commentary_score": 0.106,
+      "n_items": 18
     },
     {
       "date": "2026-07-15",
-      "commentary_score": 0.25,
-      "n_items": 13
+      "commentary_score": 0.211,
+      "n_items": 14
     },
     {
       "date": "2026-07-16",
@@ -109,8 +104,8 @@
     },
     {
       "date": "2026-07-17",
-      "commentary_score": 0.042,
-      "n_items": 8
+      "commentary_score": 0.038,
+      "n_items": 9
     },
     {
       "date": "2026-07-18",
@@ -124,28 +119,28 @@
     },
     {
       "date": "2026-07-20",
-      "commentary_score": -0.003,
-      "n_items": 7
+      "commentary_score": -0.006,
+      "n_items": 6
     },
     {
       "date": "2026-07-21",
+      "commentary_score": -0.017,
+      "n_items": 5
+    },
+    {
+      "date": "2026-07-22",
       "commentary_score": -0.012,
       "n_items": 6
     },
     {
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "commentary_score": -0.013,
       "n_items": 5
     },
     {
-      "date": "2026-07-23",
-      "commentary_score": -0.449,
-      "n_items": 10
-    },
-    {
       "date": "2026-07-24",
-      "commentary_score": -0.286,
-      "n_items": 25
+      "commentary_score": -0.371,
+      "n_items": 20
     },
     {
       "date": "2026-07-25",
@@ -159,8 +154,8 @@
     },
     {
       "date": "2026-07-27",
-      "commentary_score": -0.152,
-      "n_items": 27
+      "commentary_score": -0.279,
+      "n_items": 26
     },
     {
       "date": "2026-07-28",
@@ -169,8 +164,8 @@
     },
     {
       "date": "2026-07-29",
-      "commentary_score": -0.153,
-      "n_items": 25
+      "commentary_score": -0.152,
+      "n_items": 27
     },
     {
       "date": "2026-07-30",
@@ -179,8 +174,8 @@
     },
     {
       "date": "2026-07-31",
-      "commentary_score": -0.145,
-      "n_items": 26
+      "commentary_score": -0.153,
+      "n_items": 25
     },
     {
       "date": "2026-08-01",
@@ -194,28 +189,28 @@
     },
     {
       "date": "2026-08-03",
+      "commentary_score": -0.145,
+      "n_items": 26
+    },
+    {
+      "date": "2026-08-04",
       "commentary_score": -0.154,
       "n_items": 25
     },
     {
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "commentary_score": -0.159,
       "n_items": 24
     },
     {
-      "date": "2026-08-05",
+      "date": "2026-08-06",
       "commentary_score": -0.143,
       "n_items": 25
     },
     {
-      "date": "2026-08-06",
-      "commentary_score": 0.004,
-      "n_items": 20
-    },
-    {
       "date": "2026-08-07",
-      "commentary_score": 0.514,
-      "n_items": 4
+      "commentary_score": 0.4,
+      "n_items": 9
     },
     {
       "date": "2026-08-08",
@@ -229,8 +224,8 @@
     },
     {
       "date": "2026-08-10",
-      "commentary_score": 0.0,
-      "n_items": 2
+      "commentary_score": 0.577,
+      "n_items": 3
     },
     {
       "date": "2026-08-11",
@@ -250,7 +245,7 @@
     {
       "date": "2026-08-14",
       "commentary_score": 0.0,
-      "n_items": 1
+      "n_items": 2
     },
     {
       "date": "2026-08-15",
@@ -265,17 +260,17 @@
     {
       "date": "2026-08-17",
       "commentary_score": 0.0,
-      "n_items": 2
+      "n_items": 1
     },
     {
       "date": "2026-08-18",
       "commentary_score": 0.0,
-      "n_items": 3
+      "n_items": 2
     },
     {
       "date": "2026-08-19",
-      "commentary_score": -0.264,
-      "n_items": 4
+      "commentary_score": 0.0,
+      "n_items": 3
     },
     {
       "date": "2026-08-20",
@@ -284,8 +279,8 @@
     },
     {
       "date": "2026-08-21",
-      "commentary_score": -0.378,
-      "n_items": 5
+      "commentary_score": -0.264,
+      "n_items": 4
     },
     {
       "date": "2026-08-22",
@@ -299,8 +294,8 @@
     },
     {
       "date": "2026-08-24",
-      "commentary_score": -0.314,
-      "n_items": 6
+      "commentary_score": -0.378,
+      "n_items": 5
     },
     {
       "date": "2026-08-25",
@@ -309,18 +304,18 @@
     },
     {
       "date": "2026-08-26",
+      "commentary_score": -0.314,
+      "n_items": 6
+    },
+    {
+      "date": "2026-08-27",
       "commentary_score": 0.626,
       "n_items": 7
     },
     {
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "commentary_score": 0.963,
       "n_items": 8
-    },
-    {
-      "date": "2026-08-28",
-      "commentary_score": 1.089,
-      "n_items": 9
     },
     {
       "date": "2026-08-29",
@@ -334,28 +329,28 @@
     },
     {
       "date": "2026-08-31",
+      "commentary_score": 1.089,
+      "n_items": 9
+    },
+    {
+      "date": "2026-09-01",
       "commentary_score": 1.173,
       "n_items": 8
     },
     {
-      "date": "2026-09-01",
-      "commentary_score": 0.476,
-      "n_items": 10
+      "date": "2026-09-02",
+      "commentary_score": 1.018,
+      "n_items": 11
     },
     {
-      "date": "2026-09-02",
+      "date": "2026-09-03",
       "commentary_score": 1.492,
       "n_items": 10
     },
     {
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "commentary_score": 1.248,
       "n_items": 11
-    },
-    {
-      "date": "2026-09-04",
-      "commentary_score": 1.307,
-      "n_items": 10
     },
     {
       "date": "2026-09-05",
@@ -369,8 +364,8 @@
     },
     {
       "date": "2026-09-07",
-      "commentary_score": 1.353,
-      "n_items": 9
+      "commentary_score": 1.307,
+      "n_items": 10
     },
     {
       "date": "2026-09-08",
@@ -379,18 +374,18 @@
     },
     {
       "date": "2026-09-09",
+      "commentary_score": 1.097,
+      "n_items": 10
+    },
+    {
+      "date": "2026-09-10",
       "commentary_score": 0.955,
       "n_items": 9
     },
     {
-      "date": "2026-09-10",
-      "commentary_score": 1.031,
-      "n_items": 13
-    },
-    {
       "date": "2026-09-11",
-      "commentary_score": 1.092,
-      "n_items": 20
+      "commentary_score": 1.163,
+      "n_items": 17
     },
     {
       "date": "2026-09-12",
@@ -404,28 +399,28 @@
     },
     {
       "date": "2026-09-14",
+      "commentary_score": 0.965,
+      "n_items": 21
+    },
+    {
+      "date": "2026-09-15",
       "commentary_score": 1.006,
       "n_items": 26
     },
     {
-      "date": "2026-09-15",
-      "commentary_score": 1.233,
+      "date": "2026-09-16",
+      "commentary_score": 1.136,
       "n_items": 24
     },
     {
-      "date": "2026-09-16",
+      "date": "2026-09-17",
       "commentary_score": 1.107,
       "n_items": 23
     },
     {
-      "date": "2026-09-17",
+      "date": "2026-09-18",
       "commentary_score": 1.041,
       "n_items": 24
-    },
-    {
-      "date": "2026-09-18",
-      "commentary_score": 0.717,
-      "n_items": 31
     },
     {
       "date": "2026-09-19",
@@ -449,16 +444,36 @@
     },
     {
       "date": "2026-09-23",
-      "commentary_score": 0.697,
-      "n_items": 31
+      "commentary_score": 0.733,
+      "n_items": 32
     },
     {
       "date": "2026-09-24",
-      "commentary_score": 0.624,
-      "n_items": 26
+      "commentary_score": 0.709,
+      "n_items": 33
+    },
+    {
+      "date": "2026-09-25",
+      "commentary_score": 0.74,
+      "n_items": 27
     }
   ],
   "key_comments": [
+    {
+      "published_at": "2026-09-24T07:40:13+00:00",
+      "speaker": "Isabel Schnabel",
+      "role": "governor",
+      "lean_prior": "hawk",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": -1.5,
+      "phrase": "energy shock is much more persistent than thought",
+      "headline": "ECB's Schnabel says the energy shock is much more persistent than thought",
+      "importance": 6.0,
+      "reasons": [
+        "hawk-lean speaker sounded dovish"
+      ]
+    },
     {
       "published_at": "2026-09-14T10:38:01+00:00",
       "speaker": "Yannis Stournaras",
@@ -520,21 +535,6 @@
       "reasons": [
         "hawk-lean speaker sounded dovish"
       ]
-    },
-    {
-      "published_at": "2026-09-01T12:37:18+00:00",
-      "speaker": "Joachim Nagel",
-      "role": "regional_president",
-      "lean_prior": "hawk",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": -1.0,
-      "phrase": "global economy remains on a growth trajectory",
-      "headline": "ECB's Nagel says that despite the ongoing Middle East crisis, the global economy remains on a growth trajectory; easing in core and services is good news, and not seeing second-round effects",
-      "importance": 5.76,
-      "reasons": [
-        "hawk-lean speaker sounded dovish"
-      ]
     }
   ],
   "speakers": [
@@ -556,13 +556,13 @@
       "role": "regional_president",
       "voting_2026": true,
       "lean_prior": "hawk",
-      "n_items": 1,
-      "mean_stance": 2.5,
-      "last_stance": 2.5,
-      "last_phrase": "Would not exclude going into mildly restrictive territory.",
-      "last_headline": "ECB's Nagel tells CNBC that it is too early to speculate on rate hikes, recent rate hike is a clear commitment on inflation",
-      "last_published_at": "2026-09-11T06:34:32+00:00",
-      "last_event_type": "off-the-cuff"
+      "n_items": 2,
+      "mean_stance": 2.0,
+      "last_stance": 1.5,
+      "last_phrase": "cannot exclude needing to go into mildly restrictive territory",
+      "last_headline": "ECB's Nagel says oil prices are not the only indicator, but have become more relevant over the past four years",
+      "last_published_at": "2026-09-22T20:02:53+00:00",
+      "last_event_type": "other"
     },
     {
       "name": "Gediminas Simkus",
@@ -596,11 +596,11 @@
       "voting_2026": true,
       "lean_prior": "neutral",
       "n_items": 3,
-      "mean_stance": 1.25,
-      "last_stance": -2.0,
-      "last_phrase": "the ECB\u2019s rate hikes cannot solve inflation",
-      "last_headline": "Italian Finance Minister says the ECB\u2019s rate hikes cannot solve inflation",
-      "last_published_at": "2026-09-18T12:12:01+00:00",
+      "mean_stance": 1.068,
+      "last_stance": 2.5,
+      "last_phrase": "must prevent excessively high inflation from becoming entrenched",
+      "last_headline": "ECB\u2019s Kocher says the ECB must prevent excessively high inflation from becoming entrenched; Eurozone economy remains fragile",
+      "last_published_at": "2026-09-24T05:45:02+00:00",
       "last_event_type": "statement"
     },
     {
@@ -630,19 +630,6 @@
       "last_event_type": "other"
     },
     {
-      "name": "Christine Lagarde",
-      "role": "chair",
-      "voting_2026": true,
-      "lean_prior": "dove",
-      "n_items": 3,
-      "mean_stance": 0.375,
-      "last_stance": 1.0,
-      "last_phrase": "inflation has been lower than forecast, but is now expected to be longer lasting",
-      "last_headline": "[ANALYSIS] ECB REVIEW: Largely as expected, with nothing to significantly shift market pricing as we await further data and energy developments",
-      "last_published_at": "2026-09-10T13:55:27+00:00",
-      "last_event_type": "other"
-    },
-    {
       "name": "Klaas Knot",
       "role": "regional_president",
       "voting_2026": true,
@@ -669,19 +656,6 @@
       "last_event_type": "off-the-cuff"
     },
     {
-      "name": "Isabel Schnabel",
-      "role": "governor",
-      "voting_2026": true,
-      "lean_prior": "hawk",
-      "n_items": 1,
-      "mean_stance": -1.0,
-      "last_stance": -1.0,
-      "last_phrase": "recent developments in energy prices are 'quite worrying'",
-      "last_headline": "ECB's Schnabel says recent developments in energy prices are 'quite worrying'",
-      "last_published_at": "2026-09-14T09:51:03+00:00",
-      "last_event_type": "other"
-    },
-    {
       "name": "Olli Rehn",
       "role": "regional_president",
       "voting_2026": true,
@@ -692,6 +666,19 @@
       "last_phrase": "Currently no need for the use of ECB instruments like TPI.",
       "last_headline": "ECB's Rehn says that there are no signs of second round effects of inflation yet",
       "last_published_at": "2026-09-17T10:09:29+00:00",
+      "last_event_type": "other"
+    },
+    {
+      "name": "Isabel Schnabel",
+      "role": "governor",
+      "voting_2026": true,
+      "lean_prior": "hawk",
+      "n_items": 2,
+      "mean_stance": -1.273,
+      "last_stance": -1.5,
+      "last_phrase": "energy shock is much more persistent than thought",
+      "last_headline": "ECB's Schnabel says the energy shock is much more persistent than thought",
+      "last_published_at": "2026-09-24T07:40:13+00:00",
       "last_event_type": "other"
     },
     {
