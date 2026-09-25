@@ -1,6 +1,6 @@
 {
   "cb": "zar",
-  "as_of": "2026-09-25T04:32:03.575551+00:00",
+  "as_of": "2026-09-25T13:02:55.209187+00:00",
   "commentary_score": 1.5,
   "label": "lean hawkish",
   "n_items_window": 1,
@@ -175,7 +175,7 @@
     {
       "date": "2026-07-31",
       "commentary_score": 0.0,
-      "n_items": 1
+      "n_items": 2
     },
     {
       "date": "2026-08-01",
@@ -325,7 +325,7 @@
     {
       "date": "2026-08-30",
       "commentary_score": 0.0,
-      "n_items": 1
+      "n_items": 0
     },
     {
       "date": "2026-08-31",
@@ -444,8 +444,8 @@
     },
     {
       "date": "2026-09-23",
-      "commentary_score": 0.0,
-      "n_items": 0
+      "commentary_score": 1.5,
+      "n_items": 1
     },
     {
       "date": "2026-09-24",

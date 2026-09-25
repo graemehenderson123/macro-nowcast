@@ -1,11 +1,11 @@
 {
   "cb": "ecb",
-  "as_of": "2026-09-25T04:32:02.142573+00:00",
-  "commentary_score": 0.74,
+  "as_of": "2026-09-25T13:02:53.790373+00:00",
+  "commentary_score": 0.689,
   "label": "neutral",
-  "n_items_window": 27,
+  "n_items_window": 24,
   "commentary_window_days": 14,
-  "n_items_total": 616,
+  "n_items_total": 617,
   "history_90d": [
     {
       "date": "2026-06-28",
@@ -14,28 +14,28 @@
     },
     {
       "date": "2026-06-29",
-      "commentary_score": 0.159,
+      "commentary_score": -0.056,
       "n_items": 24
     },
     {
       "date": "2026-06-30",
-      "commentary_score": 0.154,
-      "n_items": 25
+      "commentary_score": 0.15,
+      "n_items": 26
     },
     {
       "date": "2026-07-01",
-      "commentary_score": -0.064,
-      "n_items": 25
+      "commentary_score": -0.18,
+      "n_items": 27
     },
     {
       "date": "2026-07-02",
-      "commentary_score": -0.182,
-      "n_items": 29
+      "commentary_score": -0.211,
+      "n_items": 28
     },
     {
       "date": "2026-07-03",
-      "commentary_score": 0.094,
-      "n_items": 29
+      "commentary_score": 0.077,
+      "n_items": 28
     },
     {
       "date": "2026-07-04",
@@ -49,23 +49,23 @@
     },
     {
       "date": "2026-07-06",
-      "commentary_score": 0.101,
-      "n_items": 30
+      "commentary_score": 0.198,
+      "n_items": 27
     },
     {
       "date": "2026-07-07",
-      "commentary_score": 0.234,
-      "n_items": 28
+      "commentary_score": 0.242,
+      "n_items": 24
     },
     {
       "date": "2026-07-08",
-      "commentary_score": 0.246,
-      "n_items": 23
+      "commentary_score": 0.213,
+      "n_items": 24
     },
     {
       "date": "2026-07-09",
-      "commentary_score": 0.177,
-      "n_items": 22
+      "commentary_score": 0.133,
+      "n_items": 21
     },
     {
       "date": "2026-07-10",
@@ -84,17 +84,17 @@
     },
     {
       "date": "2026-07-13",
-      "commentary_score": 0.122,
-      "n_items": 22
+      "commentary_score": 0.195,
+      "n_items": 19
     },
     {
       "date": "2026-07-14",
-      "commentary_score": 0.106,
-      "n_items": 18
+      "commentary_score": 0.117,
+      "n_items": 16
     },
     {
       "date": "2026-07-15",
-      "commentary_score": 0.211,
+      "commentary_score": 0.239,
       "n_items": 14
     },
     {
@@ -104,8 +104,8 @@
     },
     {
       "date": "2026-07-17",
-      "commentary_score": 0.038,
-      "n_items": 9
+      "commentary_score": 0.042,
+      "n_items": 8
     },
     {
       "date": "2026-07-18",
@@ -119,28 +119,28 @@
     },
     {
       "date": "2026-07-20",
-      "commentary_score": -0.006,
-      "n_items": 6
+      "commentary_score": -0.003,
+      "n_items": 7
     },
     {
       "date": "2026-07-21",
-      "commentary_score": -0.017,
-      "n_items": 5
-    },
-    {
-      "date": "2026-07-22",
       "commentary_score": -0.012,
       "n_items": 6
     },
     {
-      "date": "2026-07-23",
+      "date": "2026-07-22",
       "commentary_score": -0.013,
       "n_items": 5
     },
     {
+      "date": "2026-07-23",
+      "commentary_score": -0.494,
+      "n_items": 7
+    },
+    {
       "date": "2026-07-24",
-      "commentary_score": -0.371,
-      "n_items": 20
+      "commentary_score": -0.286,
+      "n_items": 25
     },
     {
       "date": "2026-07-25",
@@ -154,8 +154,8 @@
     },
     {
       "date": "2026-07-27",
-      "commentary_score": -0.279,
-      "n_items": 26
+      "commentary_score": -0.152,
+      "n_items": 27
     },
     {
       "date": "2026-07-28",
@@ -164,8 +164,8 @@
     },
     {
       "date": "2026-07-29",
-      "commentary_score": -0.152,
-      "n_items": 27
+      "commentary_score": -0.153,
+      "n_items": 25
     },
     {
       "date": "2026-07-30",
@@ -174,8 +174,8 @@
     },
     {
       "date": "2026-07-31",
-      "commentary_score": -0.153,
-      "n_items": 25
+      "commentary_score": -0.145,
+      "n_items": 26
     },
     {
       "date": "2026-08-01",
@@ -189,28 +189,28 @@
     },
     {
       "date": "2026-08-03",
-      "commentary_score": -0.145,
-      "n_items": 26
-    },
-    {
-      "date": "2026-08-04",
       "commentary_score": -0.154,
       "n_items": 25
     },
     {
-      "date": "2026-08-05",
+      "date": "2026-08-04",
       "commentary_score": -0.159,
       "n_items": 24
     },
     {
-      "date": "2026-08-06",
+      "date": "2026-08-05",
       "commentary_score": -0.143,
       "n_items": 25
     },
     {
+      "date": "2026-08-06",
+      "commentary_score": -0.048,
+      "n_items": 23
+    },
+    {
       "date": "2026-08-07",
-      "commentary_score": 0.4,
-      "n_items": 9
+      "commentary_score": 0.514,
+      "n_items": 4
     },
     {
       "date": "2026-08-08",
@@ -224,8 +224,8 @@
     },
     {
       "date": "2026-08-10",
-      "commentary_score": 0.577,
-      "n_items": 3
+      "commentary_score": 0.0,
+      "n_items": 2
     },
     {
       "date": "2026-08-11",
@@ -245,7 +245,7 @@
     {
       "date": "2026-08-14",
       "commentary_score": 0.0,
-      "n_items": 2
+      "n_items": 1
     },
     {
       "date": "2026-08-15",
@@ -260,17 +260,17 @@
     {
       "date": "2026-08-17",
       "commentary_score": 0.0,
-      "n_items": 1
+      "n_items": 2
     },
     {
       "date": "2026-08-18",
       "commentary_score": 0.0,
-      "n_items": 2
+      "n_items": 3
     },
     {
       "date": "2026-08-19",
-      "commentary_score": 0.0,
-      "n_items": 3
+      "commentary_score": -0.264,
+      "n_items": 4
     },
     {
       "date": "2026-08-20",
@@ -279,8 +279,8 @@
     },
     {
       "date": "2026-08-21",
-      "commentary_score": -0.264,
-      "n_items": 4
+      "commentary_score": -0.378,
+      "n_items": 5
     },
     {
       "date": "2026-08-22",
@@ -294,8 +294,8 @@
     },
     {
       "date": "2026-08-24",
-      "commentary_score": -0.378,
-      "n_items": 5
+      "commentary_score": -0.314,
+      "n_items": 6
     },
     {
       "date": "2026-08-25",
@@ -304,18 +304,18 @@
     },
     {
       "date": "2026-08-26",
-      "commentary_score": -0.314,
-      "n_items": 6
-    },
-    {
-      "date": "2026-08-27",
       "commentary_score": 0.626,
       "n_items": 7
     },
     {
-      "date": "2026-08-28",
+      "date": "2026-08-27",
       "commentary_score": 0.963,
       "n_items": 8
+    },
+    {
+      "date": "2026-08-28",
+      "commentary_score": 1.089,
+      "n_items": 9
     },
     {
       "date": "2026-08-29",
@@ -329,28 +329,28 @@
     },
     {
       "date": "2026-08-31",
-      "commentary_score": 1.089,
-      "n_items": 9
-    },
-    {
-      "date": "2026-09-01",
       "commentary_score": 1.173,
       "n_items": 8
     },
     {
-      "date": "2026-09-02",
-      "commentary_score": 1.018,
-      "n_items": 11
+      "date": "2026-09-01",
+      "commentary_score": 0.79,
+      "n_items": 9
     },
     {
-      "date": "2026-09-03",
+      "date": "2026-09-02",
       "commentary_score": 1.492,
       "n_items": 10
     },
     {
-      "date": "2026-09-04",
+      "date": "2026-09-03",
       "commentary_score": 1.248,
       "n_items": 11
+    },
+    {
+      "date": "2026-09-04",
+      "commentary_score": 1.307,
+      "n_items": 10
     },
     {
       "date": "2026-09-05",
@@ -364,8 +364,8 @@
     },
     {
       "date": "2026-09-07",
-      "commentary_score": 1.307,
-      "n_items": 10
+      "commentary_score": 1.353,
+      "n_items": 9
     },
     {
       "date": "2026-09-08",
@@ -374,18 +374,18 @@
     },
     {
       "date": "2026-09-09",
-      "commentary_score": 1.097,
-      "n_items": 10
-    },
-    {
-      "date": "2026-09-10",
       "commentary_score": 0.955,
       "n_items": 9
     },
     {
+      "date": "2026-09-10",
+      "commentary_score": 1.031,
+      "n_items": 13
+    },
+    {
       "date": "2026-09-11",
-      "commentary_score": 1.163,
-      "n_items": 17
+      "commentary_score": 1.092,
+      "n_items": 20
     },
     {
       "date": "2026-09-12",
@@ -399,28 +399,28 @@
     },
     {
       "date": "2026-09-14",
-      "commentary_score": 0.965,
-      "n_items": 21
-    },
-    {
-      "date": "2026-09-15",
       "commentary_score": 1.006,
       "n_items": 26
     },
     {
-      "date": "2026-09-16",
-      "commentary_score": 1.136,
-      "n_items": 24
+      "date": "2026-09-15",
+      "commentary_score": 1.206,
+      "n_items": 25
     },
     {
-      "date": "2026-09-17",
+      "date": "2026-09-16",
       "commentary_score": 1.107,
       "n_items": 23
     },
     {
-      "date": "2026-09-18",
+      "date": "2026-09-17",
       "commentary_score": 1.041,
       "n_items": 24
+    },
+    {
+      "date": "2026-09-18",
+      "commentary_score": 0.717,
+      "n_items": 31
     },
     {
       "date": "2026-09-19",
@@ -444,18 +444,18 @@
     },
     {
       "date": "2026-09-23",
-      "commentary_score": 0.733,
-      "n_items": 32
-    },
-    {
-      "date": "2026-09-24",
       "commentary_score": 0.709,
       "n_items": 33
     },
     {
+      "date": "2026-09-24",
+      "commentary_score": 0.804,
+      "n_items": 31
+    },
+    {
       "date": "2026-09-25",
-      "commentary_score": 0.74,
-      "n_items": 27
+      "commentary_score": 0.689,
+      "n_items": 24
     }
   ],
   "key_comments": [
@@ -552,25 +552,12 @@
       "last_event_type": "other"
     },
     {
-      "name": "Joachim Nagel",
-      "role": "regional_president",
-      "voting_2026": true,
-      "lean_prior": "hawk",
-      "n_items": 2,
-      "mean_stance": 2.0,
-      "last_stance": 1.5,
-      "last_phrase": "cannot exclude needing to go into mildly restrictive territory",
-      "last_headline": "ECB's Nagel says oil prices are not the only indicator, but have become more relevant over the past four years",
-      "last_published_at": "2026-09-22T20:02:53+00:00",
-      "last_event_type": "other"
-    },
-    {
       "name": "Gediminas Simkus",
       "role": "regional_president",
       "voting_2026": true,
       "lean_prior": "hawk",
-      "n_items": 2,
-      "mean_stance": 1.75,
+      "n_items": 1,
+      "mean_stance": 1.5,
       "last_stance": 1.5,
       "last_phrase": "cannot exclude action at any meeting",
       "last_headline": "ECB's Simkus says he cannot exclude action at any meeting, adding that December is a natural time to assess the situation more",
@@ -588,6 +575,19 @@
       "last_phrase": "timely ECB action could reduce the risk that future large rate hikes cause pain",
       "last_headline": "ECB's Stournaras says timely ECB action could reduce the risk that future large rate hikes cause pain",
       "last_published_at": "2026-09-14T10:38:01+00:00",
+      "last_event_type": "other"
+    },
+    {
+      "name": "Joachim Nagel",
+      "role": "regional_president",
+      "voting_2026": true,
+      "lean_prior": "hawk",
+      "n_items": 1,
+      "mean_stance": 1.5,
+      "last_stance": 1.5,
+      "last_phrase": "cannot exclude needing to go into mildly restrictive territory",
+      "last_headline": "ECB's Nagel says oil prices are not the only indicator, but have become more relevant over the past four years",
+      "last_published_at": "2026-09-22T20:02:53+00:00",
       "last_event_type": "other"
     },
     {
@@ -617,6 +617,19 @@
       "last_event_type": "other"
     },
     {
+      "name": "Gabriel Makhlouf",
+      "role": "regional_president",
+      "voting_2026": true,
+      "lean_prior": "neutral",
+      "n_items": 1,
+      "mean_stance": 1.0,
+      "last_stance": 1.0,
+      "last_phrase": "Inflation risks tilted to the upside.",
+      "last_headline": "ECB's Makhlouf says he is not seeing signs of second round effects, speaking on Bloomberg TV; outlook is uncertain",
+      "last_published_at": "2026-09-17T07:47:16+00:00",
+      "last_event_type": "off-the-cuff"
+    },
+    {
       "name": "Boris Vujcic",
       "role": "vice_chair",
       "voting_2026": true,
@@ -634,26 +647,13 @@
       "role": "regional_president",
       "voting_2026": true,
       "lean_prior": "hawk",
-      "n_items": 1,
+      "n_items": 2,
       "mean_stance": 0.0,
       "last_stance": 0.0,
       "last_phrase": "",
-      "last_headline": "France is prepared to support Dutch central banker Klaas Knot to succeed Christine Lagarde as ECB president, provided a French candidate is appointed as the bank's chief economist, according to report",
-      "last_published_at": "2026-09-15T16:19:09+00:00",
+      "last_headline": "Dutch Prime Minister said many countries in the region would find Klaas Knot to be an ideal candidate for the ECB President role",
+      "last_published_at": "2026-09-24T17:25:46+00:00",
       "last_event_type": "other"
-    },
-    {
-      "name": "Gabriel Makhlouf",
-      "role": "regional_president",
-      "voting_2026": true,
-      "lean_prior": "neutral",
-      "n_items": 2,
-      "mean_stance": -0.25,
-      "last_stance": 1.0,
-      "last_phrase": "Inflation risks tilted to the upside.",
-      "last_headline": "ECB's Makhlouf says he is not seeing signs of second round effects, speaking on Bloomberg TV; outlook is uncertain",
-      "last_published_at": "2026-09-17T07:47:16+00:00",
-      "last_event_type": "off-the-cuff"
     },
     {
       "name": "Olli Rehn",
