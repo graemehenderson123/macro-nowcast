@@ -1,17 +1,12 @@
 {
   "cb": "snb",
-  "as_of": "2026-09-25T13:02:54.244193+00:00",
-  "commentary_score": -0.262,
+  "as_of": "2026-09-26T04:31:35.466594+00:00",
+  "commentary_score": -0.268,
   "label": "neutral",
-  "n_items_window": 12,
+  "n_items_window": 10,
   "commentary_window_days": 30,
   "n_items_total": 66,
   "history_90d": [
-    {
-      "date": "2026-06-28",
-      "commentary_score": -0.969,
-      "n_items": 8
-    },
     {
       "date": "2026-06-29",
       "commentary_score": -0.969,
@@ -29,13 +24,13 @@
     },
     {
       "date": "2026-07-02",
-      "commentary_score": -0.935,
-      "n_items": 7
+      "commentary_score": -0.969,
+      "n_items": 8
     },
     {
       "date": "2026-07-03",
-      "commentary_score": -0.912,
-      "n_items": 6
+      "commentary_score": -0.935,
+      "n_items": 7
     },
     {
       "date": "2026-07-04",
@@ -99,8 +94,8 @@
     },
     {
       "date": "2026-07-16",
-      "commentary_score": -1.62,
-      "n_items": 9
+      "commentary_score": -1.746,
+      "n_items": 8
     },
     {
       "date": "2026-07-17",
@@ -109,8 +104,8 @@
     },
     {
       "date": "2026-07-18",
-      "commentary_score": -1.647,
-      "n_items": 5
+      "commentary_score": -1.62,
+      "n_items": 9
     },
     {
       "date": "2026-07-19",
@@ -139,8 +134,8 @@
     },
     {
       "date": "2026-07-24",
-      "commentary_score": -1.711,
-      "n_items": 3
+      "commentary_score": -1.647,
+      "n_items": 5
     },
     {
       "date": "2026-07-25",
@@ -249,8 +244,8 @@
     },
     {
       "date": "2026-08-15",
-      "commentary_score": 0.0,
-      "n_items": 0
+      "commentary_score": -1.5,
+      "n_items": 1
     },
     {
       "date": "2026-08-16",
@@ -329,8 +324,8 @@
     },
     {
       "date": "2026-08-31",
-      "commentary_score": -0.798,
-      "n_items": 4
+      "commentary_score": -0.518,
+      "n_items": 3
     },
     {
       "date": "2026-09-01",
@@ -384,8 +379,8 @@
     },
     {
       "date": "2026-09-11",
-      "commentary_score": -0.693,
-      "n_items": 6
+      "commentary_score": -0.798,
+      "n_items": 4
     },
     {
       "date": "2026-09-12",
@@ -449,13 +444,18 @@
     },
     {
       "date": "2026-09-24",
+      "commentary_score": -0.615,
+      "n_items": 5
+    },
+    {
+      "date": "2026-09-25",
       "commentary_score": -0.302,
       "n_items": 11
     },
     {
-      "date": "2026-09-25",
-      "commentary_score": -0.262,
-      "n_items": 12
+      "date": "2026-09-26",
+      "commentary_score": -0.268,
+      "n_items": 10
     }
   ],
   "key_comments": [
@@ -491,19 +491,6 @@
     }
   ],
   "speakers": [
-    {
-      "name": "Antoine Martin",
-      "role": "vice_chair",
-      "voting_2026": true,
-      "lean_prior": "dove",
-      "n_items": 1,
-      "mean_stance": 0.0,
-      "last_stance": 0.0,
-      "last_phrase": "",
-      "last_headline": "SNB's Martin backs government's proposals for tougher capital rules for UBS (UBSG SW)",
-      "last_published_at": "2026-08-26T16:17:37+00:00",
-      "last_event_type": "other"
-    },
     {
       "name": "Petra Tschudin",
       "role": "governor",

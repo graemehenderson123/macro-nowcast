@@ -1,17 +1,12 @@
 {
   "cb": "krw",
-  "as_of": "2026-09-25T13:02:54.538030+00:00",
-  "commentary_score": 1.049,
-  "label": "lean hawkish",
-  "n_items_window": 3,
+  "as_of": "2026-09-26T04:31:35.765741+00:00",
+  "commentary_score": 0.0,
+  "label": "neutral",
+  "n_items_window": 1,
   "commentary_window_days": 30,
   "n_items_total": 37,
   "history_90d": [
-    {
-      "date": "2026-06-28",
-      "commentary_score": -0.236,
-      "n_items": 2
-    },
     {
       "date": "2026-06-29",
       "commentary_score": -0.236,
@@ -194,8 +189,8 @@
     },
     {
       "date": "2026-08-04",
-      "commentary_score": 2.867,
-      "n_items": 7
+      "commentary_score": 3.208,
+      "n_items": 6
     },
     {
       "date": "2026-08-05",
@@ -344,8 +339,8 @@
     },
     {
       "date": "2026-09-03",
-      "commentary_score": 2.889,
-      "n_items": 2
+      "commentary_score": 2.862,
+      "n_items": 3
     },
     {
       "date": "2026-09-04",
@@ -456,71 +451,15 @@
       "date": "2026-09-25",
       "commentary_score": 1.049,
       "n_items": 3
-    }
-  ],
-  "key_comments": [
-    {
-      "published_at": "2026-08-27T02:25:29+00:00",
-      "speaker": "Shin Hyun Song",
-      "role": "chair",
-      "lean_prior": "neutral",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": 3.5,
-      "phrase": "back-to-back rate hike was necessary to preemptively respond",
-      "headline": "BoK Governor Shin says inflationary pressure looks like it is here to stay, and back-to-back rate hike was necessary to preemptively respond, and needed to act by raising interest rates before inflationary pressures grow",
-      "importance": 8.75,
-      "reasons": [
-        "Chair spoke",
-        "notable move vs own recent tone",
-        "cross-market extreme (|stance| = 3.5)"
-      ]
     },
     {
-      "published_at": "2026-08-27T01:39:49+00:00",
-      "speaker": "KRW (institutional)",
-      "role": "institutional",
-      "lean_prior": "neutral",
-      "voting_2026": true,
-      "event_type": "statement",
-      "stance": 2.5,
-      "phrase": "inflation is projected to remain above target level for a considerable time",
-      "headline": "BoK says rate decision was not unanimouse as Board Member Hwang dissented on rate decision, while inflation is projected to remain above target level for a considerable time",
-      "importance": 3.75,
-      "reasons": [
-        "official CB statement (stance +2.50)",
-        "strong policy signal (|stance| = 2.5)"
-      ]
+      "date": "2026-09-26",
+      "commentary_score": 0.0,
+      "n_items": 1
     }
   ],
-  "speakers": [
-    {
-      "name": "Shin Hyun Song",
-      "role": "chair",
-      "voting_2026": true,
-      "lean_prior": "neutral",
-      "n_items": 1,
-      "mean_stance": 3.5,
-      "last_stance": 3.5,
-      "last_phrase": "back-to-back rate hike was necessary to preemptively respond",
-      "last_headline": "BoK Governor Shin says inflationary pressure looks like it is here to stay, and back-to-back rate hike was necessary to preemptively respond, and needed to act by raising interest rates before inflati",
-      "last_published_at": "2026-08-27T02:25:29+00:00",
-      "last_event_type": "other"
-    },
-    {
-      "name": "KRW (institutional)",
-      "role": "institutional",
-      "voting_2026": true,
-      "lean_prior": "neutral",
-      "n_items": 1,
-      "mean_stance": 2.5,
-      "last_stance": 2.5,
-      "last_phrase": "inflation is projected to remain above target level for a considerable time",
-      "last_headline": "BoK says rate decision was not unanimouse as Board Member Hwang dissented on rate decision, while inflation is projected to remain above target level for a considerable time",
-      "last_published_at": "2026-08-27T01:39:49+00:00",
-      "last_event_type": "statement"
-    }
-  ],
+  "key_comments": [],
+  "speakers": [],
   "methodology": {
     "commentary_window_days": 30,
     "commentary_window_days_default": 14,

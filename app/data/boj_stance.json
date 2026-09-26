@@ -1,17 +1,12 @@
 {
   "cb": "boj",
-  "as_of": "2026-09-25T13:02:53.947826+00:00",
-  "commentary_score": 1.406,
+  "as_of": "2026-09-26T04:31:35.173362+00:00",
+  "commentary_score": 1.387,
   "label": "lean hawkish",
-  "n_items_window": 17,
+  "n_items_window": 16,
   "commentary_window_days": 30,
   "n_items_total": 210,
   "history_90d": [
-    {
-      "date": "2026-06-28",
-      "commentary_score": 0.353,
-      "n_items": 21
-    },
     {
       "date": "2026-06-29",
       "commentary_score": 0.353,
@@ -34,8 +29,8 @@
     },
     {
       "date": "2026-07-03",
-      "commentary_score": 0.369,
-      "n_items": 19
+      "commentary_score": 0.383,
+      "n_items": 20
     },
     {
       "date": "2026-07-04",
@@ -59,8 +54,8 @@
     },
     {
       "date": "2026-07-08",
-      "commentary_score": -0.561,
-      "n_items": 20
+      "commentary_score": -0.551,
+      "n_items": 21
     },
     {
       "date": "2026-07-09",
@@ -69,8 +64,8 @@
     },
     {
       "date": "2026-07-10",
-      "commentary_score": -0.638,
-      "n_items": 18
+      "commentary_score": -0.561,
+      "n_items": 20
     },
     {
       "date": "2026-07-11",
@@ -99,23 +94,23 @@
     },
     {
       "date": "2026-07-16",
+      "commentary_score": -0.512,
+      "n_items": 16
+    },
+    {
+      "date": "2026-07-17",
       "commentary_score": -0.609,
       "n_items": 14
     },
     {
-      "date": "2026-07-17",
-      "commentary_score": -0.298,
-      "n_items": 15
-    },
-    {
       "date": "2026-07-18",
-      "commentary_score": -0.274,
-      "n_items": 13
+      "commentary_score": -0.301,
+      "n_items": 14
     },
     {
       "date": "2026-07-19",
-      "commentary_score": -0.306,
-      "n_items": 10
+      "commentary_score": -0.302,
+      "n_items": 11
     },
     {
       "date": "2026-07-20",
@@ -139,13 +134,13 @@
     },
     {
       "date": "2026-07-24",
-      "commentary_score": -0.265,
-      "n_items": 6
+      "commentary_score": -0.283,
+      "n_items": 7
     },
     {
       "date": "2026-07-25",
-      "commentary_score": -0.394,
-      "n_items": 4
+      "commentary_score": -0.338,
+      "n_items": 5
     },
     {
       "date": "2026-07-26",
@@ -174,8 +169,8 @@
     },
     {
       "date": "2026-07-31",
-      "commentary_score": 1.262,
-      "n_items": 7
+      "commentary_score": 0.471,
+      "n_items": 5
     },
     {
       "date": "2026-08-01",
@@ -194,8 +189,8 @@
     },
     {
       "date": "2026-08-04",
-      "commentary_score": 1.27,
-      "n_items": 9
+      "commentary_score": 1.102,
+      "n_items": 8
     },
     {
       "date": "2026-08-05",
@@ -224,8 +219,8 @@
     },
     {
       "date": "2026-08-10",
-      "commentary_score": 1.282,
-      "n_items": 10
+      "commentary_score": 0.921,
+      "n_items": 9
     },
     {
       "date": "2026-08-11",
@@ -254,8 +249,8 @@
     },
     {
       "date": "2026-08-16",
-      "commentary_score": 1.332,
-      "n_items": 8
+      "commentary_score": 1.293,
+      "n_items": 9
     },
     {
       "date": "2026-08-17",
@@ -309,13 +304,13 @@
     },
     {
       "date": "2026-08-27",
-      "commentary_score": 2.05,
-      "n_items": 12
+      "commentary_score": 1.977,
+      "n_items": 11
     },
     {
       "date": "2026-08-28",
-      "commentary_score": 1.637,
-      "n_items": 13
+      "commentary_score": 2.05,
+      "n_items": 12
     },
     {
       "date": "2026-08-29",
@@ -324,8 +319,8 @@
     },
     {
       "date": "2026-08-30",
-      "commentary_score": 1.64,
-      "n_items": 10
+      "commentary_score": 1.638,
+      "n_items": 12
     },
     {
       "date": "2026-08-31",
@@ -339,13 +334,13 @@
     },
     {
       "date": "2026-09-02",
-      "commentary_score": 1.126,
-      "n_items": 14
+      "commentary_score": 0.98,
+      "n_items": 13
     },
     {
       "date": "2026-09-03",
-      "commentary_score": 1.12,
-      "n_items": 13
+      "commentary_score": 1.126,
+      "n_items": 14
     },
     {
       "date": "2026-09-04",
@@ -369,18 +364,18 @@
     },
     {
       "date": "2026-09-08",
-      "commentary_score": 1.797,
-      "n_items": 13
+      "commentary_score": 1.078,
+      "n_items": 12
     },
     {
       "date": "2026-09-09",
-      "commentary_score": 1.837,
-      "n_items": 11
+      "commentary_score": 1.85,
+      "n_items": 12
     },
     {
       "date": "2026-09-10",
-      "commentary_score": 1.588,
-      "n_items": 13
+      "commentary_score": 1.796,
+      "n_items": 12
     },
     {
       "date": "2026-09-11",
@@ -419,8 +414,8 @@
     },
     {
       "date": "2026-09-18",
-      "commentary_score": 1.897,
-      "n_items": 16
+      "commentary_score": 2.036,
+      "n_items": 15
     },
     {
       "date": "2026-09-19",
@@ -456,6 +451,11 @@
       "date": "2026-09-25",
       "commentary_score": 1.406,
       "n_items": 17
+    },
+    {
+      "date": "2026-09-26",
+      "commentary_score": 1.387,
+      "n_items": 16
     }
   ],
   "key_comments": [
@@ -493,6 +493,22 @@
       ]
     },
     {
+      "published_at": "2026-09-08T09:31:57+00:00",
+      "speaker": "BOJ (institutional)",
+      "role": "institutional",
+      "lean_prior": "neutral",
+      "voting_2026": true,
+      "event_type": "statement",
+      "stance": 3.0,
+      "phrase": "BoJ plans to raise rates by 25bps to 1.25%",
+      "headline": "BoJ plans to raise rates by 25bps to 1.25% at the September 18 meeting, Kyodo reports",
+      "importance": 4.5,
+      "reasons": [
+        "official CB statement (stance +3.00)",
+        "strong policy signal (|stance| = 3.0)"
+      ]
+    },
+    {
       "published_at": "2026-09-01T15:44:31+00:00",
       "speaker": "Kazuo Ueda",
       "role": "chair",
@@ -524,39 +540,9 @@
         "notable move vs own recent tone",
         "cross-market extreme (|stance| = 2.5)"
       ]
-    },
-    {
-      "published_at": "2026-08-27T01:39:08+00:00",
-      "speaker": "Ryozo Himino",
-      "role": "vice_chair",
-      "lean_prior": "neutral",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": 3.5,
-      "phrase": "BoJ should continue to raise the policy interest rate and adjust the degree of monetary accommodation",
-      "headline": "BoJ Deputy Governor Himino says believe the BoJ should continue to raise the policy interest rate and adjust the degree of monetary accommodation in accordance with developments in economic activity, prices and financial",
-      "importance": 8.75,
-      "reasons": [
-        "Vice Chair spoke",
-        "notable move vs own recent tone",
-        "cross-market extreme (|stance| = 3.5)"
-      ]
     }
   ],
   "speakers": [
-    {
-      "name": "Ryozo Himino",
-      "role": "vice_chair",
-      "voting_2026": true,
-      "lean_prior": "neutral",
-      "n_items": 2,
-      "mean_stance": 3.033,
-      "last_stance": 2.5,
-      "last_phrase": "Could speed up rate hikes if financial conditions remain too loose",
-      "last_headline": "BoJ Deputy Governor Himino says won't comment on market expectations regarding BoJ rate hike moves, adds BOJ will look at likelihood of its scenario and risks including Middle East conflict, AI demand",
-      "last_published_at": "2026-08-27T05:10:37+00:00",
-      "last_event_type": "other"
-    },
     {
       "name": "Hajime Takata",
       "role": "governor",
@@ -568,6 +554,19 @@
       "last_phrase": "a different response is needed from the normal semi-annual pace of tightening.",
       "last_headline": "BoJ's Takata says they need to consider a broad range of options, not just a 25bps hike each time. Adds, a different response is needed from the normal semi-annual pace of tightening.",
       "last_published_at": "2026-09-02T05:16:22+00:00",
+      "last_event_type": "other"
+    },
+    {
+      "name": "Ryozo Himino",
+      "role": "vice_chair",
+      "voting_2026": true,
+      "lean_prior": "neutral",
+      "n_items": 1,
+      "mean_stance": 2.5,
+      "last_stance": 2.5,
+      "last_phrase": "Could speed up rate hikes if financial conditions remain too loose",
+      "last_headline": "BoJ Deputy Governor Himino says won't comment on market expectations regarding BoJ rate hike moves, adds BOJ will look at likelihood of its scenario and risks including Middle East conflict, AI demand",
+      "last_published_at": "2026-08-27T05:10:37+00:00",
       "last_event_type": "other"
     },
     {
