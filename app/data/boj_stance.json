@@ -1,17 +1,12 @@
 {
   "cb": "boj",
-  "as_of": "2026-09-26T04:31:35.173362+00:00",
-  "commentary_score": 1.387,
+  "as_of": "2026-09-27T04:31:32.634342+00:00",
+  "commentary_score": 1.379,
   "label": "lean hawkish",
-  "n_items_window": 16,
+  "n_items_window": 15,
   "commentary_window_days": 30,
   "n_items_total": 210,
   "history_90d": [
-    {
-      "date": "2026-06-29",
-      "commentary_score": 0.353,
-      "n_items": 21
-    },
     {
       "date": "2026-06-30",
       "commentary_score": 0.353,
@@ -456,6 +451,11 @@
       "date": "2026-09-26",
       "commentary_score": 1.387,
       "n_items": 16
+    },
+    {
+      "date": "2026-09-27",
+      "commentary_score": 1.379,
+      "n_items": 15
     }
   ],
   "key_comments": [
@@ -493,6 +493,21 @@
       ]
     },
     {
+      "published_at": "2026-09-10T01:34:44+00:00",
+      "speaker": "Kazuyuki Masu",
+      "role": "governor",
+      "lean_prior": "neutral",
+      "voting_2026": true,
+      "event_type": "other",
+      "stance": 1.5,
+      "phrase": "BoJ is expected to continue raising interest rates given current accommodative financial conditions.",
+      "headline": "BoJ Board Member Masu says one\u2011 to two\u2011year real interest rates remain negative and need to keep price trend from going above 2%, adds underlying inflation is still below 2% but quite close to that level",
+      "importance": 1.5,
+      "reasons": [
+        "notable move vs own recent tone"
+      ]
+    },
+    {
       "published_at": "2026-09-08T09:31:57+00:00",
       "speaker": "BOJ (institutional)",
       "role": "institutional",
@@ -523,23 +538,6 @@
         "Chair spoke",
         "notable move vs own recent tone"
       ]
-    },
-    {
-      "published_at": "2026-08-27T05:10:37+00:00",
-      "speaker": "Ryozo Himino",
-      "role": "vice_chair",
-      "lean_prior": "neutral",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": 2.5,
-      "phrase": "Could speed up rate hikes if financial conditions remain too loose",
-      "headline": "BoJ Deputy Governor Himino says won't comment on market expectations regarding BoJ rate hike moves, adds BOJ will look at likelihood of its scenario and risks including Middle East conflict, AI demand, FX impact, in dete",
-      "importance": 6.25,
-      "reasons": [
-        "Vice Chair spoke",
-        "notable move vs own recent tone",
-        "cross-market extreme (|stance| = 2.5)"
-      ]
     }
   ],
   "speakers": [
@@ -554,19 +552,6 @@
       "last_phrase": "a different response is needed from the normal semi-annual pace of tightening.",
       "last_headline": "BoJ's Takata says they need to consider a broad range of options, not just a 25bps hike each time. Adds, a different response is needed from the normal semi-annual pace of tightening.",
       "last_published_at": "2026-09-02T05:16:22+00:00",
-      "last_event_type": "other"
-    },
-    {
-      "name": "Ryozo Himino",
-      "role": "vice_chair",
-      "voting_2026": true,
-      "lean_prior": "neutral",
-      "n_items": 1,
-      "mean_stance": 2.5,
-      "last_stance": 2.5,
-      "last_phrase": "Could speed up rate hikes if financial conditions remain too loose",
-      "last_headline": "BoJ Deputy Governor Himino says won't comment on market expectations regarding BoJ rate hike moves, adds BOJ will look at likelihood of its scenario and risks including Middle East conflict, AI demand",
-      "last_published_at": "2026-08-27T05:10:37+00:00",
       "last_event_type": "other"
     },
     {
