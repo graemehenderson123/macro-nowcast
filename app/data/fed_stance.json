@@ -1,17 +1,12 @@
 {
   "cb": "fed",
-  "as_of": "2026-09-27T04:31:32.395146+00:00",
+  "as_of": "2026-09-28T04:31:37.933406+00:00",
   "commentary_score": 1.801,
   "label": "lean hawkish",
   "n_items_window": 33,
   "commentary_window_days": 14,
   "n_items_total": 1124,
   "history_90d": [
-    {
-      "date": "2026-06-30",
-      "commentary_score": 1.04,
-      "n_items": 39
-    },
     {
       "date": "2026-07-01",
       "commentary_score": 1.064,
@@ -456,6 +451,11 @@
       "date": "2026-09-27",
       "commentary_score": 1.801,
       "n_items": 33
+    },
+    {
+      "date": "2026-09-28",
+      "commentary_score": 1.801,
+      "n_items": 33
     }
   ],
   "key_comments": [
@@ -501,7 +501,7 @@
       "stance": -1.5,
       "phrase": "interest rates are too high and not appropriate",
       "headline": "US President Trump says Fed Chair Warsh has a tough board and he still has confidence in Warsh, also notes interest rates are too high and not appropriate",
-      "importance": 10.1,
+      "importance": 10.3,
       "reasons": [
         "Chair spoke",
         "hawk-lean speaker sounded dovish"
@@ -517,7 +517,7 @@
       "stance": -1.0,
       "phrase": "Labour side of mandate is in good shape",
       "headline": "Fed Chair Warsh highlights the strength of the US labour market",
-      "importance": 9.1,
+      "importance": 9.3,
       "reasons": [
         "Chair spoke",
         "hawk-lean speaker sounded dovish"

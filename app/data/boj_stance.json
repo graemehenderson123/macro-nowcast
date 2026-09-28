@@ -1,17 +1,12 @@
 {
   "cb": "boj",
-  "as_of": "2026-09-27T04:31:32.634342+00:00",
-  "commentary_score": 1.379,
+  "as_of": "2026-09-28T04:31:38.171635+00:00",
+  "commentary_score": 1.399,
   "label": "lean hawkish",
-  "n_items_window": 15,
+  "n_items_window": 14,
   "commentary_window_days": 30,
   "n_items_total": 210,
   "history_90d": [
-    {
-      "date": "2026-06-30",
-      "commentary_score": 0.353,
-      "n_items": 21
-    },
     {
       "date": "2026-07-01",
       "commentary_score": 0.353,
@@ -456,6 +451,11 @@
       "date": "2026-09-27",
       "commentary_score": 1.379,
       "n_items": 15
+    },
+    {
+      "date": "2026-09-28",
+      "commentary_score": 1.399,
+      "n_items": 14
     }
   ],
   "key_comments": [
@@ -598,8 +598,8 @@
       "role": "chair",
       "voting_2026": true,
       "lean_prior": "neutral",
-      "n_items": 5,
-      "mean_stance": 0.868,
+      "n_items": 4,
+      "mean_stance": 1.138,
       "last_stance": 1.0,
       "last_phrase": "the door was left open to further rate increases",
       "last_headline": "TREASURY WRAP: T-NOTE FUTURES (Z6) SETTLE 11 TICKS LOWER AT 105-26+",
