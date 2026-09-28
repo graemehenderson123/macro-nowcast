@@ -1,11 +1,11 @@
 {
   "cb": "fed",
-  "as_of": "2026-09-28T04:31:37.933406+00:00",
-  "commentary_score": 1.801,
+  "as_of": "2026-09-28T13:02:29.234623+00:00",
+  "commentary_score": 1.852,
   "label": "lean hawkish",
-  "n_items_window": 33,
+  "n_items_window": 34,
   "commentary_window_days": 14,
-  "n_items_total": 1124,
+  "n_items_total": 1130,
   "history_90d": [
     {
       "date": "2026-07-01",
@@ -14,8 +14,8 @@
     },
     {
       "date": "2026-07-02",
-      "commentary_score": 0.358,
-      "n_items": 24
+      "commentary_score": 0.303,
+      "n_items": 25
     },
     {
       "date": "2026-07-03",
@@ -39,13 +39,13 @@
     },
     {
       "date": "2026-07-07",
-      "commentary_score": 0.331,
-      "n_items": 28
+      "commentary_score": 0.38,
+      "n_items": 27
     },
     {
       "date": "2026-07-08",
-      "commentary_score": 0.373,
-      "n_items": 27
+      "commentary_score": 0.34,
+      "n_items": 26
     },
     {
       "date": "2026-07-09",
@@ -54,8 +54,8 @@
     },
     {
       "date": "2026-07-10",
-      "commentary_score": 0.808,
-      "n_items": 26
+      "commentary_score": 0.827,
+      "n_items": 25
     },
     {
       "date": "2026-07-11",
@@ -69,23 +69,23 @@
     },
     {
       "date": "2026-07-13",
-      "commentary_score": 0.835,
-      "n_items": 25
+      "commentary_score": 0.849,
+      "n_items": 24
     },
     {
       "date": "2026-07-14",
-      "commentary_score": 1.31,
-      "n_items": 22
+      "commentary_score": 1.468,
+      "n_items": 23
     },
     {
       "date": "2026-07-15",
-      "commentary_score": 1.536,
-      "n_items": 25
+      "commentary_score": 1.612,
+      "n_items": 26
     },
     {
       "date": "2026-07-16",
-      "commentary_score": 1.34,
-      "n_items": 26
+      "commentary_score": 1.357,
+      "n_items": 25
     },
     {
       "date": "2026-07-17",
@@ -109,8 +109,8 @@
     },
     {
       "date": "2026-07-21",
-      "commentary_score": 1.61,
-      "n_items": 26
+      "commentary_score": 1.43,
+      "n_items": 27
     },
     {
       "date": "2026-07-22",
@@ -144,12 +144,12 @@
     },
     {
       "date": "2026-07-28",
-      "commentary_score": 0.377,
-      "n_items": 17
+      "commentary_score": 0.205,
+      "n_items": 16
     },
     {
       "date": "2026-07-29",
-      "commentary_score": -0.032,
+      "commentary_score": -0.131,
       "n_items": 14
     },
     {
@@ -159,8 +159,8 @@
     },
     {
       "date": "2026-07-31",
-      "commentary_score": 0.446,
-      "n_items": 24
+      "commentary_score": 0.571,
+      "n_items": 26
     },
     {
       "date": "2026-08-01",
@@ -174,23 +174,23 @@
     },
     {
       "date": "2026-08-03",
-      "commentary_score": 0.664,
-      "n_items": 27
-    },
-    {
-      "date": "2026-08-04",
       "commentary_score": 0.785,
       "n_items": 28
     },
     {
+      "date": "2026-08-04",
+      "commentary_score": 0.903,
+      "n_items": 29
+    },
+    {
       "date": "2026-08-05",
-      "commentary_score": 0.959,
-      "n_items": 30
+      "commentary_score": 1.04,
+      "n_items": 31
     },
     {
       "date": "2026-08-06",
-      "commentary_score": 1.065,
-      "n_items": 35
+      "commentary_score": 1.178,
+      "n_items": 36
     },
     {
       "date": "2026-08-07",
@@ -219,18 +219,18 @@
     },
     {
       "date": "2026-08-12",
-      "commentary_score": 1.379,
-      "n_items": 42
+      "commentary_score": 1.396,
+      "n_items": 41
     },
     {
       "date": "2026-08-13",
-      "commentary_score": 1.829,
-      "n_items": 23
+      "commentary_score": 1.812,
+      "n_items": 25
     },
     {
       "date": "2026-08-14",
-      "commentary_score": 1.521,
-      "n_items": 27
+      "commentary_score": 1.485,
+      "n_items": 25
     },
     {
       "date": "2026-08-15",
@@ -244,22 +244,22 @@
     },
     {
       "date": "2026-08-17",
-      "commentary_score": 1.444,
-      "n_items": 23
-    },
-    {
-      "date": "2026-08-18",
       "commentary_score": 1.394,
       "n_items": 22
     },
     {
+      "date": "2026-08-18",
+      "commentary_score": 1.353,
+      "n_items": 20
+    },
+    {
       "date": "2026-08-19",
-      "commentary_score": 1.042,
+      "commentary_score": 0.936,
       "n_items": 20
     },
     {
       "date": "2026-08-20",
-      "commentary_score": 1.079,
+      "commentary_score": 0.862,
       "n_items": 17
     },
     {
@@ -294,7 +294,7 @@
     },
     {
       "date": "2026-08-27",
-      "commentary_score": 1.188,
+      "commentary_score": 1.07,
       "n_items": 14
     },
     {
@@ -324,18 +324,18 @@
     },
     {
       "date": "2026-09-02",
-      "commentary_score": 1.655,
-      "n_items": 23
+      "commentary_score": 1.394,
+      "n_items": 24
     },
     {
       "date": "2026-09-03",
-      "commentary_score": 1.379,
-      "n_items": 23
+      "commentary_score": 1.162,
+      "n_items": 25
     },
     {
       "date": "2026-09-04",
-      "commentary_score": 0.241,
-      "n_items": 27
+      "commentary_score": 0.228,
+      "n_items": 28
     },
     {
       "date": "2026-09-05",
@@ -364,8 +364,8 @@
     },
     {
       "date": "2026-09-10",
-      "commentary_score": 0.421,
-      "n_items": 29
+      "commentary_score": 0.422,
+      "n_items": 27
     },
     {
       "date": "2026-09-11",
@@ -394,18 +394,18 @@
     },
     {
       "date": "2026-09-16",
-      "commentary_score": 0.419,
-      "n_items": 15
+      "commentary_score": 0.485,
+      "n_items": 13
     },
     {
       "date": "2026-09-17",
-      "commentary_score": 2.086,
-      "n_items": 26
+      "commentary_score": 2.133,
+      "n_items": 23
     },
     {
       "date": "2026-09-18",
-      "commentary_score": 2.347,
-      "n_items": 20
+      "commentary_score": 2.37,
+      "n_items": 19
     },
     {
       "date": "2026-09-19",
@@ -419,8 +419,8 @@
     },
     {
       "date": "2026-09-21",
-      "commentary_score": 2.365,
-      "n_items": 18
+      "commentary_score": 2.366,
+      "n_items": 21
     },
     {
       "date": "2026-09-22",
@@ -434,28 +434,28 @@
     },
     {
       "date": "2026-09-24",
-      "commentary_score": 2.243,
-      "n_items": 28
+      "commentary_score": 2.045,
+      "n_items": 31
     },
     {
       "date": "2026-09-25",
-      "commentary_score": 1.982,
-      "n_items": 33
+      "commentary_score": 1.832,
+      "n_items": 34
     },
     {
       "date": "2026-09-26",
-      "commentary_score": 1.801,
-      "n_items": 33
+      "commentary_score": 1.852,
+      "n_items": 34
     },
     {
       "date": "2026-09-27",
-      "commentary_score": 1.801,
-      "n_items": 33
+      "commentary_score": 1.852,
+      "n_items": 34
     },
     {
       "date": "2026-09-28",
-      "commentary_score": 1.801,
-      "n_items": 33
+      "commentary_score": 1.852,
+      "n_items": 34
     }
   ],
   "key_comments": [
@@ -594,6 +594,19 @@
       "last_event_type": "other"
     },
     {
+      "name": "Beth Hammack",
+      "role": "regional_president",
+      "voting_2026": true,
+      "lean_prior": "hawk",
+      "n_items": 2,
+      "mean_stance": 2.533,
+      "last_stance": 3.0,
+      "last_phrase": "Fed needs to make sure policy is at a restrictive stance to lower inflation.",
+      "last_headline": "Fed's Hammack (2026 voter) says the biggest risk with inflation is the formation of an inflationary mindset",
+      "last_published_at": "2026-09-25T18:05:56+00:00",
+      "last_event_type": "other"
+    },
+    {
       "name": "Susan Collins",
       "role": "regional_president",
       "voting_2026": false,
@@ -604,19 +617,6 @@
       "last_phrase": "Somewhat restrictive FFR will help ensure inflation durably returns to target.",
       "last_headline": "Fed's Collins (2028 voter) reiterates she supported last week's rate hike; now see an increased likelihoood of future scenarios in which inflation remains notably above 2%",
       "last_published_at": "2026-09-22T13:34:46+00:00",
-      "last_event_type": "other"
-    },
-    {
-      "name": "Beth Hammack",
-      "role": "regional_president",
-      "voting_2026": true,
-      "lean_prior": "hawk",
-      "n_items": 1,
-      "mean_stance": 2.0,
-      "last_stance": 2.0,
-      "last_phrase": "inflation risk tilted towards the upside",
-      "last_headline": "Fed's Hammack (22026 voter) says price stability is responsibility of central banks; inflation remains elevated amid solid output demand; inflation risk tilted towards the upside; supply shocks a nota",
-      "last_published_at": "2026-09-24T12:53:00+00:00",
       "last_event_type": "other"
     },
     {
