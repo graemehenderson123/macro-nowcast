@@ -1,11 +1,11 @@
 {
   "cb": "rba",
-  "as_of": "2026-09-29T04:32:01.132766+00:00",
-  "commentary_score": 0.89,
-  "label": "lean hawkish",
-  "n_items_window": 9,
+  "as_of": "2026-09-29T13:02:31.831029+00:00",
+  "commentary_score": 2.219,
+  "label": "hawkish",
+  "n_items_window": 12,
   "commentary_window_days": 30,
-  "n_items_total": 65,
+  "n_items_total": 68,
   "history_90d": [
     {
       "date": "2026-07-02",
@@ -19,8 +19,8 @@
     },
     {
       "date": "2026-07-04",
-      "commentary_score": 2.901,
-      "n_items": 7
+      "commentary_score": 3.005,
+      "n_items": 4
     },
     {
       "date": "2026-07-05",
@@ -79,8 +79,8 @@
     },
     {
       "date": "2026-07-16",
-      "commentary_score": 2.377,
-      "n_items": 4
+      "commentary_score": 2.427,
+      "n_items": 3
     },
     {
       "date": "2026-07-17",
@@ -209,8 +209,8 @@
     },
     {
       "date": "2026-08-11",
-      "commentary_score": 0.243,
-      "n_items": 2
+      "commentary_score": 2.304,
+      "n_items": 4
     },
     {
       "date": "2026-08-12",
@@ -324,8 +324,8 @@
     },
     {
       "date": "2026-09-03",
-      "commentary_score": 0.51,
-      "n_items": 8
+      "commentary_score": 0.414,
+      "n_items": 9
     },
     {
       "date": "2026-09-04",
@@ -359,8 +359,8 @@
     },
     {
       "date": "2026-09-10",
-      "commentary_score": 0.87,
-      "n_items": 10
+      "commentary_score": 0.722,
+      "n_items": 8
     },
     {
       "date": "2026-09-11",
@@ -454,11 +454,43 @@
     },
     {
       "date": "2026-09-29",
-      "commentary_score": 0.89,
-      "n_items": 9
+      "commentary_score": 2.219,
+      "n_items": 12
     }
   ],
   "key_comments": [
+    {
+      "published_at": "2026-09-29T05:32:09+00:00",
+      "speaker": "Michele Bullock",
+      "role": "chair",
+      "lean_prior": "hawk",
+      "voting_2026": true,
+      "event_type": "press-conf",
+      "stance": 3.5,
+      "phrase": "Board will raise rates again if needed",
+      "headline": "[PRESS CONFERENCE] RBA Governor Bullock says inflationary pressures to last longer than expected; inflation is driven by domestic capacity pressures; Board will raise rates again if needed",
+      "importance": 5.25,
+      "reasons": [
+        "Chair spoke",
+        "cross-market extreme (|stance| = 3.5)"
+      ]
+    },
+    {
+      "published_at": "2026-09-29T04:34:01+00:00",
+      "speaker": "RBA (institutional)",
+      "role": "institutional",
+      "lean_prior": "neutral",
+      "voting_2026": true,
+      "event_type": "statement",
+      "stance": 3.5,
+      "phrase": "further tightening in financial conditions is warranted to support a return of inflation to target",
+      "headline": "RBA hikes the Cash Rate by 25bps to 4.60%, as expected with the decision unanimous, while it stated inflation remains elevated and some of the upside risks in August are materialising",
+      "importance": 5.25,
+      "reasons": [
+        "official CB statement (stance +3.50)",
+        "strong policy signal (|stance| = 3.5)"
+      ]
+    },
     {
       "published_at": "2026-09-22T03:15:56+00:00",
       "speaker": "Michele Bullock",
@@ -469,42 +501,10 @@
       "stance": -1.5,
       "phrase": "supply shocks are difficult for monetary policy to deal with",
       "headline": "RBA Governor Bullock says supply shocks are difficult for monetary policy to deal with, and policy needs to deal with second round effects on inflation",
-      "importance": 8.82,
+      "importance": 9.82,
       "reasons": [
         "Chair spoke",
         "hawk-lean speaker sounded dovish"
-      ]
-    },
-    {
-      "published_at": "2026-09-21T00:32:34+00:00",
-      "speaker": "RBA (institutional)",
-      "role": "institutional",
-      "lean_prior": "neutral",
-      "voting_2026": true,
-      "event_type": "statement",
-      "stance": 2.0,
-      "phrase": "CBA has brought forward its RBA rate hike call to September",
-      "headline": "CBA has brought forward its RBA rate hike call to September from November, while ANZ now expects the RBA to raise rates by 25bps in September and November",
-      "importance": 3.0,
-      "reasons": [
-        "official CB statement (stance +2.00)",
-        "strong policy signal (|stance| = 2.0)"
-      ]
-    },
-    {
-      "published_at": "2026-09-17T23:41:44+00:00",
-      "speaker": "Michele Bullock",
-      "role": "chair",
-      "lean_prior": "hawk",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": 2.5,
-      "phrase": "risk to the outlook was skewed to the upside",
-      "headline": "RBA's Governor Bullock says various indicators continue to suggest labour market conditions remain close to, but a little tighter than full employment, adds monetary policy is well placed to respond to developments",
-      "importance": 3.75,
-      "reasons": [
-        "Chair spoke",
-        "cross-market extreme (|stance| = 2.5)"
       ]
     },
     {
@@ -547,13 +547,26 @@
       "role": "institutional",
       "voting_2026": true,
       "lean_prior": "neutral",
-      "n_items": 1,
-      "mean_stance": 2.0,
-      "last_stance": 2.0,
-      "last_phrase": "CBA has brought forward its RBA rate hike call to September",
-      "last_headline": "CBA has brought forward its RBA rate hike call to September from November, while ANZ now expects the RBA to raise rates by 25bps in September and November",
-      "last_published_at": "2026-09-21T00:32:34+00:00",
+      "n_items": 2,
+      "mean_stance": 2.9,
+      "last_stance": 3.5,
+      "last_phrase": "further tightening in financial conditions is warranted to support a return of inflation to target",
+      "last_headline": "RBA hikes the Cash Rate by 25bps to 4.60%, as expected with the decision unanimous, while it stated inflation remains elevated and some of the upside risks in August are materialising",
+      "last_published_at": "2026-09-29T04:34:01+00:00",
       "last_event_type": "statement"
+    },
+    {
+      "name": "Michele Bullock",
+      "role": "chair",
+      "voting_2026": true,
+      "lean_prior": "hawk",
+      "n_items": 4,
+      "mean_stance": 1.661,
+      "last_stance": 3.5,
+      "last_phrase": "Board will raise rates again if needed",
+      "last_headline": "[PRESS CONFERENCE] RBA Governor Bullock says inflationary pressures to last longer than expected; inflation is driven by domestic capacity pressures; Board will raise rates again if needed",
+      "last_published_at": "2026-09-29T05:32:09+00:00",
+      "last_event_type": "press-conf"
     },
     {
       "name": "Sarah Hunter",
@@ -566,19 +579,6 @@
       "last_phrase": "inflation being above target including the conflict in the Middle East",
       "last_headline": "RBA's Hunter says she thinks there are several factors behind inflation being above target including the conflict in the Middle East and domestic capacity constraints",
       "last_published_at": "2026-09-22T00:41:49+00:00",
-      "last_event_type": "other"
-    },
-    {
-      "name": "Michele Bullock",
-      "role": "chair",
-      "voting_2026": true,
-      "lean_prior": "hawk",
-      "n_items": 3,
-      "mean_stance": 0.909,
-      "last_stance": -1.5,
-      "last_phrase": "supply shocks are difficult for monetary policy to deal with",
-      "last_headline": "RBA Governor Bullock says supply shocks are difficult for monetary policy to deal with, and policy needs to deal with second round effects on inflation",
-      "last_published_at": "2026-09-22T03:15:56+00:00",
       "last_event_type": "other"
     }
   ],

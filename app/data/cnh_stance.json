@@ -1,6 +1,6 @@
 {
   "cb": "cnh",
-  "as_of": "2026-09-29T04:32:01.580883+00:00",
+  "as_of": "2026-09-29T13:02:32.839324+00:00",
   "commentary_score": -1.225,
   "label": "lean dovish",
   "n_items_window": 3,
@@ -319,8 +319,8 @@
     },
     {
       "date": "2026-09-02",
-      "commentary_score": 0.0,
-      "n_items": 0
+      "commentary_score": -1.5,
+      "n_items": 1
     },
     {
       "date": "2026-09-03",
@@ -359,8 +359,8 @@
     },
     {
       "date": "2026-09-10",
-      "commentary_score": -1.5,
-      "n_items": 1
+      "commentary_score": -0.717,
+      "n_items": 2
     },
     {
       "date": "2026-09-11",
