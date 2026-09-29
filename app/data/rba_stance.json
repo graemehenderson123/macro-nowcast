@@ -1,17 +1,12 @@
 {
   "cb": "rba",
-  "as_of": "2026-09-28T13:02:29.562886+00:00",
+  "as_of": "2026-09-29T04:32:01.132766+00:00",
   "commentary_score": 0.89,
   "label": "lean hawkish",
   "n_items_window": 9,
   "commentary_window_days": 30,
   "n_items_total": 65,
   "history_90d": [
-    {
-      "date": "2026-07-01",
-      "commentary_score": 2.889,
-      "n_items": 8
-    },
     {
       "date": "2026-07-02",
       "commentary_score": 2.901,
@@ -24,8 +19,8 @@
     },
     {
       "date": "2026-07-04",
-      "commentary_score": 3.005,
-      "n_items": 4
+      "commentary_score": 2.901,
+      "n_items": 7
     },
     {
       "date": "2026-07-05",
@@ -84,8 +79,8 @@
     },
     {
       "date": "2026-07-16",
-      "commentary_score": 2.427,
-      "n_items": 3
+      "commentary_score": 2.377,
+      "n_items": 4
     },
     {
       "date": "2026-07-17",
@@ -214,8 +209,8 @@
     },
     {
       "date": "2026-08-11",
-      "commentary_score": 2.304,
-      "n_items": 4
+      "commentary_score": 0.243,
+      "n_items": 2
     },
     {
       "date": "2026-08-12",
@@ -329,8 +324,8 @@
     },
     {
       "date": "2026-09-03",
-      "commentary_score": 0.414,
-      "n_items": 9
+      "commentary_score": 0.51,
+      "n_items": 8
     },
     {
       "date": "2026-09-04",
@@ -364,8 +359,8 @@
     },
     {
       "date": "2026-09-10",
-      "commentary_score": 0.722,
-      "n_items": 8
+      "commentary_score": 0.87,
+      "n_items": 10
     },
     {
       "date": "2026-09-11",
@@ -454,6 +449,11 @@
     },
     {
       "date": "2026-09-28",
+      "commentary_score": 0.89,
+      "n_items": 9
+    },
+    {
+      "date": "2026-09-29",
       "commentary_score": 0.89,
       "n_items": 9
     }
