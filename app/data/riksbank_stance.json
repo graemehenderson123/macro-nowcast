@@ -1,6 +1,6 @@
 {
   "cb": "riksbank",
-  "as_of": "2026-09-29T13:02:32.699330+00:00",
+  "as_of": "2026-09-30T04:31:55.433681+00:00",
   "commentary_score": -0.114,
   "label": "neutral",
   "n_items_window": 3,
@@ -8,19 +8,14 @@
   "n_items_total": 41,
   "history_90d": [
     {
-      "date": "2026-07-02",
-      "commentary_score": 1.094,
-      "n_items": 3
-    },
-    {
       "date": "2026-07-03",
       "commentary_score": 1.094,
       "n_items": 3
     },
     {
       "date": "2026-07-04",
-      "commentary_score": 1.316,
-      "n_items": 2
+      "commentary_score": 1.094,
+      "n_items": 3
     },
     {
       "date": "2026-07-05",
@@ -84,8 +79,8 @@
     },
     {
       "date": "2026-07-17",
-      "commentary_score": 1.0,
-      "n_items": 1
+      "commentary_score": 1.316,
+      "n_items": 2
     },
     {
       "date": "2026-07-18",
@@ -119,8 +114,8 @@
     },
     {
       "date": "2026-07-24",
-      "commentary_score": 0.0,
-      "n_items": 0
+      "commentary_score": 1.0,
+      "n_items": 1
     },
     {
       "date": "2026-07-25",
@@ -254,8 +249,8 @@
     },
     {
       "date": "2026-08-20",
-      "commentary_score": 2.171,
-      "n_items": 2
+      "commentary_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-08-21",
@@ -279,8 +274,8 @@
     },
     {
       "date": "2026-08-25",
-      "commentary_score": 1.988,
-      "n_items": 3
+      "commentary_score": 2.171,
+      "n_items": 2
     },
     {
       "date": "2026-08-26",
@@ -309,8 +304,8 @@
     },
     {
       "date": "2026-08-31",
-      "commentary_score": 1.468,
-      "n_items": 4
+      "commentary_score": 1.988,
+      "n_items": 3
     },
     {
       "date": "2026-09-01",
@@ -324,8 +319,8 @@
     },
     {
       "date": "2026-09-03",
-      "commentary_score": 0.028,
-      "n_items": 5
+      "commentary_score": 1.468,
+      "n_items": 4
     },
     {
       "date": "2026-09-04",
@@ -404,8 +399,8 @@
     },
     {
       "date": "2026-09-19",
-      "commentary_score": -0.953,
-      "n_items": 3
+      "commentary_score": 0.028,
+      "n_items": 5
     },
     {
       "date": "2026-09-20",
@@ -429,7 +424,7 @@
     },
     {
       "date": "2026-09-24",
-      "commentary_score": -0.114,
+      "commentary_score": -0.953,
       "n_items": 3
     },
     {
@@ -454,6 +449,11 @@
     },
     {
       "date": "2026-09-29",
+      "commentary_score": -0.114,
+      "n_items": 3
+    },
+    {
+      "date": "2026-09-30",
       "commentary_score": -0.114,
       "n_items": 3
     }
