@@ -1,11 +1,11 @@
 {
   "cb": "boc",
-  "as_of": "2026-09-30T04:31:55.285728+00:00",
-  "commentary_score": 1.043,
-  "label": "lean hawkish",
-  "n_items_window": 7,
+  "as_of": "2026-09-30T13:03:49.970755+00:00",
+  "commentary_score": 0.606,
+  "label": "neutral",
+  "n_items_window": 8,
   "commentary_window_days": 30,
-  "n_items_total": 74,
+  "n_items_total": 75,
   "history_90d": [
     {
       "date": "2026-07-03",
@@ -315,7 +315,7 @@
     {
       "date": "2026-09-02",
       "commentary_score": 0.0,
-      "n_items": 0
+      "n_items": 1
     },
     {
       "date": "2026-09-03",
@@ -454,8 +454,8 @@
     },
     {
       "date": "2026-09-30",
-      "commentary_score": 1.043,
-      "n_items": 7
+      "commentary_score": 0.606,
+      "n_items": 8
     }
   ],
   "key_comments": [
@@ -535,6 +535,19 @@
       "last_headline": "BoC holds rates as expected as 2.25%; says upside risks to inflation have increased but new tariffs make growth prospects more uncertain",
       "last_published_at": "2026-09-02T13:45:46+00:00",
       "last_event_type": "statement"
+    },
+    {
+      "name": "Toni Gravelle",
+      "role": "governor",
+      "voting_2026": true,
+      "lean_prior": "neutral",
+      "n_items": 1,
+      "mean_stance": 0.0,
+      "last_stance": 0.0,
+      "last_phrase": "",
+      "last_headline": "BoC Deputy Governor Gravelle says Canadian financial institutions should not worry about using standard liquidity facility for overnight liquidity",
+      "last_published_at": "2026-09-29T17:20:56+00:00",
+      "last_event_type": "other"
     }
   ],
   "methodology": {

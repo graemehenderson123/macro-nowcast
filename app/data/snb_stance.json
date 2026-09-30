@@ -1,16 +1,16 @@
 {
   "cb": "snb",
-  "as_of": "2026-09-30T04:31:55.360980+00:00",
-  "commentary_score": -0.268,
+  "as_of": "2026-09-30T13:03:50.047436+00:00",
+  "commentary_score": -0.254,
   "label": "neutral",
-  "n_items_window": 10,
+  "n_items_window": 9,
   "commentary_window_days": 30,
   "n_items_total": 66,
   "history_90d": [
     {
       "date": "2026-07-03",
-      "commentary_score": -0.935,
-      "n_items": 7
+      "commentary_score": -0.912,
+      "n_items": 6
     },
     {
       "date": "2026-07-04",
@@ -74,8 +74,8 @@
     },
     {
       "date": "2026-07-16",
-      "commentary_score": -1.746,
-      "n_items": 8
+      "commentary_score": -1.62,
+      "n_items": 9
     },
     {
       "date": "2026-07-17",
@@ -84,8 +84,8 @@
     },
     {
       "date": "2026-07-18",
-      "commentary_score": -1.62,
-      "n_items": 9
+      "commentary_score": -1.647,
+      "n_items": 5
     },
     {
       "date": "2026-07-19",
@@ -114,8 +114,8 @@
     },
     {
       "date": "2026-07-24",
-      "commentary_score": -1.647,
-      "n_items": 5
+      "commentary_score": -1.711,
+      "n_items": 3
     },
     {
       "date": "2026-07-25",
@@ -224,8 +224,8 @@
     },
     {
       "date": "2026-08-15",
-      "commentary_score": -1.5,
-      "n_items": 1
+      "commentary_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-08-16",
@@ -304,8 +304,8 @@
     },
     {
       "date": "2026-08-31",
-      "commentary_score": -0.518,
-      "n_items": 3
+      "commentary_score": -0.798,
+      "n_items": 4
     },
     {
       "date": "2026-09-01",
@@ -359,8 +359,8 @@
     },
     {
       "date": "2026-09-11",
-      "commentary_score": -0.798,
-      "n_items": 4
+      "commentary_score": -0.693,
+      "n_items": 6
     },
     {
       "date": "2026-09-12",
@@ -424,13 +424,13 @@
     },
     {
       "date": "2026-09-24",
-      "commentary_score": -0.615,
-      "n_items": 5
+      "commentary_score": -0.302,
+      "n_items": 11
     },
     {
       "date": "2026-09-25",
-      "commentary_score": -0.302,
-      "n_items": 11
+      "commentary_score": -0.262,
+      "n_items": 12
     },
     {
       "date": "2026-09-26",
@@ -454,8 +454,8 @@
     },
     {
       "date": "2026-09-30",
-      "commentary_score": -0.268,
-      "n_items": 10
+      "commentary_score": -0.254,
+      "n_items": 9
     }
   ],
   "key_comments": [
@@ -492,19 +492,6 @@
   ],
   "speakers": [
     {
-      "name": "Petra Tschudin",
-      "role": "governor",
-      "voting_2026": true,
-      "lean_prior": "dove",
-      "n_items": 2,
-      "mean_stance": -1.5,
-      "last_stance": -1.5,
-      "last_phrase": "our monetary policy and the recent depreciation of the Swiss franc are having a supportive effect",
-      "last_headline": "SNB's Tschudin (post-policy statement) says Swiss GDP growth was exceptionally strong in the second quarter, with unusually robust performance in the chemicals/pharmaceuticals industry",
-      "last_published_at": "2026-09-24T08:06:24+00:00",
-      "last_event_type": "other"
-    },
-    {
       "name": "Martin Schlegel",
       "role": "chair",
       "voting_2026": true,
@@ -515,6 +502,19 @@
       "last_phrase": "inflation has recently ticker higher",
       "last_headline": "SNB's Schlegel says inflation has recently ticker higher",
       "last_published_at": "2026-09-11T09:23:33+00:00",
+      "last_event_type": "other"
+    },
+    {
+      "name": "Petra Tschudin",
+      "role": "governor",
+      "voting_2026": true,
+      "lean_prior": "dove",
+      "n_items": 1,
+      "mean_stance": -1.5,
+      "last_stance": -1.5,
+      "last_phrase": "our monetary policy and the recent depreciation of the Swiss franc are having a supportive effect",
+      "last_headline": "SNB's Tschudin (post-policy statement) says Swiss GDP growth was exceptionally strong in the second quarter, with unusually robust performance in the chemicals/pharmaceuticals industry",
+      "last_published_at": "2026-09-24T08:06:24+00:00",
       "last_event_type": "other"
     }
   ],
