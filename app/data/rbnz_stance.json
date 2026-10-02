@@ -1,17 +1,12 @@
 {
   "cb": "rbnz",
-  "as_of": "2026-10-01T13:02:35.775201+00:00",
-  "commentary_score": 0.677,
+  "as_of": "2026-10-02T04:31:55.470160+00:00",
+  "commentary_score": -0.173,
   "label": "neutral",
-  "n_items_window": 5,
+  "n_items_window": 3,
   "commentary_window_days": 30,
   "n_items_total": 31,
   "history_90d": [
-    {
-      "date": "2026-07-04",
-      "commentary_score": 0.0,
-      "n_items": 1
-    },
     {
       "date": "2026-07-05",
       "commentary_score": 0.0,
@@ -149,8 +144,8 @@
     },
     {
       "date": "2026-08-01",
-      "commentary_score": 1.348,
-      "n_items": 3
+      "commentary_score": 1.226,
+      "n_items": 4
     },
     {
       "date": "2026-08-02",
@@ -456,6 +451,11 @@
       "date": "2026-10-01",
       "commentary_score": 0.677,
       "n_items": 5
+    },
+    {
+      "date": "2026-10-02",
+      "commentary_score": -0.173,
+      "n_items": 3
     }
   ],
   "key_comments": [
@@ -474,38 +474,9 @@
         "Vice Chair spoke",
         "notable move vs own recent tone"
       ]
-    },
-    {
-      "published_at": "2026-09-02T02:05:03+00:00",
-      "speaker": "RBNZ (institutional)",
-      "role": "institutional",
-      "lean_prior": "neutral",
-      "voting_2026": true,
-      "event_type": "statement",
-      "stance": 2.5,
-      "phrase": "gradually removing monetary stimulus is appropriate to return inflation to the 2% target mid-point",
-      "headline": "RBNZ raised the OCR by 25bps to 2.75%, as expected, while the Committee judges that gradually removing monetary stimulus is appropriate to return inflation to the 2% target mid-point while supporting growth and employmen",
-      "importance": 3.75,
-      "reasons": [
-        "official CB statement (stance +2.50)",
-        "strong policy signal (|stance| = 2.5)"
-      ]
     }
   ],
   "speakers": [
-    {
-      "name": "RBNZ (institutional)",
-      "role": "institutional",
-      "voting_2026": true,
-      "lean_prior": "neutral",
-      "n_items": 2,
-      "mean_stance": 2.267,
-      "last_stance": 2.5,
-      "last_phrase": "gradually removing monetary stimulus is appropriate to return inflation to the 2% target mid-point",
-      "last_headline": "RBNZ raised the OCR by 25bps to 2.75%, as expected, while the Committee judges that gradually removing monetary stimulus is appropriate to return inflation to the 2% target mid-point while supporting ",
-      "last_published_at": "2026-09-02T02:05:03+00:00",
-      "last_event_type": "statement"
-    },
     {
       "name": "Karen Silk",
       "role": "vice_chair",
