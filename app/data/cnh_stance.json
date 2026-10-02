@@ -1,9 +1,9 @@
 {
   "cb": "cnh",
-  "as_of": "2026-10-02T04:31:55.829908+00:00",
-  "commentary_score": -1.225,
+  "as_of": "2026-10-02T13:02:54.897982+00:00",
+  "commentary_score": -1.169,
   "label": "lean dovish",
-  "n_items_window": 3,
+  "n_items_window": 2,
   "commentary_window_days": 30,
   "n_items_total": 9,
   "history_90d": [
@@ -304,8 +304,8 @@
     },
     {
       "date": "2026-09-02",
-      "commentary_score": 0.0,
-      "n_items": 0
+      "commentary_score": -1.5,
+      "n_items": 1
     },
     {
       "date": "2026-09-03",
@@ -344,8 +344,8 @@
     },
     {
       "date": "2026-09-10",
-      "commentary_score": -1.5,
-      "n_items": 1
+      "commentary_score": -0.717,
+      "n_items": 2
     },
     {
       "date": "2026-09-11",
@@ -454,8 +454,8 @@
     },
     {
       "date": "2026-10-02",
-      "commentary_score": -1.225,
-      "n_items": 3
+      "commentary_score": -1.169,
+      "n_items": 2
     }
   ],
   "key_comments": [
@@ -473,21 +473,6 @@
       "reasons": [
         "Chair spoke"
       ]
-    },
-    {
-      "published_at": "2026-09-02T10:08:10+00:00",
-      "speaker": "Pan Gongsheng",
-      "role": "chair",
-      "lean_prior": "dove",
-      "voting_2026": true,
-      "event_type": "other",
-      "stance": -1.5,
-      "phrase": "Monetary policy will remain appropriately accommodative to support stable growth and financial-market stability.",
-      "headline": "PBoC Governor Pan, at the G20, said China will not deliberately pursue a trade surplus and will expand domestic demand while maintaining high-level opening",
-      "importance": 3.0,
-      "reasons": [
-        "Chair spoke"
-      ]
     }
   ],
   "speakers": [
@@ -496,7 +481,7 @@
       "role": "chair",
       "voting_2026": true,
       "lean_prior": "dove",
-      "n_items": 2,
+      "n_items": 1,
       "mean_stance": -1.5,
       "last_stance": -1.5,
       "last_phrase": "support local government financing vehicles to resolve debt risks",

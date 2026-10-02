@@ -1,6 +1,6 @@
 {
   "cb": "rbnz",
-  "as_of": "2026-10-02T04:31:55.470160+00:00",
+  "as_of": "2026-10-02T13:02:54.527324+00:00",
   "commentary_score": -0.173,
   "label": "neutral",
   "n_items_window": 3,
@@ -144,8 +144,8 @@
     },
     {
       "date": "2026-08-01",
-      "commentary_score": 1.226,
-      "n_items": 4
+      "commentary_score": 1.348,
+      "n_items": 3
     },
     {
       "date": "2026-08-02",

@@ -1,6 +1,6 @@
 {
   "cb": "snb",
-  "as_of": "2026-10-02T04:31:55.617107+00:00",
+  "as_of": "2026-10-02T13:02:54.676483+00:00",
   "commentary_score": -0.219,
   "label": "neutral",
   "n_items_window": 10,
@@ -64,8 +64,8 @@
     },
     {
       "date": "2026-07-16",
-      "commentary_score": -1.746,
-      "n_items": 8
+      "commentary_score": -1.62,
+      "n_items": 9
     },
     {
       "date": "2026-07-17",
@@ -74,8 +74,8 @@
     },
     {
       "date": "2026-07-18",
-      "commentary_score": -1.62,
-      "n_items": 9
+      "commentary_score": -1.647,
+      "n_items": 5
     },
     {
       "date": "2026-07-19",
@@ -104,8 +104,8 @@
     },
     {
       "date": "2026-07-24",
-      "commentary_score": -1.647,
-      "n_items": 5
+      "commentary_score": -1.711,
+      "n_items": 3
     },
     {
       "date": "2026-07-25",
@@ -214,8 +214,8 @@
     },
     {
       "date": "2026-08-15",
-      "commentary_score": -1.5,
-      "n_items": 1
+      "commentary_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-08-16",
@@ -294,8 +294,8 @@
     },
     {
       "date": "2026-08-31",
-      "commentary_score": -0.518,
-      "n_items": 3
+      "commentary_score": -0.798,
+      "n_items": 4
     },
     {
       "date": "2026-09-01",
@@ -349,8 +349,8 @@
     },
     {
       "date": "2026-09-11",
-      "commentary_score": -0.798,
-      "n_items": 4
+      "commentary_score": -0.693,
+      "n_items": 6
     },
     {
       "date": "2026-09-12",
@@ -414,13 +414,13 @@
     },
     {
       "date": "2026-09-24",
-      "commentary_score": -0.615,
-      "n_items": 5
+      "commentary_score": -0.302,
+      "n_items": 11
     },
     {
       "date": "2026-09-25",
-      "commentary_score": -0.302,
-      "n_items": 11
+      "commentary_score": -0.262,
+      "n_items": 12
     },
     {
       "date": "2026-09-26",
@@ -444,8 +444,8 @@
     },
     {
       "date": "2026-09-30",
-      "commentary_score": -0.268,
-      "n_items": 10
+      "commentary_score": -0.254,
+      "n_items": 9
     },
     {
       "date": "2026-10-01",
