@@ -1,17 +1,12 @@
 {
   "cb": "cnh",
-  "as_of": "2026-10-02T13:02:54.897982+00:00",
+  "as_of": "2026-10-03T04:31:47.937798+00:00",
   "commentary_score": -1.169,
   "label": "lean dovish",
   "n_items_window": 2,
   "commentary_window_days": 30,
   "n_items_total": 9,
   "history_90d": [
-    {
-      "date": "2026-07-05",
-      "commentary_score": 0.0,
-      "n_items": 0
-    },
     {
       "date": "2026-07-06",
       "commentary_score": 0.0,
@@ -304,8 +299,8 @@
     },
     {
       "date": "2026-09-02",
-      "commentary_score": -1.5,
-      "n_items": 1
+      "commentary_score": 0.0,
+      "n_items": 0
     },
     {
       "date": "2026-09-03",
@@ -344,8 +339,8 @@
     },
     {
       "date": "2026-09-10",
-      "commentary_score": -0.717,
-      "n_items": 2
+      "commentary_score": -1.5,
+      "n_items": 1
     },
     {
       "date": "2026-09-11",
@@ -454,6 +449,11 @@
     },
     {
       "date": "2026-10-02",
+      "commentary_score": -1.225,
+      "n_items": 3
+    },
+    {
+      "date": "2026-10-03",
       "commentary_score": -1.169,
       "n_items": 2
     }
